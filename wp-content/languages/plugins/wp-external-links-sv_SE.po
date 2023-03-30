@@ -1,0 +1,534 @@
+# Translation of Plugins - External Links &#8211; nofollow, noopener &amp; new window - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - External Links &#8211; nofollow, noopener &amp; new window - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-11-20 22:21:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - External Links &#8211; nofollow, noopener &amp; new window - Stable (latest release)\n"
+
+#: templates/partials/tab-contents/support.php:47
+msgid "Active Theme: "
+msgstr "Aktivt tema: "
+
+#: templates/partials/tab-contents/support.php:41
+msgid "WP URL: "
+msgstr "WP-URL: "
+
+#: templates/partials/tab-contents/support.php:59
+msgid " - "
+msgstr " – "
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:97
+msgid "Button Background:"
+msgstr "Knappbakgrund:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:93
+msgid "Button Text Color:"
+msgstr "Knappens textfärg:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:89
+msgid "Button Text Size:"
+msgstr "Knappens textstorlek:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:85
+msgid "Button Text:"
+msgstr "Knapptext:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:81
+msgid "Overlay Color:"
+msgstr "Överläggfärg:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:76
+msgid "Show overlay:"
+msgstr "Visa överlägg:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:64
+msgid "Text Size:"
+msgstr "Textstorlek:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:60
+msgid "Text Color:"
+msgstr "Textfärg:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:56
+msgid "Text:"
+msgstr "Text:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:52
+msgid "Title Size:"
+msgstr "Rubrikstorlek:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:47
+msgid "Title Background Color:"
+msgstr "Rubrikens bakgrundsfärg:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:42
+msgid "Title Text Color:"
+msgstr "Textfärg för rubrik:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:38
+msgid "Title:"
+msgstr "Rubrik:"
+
+#: includes/admin/class-wpel-settings-page.php:78
+msgid "PRO"
+msgstr "PRO"
+
+#: includes/admin/class-wpel-settings-page.php:64
+msgid "Link Rules"
+msgstr "Länkregler"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:183
+msgid "Show transparent overlay behind popup"
+msgstr "Visa transparent överlägg bakom popup"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:72
+msgid "Popup Height:"
+msgstr "Höjd på popup:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:68
+msgid "Popup Width:"
+msgstr "Bredd på popup:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:39
+msgid "You are leaving our website"
+msgstr "Du lämnar vår webbplats"
+
+#: includes/admin/class-wpel-settings-page.php:74
+msgid "Link Checker"
+msgstr "Länkkontroll"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:188
+msgid "Add <code>\"ugc\"</code>"
+msgstr "Lägg till <code>”ugc”</code>"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:178
+msgid "Add <code>\"sponsored\"</code>"
+msgstr "Lägg till <code>\"sponsored\"</code>"
+
+#: templates/partials/tab-contents/support.php:34
+msgid "<br>Make sure you copy/paste the technical information displayed below. Without it we can't help you."
+msgstr "<br>Se till att du kopierar/klistrar in den tekniska informationen som visas nedan. Utan det kan vi inte hjälpa dig."
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:166
+msgid ""
+"For example:\n"
+"somedomain.org, sub.domain.net/some-slug\n"
+"http://sub.moredomain.net, http://www.domain.com/other-slug"
+msgstr ""
+"Till exempel:\n"
+"somedomain.org, sub.domain.net/some-slug\n"
+"http://sub.moredomain.net, http://www.domain.com/other-slug"
+
+#. Author URI of the plugin
+msgid "https://www.webfactoryltd.com/"
+msgstr "https://www.webfactoryltd.com/"
+
+#. Author of the plugin
+msgid "WebFactory Ltd"
+msgstr "WebFactory Ltd"
+
+#: templates/requirements-notice.php:14
+msgid "The plugin <strong>WP External Links</strong> requires PHP version 5.3 or up and WordPress version 3.6 or up.<br>Please upgrade your PHP and/or WordPress. Deactivate the plugin to remove this message."
+msgstr "Tillägget <strong>WP External Links</strong> kräver PHP version 5.3 eller uppåt och WordPress version 3.6 eller uppåt.<br>Uppgradera din PHP och/eller WordPress. Inaktivera tillägget för att ta bort detta meddelande."
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:172
+msgid "Separate url's by comma and/or a line break. Write the url's as specific as you want them to match."
+msgstr "Separera URL:er med kommatecken och/eller radbrytning. Skriv URL:er så specifikt som du vill att de ska matcha."
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:137
+msgid "Separate classes by comma."
+msgstr "Separata klasser med komma."
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:44
+msgid "Skip pages or posts (id's):"
+msgstr "Hoppa över sidor och inlägg (ID:n):"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:47
+msgid "Ignore links by class:"
+msgstr "Ignorera länkar efter klass:"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:126
+msgid "Separate page- / post-id's by comma."
+msgstr "Separera ID:n för sida/inlägg med kommatecken."
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:116
+msgid "all in the same new window or tab (NOT recommended)"
+msgstr "alla i samma nya fönster eller flik (rekommenderas INTE)"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/wp-external-links/"
+msgstr "https://wordpress.org/plugins/wp-external-links/"
+
+#: templates/partials/tab-contents/support.php:63
+msgid "WPEL Settings:"
+msgstr "WPEL-inställningar:"
+
+#: templates/partials/tab-contents/support.php:49
+msgid "Active Plugins:"
+msgstr "Aktiva tillägg:"
+
+#: templates/partials/tab-contents/support.php:37
+msgid "Copy Technical Info"
+msgstr "Kopiera teknisk information"
+
+#: templates/partials/tab-contents/support.php:32
+msgid "Send your issue"
+msgstr "Skicka ditt problem"
+
+#: templates/partials/tab-contents/support.php:29
+msgid "Reported issues"
+msgstr "Rapporterade problem"
+
+#: templates/partials/tab-contents/support.php:26
+msgid "FAQ"
+msgstr "Vanliga frågor"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:286
+msgid "Right side of the link"
+msgstr "Höger sida av länken"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:285
+msgid "Left side of the link"
+msgstr "Vänster sida av länken"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:221
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:220
+msgid "Dashicon"
+msgstr "Dashicon"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:219
+msgid "Image"
+msgstr "Bild"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:218
+msgid "- no icon -"
+msgstr "- ingen ikon -"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:168
+msgid "Add <code>\"noreferrer\"</code>"
+msgstr "Lägg till <code>”noreferrer”</code>"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:158
+msgid "Add <code>\"noopener\"</code>"
+msgstr "Lägg till <code>”noopener”</code>"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:139
+msgid "nofollow"
+msgstr "nofollow"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:138
+msgid "follow"
+msgstr "follow"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:102
+msgid "Apply these settings"
+msgstr "Tillämpa dessa inställningar"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:80
+msgid "Icon position:"
+msgstr "Ikonposition:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:76
+msgid "Choose FA icon:"
+msgstr "Välj FA-ikon:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:72
+msgid "Choose dashicon:"
+msgstr "Välj dashicon:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:67
+msgid "Choose icon image:"
+msgstr "Välj ikonbild:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:63
+msgid "Choose icon type:"
+msgstr "Välj ikontyp:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:35
+msgid "Set <code>follow</code> or <code>nofollow</code>:"
+msgstr "Ställ in <code>follow</code> eller <code>nofollow</code>:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:26
+msgid "Open links:"
+msgstr "Öppna länkar:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:22
+msgid "Settings for links:"
+msgstr "Inställningar för länkar:"
+
+#: includes/admin/settings-fields/class-wpel-internal-link-fields.php:24
+msgid "Open internal links:"
+msgstr "Öppna interna länkar:"
+
+#: includes/admin/settings-fields/class-wpel-internal-link-fields.php:23
+msgid "Settings for internal links:"
+msgstr "Inställningar för interna länkar:"
+
+#: includes/admin/settings-fields/class-wpel-external-link-fields.php:25
+msgid "Open external links:"
+msgstr "Öppna externa länkar:"
+
+#: includes/admin/settings-fields/class-wpel-external-link-fields.php:23
+msgid "Settings for external links:"
+msgstr "Inställningar för externa länkar:"
+
+#: includes/admin/settings-fields/class-wpel-excluded-link-fields.php:24
+msgid "Open excluded links:"
+msgstr "Öppna exkluderade länkar:"
+
+#: includes/admin/settings-fields/class-wpel-excluded-link-fields.php:23
+msgid "Settings for excluded links:"
+msgstr "Inställningar för exkluderade länkar:"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:212
+msgid "Ignore all <code>mailto</code> links"
+msgstr "Ignorera alla <code>mailto</code>-länkar"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:66
+msgid "Skip <code>mailto</code> links:"
+msgstr "Hoppa över <code>mailto</code>-länkar:"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:62
+msgid "Skip <code>&lt;script&gt;</code>:"
+msgstr "Hoppa över <code>&lt;script&gt;</code>:"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:59
+msgid "Own settings for excluded links:"
+msgstr "Egna inställningar för exkluderade länkar:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:85
+msgid "Skip icon with <code>&lt;img&gt;</code>:"
+msgstr "Hoppa över ikon med <code>&lt;img&gt;</code>:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:114
+msgid "in the same window, tab or frame"
+msgstr "i samma fönster, flik eller ram"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:202
+msgid "Ignore all links in <code>&lt;script&gt;</code> blocks"
+msgstr "Ignorera alla länkar i <code>&lt;script&gt;</code>-block"
+
+#: includes/admin/network-fields/class-wpel-network-fields.php:90
+msgid "Only Super Admins"
+msgstr "Endast superadministratörer"
+
+#: includes/admin/network-fields/class-wpel-network-fields.php:89
+msgid "Site Admins and Super Admins"
+msgstr "Webbplatsadministratörer och superadministratörer"
+
+#: includes/admin/network-fields/class-wpel-network-fields.php:27
+msgid "Capability for individual sites:"
+msgstr "Behörighet för enskilda webbplatser:"
+
+#: includes/admin/network-fields/class-wpel-network-admin-fields.php:105
+#: includes/admin/settings-fields/class-wpel-admin-fields.php:69
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:240
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:249
+#: includes/admin/settings-fields/class-wpel-external-link-fields.php:95
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:321
+msgid "Something went wrong. One or more values were invalid."
+msgstr "Något gick fel. Ett eller flera värden var ogiltiga."
+
+#: includes/admin/class-wpel-settings-page.php:54
+#: includes/admin/settings-fields/class-wpel-excluded-link-fields.php:31
+msgid "Excluded Links"
+msgstr "Exkluderade länkar"
+
+#: includes/admin/class-wpel-settings-page.php:49
+#: includes/admin/settings-fields/class-wpel-internal-link-fields.php:31
+msgid "Internal Links"
+msgstr "Interna länkar"
+
+#: includes/admin/class-wpel-network-page.php:46
+#: includes/admin/class-wpel-settings-page.php:82
+msgid "Support"
+msgstr "Support"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:27
+msgid "Apply settings on:"
+msgstr "Tillämpa inställningar på:"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:83
+msgid "All contents (the whole page)"
+msgstr "Allt innehåll (hela sidan)"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:126
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:148
+msgid "Overwrite existing values."
+msgstr "Skriv över befintliga värden."
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:115
+msgid "each in a separate new window or tab"
+msgstr "var och en i ett separat nytt fönster eller flik"
+
+#: templates/partials/tab-contents/support.php:15
+#: templates/settings-page/help-tabs/data-attributes.php:12
+msgid "Exclude or include by data-attribute"
+msgstr "Exkludera eller inkludera efter dataattribut"
+
+#: templates/network-page/help-tabs/under-construction.php:14
+#: templates/settings-page/help-tabs/under-construction.php:14
+msgid "Still working on the documentation..."
+msgstr "Arbetar fortfarande på dokumentationen …"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:56
+msgid "Exclude external links by URL:"
+msgstr "Exkludera externa länkar efter URL:"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:53
+msgid "Include external links by URL:"
+msgstr "Inkludera externa länkar efter URL:"
+
+#: templates/partials/tab-contents/support.php:21
+#: templates/settings-page/help-tabs/data-attributes.php:18
+msgid "Links with <code>data-wpel-link=\"external\"</code> will be treated as external links."
+msgstr "Länkar med <code>data-wpel-link=\"external\"</code> kommer att behandlas som externa länkar."
+
+#: templates/partials/tab-contents/support.php:20
+#: templates/settings-page/help-tabs/data-attributes.php:17
+msgid "Links with <code>data-wpel-link=\"internal\"</code> will be treated as internal links."
+msgstr "Länkar med <code>data-wpel-link=\"internal\"</code> kommer att behandlas som interna länkar."
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:54
+msgid "Set <code>title</code>:"
+msgstr "Ställ in <code>title</code>:"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:183
+msgid "Treat excluded links as internal links"
+msgstr "Behandla exkluderade länkar som interna länkar"
+
+#: includes/admin/settings-fields/class-wpel-admin-fields.php:44
+msgid "Create own admin menu for this plugin"
+msgstr "Skapa din egen adminmeny för detta tillägg"
+
+#: includes/admin/settings-fields/class-wpel-admin-fields.php:27
+msgid "Main Admin Menu:"
+msgstr "Primär adminmeny:"
+
+#: includes/admin/network-fields/class-wpel-network-fields.php:100
+msgid "- none -"
+msgstr "- ingen -"
+
+#: includes/admin/network-fields/class-wpel-network-fields.php:31
+msgid "Use the settings of this site as default for new sites:"
+msgstr "Använd inställningen för denna webbplats som standard för nya webbplatser:"
+
+#: includes/admin/class-wpel-network-page.php:170
+#: includes/admin/class-wpel-settings-page.php:300
+#: templates/network-page/help-tabs/under-construction.php:12
+#: templates/settings-page/help-tabs/under-construction.php:12
+msgid "Under Construction"
+msgstr "Under konstruktion"
+
+#: includes/admin/class-wpel-settings-page.php:305
+msgid "Data Attributes"
+msgstr "Dataattribut"
+
+#: templates/partials/tab-contents/support.php:23
+#: templates/settings-page/help-tabs/data-attributes.php:20
+msgid "Links with <code>data-wpel-link=\"ignore\"</code> will be completely ignored by this plugin."
+msgstr "Länkar med <code>data-wpel-link=\"ignore\"</code> kommer att ignoreras helt av detta tillägg."
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:191
+msgid "Own settings for excluded links <span class=\"description\">(extra tab)</span>"
+msgstr "Egna inställningar för exkluderade länkar <span class=\"description\">(extra flik)</span>"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:113
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:137
+msgid "- keep as is -"
+msgstr "- behåll det som det är -"
+
+#: templates/partials/tab-contents/support.php:22
+#: templates/settings-page/help-tabs/data-attributes.php:19
+msgid "Links with <code>data-wpel-link=\"exclude\"</code> will be treated as excluded links (which have their own settings or will be treated as internal links)."
+msgstr "Länkar med <code>data-wpel-link=\"exclude\"</code> kommer att behandlas som exkluderade länkar (som har sina egna inställningar eller kommer att behandlas som interna länkar)."
+
+#: templates/partials/tab-contents/support.php:30
+msgid "When you experience problems using this plugin please look if your problem was <a href=\"https://wordpress.org/support/plugin/wp-external-links\" target=\"_blank\">already reported</a>."
+msgstr "När du upplever problem med att använda detta tillägg kan du kolla om ditt problem <a href=\"https://wordpress.org/support/plugin/wp-external-links\" target=\"_blank\">redan har rapporterats</a>."
+
+#: includes/admin/network-fields/class-wpel-network-admin-fields.php:86
+#: includes/admin/settings-fields/class-wpel-admin-fields.php:50
+msgid "Or else it will be added to the \"Settings\" menu"
+msgstr "Annars kommer det att läggas till i menyn ”Inställningar”"
+
+#: templates/partials/tab-contents/support.php:17
+#: templates/settings-page/help-tabs/data-attributes.php:14
+msgid "The <code>data-wpel-link</code> attribute can be set on links and forces the plugin to treat those links that way."
+msgstr "Attributet <code>data-wpel-link</code> kan ställas in på länkar och tvingar tillägget att behandla dessa länkar på det sättet."
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:59
+msgid "Add CSS class(es):"
+msgstr "Lägg till CSS-klass(er):"
+
+#: includes/admin/class-wpel-settings-page.php:59
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:24
+msgid "Exceptions"
+msgstr "Undantag"
+
+#: templates/partials/tab-contents/support.php:45
+msgid "PHP version: "
+msgstr "PHP-version: "
+
+#: templates/partials/tab-contents/support.php:43
+msgid "WP version: "
+msgstr "WP-version: "
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:113
+msgid "All widgets"
+msgstr "Alla widgetar"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:103
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:93
+msgid "Post content"
+msgstr "Inläggsinnehåll"
+
+#: includes/admin/class-wpel-settings-page.php:44
+#: includes/admin/settings-fields/class-wpel-external-link-fields.php:60
+msgid "External Links"
+msgstr "Externa länkar"
+
+#: includes/admin/settings-fields/class-wpel-external-link-fields.php:75
+msgid "Add <code>\"external\"</code>"
+msgstr "Lägg till <code>\"external\"</code>"
+
+#: includes/admin/class-wpel-network-page.php:41
+#: includes/admin/settings-fields/class-wpel-admin-fields.php:24
+msgid "Admin Settings"
+msgstr "Administratörsinställningar "
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:50
+msgid "Make subdomains internal:"
+msgstr "Gör underdomäner intern:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:44
+msgid "Also add to <code>rel</code> attribute:"
+msgstr "Lägg också till attribut <code>rel</code>:"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:145
+msgid "Treat all links to the site's domain and subdomains as internal links"
+msgstr "Behandla alla länkar till webbplatsens domän och underdomäner som interna länkar"
+
+#. Plugin Name of the plugin
+#: includes/admin/class-wpel-network-page.php:103
+#: includes/admin/class-wpel-network-page.php:104
+#: includes/admin/class-wpel-network-page.php:114
+#: includes/admin/class-wpel-network-page.php:115
+#: includes/admin/class-wpel-settings-page.php:191
+#: includes/admin/class-wpel-settings-page.php:193
+#: includes/admin/class-wpel-settings-page.php:207
+#: includes/admin/class-wpel-settings-page.php:209
+msgid "WP External Links"
+msgstr "WP External Links"

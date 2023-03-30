@@ -1,0 +1,50 @@
+# Translation of Plugins - Categories Images - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Categories Images - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-10 13:09:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Categories Images - Stable (latest release)\n"
+
+#: categories-images.php:88 categories-images.php:217
+msgid "Remove image"
+msgstr "Ta bort bild"
+
+#: categories-images.php:64 categories-images.php:85 categories-images.php:234
+msgid "Image"
+msgstr "Bild"
+
+#: categories-images.php:67 categories-images.php:87 categories-images.php:216
+msgid "Upload/Add image"
+msgstr "Ladda upp/lägg till bild"
+
+#. #-#-#-#-#  categories-images-code.pot (Categories Images 2.5.4)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: categories-images.php:272 categories-images.php:310
+msgid "Categories Images"
+msgstr "Categories Images"
+
+#: categories-images.php:272 categories-images.php:279
+msgid "Categories Images settings"
+msgstr "Inställningar för Categories Images"
+
+#: categories-images.php:252
+msgid "Thumbnail"
+msgstr "Miniatyr"
+
+#: categories-images.php:305
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Du har inte tillräcklig behörighet för att komma åt denna sida."
+
+#: categories-images.php:285
+msgid "Please select the taxonomies you want to exclude it from Categories Images plugin"
+msgstr "Välj vilka taxonomier du vill exkludera från tillägget Categories Images"
+
+#: categories-images.php:280
+msgid "Excluded Taxonomies"
+msgstr "Exkluderade taxonomier"

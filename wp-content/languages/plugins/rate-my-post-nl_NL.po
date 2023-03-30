@@ -1,0 +1,1555 @@
+# Translation of Plugins - Rate my Post &#8211; WP Rating System - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Rate my Post &#8211; WP Rating System - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-04-05 15:11:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-rc.2\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Rate my Post &#8211; WP Rating System - Stable (latest release)\n"
+
+#: public/class-rate-my-post-public.php:1125
+#, gp-priority: normal
+msgid "Invalid WP token!"
+msgstr "Ongeldig WP token!"
+
+#: admin/templates/pro-version.php:54
+#, gp-priority: normal
+msgid "Email support"
+msgstr "E-mail ondersteuning"
+
+#: admin/templates/pro-version.php:45
+#, gp-priority: normal
+msgid "Add custom rating widgets to archives, taxonomies, author pages etc."
+msgstr "Voeg aangepaste waarderingswidgets toe aan archieven, taxonomieën, auteurspagina's enz."
+
+#: admin/templates/pro-version.php:32
+#, gp-priority: normal
+msgid "Rate my Post Pro in addition to the free features also includes:"
+msgstr "Rate my Post Pro omvat naast de gratis functionaliteiten ook:"
+
+#: admin/templates/menu.php:24
+#, gp-priority: normal
+msgid "License"
+msgstr "Licentie"
+
+#: admin/templates/menu.php:23
+#, gp-priority: normal
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: admin/templates/admin-notices.php:40
+#, gp-priority: normal
+msgid "See Rate my Post PRO"
+msgstr "Bekijk Rate my Post PRO"
+
+#: admin/templates/admin-notices.php:38
+#, gp-priority: normal
+msgid "You've been using %s for a while now. Maybe it's time to check out the PRO version which comes some neat features such as %sadvanced structured data%s and %scustom rating widgets%s. If not, keep enjoying the free version :)"
+msgstr "Je gebruikt %s nu al een tijdje. Misschien is het tijd om de PRO versie te bekijken, die enkele handige functies bevat, zoals %sadvanced gestructureerde gegevens%s en %scustom beoordelingswidgets%s. Zo niet, blijf genieten van de gratis versie :)"
+
+#: admin/templates/admin-notices.php:37
+#, gp-priority: normal
+msgid "%s: Are you ready to boost your SEO with %s?"
+msgstr "%s: ben je er klaar voor om je SEO een boost te geven met %s?"
+
+#: admin/templates/admin-notices.php:31
+#, gp-priority: normal
+msgid "We detected %s plugin installed on your website. If you want to use %s on %sAMP pages%s, additional configuration is required. Learn more %shere%s."
+msgstr "We hebben gedetecteerd dat %s plugin op je site is geïnstalleerd. Als je %s wilt gebruiken op %sAMP pagina's%s, is aanvullende configuratie vereist. Meer informatie %shier%s."
+
+#: admin/templates/admin-notices.php:24
+#, gp-priority: normal
+msgid "We detected %s plugin installed on your website. %s works best if %s is configured as shown %shere%s."
+msgstr "We hebben gedetecteerd dat %s plugin op je site is geïnstalleerd. %s werkt het beste als %s is geconfigureerd zoals weergegeven %shier%s."
+
+#: admin/templates/admin-notices.php:23 admin/templates/admin-notices.php:30
+#, gp-priority: normal
+msgid "Notice"
+msgstr "Bericht"
+
+#: admin/templates/menu-options.php:223
+#, gp-priority: normal
+msgid "Adds a minimalistic rating and results widget on AMP pages. See the %sdocumentation%s"
+msgstr "Voegt een minimalistische waarderings- en resultatenwidget toe aan AMP pagina's. Zie de %sdocumentatie%s"
+
+#: admin/templates/menu-options.php:220
+#, gp-priority: normal
+msgid "AMP compatibility mode"
+msgstr "AMP compatibiliteitsmodus"
+
+#: rate-my-post.php:40
+#, gp-priority: normal
+msgid "Plugin has been deactivated because the PRO version was detected."
+msgstr "Plugin is gedeactiveerd omdat de PRO versie is gedetecteerd."
+
+#: rate-my-post.php:37
+#, gp-priority: normal
+msgid "Notice: Plugin Deactivated"
+msgstr "Bericht: plugin gedeactiveerd"
+
+#: admin/templates/menu.php:44
+#, gp-priority: normal
+msgid "Tools"
+msgstr "Gereedschap"
+
+#: admin/templates/menu-migration.php:68
+#, gp-priority: normal
+msgid "Delete Plugin Data"
+msgstr "Verwijder plugin gegevens"
+
+#: admin/templates/menu-migration.php:63
+#, gp-priority: normal
+msgid "Here you can delete all votes, feedback and the analytics table with one click. This is useful if you want to delete the data that was submitted while you were testing the plugin."
+msgstr "Hier kan je met één klik alle stemmen, feedback en de analysetabel verwijderen. Dit is handig als je de gegevens wilt verwijderen die zijn ingediend terwijl je de plugin aan het testen was."
+
+#: admin/templates/menu-migration.php:59
+#, gp-priority: normal
+msgid "Danger Zone"
+msgstr "Gevarenzone"
+
+#: admin/class-rate-my-post-admin.php:623
+#, gp-priority: normal
+msgid "All data deleted"
+msgstr "Alle gegevens verwijderd"
+
+#: admin/class-rate-my-post-admin.php:291
+#, gp-priority: normal
+msgid "Custom Rating Widgets"
+msgstr "Aangepaste waarderingswidgets"
+
+#: admin/class-rate-my-post-admin.php:128
+#, gp-priority: normal
+msgid "Invalid vote count or average rating!"
+msgstr "Ongeldig aantal stemmen of gemiddelde waardering!"
+
+#: admin/class-rate-my-post-admin.php:118
+#: admin/class-rate-my-post-admin.php:170
+#: admin/class-rate-my-post-admin.php:209
+#: admin/class-rate-my-post-admin.php:247
+#: admin/class-rate-my-post-admin.php:301
+#: admin/class-rate-my-post-admin.php:343
+#: admin/class-rate-my-post-admin.php:397
+#: admin/class-rate-my-post-admin.php:437
+#: admin/class-rate-my-post-admin.php:488
+#: admin/class-rate-my-post-admin.php:528
+#: admin/class-rate-my-post-admin.php:599
+#: admin/class-rate-my-post-admin.php:647
+#: admin/class-rate-my-post-admin.php:689
+#, gp-priority: normal
+msgid "You do not have adequate permissions for this action!"
+msgstr "Je hebt niet voldoende rechten voor deze actie!"
+
+#: admin/class-rate-my-post-admin.php:94 admin/class-rate-my-post-admin.php:160
+#: admin/class-rate-my-post-admin.php:332
+#: admin/class-rate-my-post-admin.php:426
+#: admin/class-rate-my-post-admin.php:517
+#, gp-priority: normal
+msgid "Successfully Saved!"
+msgstr "Succesvol opgeslagen!"
+
+#: admin/templates/menu-options.php:266
+#, gp-priority: normal
+msgid "For more information about structured data and rich snippets see the %sdocumentation%s"
+msgstr "Voor meer informatie over gestructureerde gegevens en rich snippets, zie de %sdocumentatie%s"
+
+#: admin/templates/menu-options.php:249
+#, gp-priority: normal
+msgid "Without structured data"
+msgstr "Zonder gestructureerde gegevens"
+
+#: admin/templates/menu-options.php:139
+#, gp-priority: normal
+msgid "Automatically adds result widget to all your pages, before the content."
+msgstr "Voegt automatisch resultaatwidget toe aan al je pagina's, vóór de inhoud."
+
+#: admin/templates/menu-options.php:124
+#, gp-priority: normal
+msgid "Automatically adds result widget to all your posts, before the content."
+msgstr "Voegt automatisch resultaatwidget toe aan al je berichten, vóór de inhoud."
+
+#: admin/templates/menu-options.php:106
+#, gp-priority: normal
+msgid "Automatically adds rating widget to all your pages, after the content."
+msgstr "Voegt automatisch waarderingswidget toe aan al je pagina's, na de inhoud."
+
+#: admin/templates/menu-options.php:91
+#, gp-priority: normal
+msgid "Automatically adds rating widget to all your posts, after the content."
+msgstr "Voegt automatisch waarderingswidget toe aan al je berichten, na de inhoud."
+
+#: admin/templates/meta-box.php:90
+#, gp-priority: normal
+msgid "Rating ID to which the feedback is associated. You can find details about the action in the analytics section."
+msgstr "Waarderings ID waaraan de feedback is gekoppeld. Je vindt details over de actie in het gedeelte Analytics."
+
+#: admin/templates/meta-box.php:67
+#, gp-priority: normal
+msgid "Average rating will be rounded to the nearest mathematically valid average rating!"
+msgstr "De gemiddelde beoordeling wordt afgerond op de dichtstbijzijnde wiskundig geldige gemiddelde beoordeling!"
+
+#: admin/templates/meta-box.php:61
+#, gp-priority: normal
+msgid "Reset Rating"
+msgstr "Reset waardering"
+
+#: admin/templates/menu-migration.php:26
+#, gp-priority: normal
+msgid "The plugin allows you to easily migrate ratings from the following plugins: %s. More rating plugins will be supported in the future. You can submit requests on the %ssupport forum%s."
+msgstr "Met de plugin kan je eenvoudig waarderingen migreren van de volgende plugins: %s. In de toekomst zullen meer waarderingsplugins worden ondersteund. Je kunt verzoeken indienen op het %sondersteuningsforum%s."
+
+#: admin/templates/pro-version.php:59
+#, gp-priority: normal
+msgid "Read More"
+msgstr "Lees meer"
+
+#: admin/templates/pro-version.php:51
+#, gp-priority: normal
+msgid "Read-only ratings with structured data for reviews (review rating)."
+msgstr "Alleen-lezen waarderingen met gestructureerde gegevens voor beoordelingen (beoordelingswaardering)."
+
+#: admin/templates/pro-version.php:48
+#, gp-priority: normal
+msgid "Shortcode generator."
+msgstr "Shortcode generator."
+
+#: admin/templates/pro-version.php:42
+#, gp-priority: normal
+msgid "Each custom widget is customizable, including structured data for rich snippets."
+msgstr "Elke aangepaste widget kan worden aangepast, inclusief gestructureerde gegevens voor rich snippets."
+
+#: admin/templates/pro-version.php:39
+#, gp-priority: normal
+msgid "Create custom rating widgets which work independently of posts. "
+msgstr "Maak aangepaste waarderingswidgets die onafhankelijk van berichten werken. "
+
+#: admin/templates/pro-version.php:36
+#, gp-priority: normal
+msgid "Add structured data for rich snippets with not only the required fields but also the optional fields."
+msgstr "Voeg gestructureerde gegevens toe voor rich snippets met niet alleen de verplichte velden, maar ook de optionele velden."
+
+#: admin/templates/pro-version.php:27
+#, gp-priority: normal
+msgid "Rate my Post Pro"
+msgstr "Rate my Post Pro"
+
+#: admin/templates/menu-security.php:118
+#, gp-priority: normal
+msgid "The plugin supports Google reCAPTCHA v3 which verifies if an interaction is legitimate without any user interaction. You will need reCAPTCHA v3 site key and secret key to use this option. The service is free of charge. You can create keys on the %sGoogle reCAPTCHA website%s - choose the reCAPTCHA v3 type. ReCaptcha library adds a badge to your website with terms of use and privacy policy. You can hide it with custom css %s. However, note that you have to include a link to the terms of use and privacy policy according to the reCAPTCHA v3 Terms of Use."
+msgstr "De plugin ondersteunt Google reCAPTCHA v3 die verifieert of een interactie legitiem is zonder enige gebruikersinteractie. Je hebt de reCAPTCHA v3 sitesleutel en geheime sleutel nodig om deze optie te gebruiken. De dienst is gratis. Je kunt sleutels maken op de %sGoogle reCAPTCHA-website%s - kies het type reCAPTCHA v3. De ReCaptcha bibliotheek voegt een badge toe aan je site met gebruiksvoorwaarden en privacybeleid. Je kunt het verbergen met aangepaste css %s. Houd er echter rekening mee dat je een link naar de gebruiksvoorwaarden en het privacybeleid moet opnemen volgens de gebruiksvoorwaarden van reCAPTCHA v3."
+
+#: admin/templates/menu-customize.php:356
+#: admin/templates/menu-customize.php:369
+#: admin/templates/menu-customize.php:382
+#: admin/templates/menu-customize.php:397
+#: admin/templates/menu-customize.php:410
+#: admin/templates/menu-customize.php:423
+#: admin/templates/menu-customize.php:438
+#: admin/templates/menu-customize.php:451
+#: admin/templates/menu-customize.php:464
+#: admin/templates/menu-customize.php:486
+#: admin/templates/menu-customize.php:499
+#: admin/templates/menu-customize.php:512
+#: admin/templates/menu-customize.php:527
+#: admin/templates/menu-customize.php:540
+#: admin/templates/menu-customize.php:553
+#: admin/templates/menu-customize.php:575
+#, gp-priority: normal
+msgid "Default"
+msgstr "Standaard"
+
+#: admin/templates/menu-customize.php:39 admin/templates/menu-customize.php:54
+#, gp-priority: normal
+msgid "Leave empty to disable"
+msgstr "Laat leeg om uit te schakelen"
+
+#: admin/templates/analytics.php:68
+#, gp-priority: normal
+msgid "Shows time spent on page before the rating was submitted."
+msgstr "Toont de tijd die op de pagina is doorgebracht voordat de waardering werd ingediend."
+
+#: admin/templates/analytics.php:57 admin/templates/meta-box.php:100
+#, gp-priority: normal
+msgid "Shows username if visitor was logged in and tracking is enabled in the security options."
+msgstr "Toont gebruikersnaam als bezoeker was ingelogd en tracking is ingeschakeld in de beveiligingsopties."
+
+#: admin/templates/analytics.php:47
+#, gp-priority: normal
+msgid "Shows IP address if enabled in the security options."
+msgstr "Toont IP adres indien ingeschakeld in de beveiligingsopties."
+
+#: admin/templates/menu-about.php:33
+#, gp-priority: normal
+msgid "Hi there,%s Thank you for installing Rate my Post plugin. If you like the plugin please rate it %shere%s - it will take you 5 minutes (less if you are already registered on WordPress) and it means a lot to me since I made this plugin completely for free. If you encounter problems with the plugin, let me know in the %ssupport forum%s. I hope you will enjoy the plugin. %s %s Best regards,%s %s - the developer of Rate my Post plugin"
+msgstr "Hallo,%s Bedankt voor het installeren van de plugin Beoordeel mijn bericht. Als je de plugin leuk vindt, beoordeel hem dan %shier%s - het kost je 5 minuten (minder als je al geregistreerd bent op WordPress) en het betekent veel voor me omdat ik deze plugin helemaal gratis heb gemaakt. Als je problemen ondervindt met de plugin, laat het me dan weten in het %ssupport forum%s. Ik hoop dat je zult genieten van de plugin. %s %s Met vriendelijke groet,%s %s - de ontwikkelaar van Rate my Post plugin"
+
+#: admin/templates/menu-alerts.php:54
+#, gp-priority: normal
+msgid "reCaptcha is not configured correctly. Make sure you have inserted secret and site key in the security options"
+msgstr "reCaptcha is niet correct geconfigureerd. Zorg ervoor dat je de geheime en sitesleutel hebt ingevoerd in de beveiligingsopties"
+
+#: admin/templates/menu.php:20
+#, gp-priority: normal
+msgid "Pro Version"
+msgstr "Pro versie"
+
+#: public/class-rate-my-post-public.php:1151
+#, gp-priority: normal
+msgid "No rating submitted!"
+msgstr "Geen waardering ingediend!"
+
+#: admin/class-rate-my-post-admin.php:123
+#: admin/class-rate-my-post-admin.php:175
+#: admin/class-rate-my-post-admin.php:213
+#: admin/class-rate-my-post-admin.php:252
+#: admin/class-rate-my-post-admin.php:348
+#: admin/class-rate-my-post-admin.php:402
+#: admin/class-rate-my-post-admin.php:442
+#: admin/class-rate-my-post-admin.php:493
+#: admin/class-rate-my-post-admin.php:533
+#: admin/class-rate-my-post-admin.php:604
+#: admin/class-rate-my-post-admin.php:652
+#: admin/class-rate-my-post-admin.php:694
+#, gp-priority: normal
+msgid "Invalid nonce!"
+msgstr "Ongeldige nonce."
+
+#: public/class-rate-my-post-public.php:973
+#: public/class-rate-my-post-public.php:977
+#, gp-priority: normal
+msgid "Invalid Token"
+msgstr "Ongeldig token"
+
+#: public/class-rate-my-post-public.php:220
+#: public/class-rate-my-post-public.php:1147
+#, gp-priority: normal
+msgid "You cannot rate a web page without an id!"
+msgstr "Je kunt een webpagina niet beoordelen zonder een id!"
+
+#. Description of the plugin
+#, gp-priority: normal
+msgid "Allows you to easily add rating functionality to your WordPress website."
+msgstr "Hiermee kan je eenvoudig beoordelingsfunctionaliteit toevoegen aan je WordPress website."
+
+#. Plugin Name of the plugin
+#, gp-priority: normal
+msgid "Rate my Post - WP Rating System"
+msgstr "Rate my Post - WP Rating System"
+
+#: public/class-rate-my-post-public.php:678
+#, gp-priority: normal
+msgid "Feedback on"
+msgstr "Feedback aan"
+
+#: public/class-rate-my-post-public.php:677
+#, gp-priority: normal
+msgid "Somebody left feedback on"
+msgstr "Iemand heeft feedback achtergelaten op"
+
+#: public/class-rate-my-post-public.php:648
+#, gp-priority: normal
+msgid "See the post: "
+msgstr "Bekijk het bericht: "
+
+#: public/class-rate-my-post-public.php:646
+#, gp-priority: normal
+msgid "based on"
+msgstr "gebaseerd op"
+
+#: public/class-rate-my-post-public.php:645
+#, gp-priority: normal
+msgid "and now has an average rating of"
+msgstr "en heeft nu een gemiddelde waardering van"
+
+#: public/class-rate-my-post-public.php:644
+#, gp-priority: normal
+msgid "was rated"
+msgstr "werd beoordeeld"
+
+#: public/class-rate-my-post-public.php:642
+#, gp-priority: normal
+msgid "Somebody rated"
+msgstr "Iemand waardeerd"
+
+#: admin/templates/menu-alerts.php:46
+#, gp-priority: normal
+msgid "We detected a caching system. It is recommended that you enable Ajax Load in the advanced settings for better user experience."
+msgstr "We hebben een cachingsysteem gedetecteerd. Het wordt aanbevolen om Ajax Load in te schakelen in de geavanceerde instellingen voor een betere gebruikerservaring."
+
+#: admin/templates/menu-options.php:579
+#, gp-priority: normal
+msgid "If you are utilizing page caching, enable this option. Not required if you use WP Super Cache, LiteSpeed Cache, WP Fastest Cache, WP Rocket or SG Optimizer"
+msgstr "Schakel deze optie in als je paginacaching gebruikt. Niet vereist als je WP Super Cache, LiteSpeed Cache, WP Fastest Cache, WP Rocket of SG Optimizer gebruikt"
+
+#: admin/templates/menu-options.php:576
+#, gp-priority: normal
+msgid "AJAX load results"
+msgstr "AJAX load resultaten"
+
+#: admin/templates/menu-options.php:190
+#, gp-priority: normal
+msgid "Vote has to be confirmed by clicking the rate button"
+msgstr "Stem moet worden bevestigd door op de tariefknop te klikken"
+
+#: admin/templates/menu-about.php:53
+#, gp-priority: normal
+msgid "Become a supporter and ensure further development of the plugin!"
+msgstr "Word supporter en zorg voor verdere ontwikkeling van de plugin!"
+
+#: admin/templates/menu-about.php:50
+#, gp-priority: normal
+msgid "Donate"
+msgstr "Doneren"
+
+#: admin/templates/menu-about.php:44
+#, gp-priority: normal
+msgid "Please do read the documentation before posting in the support forum."
+msgstr "Lees de documentatie voordat je iets op het ondersteuningsforum plaatst."
+
+#: admin/templates/menu-about.php:41
+#, gp-priority: normal
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: admin/templates/menu-about.php:38
+#, gp-priority: normal
+msgid "My Website"
+msgstr "Mijn site"
+
+#: admin/class-rate-my-post-admin.php:286
+#, gp-priority: normal
+msgid "Stats"
+msgstr "Statistieken"
+
+#. Author URI of the plugin
+#, gp-priority: normal
+msgid "https://blazzdev.com"
+msgstr "https://blazzdev.com"
+
+#: admin/class-rate-my-post-admin.php:288
+#, gp-priority: normal
+msgid "Analytics"
+msgstr "Analytics"
+
+#: admin/templates/menu-security.php:75 admin/templates/menu-security.php:90
+#: admin/templates/menu-security.php:105
+#, gp-priority: normal
+msgid "Yes"
+msgstr "Ja"
+
+#: admin/templates/menu-security.php:72 admin/templates/menu-security.php:87
+#: admin/templates/menu-security.php:102
+#, gp-priority: normal
+msgid "No"
+msgstr "Nee"
+
+#: admin/templates/menu-security.php:54
+#, gp-priority: normal
+msgid "Logged in users"
+msgstr "Ingelogde gebruikers"
+
+#: admin/templates/menu-security.php:51
+#, gp-priority: normal
+msgid "Everybody"
+msgstr "Iedereen"
+
+#: admin/templates/menu-security.php:39
+#, gp-priority: normal
+msgid "Admin"
+msgstr "Beheer"
+
+#: admin/templates/menu-security.php:36
+#, gp-priority: normal
+msgid "Editor"
+msgstr "Editor"
+
+#: admin/templates/menu-security.php:33
+#, gp-priority: normal
+msgid "Author"
+msgstr "Auteur"
+
+#: admin/templates/menu-options.php:246
+#, gp-priority: normal
+msgid "Type of structured data for rich snippets"
+msgstr "Type gestructureerde gegevens voor rich snippets"
+
+#: admin/templates/menu-options.php:67
+#, gp-priority: normal
+msgid "Right"
+msgstr "Rechts"
+
+#: admin/templates/menu-options.php:64
+#, gp-priority: normal
+msgid "Left"
+msgstr "Links"
+
+#: admin/templates/menu-options.php:61
+#, gp-priority: normal
+msgid "Center"
+msgstr "Midden"
+
+#: admin/templates/menu-options.php:48
+#, gp-priority: normal
+msgid "Trophies"
+msgstr "Trofeeën"
+
+#: admin/templates/menu-options.php:45
+#, gp-priority: normal
+msgid "Smileys"
+msgstr "Smiley's"
+
+#: admin/templates/menu-options.php:42
+#, gp-priority: normal
+msgid "Hearts"
+msgstr "Hartjes"
+
+#: admin/templates/menu-options.php:39
+#, gp-priority: normal
+msgid "Thumbs"
+msgstr "Duimpjes"
+
+#: public/class-rate-my-post-public.php:1050
+#, gp-priority: normal
+msgid "You need to be logged in to rate!"
+msgstr "Je moet ingelogd zijn om te beoordelen!"
+
+#: public/class-rate-my-post-public.php:1031
+#, gp-priority: normal
+msgid "Blocked by reCAPTCHA"
+msgstr "Geblokkeerd door reCAPTCHA"
+
+#: public/class-rate-my-post-public.php:1026
+#, gp-priority: normal
+msgid "Wrong reCAPTCHA keys"
+msgstr "Verkeerde reCAPTCHA sleutels"
+
+#: admin/templates/menu-security.php:94
+#, gp-priority: normal
+msgid "Prevent double votes by checking via IP if user already rated that post. This feature will only work if \"Track IP addresses\" is also enabled and is by default disabled for admins"
+msgstr "Voorkom dubbele stemmen door via IP te controleren of de gebruiker die bericht al heeft beoordeeld. Deze functie werkt alleen als \"IP-adressen volgen\" ook is ingeschakeld en standaard is uitgeschakeld voor beheerders"
+
+#: admin/templates/menu-security.php:83
+#, gp-priority: normal
+msgid "Prevent double votes via IP"
+msgstr "Voorkom dubbele stemmen via IP"
+
+#: admin/class-rate-my-post-admin.php:373
+#: admin/class-rate-my-post-admin.php:463
+#: admin/class-rate-my-post-admin.php:554
+#, gp-priority: normal
+msgid "Try clearing all caches, especially your browser cache!"
+msgstr "Probeer alle caches te wissen, vooral je browsercache!"
+
+#: admin/class-rate-my-post-admin.php:373
+#: admin/class-rate-my-post-admin.php:463
+#: admin/class-rate-my-post-admin.php:554
+#, gp-priority: normal
+msgid "Settings Partially Saved. Unable to save: "
+msgstr "Instellingen gedeeltelijk opgeslagen. Kan niet opslaan: "
+
+#: admin/class-rate-my-post-admin.php:864
+#, gp-priority: normal
+msgid "Not logged in"
+msgstr "Niet ingelogd"
+
+#: admin/class-rate-my-post-admin.php:854
+#: admin/class-rate-my-post-admin.php:869
+#, gp-priority: normal
+msgid "Tracking Disabled"
+msgstr "Volgen uitgeschakeld"
+
+#: admin/templates/menu-alerts.php:38
+#, gp-priority: normal
+msgid "Rate my Post requires WordPress version 4.7.0 or higher. Please update your WordPress"
+msgstr "Rate my Post vereist WordPress versie 4.7.0 of hoger - Update je WordPress"
+
+#: admin/templates/menu.php:19
+#, gp-priority: normal
+msgid "About"
+msgstr "Over"
+
+#: admin/templates/menu-security.php:109
+#, gp-priority: normal
+msgid "This feature enables you to see who rated your posts and left you feedback!"
+msgstr "Met deze functie kun je zien wie je berichten heeft gewaardeerd en feedback heeft gegeven!"
+
+#: admin/templates/menu-security.php:98
+#, gp-priority: normal
+msgid "Track users"
+msgstr "Volg gebruikers"
+
+#: admin/templates/menu-security.php:79
+#, gp-priority: normal
+msgid "Track IP addresses of users who rate your posts or leave you feedback! This feature is NOT COMPLIANT WITH GDPR!"
+msgstr "Volg IP adressen van gebruikers die je berichten beoordelen of feedback geven! Deze functie is NIET COMPLIANT MET AVG!"
+
+#: admin/templates/menu-security.php:68
+#, gp-priority: normal
+msgid "Track IP addresses"
+msgstr "Volg IP adressen"
+
+#: admin/templates/menu-security.php:64
+#, gp-priority: normal
+msgid "Tracking"
+msgstr "Volgen"
+
+#: admin/templates/analytics.php:79
+#, gp-priority: normal
+msgid "Rated"
+msgstr "Gewaardeerd"
+
+#: admin/templates/analytics.php:76
+#, gp-priority: normal
+msgid "Total Votes"
+msgstr "Totale stemmen"
+
+#: admin/templates/analytics.php:65
+#, gp-priority: normal
+msgid "Duration"
+msgstr "Duur"
+
+#: admin/templates/analytics.php:61
+#, gp-priority: normal
+msgid "Post"
+msgstr "Bericht"
+
+#: admin/templates/analytics.php:54 admin/templates/meta-box.php:97
+#, gp-priority: normal
+msgid "User"
+msgstr "Gebruiker"
+
+#: admin/templates/analytics.php:44
+#, gp-priority: normal
+msgid "IP"
+msgstr "IP"
+
+#: admin/templates/analytics.php:39 admin/templates/meta-box.php:82
+#, gp-priority: normal
+msgid "Time"
+msgstr "Tijd"
+
+#: admin/templates/analytics.php:36 admin/templates/meta-box.php:87
+#, gp-priority: normal
+msgid "ID"
+msgstr "ID"
+
+#: admin/templates/analytics.php:29
+#, gp-priority: normal
+msgid "Here you can see the details about the last 100 votes on your website."
+msgstr "Hier zie je de details van de laatste 100 stemmen op je site."
+
+#: admin/templates/analytics.php:26
+#, gp-priority: normal
+msgid "Rate my Post Analytics"
+msgstr "Rate my Post analytics"
+
+#: widgets/rate-my-post-top-rated-widget.php:101
+#, gp-priority: normal
+msgid "Minimum votes required:"
+msgstr "Minimum vereiste stemmen:"
+
+#: admin/templates/meta-box.php:108 admin/templates/meta-box.php:131
+#, gp-priority: normal
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: widgets/rate-my-post-top-rated-widget.php:112
+#, gp-priority: normal
+msgid "Show star rating"
+msgstr "Toon ster waardering"
+
+#: widgets/rate-my-post-top-rated-widget.php:107
+#, gp-priority: normal
+msgid "Show featured image"
+msgstr "Toon uitgelichte afbeelding"
+
+#: widgets/rate-my-post-top-rated-widget.php:96
+#, gp-priority: normal
+msgid "Minimum average rating required:"
+msgstr "Minimale gemiddelde waardering vereist:"
+
+#: widgets/rate-my-post-top-rated-widget.php:91
+#, gp-priority: normal
+msgid "Number of posts to show:"
+msgstr "Aantal te tonen berichten:"
+
+#: widgets/rate-my-post-top-rated-widget.php:86
+#, gp-priority: normal
+msgid "Title:"
+msgstr "Titel:"
+
+#: widgets/rate-my-post-top-rated-widget.php:19
+#, gp-priority: normal
+msgid "Displays top rated posts from Rate my Post plugin."
+msgstr "Geeft best gewaardeerde berichten weer van de plugin Rate my Post."
+
+#: admin/templates/menu-options.php:71
+#, gp-priority: normal
+msgid "You can align the widget left, right or center"
+msgstr "Je kunt de widget links, rechts of in het midden uitlijnen"
+
+#: admin/templates/menu-options.php:57
+#, gp-priority: normal
+msgid "Rating widget alignment"
+msgstr "Uitlijning van waarderingswidget"
+
+#: admin/templates/menu-security.php:58
+#, gp-priority: normal
+msgid "Select who can rate your posts. By default every visitor can rate posts."
+msgstr "Selecteer wie je berichten kan waarderen. Standaard kan elke bezoeker berichten waarderen."
+
+#: admin/templates/menu-security.php:47
+#, gp-priority: normal
+msgid "Who can rate posts"
+msgstr "Wie kan berichten waarderen"
+
+#: admin/templates/menu-options.php:539
+#, gp-priority: normal
+msgid "Ratings will be shown on archive pages (categories, tags, author pages etc.) next to the title"
+msgstr "Waarderingen worden weergegeven op archiefpagina's (categorieën, tags, auteurspagina's enz.) naast de titel"
+
+#: admin/templates/menu-options.php:536
+#, gp-priority: normal
+msgid "Show ratings on archive pages"
+msgstr "Waarderingen weergeven op archiefpagina's"
+
+#: admin/templates/menu-options.php:522
+#, gp-priority: normal
+msgid "Archive Pages"
+msgstr "Archiefpagina's"
+
+#: admin/templates/menu-options.php:376
+#, gp-priority: normal
+msgid "Enable this option if you want to show social share links instead of social follow links. Supported networks: Facebook, Pinterest, Twitter and Reddit"
+msgstr "Schakel deze optie in als je links voor sociaal delen wilt weergeven in plaats van links voor sociaal volgen. Ondersteunde netwerken: Facebook, Pinterest, Twitter en Reddit"
+
+#: admin/templates/menu-options.php:373
+#, gp-priority: normal
+msgid "Show social share links"
+msgstr "Links voor sociaal delen weergeven"
+
+#: admin/class-rate-my-post-admin.php:725
+#, gp-priority: normal
+msgid "No existing ratings found! Nothing to migrate!"
+msgstr "Geen bestaande waarderingen gevonden! Niets om te migreren!"
+
+#: admin/class-rate-my-post-admin.php:723
+#, gp-priority: normal
+msgid "Migration successful! Number of posts affected"
+msgstr "Migratie geslaagd! Aantal getroffen berichten"
+
+#: admin/class-rate-my-post-admin.php:713
+#, gp-priority: normal
+msgid "No rating plugin found! Migration is not possible!"
+msgstr "Geen waarderingsplugin gevonden! Migratie is niet mogelijk!"
+
+#: admin/templates/menu.php:41
+#, gp-priority: normal
+msgid "Security"
+msgstr "Veiligheid"
+
+#: admin/templates/menu-security.php:170 admin/templates/menu-security.php:177
+#, gp-priority: normal
+msgid "Save Security Options"
+msgstr "Opslaan veiligheid opties"
+
+#: admin/templates/menu-security.php:163
+#, gp-priority: normal
+msgid "Automatically verifies if interactions are legitimate. Unlike the reCAPTCHA v2, it does not require any interaction from the visitor"
+msgstr "Controleert automatisch of interacties legitiem zijn. In tegenstelling tot de reCAPTCHA v2, vereist het geen interactie van de bezoeker"
+
+#: admin/templates/menu-security.php:160
+#, gp-priority: normal
+msgid "Enable reCAPTCHA v3"
+msgstr "ReCAPTCHA v3 inschakelen"
+
+#: admin/templates/menu-security.php:146
+#, gp-priority: normal
+msgid "Insert Google reCAPTCHA v3 secret key"
+msgstr "Voer de geheime sleutel van Google reCaptcha v3 in"
+
+#: admin/templates/menu-security.php:136
+#, gp-priority: normal
+msgid "reCAPTCHA v3 Secret Key"
+msgstr "reCAPTCHA v3 geheime sleutel"
+
+#: admin/templates/menu-security.php:132
+#, gp-priority: normal
+msgid "Insert Google reCAPTCHA v3 site key"
+msgstr "Voer de site sleutel van Google reCaptcha v3 in"
+
+#: admin/templates/menu-security.php:122
+#, gp-priority: normal
+msgid "reCAPTCHA v3 Site Key"
+msgstr "reCAPTCHA v3 site sleutel"
+
+#: admin/templates/menu-security.php:115
+#, gp-priority: normal
+msgid "Spam Protection - Google reCAPTCHA v3"
+msgstr "Spambeveiliging - Google reCAPTCHA v3"
+
+#: admin/templates/menu-security.php:43
+#, gp-priority: normal
+msgid "Select which role is required to manipulate ratings in the backend. Authors can only manipulate ratings of their own posts."
+msgstr "Selecteer welke rol vereist is om waarderingen in de backend te manupuleren. Auteurs kunnen alleen waarderingen van hun eigen berichten manipuleren."
+
+#: admin/templates/menu-security.php:29
+#, gp-priority: normal
+msgid "Ratings manipulation requires role of"
+msgstr "Waarderingsmanipulatie vereist de rol van"
+
+#: admin/templates/menu-security.php:25
+#, gp-priority: normal
+msgid "Privileges"
+msgstr "Rechten"
+
+#: admin/templates/menu-migration.php:43
+#, gp-priority: normal
+msgid "Start Migration"
+msgstr "Start migratie"
+
+#: admin/templates/menu-migration.php:40
+#, gp-priority: normal
+msgid "Note: If you already used Rate my Post plugin, the Rate my Post ratings will be overwritten during the migration!"
+msgstr "Let op: als je de Rate my Post plugin al hebt gebruikt, worden de Rating my Post waarderingen tijdens de migratie overschreven!"
+
+#: admin/templates/menu-migration.php:50
+#, gp-priority: normal
+msgid "No rating plugin found. Migration is not possible."
+msgstr "Geen waarderingsplugin gevonden. Migratie is niet mogelijk."
+
+#: admin/templates/menu-migration.php:31
+#, gp-priority: normal
+msgid "Detected Rating Plugin"
+msgstr "Gedetecteerde waarderingsplugin"
+
+#: admin/templates/menu-migration.php:22
+#, gp-priority: normal
+msgid "Migration Tools"
+msgstr "Tools voor migratie"
+
+#: public/templates/amp-rating-widget.php:133
+#, gp-priority: normal
+msgid "There was an error rating this post!"
+msgstr "Er is een fout opgetreden bij het waarderen van dit bericht!"
+
+#: public/templates/amp-rating-widget.php:115
+#, gp-priority: normal
+msgid "Processing your rating..."
+msgstr "Je waardering aan 't verwerken..."
+
+#: common/class-rate-my-post-settings.php:147
+#: public/class-rate-my-post-public.php:1643
+#, gp-priority: normal
+msgid "Submit Rating"
+msgstr "Waardering verzenden"
+
+#: admin/templates/meta-box.php:139
+#, gp-priority: normal
+msgid "Delete Feedback"
+msgstr "Verwijder feedback"
+
+#: admin/templates/menu-options.php:597
+#, gp-priority: normal
+msgid "If enabled all plugin data (settings, customization, vote count, rating and feedback) will be deleted when you uninstall the plugin"
+msgstr "Indien ingeschakeld, worden alle plugingegevens (instellingen, aanpassingen, stemmentelling, beoordeling en feedback) verwijderd wanneer je de plugin verwijdert"
+
+#: admin/templates/menu-options.php:594
+#, gp-priority: normal
+msgid "Delete all plugin data on uninstall"
+msgstr "Verwijder alle plugingegevens tijdens deïnstallatie"
+
+#: admin/templates/menu-options.php:498
+#, gp-priority: normal
+msgid "Add result widget automatically to custom post types"
+msgstr "Voeg resultaatwidget automatisch toe aan aangepaste berichttypen"
+
+#: admin/templates/menu-options.php:487 admin/templates/menu-options.php:508
+#, gp-priority: normal
+msgid "Insert comma separated post types. Registered custom post types"
+msgstr "Voeg door komma's gescheiden berichttypen in. Geregistreerde aangepaste berichttypen"
+
+#: admin/templates/menu-options.php:476
+#, gp-priority: normal
+msgid "Add rating widget automatically to custom post types"
+msgstr "Voeg automatisch een waarderingswidget toe aan aangepaste berichttypen"
+
+#: admin/templates/menu-options.php:472
+#, gp-priority: normal
+msgid "Custom Post Types"
+msgstr "Aangepaste berichttypen"
+
+#: admin/templates/menu-options.php:187
+#, gp-priority: normal
+msgid "Prevent accidental votes"
+msgstr "Voorkom onbedoelde stemmen"
+
+#: admin/templates/menu-customize.php:189
+#, gp-priority: normal
+msgid "Submit rating button text"
+msgstr "Tekst van waarderingsknop verzenden"
+
+#: admin/class-rate-my-post-admin.php:200
+#, gp-priority: normal
+msgid "Feedback successfully deleted!"
+msgstr "Feedback met succes verwijderd!"
+
+#: common/class-rate-my-post-settings.php:135
+#: public/class-rate-my-post-public.php:1164
+#: public/class-rate-my-post-public.php:1642
+#, gp-priority: normal
+msgid "Please insert your feedback in the box above!"
+msgstr "Plaats je feedback in het vak hierboven!"
+
+#: common/class-rate-my-post-settings.php:113
+#: public/class-rate-my-post-public.php:1626
+#, gp-priority: normal
+msgid "Vote count:"
+msgstr "Stemtelling:"
+
+#: admin/templates/menu-options.php:565
+#, gp-priority: normal
+msgid "If your website is available in multiple languages enable this option. You will not be able to customize strings in the customize section. Instead customize strings through your plugin for translations"
+msgstr "Schakel deze optie in als je site in meerdere talen beschikbaar is. Je kunt tekenreeksen niet aanpassen in het gedeelte Aanpassen. Pas in plaats daarvan strings aan via je plugin voor vertalingen"
+
+#: admin/templates/menu-options.php:562
+#, gp-priority: normal
+msgid "Multilingual website compatibility mode"
+msgstr "Compatibiliteitsmodus voor meertalige sites"
+
+#: admin/templates/menu-options.php:548
+#, gp-priority: normal
+msgid "Advanced Settings"
+msgstr "Geavanceerde instellingen"
+
+#: admin/templates/menu-options.php:361
+#, gp-priority: normal
+msgid "Encourage users to follow you on social media. Insert links to your social media profiles below. The social widget will be shown in case of a positive rating"
+msgstr "Moedig gebruikers aan om je te volgen op sociale media. Voeg hieronder links naar je sociale media profielen toe. De sociale widget wordt getoond bij een positieve beoordeling"
+
+#: admin/templates/menu-options.php:319
+#, gp-priority: normal
+msgid "Encourage users to help you improve your posts. Only you can see the feedback. The feedback widget will be shown in case of a negative rating"
+msgstr "Moedig gebruikers aan om je te helpen uw berichten te verbeteren. Alleen jij kunt de feedback zien. De feedback widget wordt weergegeven bij een negatieve beoordeling"
+
+#: admin/templates/menu-options.php:172
+#, gp-priority: normal
+msgid "When a visitor hovers over a star, a descriptive rating will be shown under the stars"
+msgstr "Als een bezoeker over een ster beweegt met de muis, zal een beschrijvende waardering onder de sterren getoond worden"
+
+#: admin/templates/menu-options.php:169
+#, gp-priority: normal
+msgid "Show star hover texts"
+msgstr "Toon ster hover teksten"
+
+#: admin/templates/menu-customize.php:210
+#, gp-priority: normal
+msgid "Replace the generic vote count and average rating text under the stars. Use {{votecount}} for number of votes and {{avgrating}} for average rating. Leave empty for default. This feature does not work in the multilingual website compatibility mode."
+msgstr "Vervang de algemene stemmentelling en gemiddelde waarderingstekst onder de sterren. Gebruik {{votecount}} voor het aantal stemmen en {{avgrating}} voor de gemiddelde waardering. Laat leeg als standaard. Deze functie werkt niet in de meertalige sitecompatibiliteitsmodus."
+
+#: admin/templates/menu-alerts.php:30
+#, gp-priority: normal
+msgid "You need to be logged in as administrator to save settings for Rate my Post plugin"
+msgstr "Je moet zijn aangemeld als beheerder om de instellingen voor de plugin Rate my Post op te slaan"
+
+#: admin/templates/menu-customize.php:550
+#, gp-priority: normal
+msgid "Icon Margin"
+msgstr "Pictogram marge"
+
+#: admin/templates/menu-customize.php:461
+#, gp-priority: normal
+msgid "Background Color"
+msgstr "Achtergrondkleur"
+
+#: admin/templates/menu-customize.php:448
+#, gp-priority: normal
+msgid "Border Color"
+msgstr "Randkleur"
+
+#: admin/templates/menu-customize.php:435
+#, gp-priority: normal
+msgid "Border Radius"
+msgstr "Randradius"
+
+#: admin/templates/menu-customize.php:420
+#, gp-priority: normal
+msgid "Border Width"
+msgstr "Randbreedte"
+
+#: admin/templates/menu-customize.php:201
+#, gp-priority: normal
+msgid "Custom results text"
+msgstr "Aangepaste resultaten tekst"
+
+#: admin/templates/menu-options.php:358
+#, gp-priority: normal
+msgid "Show social widget if rating is positive"
+msgstr "Toon sociale widget als waardering positief is"
+
+#: admin/templates/menu-options.php:344
+#, gp-priority: normal
+msgid "Social Widget Settings"
+msgstr "Sociale widget instellingen"
+
+#: admin/templates/menu-options.php:334
+#, gp-priority: normal
+msgid "You will get an email whenever somebody leaves you private feedback"
+msgstr "Je ontvangt een e-mail wanneer iemand je privéfeedback achterlaat"
+
+#: admin/templates/menu-options.php:331
+#, gp-priority: normal
+msgid "Send me email whenever feedback is left"
+msgstr "Stuur me een e-mail wanneer feedback wordt achtergelaten"
+
+#: admin/templates/menu-options.php:316
+#, gp-priority: normal
+msgid "Show feedback widget if rating is negative"
+msgstr "Feedbackwidget weergeven als waardering negatief is"
+
+#: admin/templates/menu-options.php:302
+#, gp-priority: normal
+msgid "Feedback Widget Settings"
+msgstr "Feedback widget instellingen"
+
+#: admin/templates/menu-options.php:295
+#, gp-priority: normal
+msgid "Define what is a negative rating to use the feedback and social widget."
+msgstr "Definieer wat een negatieve waardering is om de feedback en sociale widget te gebruiken."
+
+#: admin/templates/menu-options.php:285
+#, gp-priority: normal
+msgid "If post or page is rated X/5 stars or less, consider rating negative. X="
+msgstr "Als een bericht of pagina een waardering van X/5 sterren of minder heeft, overweeg dan een negatieve waardering. X="
+
+#: admin/templates/menu-options.php:270
+#, gp-priority: normal
+msgid "Exclude rating and result widget from"
+msgstr "Waarderings- en resultaatwidget uitsluiten van"
+
+#: admin/templates/menu-options.php:238
+#, gp-priority: normal
+msgid "Enable only while you are cutomizing the plugin"
+msgstr "Alleen inschakelen terwijl je de plugin aanpast"
+
+#: admin/templates/menu-options.php:235
+#, gp-priority: normal
+msgid "Delete cookie on page load"
+msgstr "Cookie verwijderen bij laden van pagina"
+
+#: admin/templates/menu-options.php:205
+#, gp-priority: normal
+msgid "Removes average rating and vote count information under the rating widget"
+msgstr "Verwijdert informatie over de gemiddelde waardering en het aantal stemmen onder de waarderingswidget"
+
+#: admin/templates/menu-options.php:202
+#, gp-priority: normal
+msgid "Do not show average rating"
+msgstr "Geen gemiddelde waardering weergeven"
+
+#: admin/templates/menu-options.php:157
+#, gp-priority: normal
+msgid "You will get an email whenever somebody rates your post or page"
+msgstr "Je ontvangt een e-mail wanneer iemand je bericht of pagina waardeert"
+
+#: admin/templates/menu-options.php:154
+#, gp-priority: normal
+msgid "Send me email whenever post gets rated"
+msgstr "Stuur me een e-mail wanneer een bericht wordt beoordeeld"
+
+#: admin/templates/menu-options.php:136
+#, gp-priority: normal
+msgid "Add result widget to all pages"
+msgstr "Voeg resultaatwidget toe aan alle pagina's"
+
+#: admin/templates/menu-options.php:121
+#, gp-priority: normal
+msgid "Add result widget to all posts"
+msgstr "Voeg resultaatwidget toe aan alle berichten"
+
+#: admin/templates/menu-options.php:103
+#, gp-priority: normal
+msgid "Add rating widget to all pages"
+msgstr "Waarderingswidget toevoegen aan alle pagina's"
+
+#: admin/templates/menu-options.php:88
+#, gp-priority: normal
+msgid "Add rating widget to all posts"
+msgstr "Waarderingswidget toevoegen aan alle berichten"
+
+#: admin/templates/menu-options.php:52
+#, gp-priority: normal
+msgid "Rate my Post supports the following icons: Stars, thumbs and hearts"
+msgstr "Rate my Post ondersteunt de volgende pictogrammen: Sterren, duimpjes en harten"
+
+#: admin/templates/menu-options.php:32
+#, gp-priority: normal
+msgid "Type of rating widget"
+msgstr "Type waarderingswidget"
+
+#: admin/templates/menu-options.php:24
+#, gp-priority: normal
+msgid "Rating Widget Settings"
+msgstr "Instellingen voor waarderingswidgets"
+
+#: admin/templates/menu-customize.php:589
+#, gp-priority: normal
+msgid "Note: If you are using a cache plugin, clear page cache after saving customization options."
+msgstr "Let op: als je een cache plugin gebruikt, moet je de paginacache wissen nadat je de aanpassingsopties hebt opgeslagen."
+
+#: admin/templates/menu-customize.php:565
+#, gp-priority: normal
+msgid "Style - Social Widget"
+msgstr "Stijl - sociale widget"
+
+#: admin/templates/menu-customize.php:537
+#, gp-priority: normal
+msgid "Highlight Color"
+msgstr "Markeer kleur"
+
+#: admin/templates/menu-customize.php:524
+#, gp-priority: normal
+msgid "Rated Color"
+msgstr "Gewaardeerde kleur"
+
+#: admin/templates/menu-customize.php:509
+#, gp-priority: normal
+msgid "Hover Color"
+msgstr "Hoverkleur"
+
+#: admin/templates/menu-customize.php:496
+#, gp-priority: normal
+msgid "Results Color"
+msgstr "Resultaten kleur"
+
+#: admin/templates/menu-customize.php:483
+#, gp-priority: normal
+msgid "Icon Size"
+msgstr "Pictogram grootte"
+
+#: admin/templates/menu-customize.php:346
+#, gp-priority: normal
+msgid "Insert hexadecimal colors - for example, #ff0000 for red. You can use"
+msgstr "Voeg hexadecimale kleuren in, bijvoorbeeld #ff0000 voor rood. Je kunt gebruiken"
+
+#: admin/templates/menu-customize.php:476
+#, gp-priority: normal
+msgid "Style - Rating Widget"
+msgstr "Stijl - waarderingswidget"
+
+#: admin/templates/menu-customize.php:339
+#, gp-priority: normal
+msgid "Style - Global"
+msgstr "Stijl - globaal"
+
+#: admin/templates/menu-customize.php:343
+#, gp-priority: normal
+msgid "Leave empty for default style."
+msgstr "Laat leeg voor de standaard stijl."
+
+#: admin/templates/menu-customize.php:321
+#, gp-priority: normal
+msgid "Text if feedback is empty"
+msgstr "Tekst als feedback leeg is"
+
+#: admin/templates/menu-about.php:28
+#, gp-priority: normal
+msgid "About Plugin"
+msgstr "Over de plugin"
+
+#: admin/templates/stats.php:26
+#, gp-priority: normal
+msgid "Displaying only rated posts and pages! To see feedback or change ratings click on a post/page title below and find the Rate my Post meta box at the bottom."
+msgstr "Alleen gewaardeerde berichten en pagina's weergeven! Als je feedback wilt zien of beoordelingen wilt wijzigen, klik je op een bericht/paginatitel hieronder en vind je de Rate my post meta box onderaan."
+
+#: admin/templates/menu-customize.php:597
+#, gp-priority: normal
+msgid "Reset Customization Options"
+msgstr "Aanpassingsopties resetten"
+
+#: admin/templates/menu-customize.php:593
+#: admin/templates/menu-customize.php:604
+#, gp-priority: normal
+msgid "Save Customization Options"
+msgstr "Opslaan aanpassingsopties"
+
+#: admin/templates/menu-customize.php:407
+#, gp-priority: normal
+msgid "Subtitle Bottom Margin"
+msgstr "Ondertitel ondermarge"
+
+#: admin/templates/menu-customize.php:394
+#, gp-priority: normal
+msgid "Title Bottom Margin"
+msgstr "Titel marge onder"
+
+#: admin/templates/menu-customize.php:572
+#, gp-priority: normal
+msgid "Social Icon Size"
+msgstr "Grootte social pictogram"
+
+#: admin/templates/menu-customize.php:379
+#, gp-priority: normal
+msgid "Text Font Size"
+msgstr "Tekst lettertype grootte"
+
+#: admin/templates/menu-customize.php:366
+#, gp-priority: normal
+msgid "Subtitle Font Size"
+msgstr "Ondertitel lettertype grootte"
+
+#: admin/templates/menu-customize.php:353
+#, gp-priority: normal
+msgid "Title Font Size"
+msgstr "Titel lettergrootte"
+
+#: admin/templates/menu-customize.php:309
+#, gp-priority: normal
+msgid "Feedback button text"
+msgstr "Feedback knop tekst"
+
+#: admin/templates/menu-customize.php:295
+#, gp-priority: normal
+msgid "Text after sending feedback"
+msgstr "Tekst na het verzenden van feedback"
+
+#: admin/templates/menu-customize.php:283
+#, gp-priority: normal
+msgid "Text"
+msgstr "Tekst"
+
+#: admin/templates/menu-customize.php:253
+#, gp-priority: normal
+msgid "Strings - Feedback Widget"
+msgstr "Strings - feedback widget"
+
+#: admin/templates/menu-customize.php:219
+#, gp-priority: normal
+msgid "Strings - Social Widget"
+msgstr "Strings - sociale widget"
+
+#: admin/templates/menu-customize.php:177
+#, gp-priority: normal
+msgid "Five stars hover text"
+msgstr "Vijf sterren hover tekst"
+
+#: admin/templates/menu-customize.php:167
+#, gp-priority: normal
+msgid "Four stars hover text"
+msgstr "Vier sterren hover tekst"
+
+#: admin/templates/menu-customize.php:155
+#, gp-priority: normal
+msgid "Three stars hover text"
+msgstr "Drie sterren hover tekst"
+
+#: admin/templates/menu-customize.php:145
+#, gp-priority: normal
+msgid "Two stars hover text"
+msgstr "Twee sterren hover tekst"
+
+#: admin/templates/menu-customize.php:132
+#, gp-priority: normal
+msgid "One star hover text"
+msgstr "Eén ster hover tekst"
+
+#: admin/templates/menu-customize.php:120
+#, gp-priority: normal
+msgid "Text after vote"
+msgstr "Tekst na stem"
+
+#: admin/templates/menu-customize.php:106
+#, gp-priority: normal
+msgid "Result text if no votes"
+msgstr "Resultaat tekst wanneer geen stemmen"
+
+#: admin/templates/menu-customize.php:94
+#, gp-priority: normal
+msgid "Text if somebody tries to vote twice"
+msgstr "Tekst als iemand twee keer probeert te stemmen"
+
+#: admin/templates/menu-customize.php:80
+#, gp-priority: normal
+msgid "Result text - vote count"
+msgstr "Resultaat tekst - aantal stemmen"
+
+#: admin/templates/menu-customize.php:68
+#, gp-priority: normal
+msgid "Result text - average rating"
+msgstr "Resultaat tekst - gemiddelde waardering"
+
+#: admin/templates/menu-customize.php:51 admin/templates/menu-customize.php:237
+#: admin/templates/menu-customize.php:270
+#, gp-priority: normal
+msgid "Subtitle"
+msgstr "Ondertitel"
+
+#: admin/templates/menu-customize.php:29
+#, gp-priority: normal
+msgid "Strings - Rating Widget"
+msgstr "Strings - waarderingswidget"
+
+#: admin/templates/menu-customize.php:24
+#, gp-priority: normal
+msgid "Tip: First enable delete cookie on page load in settings. Add shortcode [ratemypost] to one of your posts and open it in the preview mode. Then custmize this plugin to your liking - after saving settings reload the post in the preview mode to see the changes you have made. After testing you can reset the ratings in meta box in edit post."
+msgstr "Tip: Schakel eerst cookie verwijderen bij laden van pagina in instellingen in. Voeg shortcode [ratemypost] toe aan een van je berichten en open deze in de voorbeeldmodus. Pas deze plugin vervolgens naar wens aan - laad na het opslaan van de instellingen het bericht opnieuw in de voorbeeldmodus om de wijzigingen te zien die je hebt aangebracht. Na het testen kun je de waarderingen in de metabox in het bericht bewerken opnieuw instellen."
+
+#: admin/templates/menu-options.php:612
+#, gp-priority: normal
+msgid "Reset Settings"
+msgstr "Reset instellingen"
+
+#: admin/templates/menu-options.php:457
+#, gp-priority: normal
+msgid "Your Linkedin Page URL"
+msgstr "Je Linkedin pagina URL"
+
+#: admin/templates/menu-options.php:445
+#, gp-priority: normal
+msgid "Your Twitter Page URL"
+msgstr "Je Twitter pagina URL"
+
+#: admin/templates/menu-options.php:435
+#, gp-priority: normal
+msgid "Your Instagram Page URL"
+msgstr "Je instagram pagina URL"
+
+#: admin/templates/menu-options.php:383
+#, gp-priority: normal
+msgid "If you do not want an icon to be displayed, leave the field below empty!"
+msgstr "Als je niet wilt dat een pictogram wordt weergegeven, laat je het onderstaande veld leeg!"
+
+#: admin/templates/menu-options.php:281
+#, gp-priority: normal
+msgid "Read more"
+msgstr "Lees meer"
+
+#: admin/templates/menu-options.php:280
+#, gp-priority: normal
+msgid "Insert comma separated post/page IDs"
+msgstr "Door komma's gescheiden bericht/pagina ID's invoegen"
+
+#: admin/templates/menu.php:38
+#, gp-priority: normal
+msgid "Customize"
+msgstr "Aanpassen"
+
+#: admin/templates/meta-box.php:57
+#, gp-priority: normal
+msgid "Update Rating"
+msgstr "Update waardering"
+
+#: admin/class-rate-my-post-admin.php:389
+#: admin/class-rate-my-post-admin.php:480
+#, gp-priority: normal
+msgid "Settings Reset Done"
+msgstr "Instellingen reset gereed"
+
+#: admin/class-rate-my-post-admin.php:59
+#, gp-priority: normal
+msgid "Are your sure you want to reset the settings?"
+msgstr "Weet je zeker dat je de instellingen wil resetten?"
+
+#. Author of the plugin
+#, gp-priority: normal
+msgid "Blaz K."
+msgstr "Blaz K."
+
+#. Plugin URI of the plugin
+#, gp-priority: normal
+msgid "https://wordpress.org/plugins/rate-my-post/"
+msgstr "https://wordpress.org/plugins/rate-my-post/"
+
+#: admin/templates/stats.php:33
+#, gp-priority: normal
+msgid "Votes"
+msgstr "Stemmen"
+
+#: admin/templates/menu-customize.php:36 admin/templates/menu-customize.php:225
+#: admin/templates/menu-customize.php:259 admin/templates/stats.php:32
+#, gp-priority: normal
+msgid "Title"
+msgstr "Titel"
+
+#: admin/templates/stats.php:22
+#, gp-priority: normal
+msgid "Rate my Post Stats"
+msgstr "Rate my Post Statistieken"
+
+#: admin/templates/menu-options.php:608 admin/templates/menu-options.php:619
+#, gp-priority: normal
+msgid "Save Settings"
+msgstr "Instellingen opslaan"
+
+#: admin/templates/menu-options.php:423
+#, gp-priority: normal
+msgid "Your Flickr Page URL"
+msgstr "Je Flickr pagina URL"
+
+#: admin/templates/menu-options.php:413
+#, gp-priority: normal
+msgid "Your Youtube Page URL"
+msgstr "Je Youtube pagina URL"
+
+#: admin/templates/menu-options.php:401
+#, gp-priority: normal
+msgid "Your Pinterest Page URL"
+msgstr "Je Pinterest pagina URL"
+
+#: admin/templates/menu-options.php:390
+#, gp-priority: normal
+msgid "Your Facebook Page URL"
+msgstr "Je Facebook pagina URL"
+
+#: admin/templates/menu-options.php:36
+#, gp-priority: normal
+msgid "Stars"
+msgstr "Sterren"
+
+#: admin/class-rate-my-post-admin.php:284 admin/templates/menu.php:35
+#, gp-priority: normal
+msgid "Settings"
+msgstr "Instellingen"
+
+#: admin/templates/meta-box.php:75 admin/templates/meta-box.php:105
+#: admin/templates/stats.php:35
+#, gp-priority: normal
+msgid "Feedback"
+msgstr "Feedback"
+
+#: admin/templates/analytics.php:73 admin/templates/meta-box.php:45
+#: admin/templates/stats.php:34
+#, gp-priority: normal
+msgid "Average Rating"
+msgstr "Gemiddelde waardering"
+
+#: admin/templates/meta-box.php:31
+#, gp-priority: normal
+msgid "Number of Votes"
+msgstr "Aantal stemmen"
+
+#: common/class-rate-my-post-settings.php:127
+#: public/class-rate-my-post-public.php:1640
+#, gp-priority: normal
+msgid "Thanks for your feedback!"
+msgstr "Bedankt voor je feedback!"
+
+#: common/class-rate-my-post-settings.php:128
+#: public/class-rate-my-post-public.php:1641
+#, gp-priority: normal
+msgid "Submit Feedback"
+msgstr "Feedback verzenden"
+
+#: common/class-rate-my-post-settings.php:126
+#: public/class-rate-my-post-public.php:1639
+#, gp-priority: normal
+msgid "Tell us how we can improve this post?"
+msgstr "Vertel ons hoe we dit bericht kunnen verbeteren?"
+
+#: common/class-rate-my-post-settings.php:125
+#: public/class-rate-my-post-public.php:1638
+#, gp-priority: normal
+msgid "Let us improve this post!"
+msgstr "Laten we dit bericht verbeteren!"
+
+#: common/class-rate-my-post-settings.php:124
+#: public/class-rate-my-post-public.php:1637
+#, gp-priority: normal
+msgid "We are sorry that this post was not useful for you!"
+msgstr "Het spijt ons dat dit bericht niet nuttig voor je was!"
+
+#: common/class-rate-my-post-settings.php:123
+#: public/class-rate-my-post-public.php:1636
+#, gp-priority: normal
+msgid "Follow us on social media!"
+msgstr "Volg ons op sociale media!"
+
+#: common/class-rate-my-post-settings.php:122
+#: public/class-rate-my-post-public.php:1635
+#, gp-priority: normal
+msgid "As you found this post useful..."
+msgstr "Omdat je dit bericht nuttig vond..."
+
+#: public/class-rate-my-post-public.php:647
+#, gp-priority: normal
+msgid "vote(s)"
+msgstr "stem(men)"
+
+#: common/class-rate-my-post-settings.php:112
+#: public/class-rate-my-post-public.php:1625
+#, gp-priority: normal
+msgid "Average rating"
+msgstr "Gemiddelde waardering"
+
+#: common/class-rate-my-post-settings.php:121
+#: public/class-rate-my-post-public.php:1634
+#, gp-priority: normal
+msgid "Very useful"
+msgstr "Erg bruikbaar"
+
+#: common/class-rate-my-post-settings.php:120
+#: public/class-rate-my-post-public.php:1633
+#, gp-priority: normal
+msgid "Fairly useful"
+msgstr "Redelijk nuttig"
+
+#: common/class-rate-my-post-settings.php:119
+#: public/class-rate-my-post-public.php:1632
+#, gp-priority: normal
+msgid "Useful"
+msgstr "Bruikbaar"
+
+#: common/class-rate-my-post-settings.php:118
+#: public/class-rate-my-post-public.php:1631
+#, gp-priority: normal
+msgid "Somewhat useful"
+msgstr "enigszins nuttig"
+
+#: common/class-rate-my-post-settings.php:117
+#: public/class-rate-my-post-public.php:1630
+#, gp-priority: normal
+msgid "Not at all useful"
+msgstr "Helemaal niet handig"
+
+#: common/class-rate-my-post-settings.php:111
+#: public/class-rate-my-post-public.php:1624
+#, gp-priority: normal
+msgid "Click on a star to rate it!"
+msgstr "Klik op een ster om deze te beoordelen!"
+
+#: common/class-rate-my-post-settings.php:110
+#: public/class-rate-my-post-public.php:1623
+#, gp-priority: normal
+msgid "How useful was this post?"
+msgstr "Hoe nuttig was dit bericht?"
+
+#: admin/templates/meta-box.php:144
+#, gp-priority: normal
+msgid "No feedback so far!"
+msgstr "Geen feedback dusver!"
+
+#: admin/class-rate-my-post-admin.php:58
+#, gp-priority: normal
+msgid "Saving"
+msgstr "Opslaan"
+
+#: common/class-rate-my-post-settings.php:116
+#: public/class-rate-my-post-public.php:1629
+#, gp-priority: normal
+msgid "Thank you for rating this post!"
+msgstr "Bedankt voor het waarderen van dit bericht!"
+
+#: common/class-rate-my-post-settings.php:114
+#: public/class-rate-my-post-public.php:1627
+#, gp-priority: normal
+msgid "You already voted! This vote will not be counted!"
+msgstr "Je hebt al gestemd! Deze stem wordt niet meegeteld!"
+
+#: common/class-rate-my-post-settings.php:115
+#: public/class-rate-my-post-public.php:1628
+#, gp-priority: normal
+msgid "No votes so far! Be the first to rate this post."
+msgstr "Tot nu toe geen stemmen! Wees de eerste die dit bericht waardeert."

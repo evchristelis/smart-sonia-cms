@@ -1,0 +1,1157 @@
+# Translation of Plugins - Rate my Post &#8211; WP Rating System - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Rate my Post &#8211; WP Rating System - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-09 11:53:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Rate my Post &#8211; WP Rating System - Stable (latest release)\n"
+
+#: admin/templates/menu.php:44
+msgid "Tools"
+msgstr "工具"
+
+#: admin/templates/menu-migration.php:68
+msgid "Delete Plugin Data"
+msgstr "删除插件数据"
+
+#: admin/templates/menu-migration.php:63
+msgid "Here you can delete all votes, feedback and the analytics table with one click. This is useful if you want to delete the data that was submitted while you were testing the plugin."
+msgstr "您可以在这里一键删除所有投票，反馈和分析表。 如果要删除在测试插件时提交的数据，这将很有用。"
+
+#: admin/class-rate-my-post-admin.php:623
+msgid "All data deleted"
+msgstr "所有数据已删除"
+
+#: admin/class-rate-my-post-admin.php:128
+msgid "Invalid vote count or average rating!"
+msgstr "无效的投票数或平均评分！"
+
+#: admin/class-rate-my-post-admin.php:118
+#: admin/class-rate-my-post-admin.php:170
+#: admin/class-rate-my-post-admin.php:209
+#: admin/class-rate-my-post-admin.php:247
+#: admin/class-rate-my-post-admin.php:301
+#: admin/class-rate-my-post-admin.php:343
+#: admin/class-rate-my-post-admin.php:397
+#: admin/class-rate-my-post-admin.php:437
+#: admin/class-rate-my-post-admin.php:488
+#: admin/class-rate-my-post-admin.php:528
+#: admin/class-rate-my-post-admin.php:599
+#: admin/class-rate-my-post-admin.php:647
+#: admin/class-rate-my-post-admin.php:689
+msgid "You do not have adequate permissions for this action!"
+msgstr "您没有足够的权限执行此操作！"
+
+#: admin/class-rate-my-post-admin.php:94 admin/class-rate-my-post-admin.php:160
+#: admin/class-rate-my-post-admin.php:332
+#: admin/class-rate-my-post-admin.php:426
+#: admin/class-rate-my-post-admin.php:517
+msgid "Successfully Saved!"
+msgstr "保存成功！"
+
+#: admin/templates/menu-options.php:266
+msgid "For more information about structured data and rich snippets see the %sdocumentation%s"
+msgstr "有关结构化数据和丰富网页摘要的更多信息，请参见%s文档%s"
+
+#: admin/templates/menu-options.php:249
+msgid "Without structured data"
+msgstr "没有结构化数据"
+
+#: admin/templates/menu-options.php:139
+msgid "Automatically adds result widget to all your pages, before the content."
+msgstr "在内容之前，自动将结果小工具添加到您所有页面的。"
+
+#: admin/templates/menu-options.php:124
+msgid "Automatically adds result widget to all your posts, before the content."
+msgstr "在内容之前自动将结果工具添加到您的所有文章中。"
+
+#: admin/templates/menu-options.php:106
+msgid "Automatically adds rating widget to all your pages, after the content."
+msgstr "在内容之后，自动将结果小工具添加到您所有页面。"
+
+#: admin/templates/menu-options.php:91
+msgid "Automatically adds rating widget to all your posts, after the content."
+msgstr "在内容之后自动将结果工具添加到您的所有文章中。"
+
+#: admin/templates/meta-box.php:67
+msgid "Average rating will be rounded to the nearest mathematically valid average rating!"
+msgstr "平均评分将四舍五入为最接近的数学有效平均评分！"
+
+#: admin/templates/meta-box.php:61
+msgid "Reset Rating"
+msgstr "重置评分"
+
+#: admin/templates/menu-migration.php:26
+msgid "The plugin allows you to easily migrate ratings from the following plugins: %s. More rating plugins will be supported in the future. You can submit requests on the %ssupport forum%s."
+msgstr "该插件使您可以轻松地从以下插件迁移评级：%s。将来将支持更多评级插件。您可以在%s支持论坛%s上提交请求。"
+
+#: admin/templates/pro-version.php:59
+msgid "Read More"
+msgstr "阅读更多"
+
+#: admin/templates/pro-version.php:48
+msgid "Shortcode generator."
+msgstr "简码生成器。"
+
+#: admin/templates/pro-version.php:27
+msgid "Rate my Post Pro"
+msgstr "Rate my Post专业版"
+
+#: admin/templates/menu-security.php:118
+msgid "The plugin supports Google reCAPTCHA v3 which verifies if an interaction is legitimate without any user interaction. You will need reCAPTCHA v3 site key and secret key to use this option. The service is free of charge. You can create keys on the %sGoogle reCAPTCHA website%s - choose the reCAPTCHA v3 type. ReCaptcha library adds a badge to your website with terms of use and privacy policy. You can hide it with custom css %s. However, note that you have to include a link to the terms of use and privacy policy according to the reCAPTCHA v3 Terms of Use."
+msgstr "该插件支持Google reCAPTCHA v3，该版本可在没有任何用户交互的情况下验证交互是否合法。您需要reCAPTCHA v3站点密钥和秘密密钥才能使用此选项。该服务是免费的。您可以在%sGoogle reCAPTCHA网站%s 上创建密钥-选择reCAPTCHA v3类型。 ReCaptcha库会将带有使用条款和隐私政策的徽章添加到您的网站。您可以使用自定义CSS%s隐藏它。但是，请注意，根据reCAPTCHA v3使用条款，您必须包含指向使用条款和隐私政策的链接。"
+
+#: admin/templates/menu-customize.php:356
+#: admin/templates/menu-customize.php:369
+#: admin/templates/menu-customize.php:382
+#: admin/templates/menu-customize.php:397
+#: admin/templates/menu-customize.php:410
+#: admin/templates/menu-customize.php:423
+#: admin/templates/menu-customize.php:438
+#: admin/templates/menu-customize.php:451
+#: admin/templates/menu-customize.php:464
+#: admin/templates/menu-customize.php:486
+#: admin/templates/menu-customize.php:499
+#: admin/templates/menu-customize.php:512
+#: admin/templates/menu-customize.php:527
+#: admin/templates/menu-customize.php:540
+#: admin/templates/menu-customize.php:553
+#: admin/templates/menu-customize.php:575
+msgid "Default"
+msgstr "默认"
+
+#: admin/templates/menu-customize.php:39 admin/templates/menu-customize.php:54
+msgid "Leave empty to disable"
+msgstr "留空以禁用"
+
+#: admin/templates/analytics.php:68
+msgid "Shows time spent on page before the rating was submitted."
+msgstr "显示在提交评分之前在页面上花费的时间。"
+
+#: admin/templates/analytics.php:57 admin/templates/meta-box.php:100
+msgid "Shows username if visitor was logged in and tracking is enabled in the security options."
+msgstr "如果访客已登录并且在安全选项中启用了跟踪，则显示用户名。"
+
+#: admin/templates/analytics.php:47
+msgid "Shows IP address if enabled in the security options."
+msgstr "如果在安全性选项中启用，则显示IP地址。"
+
+#: admin/templates/menu-about.php:33
+msgid "Hi there,%s Thank you for installing Rate my Post plugin. If you like the plugin please rate it %shere%s - it will take you 5 minutes (less if you are already registered on WordPress) and it means a lot to me since I made this plugin completely for free. If you encounter problems with the plugin, let me know in the %ssupport forum%s. I hope you will enjoy the plugin. %s %s Best regards,%s %s - the developer of Rate my Post plugin"
+msgstr ""
+"嗨，%s感谢您安装“Rate my Post”插件。如果您喜欢该插件，请点%s此处%s对它进行评分-这将花费您5分钟的时间（如果您已经在WordPress上注册，则需要花费更少的时间），这对我来说意义重大，因为我完全免费制作了此插件。如果您在使用插件时遇到问题，请在%s支持论坛%s中告诉我。希望您会喜欢该插件。 %s %s最好的祝福\n"
+",%s %s-来自插件Rate my Post plugin开发者"
+
+#: admin/templates/menu-alerts.php:54
+msgid "reCaptcha is not configured correctly. Make sure you have inserted secret and site key in the security options"
+msgstr "reCaptcha配置不正确。确保在安全选项中插入了secret和site key"
+
+#: admin/templates/menu.php:20
+msgid "Pro Version"
+msgstr "专业版"
+
+#: public/class-rate-my-post-public.php:1151
+msgid "No rating submitted!"
+msgstr "尚未提交评分！"
+
+#: public/class-rate-my-post-public.php:973
+#: public/class-rate-my-post-public.php:977
+msgid "Invalid Token"
+msgstr "令牌无效"
+
+#: public/class-rate-my-post-public.php:220
+#: public/class-rate-my-post-public.php:1147
+msgid "You cannot rate a web page without an id!"
+msgstr "您不能为没有ID的网页评分！"
+
+#. Description of the plugin
+msgid "Allows you to easily add rating functionality to your WordPress website."
+msgstr "使您可以轻松地将评级功能添加到WordPress网站。"
+
+#. Plugin Name of the plugin
+msgid "Rate my Post - WP Rating System"
+msgstr "Rate my Post - WP Rating System"
+
+#: public/class-rate-my-post-public.php:678
+msgid "Feedback on"
+msgstr "意见回馈"
+
+#: public/class-rate-my-post-public.php:677
+msgid "Somebody left feedback on"
+msgstr "有人留下了反馈"
+
+#: public/class-rate-my-post-public.php:648
+msgid "See the post: "
+msgstr "看文章："
+
+#: public/class-rate-my-post-public.php:646
+msgid "based on"
+msgstr "基于"
+
+#: public/class-rate-my-post-public.php:645
+msgid "and now has an average rating of"
+msgstr "现在的平均评分为"
+
+#: public/class-rate-my-post-public.php:644
+msgid "was rated"
+msgstr "被评为"
+
+#: public/class-rate-my-post-public.php:642
+msgid "Somebody rated"
+msgstr "有人评价"
+
+#: admin/templates/menu-alerts.php:46
+msgid "We detected a caching system. It is recommended that you enable Ajax Load in the advanced settings for better user experience."
+msgstr "我们检测到一个缓存系统。建议您在高级设置中启用Ajax Load，以获得更好的用户体验。"
+
+#: admin/templates/menu-options.php:579
+msgid "If you are utilizing page caching, enable this option. Not required if you use WP Super Cache, LiteSpeed Cache, WP Fastest Cache, WP Rocket or SG Optimizer"
+msgstr "如果您正在使用页面缓存，请启用此选项。如果您使用WP Super Cache，LiteSpeed Cache，WP Fastest Cache，WP Rocket或SG Optimizer，则不需要"
+
+#: admin/templates/menu-options.php:576
+msgid "AJAX load results"
+msgstr "AJAX加载结果"
+
+#: admin/templates/menu-options.php:190
+msgid "Vote has to be confirmed by clicking the rate button"
+msgstr "必须通过点击评分按钮来确认投票"
+
+#: admin/templates/menu-about.php:53
+msgid "Become a supporter and ensure further development of the plugin!"
+msgstr "成为支持者并确保插件的进一步开发！"
+
+#: admin/templates/menu-about.php:50
+msgid "Donate"
+msgstr "捐赠"
+
+#: admin/templates/menu-about.php:44
+msgid "Please do read the documentation before posting in the support forum."
+msgstr "在发布到支持论坛之前，请先阅读文档。"
+
+#: admin/templates/menu-about.php:41
+msgid "Documentation"
+msgstr "文档"
+
+#: admin/templates/menu-about.php:38
+msgid "My Website"
+msgstr "我的网站"
+
+#: admin/class-rate-my-post-admin.php:286
+msgid "Stats"
+msgstr "统计资料"
+
+#. Author URI of the plugin
+msgid "https://blazzdev.com"
+msgstr "https://blazzdev.com"
+
+#: admin/class-rate-my-post-admin.php:288
+msgid "Analytics"
+msgstr "分析工具"
+
+#: admin/templates/menu-security.php:75 admin/templates/menu-security.php:90
+#: admin/templates/menu-security.php:105
+msgid "Yes"
+msgstr "是"
+
+#: admin/templates/menu-security.php:72 admin/templates/menu-security.php:87
+#: admin/templates/menu-security.php:102
+msgid "No"
+msgstr "没有"
+
+#: admin/templates/menu-security.php:54
+msgid "Logged in users"
+msgstr "登录用户"
+
+#: admin/templates/menu-security.php:51
+msgid "Everybody"
+msgstr "每个人"
+
+#: admin/templates/menu-security.php:39
+msgid "Admin"
+msgstr "管理员"
+
+#: admin/templates/menu-security.php:36
+msgid "Editor"
+msgstr "编辑"
+
+#: admin/templates/menu-security.php:33
+msgid "Author"
+msgstr "作者"
+
+#: admin/templates/menu-options.php:246
+msgid "Type of structured data for rich snippets"
+msgstr "富文本摘要的结构化数据类型"
+
+#: admin/templates/menu-options.php:67
+msgid "Right"
+msgstr "右"
+
+#: admin/templates/menu-options.php:64
+msgid "Left"
+msgstr "左"
+
+#: admin/templates/menu-options.php:61
+msgid "Center"
+msgstr "居中"
+
+#: admin/templates/menu-options.php:48
+msgid "Trophies"
+msgstr "奖杯"
+
+#: admin/templates/menu-options.php:45
+msgid "Smileys"
+msgstr "笑脸"
+
+#: admin/templates/menu-options.php:42
+msgid "Hearts"
+msgstr "心"
+
+#: admin/templates/menu-options.php:39
+msgid "Thumbs"
+msgstr "拇指"
+
+#: public/class-rate-my-post-public.php:1050
+msgid "You need to be logged in to rate!"
+msgstr "您需要登录才能评分！"
+
+#: public/class-rate-my-post-public.php:1031
+msgid "Blocked by reCAPTCHA"
+msgstr "被reCAPTCHA阻止"
+
+#: public/class-rate-my-post-public.php:1026
+msgid "Wrong reCAPTCHA keys"
+msgstr "reCAPTCHA钥错误"
+
+#: admin/templates/menu-security.php:94
+msgid "Prevent double votes by checking via IP if user already rated that post. This feature will only work if \"Track IP addresses\" is also enabled and is by default disabled for admins"
+msgstr "如果用户已经对该文章评分，则可以通过IP进行检查，以防止出现双重投票。只有同时启用了\"跟踪IP地址\"并且默认情况下对管理员禁用了此功能，该功能才有效"
+
+#: admin/templates/menu-security.php:83
+msgid "Prevent double votes via IP"
+msgstr "通过IP防止双重投票"
+
+#: admin/class-rate-my-post-admin.php:373
+#: admin/class-rate-my-post-admin.php:463
+#: admin/class-rate-my-post-admin.php:554
+msgid "Try clearing all caches, especially your browser cache!"
+msgstr "尝试清除所有缓存，尤其是浏览器缓存！"
+
+#: admin/class-rate-my-post-admin.php:373
+#: admin/class-rate-my-post-admin.php:463
+#: admin/class-rate-my-post-admin.php:554
+msgid "Settings Partially Saved. Unable to save: "
+msgstr "设置已部分保存。无法保存："
+
+#: admin/class-rate-my-post-admin.php:864
+msgid "Not logged in"
+msgstr "未登录"
+
+#: admin/class-rate-my-post-admin.php:854
+#: admin/class-rate-my-post-admin.php:869
+msgid "Tracking Disabled"
+msgstr "跟踪已停用"
+
+#: admin/templates/menu-alerts.php:38
+msgid "Rate my Post requires WordPress version 4.7.0 or higher. Please update your WordPress"
+msgstr "Rate my Post plugin需要WordPress 4.7.0或更高版本。请更新您的WordPress"
+
+#: admin/templates/menu.php:19
+msgid "About"
+msgstr "关于"
+
+#: admin/templates/menu-security.php:109
+msgid "This feature enables you to see who rated your posts and left you feedback!"
+msgstr "此功能使您可以查看谁对您的文章进行了评分并留下了反馈！"
+
+#: admin/templates/menu-security.php:98
+msgid "Track users"
+msgstr "跟踪使用者"
+
+#: admin/templates/menu-security.php:79
+msgid "Track IP addresses of users who rate your posts or leave you feedback! This feature is NOT COMPLIANT WITH GDPR!"
+msgstr "跟踪对您的文章评分或留下反馈的用户的IP地址！此功能与GDPR不兼容！"
+
+#: admin/templates/menu-security.php:68
+msgid "Track IP addresses"
+msgstr "跟踪IP地址"
+
+#: admin/templates/menu-security.php:64
+msgid "Tracking"
+msgstr "跟踪"
+
+#: admin/templates/analytics.php:79
+msgid "Rated"
+msgstr "已评的"
+
+#: admin/templates/analytics.php:76
+msgid "Total Votes"
+msgstr "投票总数"
+
+#: admin/templates/analytics.php:65
+msgid "Duration"
+msgstr "持续时间"
+
+#: admin/templates/analytics.php:61
+msgid "Post"
+msgstr "文章"
+
+#: admin/templates/analytics.php:54 admin/templates/meta-box.php:97
+msgid "User"
+msgstr "用户"
+
+#: admin/templates/analytics.php:44
+msgid "IP"
+msgstr "IP"
+
+#: admin/templates/analytics.php:39 admin/templates/meta-box.php:82
+msgid "Time"
+msgstr "时间"
+
+#: admin/templates/analytics.php:36 admin/templates/meta-box.php:87
+msgid "ID"
+msgstr "ID"
+
+#: admin/templates/analytics.php:29
+msgid "Here you can see the details about the last 100 votes on your website."
+msgstr "在这里，您可以查看网站上最后100票的详细信息。"
+
+#: admin/templates/analytics.php:26
+msgid "Rate my Post Analytics"
+msgstr "Rate my Post分析"
+
+#: widgets/rate-my-post-top-rated-widget.php:101
+msgid "Minimum votes required:"
+msgstr "所需的最低票数："
+
+#: admin/templates/meta-box.php:108 admin/templates/meta-box.php:131
+msgid "Delete"
+msgstr "删除"
+
+#: widgets/rate-my-post-top-rated-widget.php:112
+msgid "Show star rating"
+msgstr "显示星级"
+
+#: widgets/rate-my-post-top-rated-widget.php:107
+msgid "Show featured image"
+msgstr "显示特色图片"
+
+#: widgets/rate-my-post-top-rated-widget.php:96
+msgid "Minimum average rating required:"
+msgstr "要求的最低平均评分："
+
+#: widgets/rate-my-post-top-rated-widget.php:91
+msgid "Number of posts to show:"
+msgstr "要显示的文章数："
+
+#: widgets/rate-my-post-top-rated-widget.php:86
+msgid "Title:"
+msgstr "标题："
+
+#: widgets/rate-my-post-top-rated-widget.php:19
+msgid "Displays top rated posts from Rate my Post plugin."
+msgstr "显示“Rate my Post plugin”插件中评分最高的文章。"
+
+#: admin/templates/menu-options.php:71
+msgid "You can align the widget left, right or center"
+msgstr "您可以将小工具左，右或居中对齐"
+
+#: admin/templates/menu-options.php:57
+msgid "Rating widget alignment"
+msgstr "评分小工具对齐"
+
+#: admin/templates/menu-security.php:58
+msgid "Select who can rate your posts. By default every visitor can rate posts."
+msgstr "选择谁可以为您的文章评分。默认情况下，每个访问者都可以为文章评分。"
+
+#: admin/templates/menu-security.php:47
+msgid "Who can rate posts"
+msgstr "谁可以给文章评分"
+
+#: admin/templates/menu-options.php:539
+msgid "Ratings will be shown on archive pages (categories, tags, author pages etc.) next to the title"
+msgstr "评分将显示在标题旁边的存档页面（类别，标签，作者页面等）上"
+
+#: admin/templates/menu-options.php:536
+msgid "Show ratings on archive pages"
+msgstr "在存档页面上显示评分"
+
+#: admin/templates/menu-options.php:522
+msgid "Archive Pages"
+msgstr "存档页面"
+
+#: admin/templates/menu-options.php:376
+msgid "Enable this option if you want to show social share links instead of social follow links. Supported networks: Facebook, Pinterest, Twitter and Reddit"
+msgstr "如果要显示社交分享链接而不是社交关注链接，请启用此选项。支持的网络：Facebook，Pinterest，Twitter和Reddit"
+
+#: admin/templates/menu-options.php:373
+msgid "Show social share links"
+msgstr "显示社交分享链接"
+
+#: admin/class-rate-my-post-admin.php:725
+msgid "No existing ratings found! Nothing to migrate!"
+msgstr "找不到现有的评分！什么都不要迁移！"
+
+#: admin/class-rate-my-post-admin.php:723
+msgid "Migration successful! Number of posts affected"
+msgstr "迁移成功！受影响的文章数"
+
+#: admin/class-rate-my-post-admin.php:713
+msgid "No rating plugin found! Migration is not possible!"
+msgstr "找不到评级插件！不能迁移！"
+
+#: admin/templates/menu.php:41
+msgid "Security"
+msgstr "安全"
+
+#: admin/templates/menu-security.php:170 admin/templates/menu-security.php:177
+msgid "Save Security Options"
+msgstr "保存安全选项"
+
+#: admin/templates/menu-security.php:163
+msgid "Automatically verifies if interactions are legitimate. Unlike the reCAPTCHA v2, it does not require any interaction from the visitor"
+msgstr "自动验证交互是否合法。与reCAPTCHA v2不同，它不需要访客的任何交互"
+
+#: admin/templates/menu-security.php:160
+msgid "Enable reCAPTCHA v3"
+msgstr "启用reCAPTCHA v3"
+
+#: admin/templates/menu-security.php:146
+msgid "Insert Google reCAPTCHA v3 secret key"
+msgstr "插入Google reCAPTCHA v3安全密钥"
+
+#: admin/templates/menu-security.php:136
+msgid "reCAPTCHA v3 Secret Key"
+msgstr "reCAPTCHA v3安全密钥"
+
+#: admin/templates/menu-security.php:132
+msgid "Insert Google reCAPTCHA v3 site key"
+msgstr "插入Google reCAPTCHA v3网站密钥"
+
+#: admin/templates/menu-security.php:122
+msgid "reCAPTCHA v3 Site Key"
+msgstr "reCAPTCHA v3网站密钥"
+
+#: admin/templates/menu-security.php:115
+msgid "Spam Protection - Google reCAPTCHA v3"
+msgstr "垃圾邮件防护-Google reCAPTCHA v3"
+
+#: admin/templates/menu-security.php:43
+msgid "Select which role is required to manipulate ratings in the backend. Authors can only manipulate ratings of their own posts."
+msgstr "选择操作后台中的评级所需的角色。作者只能操纵自己文章的评分。"
+
+#: admin/templates/menu-security.php:29
+msgid "Ratings manipulation requires role of"
+msgstr "评分操作需要以下角色"
+
+#: admin/templates/menu-security.php:25
+msgid "Privileges"
+msgstr "权限"
+
+#: admin/templates/menu-migration.php:43
+msgid "Start Migration"
+msgstr "开始迁移"
+
+#: admin/templates/menu-migration.php:40
+msgid "Note: If you already used Rate my Post plugin, the Rate my Post ratings will be overwritten during the migration!"
+msgstr "注意：如果您已经使用过“Rate my Post”插件，则在迁移过程中“Rate my Post”评分将被覆盖！"
+
+#: admin/templates/menu-migration.php:50
+msgid "No rating plugin found. Migration is not possible."
+msgstr "找不到评级插件。无法迁移。"
+
+#: admin/templates/menu-migration.php:31
+msgid "Detected Rating Plugin"
+msgstr "检测到的评级插件"
+
+#: admin/templates/menu-migration.php:22
+msgid "Migration Tools"
+msgstr "迁移工具"
+
+#: public/templates/amp-rating-widget.php:133
+msgid "There was an error rating this post!"
+msgstr "此文章评级有误！"
+
+#: public/templates/amp-rating-widget.php:115
+msgid "Processing your rating..."
+msgstr "正在处理您的评分..."
+
+#: common/class-rate-my-post-settings.php:147
+#: public/class-rate-my-post-public.php:1643
+msgid "Submit Rating"
+msgstr "提交评分"
+
+#: admin/templates/meta-box.php:139
+msgid "Delete Feedback"
+msgstr "删除反馈"
+
+#: admin/templates/menu-options.php:597
+msgid "If enabled all plugin data (settings, customization, vote count, rating and feedback) will be deleted when you uninstall the plugin"
+msgstr "如果启用，则在卸载插件时，所有插件数据（设置，自定义，投票计数，评分和反馈）都将被删除"
+
+#: admin/templates/menu-options.php:594
+msgid "Delete all plugin data on uninstall"
+msgstr "卸载时删除所有插件数据"
+
+#: admin/templates/menu-options.php:498
+msgid "Add result widget automatically to custom post types"
+msgstr "自动将结果小工具添加到自定义文章类型"
+
+#: admin/templates/menu-options.php:487 admin/templates/menu-options.php:508
+msgid "Insert comma separated post types. Registered custom post types"
+msgstr "插入逗号分隔的文章类型。注册的自定义文章类型"
+
+#: admin/templates/menu-options.php:476
+msgid "Add rating widget automatically to custom post types"
+msgstr "将评分小工具自动添加到自定义文章类型"
+
+#: admin/templates/menu-options.php:472
+msgid "Custom Post Types"
+msgstr "自定义文章类型"
+
+#: admin/templates/menu-options.php:187
+msgid "Prevent accidental votes"
+msgstr "防止意外投票"
+
+#: admin/templates/menu-customize.php:189
+msgid "Submit rating button text"
+msgstr "提交评分按钮文字"
+
+#: admin/class-rate-my-post-admin.php:200
+msgid "Feedback successfully deleted!"
+msgstr "反馈已成功删除！"
+
+#: common/class-rate-my-post-settings.php:135
+#: public/class-rate-my-post-public.php:1164
+#: public/class-rate-my-post-public.php:1642
+msgid "Please insert your feedback in the box above!"
+msgstr "请在上面的框中插入您的反馈！"
+
+#: common/class-rate-my-post-settings.php:113
+#: public/class-rate-my-post-public.php:1626
+msgid "Vote count:"
+msgstr "投票数："
+
+#: admin/templates/menu-options.php:565
+msgid "If your website is available in multiple languages enable this option. You will not be able to customize strings in the customize section. Instead customize strings through your plugin for translations"
+msgstr "如果您的网站有多种语言版本，请启用此选项。您将无法在\"自定义\"部分中自定义字符串。而是通过插件自定义字符串进行翻译"
+
+#: admin/templates/menu-options.php:562
+msgid "Multilingual website compatibility mode"
+msgstr "多语言网站兼容模式"
+
+#: admin/templates/menu-options.php:548
+msgid "Advanced Settings"
+msgstr "高级设置"
+
+#: admin/templates/menu-options.php:361
+msgid "Encourage users to follow you on social media. Insert links to your social media profiles below. The social widget will be shown in case of a positive rating"
+msgstr "鼓励用户在社交媒体上关注您。在下面插入指向您的社交媒体资料的链接。如果评分为正，将显示社交小工具"
+
+#: admin/templates/menu-options.php:319
+msgid "Encourage users to help you improve your posts. Only you can see the feedback. The feedback widget will be shown in case of a negative rating"
+msgstr "鼓励用户帮助您改善文章。只有您可以看到反馈。如果评分为负面，则会显示反馈小工具"
+
+#: admin/templates/menu-options.php:172
+msgid "When a visitor hovers over a star, a descriptive rating will be shown under the stars"
+msgstr "当访客将鼠标悬停在星上时，描述性评分将显示在星下"
+
+#: admin/templates/menu-options.php:169
+msgid "Show star hover texts"
+msgstr "显示悬停文字"
+
+#: admin/templates/menu-customize.php:210
+msgid "Replace the generic vote count and average rating text under the stars. Use {{votecount}} for number of votes and {{avgrating}} for average rating. Leave empty for default. This feature does not work in the multilingual website compatibility mode."
+msgstr "在星号下替换通用投票计数和平均评分文字。使用{{votecount}}进行投票，使用{{avgrating}}进行平均评分。默认保留为空。此功能在多语言网站兼容模式下不起作用。"
+
+#: admin/templates/menu-alerts.php:30
+msgid "You need to be logged in as administrator to save settings for Rate my Post plugin"
+msgstr "您需要以管理员身份登录才能保存“Rate my Post plugin”插件的设置"
+
+#: admin/templates/menu-customize.php:550
+msgid "Icon Margin"
+msgstr "图标外边距"
+
+#: admin/templates/menu-customize.php:461
+msgid "Background Color"
+msgstr "背景颜色"
+
+#: admin/templates/menu-customize.php:448
+msgid "Border Color"
+msgstr "边框颜色"
+
+#: admin/templates/menu-customize.php:435
+msgid "Border Radius"
+msgstr "边框半径"
+
+#: admin/templates/menu-customize.php:420
+msgid "Border Width"
+msgstr "边框宽度"
+
+#: admin/templates/menu-customize.php:201
+msgid "Custom results text"
+msgstr "自定义结果文本"
+
+#: admin/templates/menu-options.php:358
+msgid "Show social widget if rating is positive"
+msgstr "如果评分为肯定，则显示社交小工具"
+
+#: admin/templates/menu-options.php:344
+msgid "Social Widget Settings"
+msgstr "社交小工具设置"
+
+#: admin/templates/menu-options.php:334
+msgid "You will get an email whenever somebody leaves you private feedback"
+msgstr "每当有人给你留下私人反馈时，您都会收到一封电子邮件"
+
+#: admin/templates/menu-options.php:331
+msgid "Send me email whenever feedback is left"
+msgstr "只要有反馈意见就给我发送电子邮件"
+
+#: admin/templates/menu-options.php:316
+msgid "Show feedback widget if rating is negative"
+msgstr "如果评分为负面，则显示反馈小工具"
+
+#: admin/templates/menu-options.php:302
+msgid "Feedback Widget Settings"
+msgstr "反馈小工具设置"
+
+#: admin/templates/menu-options.php:295
+msgid "Define what is a negative rating to use the feedback and social widget."
+msgstr "定义什么是负面评分才能使用反馈和社交小工具。"
+
+#: admin/templates/menu-options.php:285
+msgid "If post or page is rated X/5 stars or less, consider rating negative. X="
+msgstr "如果文章或页面的评级为X/5星或更小，则认为评级为负面。 X="
+
+#: admin/templates/menu-options.php:270
+msgid "Exclude rating and result widget from"
+msgstr "从中排除评分和结果小工具"
+
+#: admin/templates/menu-options.php:238
+msgid "Enable only while you are cutomizing the plugin"
+msgstr "仅在对插件进行自定义时启用"
+
+#: admin/templates/menu-options.php:235
+msgid "Delete cookie on page load"
+msgstr "在页面加载时删除Cookie"
+
+#: admin/templates/menu-options.php:205
+msgid "Removes average rating and vote count information under the rating widget"
+msgstr "删除评分小工具下的平均评分和投票计数信息"
+
+#: admin/templates/menu-options.php:202
+msgid "Do not show average rating"
+msgstr "不显示平均评分"
+
+#: admin/templates/menu-options.php:157
+msgid "You will get an email whenever somebody rates your post or page"
+msgstr "每当有人评论您的文章或页面时，您都会收到一封电子邮件"
+
+#: admin/templates/menu-options.php:154
+msgid "Send me email whenever post gets rated"
+msgstr "只要有文章被评分时就给我发邮件"
+
+#: admin/templates/menu-options.php:136
+msgid "Add result widget to all pages"
+msgstr "将结果小工具添加到所有页面"
+
+#: admin/templates/menu-options.php:121
+msgid "Add result widget to all posts"
+msgstr "将结果小工具添加到所有文章"
+
+#: admin/templates/menu-options.php:103
+msgid "Add rating widget to all pages"
+msgstr "将评分小工具添加到所有页面"
+
+#: admin/templates/menu-options.php:88
+msgid "Add rating widget to all posts"
+msgstr "将评分小工具添加到所有文章"
+
+#: admin/templates/menu-options.php:52
+msgid "Rate my Post supports the following icons: Stars, thumbs and hearts"
+msgstr "Rate my Post支持以下图标：星号，拇指和心形"
+
+#: admin/templates/menu-options.php:32
+msgid "Type of rating widget"
+msgstr "评分小工具类型"
+
+#: admin/templates/menu-options.php:24
+msgid "Rating Widget Settings"
+msgstr "评分小工具设置"
+
+#: admin/templates/menu-customize.php:589
+msgid "Note: If you are using a cache plugin, clear page cache after saving customization options."
+msgstr "注意：如果使用的是缓存插件，请在保存自定义选项后清除页面缓存。"
+
+#: admin/templates/menu-customize.php:565
+msgid "Style - Social Widget"
+msgstr "样式-社交小工具"
+
+#: admin/templates/menu-customize.php:537
+msgid "Highlight Color"
+msgstr "高亮颜色"
+
+#: admin/templates/menu-customize.php:524
+msgid "Rated Color"
+msgstr "已评的颜色"
+
+#: admin/templates/menu-customize.php:509
+msgid "Hover Color"
+msgstr "悬停颜色"
+
+#: admin/templates/menu-customize.php:496
+msgid "Results Color"
+msgstr "结果颜色"
+
+#: admin/templates/menu-customize.php:483
+msgid "Icon Size"
+msgstr "图标大小"
+
+#: admin/templates/menu-customize.php:346
+msgid "Insert hexadecimal colors - for example, #ff0000 for red. You can use"
+msgstr "插入十六进制颜色-例如，您可以使用，红色为 #ff0000。"
+
+#: admin/templates/menu-customize.php:476
+msgid "Style - Rating Widget"
+msgstr "样式-评分小工具"
+
+#: admin/templates/menu-customize.php:339
+msgid "Style - Global"
+msgstr "样式-全局"
+
+#: admin/templates/menu-customize.php:343
+msgid "Leave empty for default style."
+msgstr "保留默认样式为空。"
+
+#: admin/templates/menu-customize.php:321
+msgid "Text if feedback is empty"
+msgstr "如果反馈为空则输入文字"
+
+#: admin/templates/menu-about.php:28
+msgid "About Plugin"
+msgstr "关于插件"
+
+#: admin/templates/stats.php:26
+msgid "Displaying only rated posts and pages! To see feedback or change ratings click on a post/page title below and find the Rate my Post meta box at the bottom."
+msgstr "仅显示评分的文章和页面！要查看反馈或更改评分，请单击下面的文章/页面标题，然后在底部找到“Rate my Post plugin”元框。"
+
+#: admin/templates/menu-customize.php:597
+msgid "Reset Customization Options"
+msgstr "重置自定义选项"
+
+#: admin/templates/menu-customize.php:593
+#: admin/templates/menu-customize.php:604
+msgid "Save Customization Options"
+msgstr "保存自定义选项"
+
+#: admin/templates/menu-customize.php:407
+msgid "Subtitle Bottom Margin"
+msgstr "副标题底边距"
+
+#: admin/templates/menu-customize.php:394
+msgid "Title Bottom Margin"
+msgstr "标题底边距"
+
+#: admin/templates/menu-customize.php:572
+msgid "Social Icon Size"
+msgstr "社交图标大小"
+
+#: admin/templates/menu-customize.php:379
+msgid "Text Font Size"
+msgstr "文字字型大小"
+
+#: admin/templates/menu-customize.php:366
+msgid "Subtitle Font Size"
+msgstr "副标题字体大小"
+
+#: admin/templates/menu-customize.php:353
+msgid "Title Font Size"
+msgstr "标题字体大小"
+
+#: admin/templates/menu-customize.php:309
+msgid "Feedback button text"
+msgstr "反馈按钮文字"
+
+#: admin/templates/menu-customize.php:295
+msgid "Text after sending feedback"
+msgstr "发送反馈后的文字"
+
+#: admin/templates/menu-customize.php:283
+msgid "Text"
+msgstr "文本"
+
+#: admin/templates/menu-customize.php:253
+msgid "Strings - Feedback Widget"
+msgstr "字符串-反馈小工具"
+
+#: admin/templates/menu-customize.php:219
+msgid "Strings - Social Widget"
+msgstr "字符串-社交小工具"
+
+#: admin/templates/menu-customize.php:177
+msgid "Five stars hover text"
+msgstr "五颗星悬停文字"
+
+#: admin/templates/menu-customize.php:167
+msgid "Four stars hover text"
+msgstr "四星悬停文字"
+
+#: admin/templates/menu-customize.php:155
+msgid "Three stars hover text"
+msgstr "三颗星悬停文字"
+
+#: admin/templates/menu-customize.php:145
+msgid "Two stars hover text"
+msgstr "两颗星悬停文字"
+
+#: admin/templates/menu-customize.php:132
+msgid "One star hover text"
+msgstr "一星悬停文字"
+
+#: admin/templates/menu-customize.php:120
+msgid "Text after vote"
+msgstr "投票后文字"
+
+#: admin/templates/menu-customize.php:106
+msgid "Result text if no votes"
+msgstr "没有投票的结果文本"
+
+#: admin/templates/menu-customize.php:94
+msgid "Text if somebody tries to vote twice"
+msgstr "如果有人尝试投票两次的文本"
+
+#: admin/templates/menu-customize.php:80
+msgid "Result text - vote count"
+msgstr "结果文本-投票数"
+
+#: admin/templates/menu-customize.php:68
+msgid "Result text - average rating"
+msgstr "结果文本-平均评分"
+
+#: admin/templates/menu-customize.php:51 admin/templates/menu-customize.php:237
+#: admin/templates/menu-customize.php:270
+msgid "Subtitle"
+msgstr "副标题"
+
+#: admin/templates/menu-customize.php:29
+msgid "Strings - Rating Widget"
+msgstr "字符串-评分小工具"
+
+#: admin/templates/menu-customize.php:24
+msgid "Tip: First enable delete cookie on page load in settings. Add shortcode [ratemypost] to one of your posts and open it in the preview mode. Then custmize this plugin to your liking - after saving settings reload the post in the preview mode to see the changes you have made. After testing you can reset the ratings in meta box in edit post."
+msgstr "提示：首先在设置中的页面加载时启用删除Cookie。将简码[ratemypost]添加到您的某则文章中，并在预览模式下将其打开。然后根据自己的喜好定制此插件-保存设置后，以预览模式重新加载文章以查看所做的更改。测试后，您可以在编辑文章的“元”框中重置等级。"
+
+#: admin/templates/menu-options.php:612
+msgid "Reset Settings"
+msgstr "重新设置"
+
+#: admin/templates/menu-options.php:457
+msgid "Your Linkedin Page URL"
+msgstr "您的Linkedin页面URL"
+
+#: admin/templates/menu-options.php:445
+msgid "Your Twitter Page URL"
+msgstr "您的Twitter页面网址"
+
+#: admin/templates/menu-options.php:435
+msgid "Your Instagram Page URL"
+msgstr "您的Instagram页面网址"
+
+#: admin/templates/menu-options.php:383
+msgid "If you do not want an icon to be displayed, leave the field below empty!"
+msgstr "如果您不想显示图标，请将下面的字段留空！"
+
+#: admin/templates/menu-options.php:281
+msgid "Read more"
+msgstr "阅读更多"
+
+#: admin/templates/menu-options.php:280
+msgid "Insert comma separated post/page IDs"
+msgstr "插入逗号分隔的文章/页面ID"
+
+#: admin/templates/menu.php:38
+msgid "Customize"
+msgstr "自定义"
+
+#: admin/templates/meta-box.php:57
+msgid "Update Rating"
+msgstr "更新评级"
+
+#: admin/class-rate-my-post-admin.php:389
+#: admin/class-rate-my-post-admin.php:480
+msgid "Settings Reset Done"
+msgstr "重置设置完成"
+
+#: admin/class-rate-my-post-admin.php:59
+msgid "Are your sure you want to reset the settings?"
+msgstr "您确定要重置设置吗？"
+
+#. Author of the plugin
+msgid "Blaz K."
+msgstr "Blaz K."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/rate-my-post/"
+msgstr "https://wordpress.org/plugins/rate-my-post/"
+
+#: admin/templates/stats.php:33
+msgid "Votes"
+msgstr "投票数"
+
+#: admin/templates/menu-customize.php:36 admin/templates/menu-customize.php:225
+#: admin/templates/menu-customize.php:259 admin/templates/stats.php:32
+msgid "Title"
+msgstr "标题"
+
+#: admin/templates/stats.php:22
+msgid "Rate my Post Stats"
+msgstr "Rate my Post统计"
+
+#: admin/templates/menu-options.php:608 admin/templates/menu-options.php:619
+msgid "Save Settings"
+msgstr "保存设置"
+
+#: admin/templates/menu-options.php:423
+msgid "Your Flickr Page URL"
+msgstr "您的Flickr页面网址"
+
+#: admin/templates/menu-options.php:413
+msgid "Your Youtube Page URL"
+msgstr "您的YouTube页面网址"
+
+#: admin/templates/menu-options.php:401
+msgid "Your Pinterest Page URL"
+msgstr "您的Pinterest页面网址"
+
+#: admin/templates/menu-options.php:390
+msgid "Your Facebook Page URL"
+msgstr "您的Facebook页面网址"
+
+#: admin/templates/menu-options.php:36
+msgid "Stars"
+msgstr "星号"
+
+#: admin/class-rate-my-post-admin.php:284 admin/templates/menu.php:35
+msgid "Settings"
+msgstr "设置"
+
+#: admin/templates/meta-box.php:75 admin/templates/meta-box.php:105
+#: admin/templates/stats.php:35
+msgid "Feedback"
+msgstr "反馈"
+
+#: admin/templates/analytics.php:73 admin/templates/meta-box.php:45
+#: admin/templates/stats.php:34
+msgid "Average Rating"
+msgstr "平均评分"
+
+#: admin/templates/meta-box.php:31
+msgid "Number of Votes"
+msgstr "投票数"
+
+#: common/class-rate-my-post-settings.php:127
+#: public/class-rate-my-post-public.php:1640
+msgid "Thanks for your feedback!"
+msgstr "感谢您的反馈意见！"
+
+#: common/class-rate-my-post-settings.php:128
+#: public/class-rate-my-post-public.php:1641
+msgid "Submit Feedback"
+msgstr "提交反馈"
+
+#: common/class-rate-my-post-settings.php:126
+#: public/class-rate-my-post-public.php:1639
+msgid "Tell us how we can improve this post?"
+msgstr "告诉我们我们如何改善这篇文章？"
+
+#: common/class-rate-my-post-settings.php:125
+#: public/class-rate-my-post-public.php:1638
+msgid "Let us improve this post!"
+msgstr "让我们改善这篇文章！"
+
+#: common/class-rate-my-post-settings.php:124
+#: public/class-rate-my-post-public.php:1637
+msgid "We are sorry that this post was not useful for you!"
+msgstr "很抱歉，这篇文章对您没有用！"
+
+#: common/class-rate-my-post-settings.php:123
+#: public/class-rate-my-post-public.php:1636
+msgid "Follow us on social media!"
+msgstr "在社交媒体上关注我们！"
+
+#: common/class-rate-my-post-settings.php:122
+#: public/class-rate-my-post-public.php:1635
+msgid "As you found this post useful..."
+msgstr "如您所见，这篇文章很有用..."
+
+#: public/class-rate-my-post-public.php:647
+msgid "vote(s)"
+msgstr "投票"
+
+#: common/class-rate-my-post-settings.php:112
+#: public/class-rate-my-post-public.php:1625
+msgid "Average rating"
+msgstr "平均评分"
+
+#: common/class-rate-my-post-settings.php:121
+#: public/class-rate-my-post-public.php:1634
+msgid "Very useful"
+msgstr "很有用"
+
+#: common/class-rate-my-post-settings.php:120
+#: public/class-rate-my-post-public.php:1633
+msgid "Fairly useful"
+msgstr "相当有用"
+
+#: common/class-rate-my-post-settings.php:119
+#: public/class-rate-my-post-public.php:1632
+msgid "Useful"
+msgstr "有用"
+
+#: common/class-rate-my-post-settings.php:118
+#: public/class-rate-my-post-public.php:1631
+msgid "Somewhat useful"
+msgstr "有点用"
+
+#: common/class-rate-my-post-settings.php:117
+#: public/class-rate-my-post-public.php:1630
+msgid "Not at all useful"
+msgstr "根本没有用"
+
+#: common/class-rate-my-post-settings.php:111
+#: public/class-rate-my-post-public.php:1624
+msgid "Click on a star to rate it!"
+msgstr "点击星号为它评分！"
+
+#: common/class-rate-my-post-settings.php:110
+#: public/class-rate-my-post-public.php:1623
+msgid "How useful was this post?"
+msgstr "这篇文章有用吗？"
+
+#: admin/templates/meta-box.php:144
+msgid "No feedback so far!"
+msgstr "到目前为止没有反馈！"
+
+#: admin/class-rate-my-post-admin.php:58
+msgid "Saving"
+msgstr "保存中"
+
+#: common/class-rate-my-post-settings.php:116
+#: public/class-rate-my-post-public.php:1629
+msgid "Thank you for rating this post!"
+msgstr "感谢您为这篇文章评分！"
+
+#: common/class-rate-my-post-settings.php:114
+#: public/class-rate-my-post-public.php:1627
+msgid "You already voted! This vote will not be counted!"
+msgstr "您已经投票了！此投票将不计算在内！"
+
+#: common/class-rate-my-post-settings.php:115
+#: public/class-rate-my-post-public.php:1628
+msgid "No votes so far! Be the first to rate this post."
+msgstr "到目前为止还没有投票！成为第一位评论此文章。"

@@ -1,0 +1,145 @@
+# Translation of Plugins - Category Order and Taxonomy Terms Order - Stable (latest release) in Turkish
+# This file is distributed under the same license as the Plugins - Category Order and Taxonomy Terms Order - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-05-21 13:27:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: tr\n"
+"Project-Id-Version: Plugins - Category Order and Taxonomy Terms Order - Stable (latest release)\n"
+
+#. Description of the plugin
+msgid "Order Categories and all custom taxonomies terms (hierarchically) and child terms using a Drag and Drop Sortable javascript capability."
+msgstr "Kategori Sıralamaları, tüm özel taksonomi terimleri (hiyerarşik olarak) ve alt terimler Sürükle Bırak Sıralama yapabilir javascript özelliğini kullanır."
+
+#. Author of the plugin
+msgid "Nsp-Code"
+msgstr "Nsp-Code"
+
+#. Plugin URI of the plugin
+msgid "http://www.nsp-code.com"
+msgstr "http://www.nsp-code.com"
+
+#. Plugin Name of the plugin
+msgid "Category Order and Taxonomy Terms Order"
+msgstr "Category Order and Taxonomy Terms Order"
+
+#: taxonomy-terms-order.php:81
+msgid "Taxonomy Terms Order"
+msgstr "Kategori Sıralama"
+
+#: include/options.php:61
+msgid "Admin Sort"
+msgstr "Yönetici Sıralaması"
+
+#: include/options.php:78
+msgid "Save Settings"
+msgstr "Ayarları Kaydet"
+
+#: include/options.php:67
+msgid "This will change the order of terms within the admin interface"
+msgstr "Bu yönetici arayüzü içindeki terimlerin sırasını değiştirecek"
+
+#: include/options.php:56 include/options.php:67
+msgid "Auto Sort Description"
+msgstr "Otomatik Sırlama Açıklama"
+
+#: include/options.php:56 include/options.php:67
+msgid "Additional description and details at "
+msgstr "Ek açıklama ve ayrıntılar şurada "
+
+#: include/options.php:56
+msgid "global setting"
+msgstr "genel ayar"
+
+#: include/options.php:50
+msgid "Auto Sort"
+msgstr "Otomatik Sırala"
+
+#: include/options.php:54 include/options.php:65
+msgid "ON"
+msgstr "AÇIK"
+
+#: include/options.php:53 include/options.php:64
+msgid "OFF"
+msgstr "KAPALI"
+
+#: include/options.php:43
+msgid "Administrator"
+msgstr "Yönetici"
+
+#: include/options.php:42
+msgid "Editor"
+msgstr "Editör"
+
+#: include/options.php:41
+msgid "Author"
+msgstr "Yazar"
+
+#: include/options.php:40
+msgid "Contributor"
+msgstr "Katkıda Bulunan"
+
+#: include/options.php:39
+msgid "Subscriber"
+msgstr "Abone"
+
+#: include/options.php:36
+msgid "Minimum Level to use this plugin"
+msgstr "Bu eklenti kullanmak için Minimum Seviye"
+
+#: include/options.php:31
+msgid "General"
+msgstr "Genel"
+
+#: include/options.php:25
+msgid "General Settings"
+msgstr "Genel Ayarlar"
+
+#: include/interface.php:201
+msgid "Items Order Updated"
+msgstr "Öğelerin Sıralaması Güncellendi"
+
+#: include/options.php:17
+msgid "Settings Saved"
+msgstr "Ayarlar Kaydedildi"
+
+#: include/interface.php:100
+msgid "Taxonomies"
+msgstr "Taksonomiler"
+
+#: include/interface.php:156
+msgid "Update"
+msgstr "Güncelle"
+
+#: include/interface.php:104
+msgid "Total Posts"
+msgstr "Toplam Gönderiler"
+
+#: include/interface.php:104
+msgid "Taxonomy Title"
+msgstr "Taksonomi Başlığı"
+
+#: include/interface.php:46
+msgid "This plugin can't work without javascript, because it's use drag and drop and AJAX."
+msgstr "Bu eklenti sürükle ve bırak ve AJAX kullandığı için javascript olmadan çalışamaz."
+
+#: include/interface.php:38 taxonomy-terms-order.php:116
+#: taxonomy-terms-order.php:118 taxonomy-terms-order.php:120
+msgid "Taxonomy Order"
+msgstr "Kategori Sıralama"
+
+#: include/functions.php:56 include/functions.php:57
+msgid "Check our"
+msgstr "Göz atın"
+
+#: include/functions.php:54
+msgid "Did you find this plugin useful? Please support our work with a donation or write an article about this plugin in your blog with a link to our site"
+msgstr "Bu eklentiyi faydalı mı buldunuz? Lütfen çalışmamızı bağışla destekleyin veya eklenti hakkında blogunuzda bir yazı yazın ve sitemize link verin"
+
+#: include/functions.php:55
+msgid "Read more"
+msgstr "Devamını oku"

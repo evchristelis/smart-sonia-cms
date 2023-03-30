@@ -1,0 +1,1281 @@
+# Translation of Plugins - Code Snippets - Development (trunk) in Dutch
+# This file is distributed under the same license as the Plugins - Code Snippets - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-08-19 11:09:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Code Snippets - Development (trunk)\n"
+
+#: php/views/manage.php:59
+msgid "Go <span class=\"badge\">Pro</span>"
+msgstr "Ga voor <span class=\"badge\">Pro</span>"
+
+#: php/views/partials/edit-scopes.php:102
+msgid "Evaluate additional shortcode tags"
+msgstr "Evalueer extra shortcode tags"
+
+#: php/views/partials/edit-scopes.php:98
+msgid "Add paragraphs and formatting"
+msgstr "Paragrafen en opmaak toevoegen"
+
+#: php/views/partials/edit-scopes.php:94
+msgid "Evaluate PHP code"
+msgstr "PHP code evalueren"
+
+#: php/views/partials/edit-scopes.php:90
+msgid "Shortcode Options: "
+msgstr "Shortcode opties: "
+
+#. translators: %s: snippet shortcode tag
+#: php/views/partials/edit-scopes.php:75
+msgid "After saving, you will be able to use the %s shortcode to insert your content into a post or page."
+msgstr "Na het opslaan kun je de %s shortcode gebruiken om je inhoud in een bericht of pagina te plaatsen."
+
+#. translators: %s: snippet shortcode tag
+#: php/views/partials/edit-scopes.php:75
+msgid "You can use the %s shortcode to insert your content into a post or page."
+msgstr "Je kunt de %s shortcode gebruiken om je inhoud in een bericht of pagina in te voegen."
+
+#: php/views/partials/edit-scopes.php:66
+msgid "Only display when inserted into a post or page."
+msgstr "Wordt alleen weergegeven als het in een bericht of pagina wordt ingevoegd."
+
+#: php/views/partials/edit-scopes.php:52
+msgid "Load JS in the &lt;head&gt; section"
+msgstr "Laad JS in het &lt;head&gt; sectie"
+
+#: php/views/partials/edit-scopes.php:51
+msgid "Load JS at the end of the &lt;body&gt; section"
+msgstr "Laad JS aan het einde van de &lt;body&gt; sectie"
+
+#: php/views/partials/edit-scopes.php:39
+msgid "Administration area styles"
+msgstr "Beheergebied stijlen"
+
+#: php/views/partials/edit-scopes.php:38
+msgid "Site front-end styles"
+msgstr "Site front-end stijlen"
+
+#: php/views/manage.php:95
+msgid "Search Snippets"
+msgstr "Zoek snippets"
+
+#. translators: %s: snippet type name
+#: php/views/manage.php:77
+msgid "Learn more about %s &rarr;"
+msgstr "Leer meer over %s &rarr;"
+
+#: php/views/manage.php:73
+msgid "javascript snippets"
+msgstr "JavaScript snippets"
+
+#: php/views/manage.php:72
+msgid "style snippets"
+msgstr "stijl snippets"
+
+#: php/views/manage.php:71
+msgid "content snippets"
+msgstr "inhoud snippets"
+
+#: php/views/manage.php:70
+msgid "function snippets"
+msgstr "functie snippets"
+
+#: php/views/manage.php:18
+msgid "All Snippets"
+msgstr "Alle snippets"
+
+#: php/settings/settings-fields.php:202
+msgid "Highlight the line that is currently being edited."
+msgstr "Markeer de regel die momenteel wordt bewerkt."
+
+#: php/settings/settings-fields.php:201
+msgid "Highlight Active Line"
+msgstr "Actieve lijn markeren"
+
+#: php/settings/settings-fields.php:81
+msgid "Modified (oldest first)"
+msgstr "Gewijzigd (oudste eerst)"
+
+#: php/settings/settings-fields.php:80
+msgid "Modified (latest first)"
+msgstr "Gewijzigd (laatste eerst)"
+
+#: php/settings/settings-fields.php:79
+msgid "Name (Z-A)"
+msgstr "Naam (Z-A)"
+
+#: php/settings/settings-fields.php:78
+msgid "Name (A-Z)"
+msgstr "Naam (A-Z)"
+
+#: php/settings/settings-fields.php:75
+msgid "Default way to order snippets on the All Snippets admin menu."
+msgstr "Standaard manier om snippets te ordenen in het Alle snippets beheer menu."
+
+#: php/settings/settings-fields.php:73
+msgid "Snippets List Order"
+msgstr "Snippets lijst volgorde"
+
+#: php/front-end/mce-strings.php:22
+msgid "Show line numbers"
+msgstr "Toon regelnummers"
+
+#: php/front-end/mce-strings.php:21
+msgid "Insert Snippet Source"
+msgstr "Snippet source invoegen"
+
+#: php/front-end/mce-strings.php:20
+msgid "Snippet Source Code"
+msgstr "Knipsel source code"
+
+#: php/front-end/mce-strings.php:18
+msgid "Enable shortcodes"
+msgstr "Shortcodes inschakelen"
+
+#: php/front-end/mce-strings.php:17
+msgid "Apply formatting"
+msgstr "Opmaak toepassen"
+
+#: php/front-end/mce-strings.php:16
+msgid "Run PHP code"
+msgstr "Draai PHP code"
+
+#: php/front-end/mce-strings.php:15
+msgid "Snippet"
+msgstr "Snippet"
+
+#: php/front-end/mce-strings.php:14
+msgid "Insert Content Snippet"
+msgstr "Inhoud snippet invoegen"
+
+#: php/front-end/mce-strings.php:13
+msgid "Content Snippet"
+msgstr "Inhoud snippet"
+
+#. translators: 1: snippet name, 2: snippet edit link
+#: php/front-end/class-frontend.php:182
+msgid "<strong>%1$s</strong> is currently inactive. You can <a href=\"%2$s\">edit this snippet</a> to activate it and make it visible. This message will not appear in the published post."
+msgstr "<strong>%1$s</strong> is momenteel inactief. Je kunt <a href=\"%2$s\">dit snippet bewerken</a> om het te activeren en zichtbaar te maken. Dit bericht zal niet verschijnen in de gepubliceerde bericht."
+
+#. translators: %d: snippet ID
+#: php/front-end/class-frontend.php:137
+msgid "Could not load snippet with an invalid ID: %d."
+msgstr "Kon snippet met een ongeldige ID niet laden: %d."
+
+#: php/class-upgrade.php:200
+msgid "Shortcode for inserting the current year into a post or page.."
+msgstr "Shortcode voor het invoegen van het huidige jaar in een bericht of pagina..."
+
+#: php/class-upgrade.php:198
+msgid "Current year"
+msgstr "Huidig jaar"
+
+#: php/class-upgrade.php:194
+msgid "Allows smiley conversion in obscure places."
+msgstr "Maakt smiley conversie mogelijk op onduidelijke plaatsen."
+
+#: php/class-upgrade.php:192
+msgid "Allow smilies"
+msgstr "Sta smilies toe"
+
+#: php/class-upgrade.php:187
+msgid "Turns off the WordPress admin bar for everyone except administrators."
+msgstr "Schakelt de WordPress beheer balk uit voor iedereen behalve beheerders."
+
+#: php/class-upgrade.php:185
+msgid "Disable admin bar"
+msgstr "Uitschakelen beheerdersbalk"
+
+#: php/class-upgrade.php:181
+msgid "Makes sure that image and file uploads have lowercase filenames."
+msgstr "Zorgt ervoor dat bestandsnamen bij het uploaden van afbeeldingen en bestanden kleine letters hebben."
+
+#: php/class-upgrade.php:179
+msgid "Make upload filenames lowercase"
+msgstr "Maak van upload bestandsnamen kleine letters"
+
+#: php/class-upgrade.php:175
+msgid "This is a sample snippet. Feel free to use it, edit it, or remove it."
+msgstr "Dit is een voorbeeld snippet. Voel je vrij om het te gebruiken, te bewerken, of te verwijderen."
+
+#: php/class-snippet.php:517
+msgid "Footer styles"
+msgstr "Footer stijlen"
+
+#: php/class-snippet.php:515
+msgid "Head styles"
+msgstr "Head stijlen"
+
+#: php/class-snippet.php:513
+msgid "Front-end styles"
+msgstr "Front-end stijlen"
+
+#: php/class-snippet.php:511
+msgid "Admin styles"
+msgstr "Beheerder stijlen"
+
+#: php/class-snippet.php:509
+msgid "Footer content"
+msgstr "Footer inhoud"
+
+#: php/class-snippet.php:507
+msgid "Head content"
+msgstr "Head inhoud"
+
+#: php/class-snippet.php:503
+msgid "Single-use function"
+msgstr "Functie voor eenmalig gebruik"
+
+#: php/class-snippet.php:501
+msgid "Front-end function"
+msgstr "Front-end functie"
+
+#: php/class-snippet.php:499
+msgid "Admin function"
+msgstr "Beheer functie"
+
+#: php/class-snippet.php:497
+msgid "Global function"
+msgstr "Globale functie"
+
+#: php/class-snippet.php:382
+msgid "Scripts"
+msgstr "Scripts"
+
+#: php/class-snippet.php:381
+msgid "Styles"
+msgstr "Stijlen"
+
+#: php/class-plugin.php:316
+msgid "Content snippets are bits of reusable PHP and HTML content that can be inserted into posts and pages."
+msgstr "Inhoud snippets zijn stukjes herbruikbare PHP en HTML inhoud die in berichten en pagina's kunnen worden ingevoegd."
+
+#: php/class-plugin.php:315
+msgid "Function snippets are run on your site as if there were in a plugin or theme functions.php file."
+msgstr "Functie snippets worden op je site uitgevoerd alsof ze in een plugin of thema functions.php bestand staan."
+
+#: php/class-plugin.php:302 php/class-snippet.php:380 php/class-snippet.php:505
+msgid "Content"
+msgstr "Inhoud"
+
+#: php/class-plugin.php:301 php/class-snippet.php:379
+msgid "Functions"
+msgstr "Functies"
+
+#. translators: %s: snippet title
+#: php/class-list-table.php:1299
+msgid "%s [CLONE]"
+msgstr "%s [CLONE]"
+
+#: php/class-list-table.php:871
+msgid "It looks like you don't have any snippets of this type."
+msgstr "Het lijkt erop dat je geen snippets hebt van dit type."
+
+#: php/class-list-table.php:410
+msgid "Type"
+msgstr "Type"
+
+#: php/class-contextual-help.php:146
+msgid "If you're not sure about the types of snippets you can add, take a look at the <a href=\"https://help.codesnippets.pro/collection/2-adding-snippets\">Code Snippets Pro Docs</a> for inspiration."
+msgstr "Als je niet zeker weet welke soorten snippets je kunt toevoegen, kijk dan eens naar de <a href=\"https://help.codesnippets.pro/collection/2-adding-snippets\">Code snippets pro docs</a> voor inspiratie."
+
+#: php/class-contextual-help.php:130
+msgid "You can find out how to enable safe mode in the <a href=\"https://help.codesnippets.pro/article/12-safe-mode\">Code Snippets Pro Docs</a>."
+msgstr "Je kunt in de <a href=\"https://help.codesnippets.pro/article/12-safe-mode\">Code snippets pro docs</a> vinden hoe je de veilige modus inschakelt."
+
+#: php/class-contextual-help.php:129
+msgid "If something goes wrong with a snippet, and you can't use WordPress, you can cause all snippets to stop executing by turning on <strong>safe mode</strong>."
+msgstr "Als er iets mis gaat met een snippet, en je kunt WordPress niet gebruiken, dan kan je ervoor zorgen dat alle snippets stoppen met uitvoeren door de <strong>veilige modus</strong> in te schakelen."
+
+#: php/class-admin.php:251
+msgid "Active Snippets"
+msgstr "Actieve snippets"
+
+#. translators: %s: formatted last modified date
+#: php/class-admin.php:234
+msgid "Last modified %s"
+msgstr "Laatst gewijzigd %s"
+
+#: php/class-admin.php:197
+msgid "Upgrade to Pro"
+msgstr "Upgraden naar Pro"
+
+#: php/class-admin.php:196
+msgid "Upgrade to Code Snippets Pro"
+msgstr "Upgrade naar Code Snippets Pro"
+
+#: php/class-admin.php:190
+msgid "Find out how to get support with Code Snippets"
+msgstr "Ervaar hoe je ondersteuning krijgt met Code Snippets"
+
+#: php/class-admin.php:184
+msgid "Find out more about Code Snippets"
+msgstr "Ervaar meer over Code Snippets"
+
+#: php/class-admin.php:140
+msgid "Change plugin settings"
+msgstr "Wijzig plugin instellingen"
+
+#: php/admin-menus/class-edit-menu.php:658
+msgid "This snippet has no snippet code. Continue?"
+msgstr "Deze snippet heeft geen snippet code. Doorgaan?"
+
+#: php/admin-menus/class-edit-menu.php:657
+msgid "This snippet has no title. Continue?"
+msgstr "Deze snippet heeft geen titel. Doorgaan?"
+
+#: php/admin-menus/class-edit-menu.php:656
+msgid "This snippet has no code or title. Continue?"
+msgstr "Deze snippet heeft geen code of titel. Doorgaan?"
+
+#. translators: %s: Update PHP URL
+#: code-snippets.php:90
+msgid "Please <a href=\"%s\">upgrade your server to the latest version of PHP</a> to continue using Code Snippets."
+msgstr "<a href=\"%s\">Upgrade je server naar de laatste versie van PHP</a> om Code Snippets te kunnen blijven gebruiken."
+
+#: code-snippets.php:83
+msgid "Code Snippets requires PHP 5.6 or later."
+msgstr "Code Snippets vereist PHP 5.6 of later."
+
+#: code-snippets.php:47
+msgid "Another version of Code Snippets appears to be installed. Deactivating this version."
+msgstr "Een andere versie van Code Snippets lijkt geïnstalleerd te zijn. Deactiveer deze versie."
+
+#: php/admin-menus/class-edit-menu.php:525
+msgid "RTL"
+msgstr "RTL"
+
+#: php/admin-menus/class-edit-menu.php:524
+msgid "LTR"
+msgstr "LTR"
+
+#: php/admin-menus/class-edit-menu.php:521
+msgid "Code Direction"
+msgstr "Code volgorde"
+
+#: php/admin-menus/class-manage-menu.php:150
+msgid "An error occurred when attempting to activate"
+msgstr "Er is een fout opgetreden bij een poging om te activeren"
+
+#. translators: 1: search query, 2: line number
+#: php/class-list-table.php:1235
+msgid " for &ldquo;%1$s&rdquo; on line %2$d"
+msgstr " voor &ldquo;%1$s&rdquo; op regel %2$d"
+
+#: php/class-list-table.php:413
+msgid "Modified"
+msgstr "Gewijzigd"
+
+#. translators: 1: date format, 2: time format
+#: php/class-snippet.php:625
+msgctxt "date and time format"
+msgid "%1$s \\a\\t %2$s"
+msgstr "%1$s \\a\\t %2$s"
+
+#: php/class-snippet.php:617
+msgid "Y/m/d"
+msgstr "J/m/d"
+
+#. translators: %s: Human-readable time difference.
+#: php/class-snippet.php:615
+msgid "%s ago"
+msgstr "%s geleden"
+
+#: php/class-validator.php:253
+msgid "Parse error: syntax error, unexpected end of snippet"
+msgstr "Parse fout: syntaxisfout, onverwacht einde van snippet"
+
+#. translators: %s: PHP identifier name
+#: php/class-validator.php:215
+msgid "Cannot redeclare %s."
+msgstr "Kan %s niet opnieuw declareren."
+
+#. translators: %s: PHP interface name
+#: php/class-validator.php:211
+msgid "Cannot redeclare interface %s."
+msgstr "Kan interface %s niet opnieuw declareren."
+
+#. translators: %s: PHP class name
+#: php/class-validator.php:207
+msgid "Cannot redeclare class %s."
+msgstr "Kan klasse %s niet opnieuw declareren."
+
+#. translators: %s: PHP function name
+#: php/class-validator.php:203
+msgid "Cannot redeclare function %s."
+msgstr "Kan functie %s niet opnieuw declareren."
+
+#: php/class-validator.php:190
+msgid "Parse error: syntax error, unexpected end of snippet."
+msgstr "Parse fout: syntaxisfout, onverwacht einde van snippet."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://codesnippets.pro"
+msgstr "https://codesnippets.pro"
+
+#. Author of the plugin
+msgid "Code Snippets Pro"
+msgstr "Code Snippets Pro"
+
+#: php/class-list-table.php:863
+msgid "No snippets were found matching the current search query. Please enter a new query or use the \"Clear Filters\" button above."
+msgstr "Er zijn geen snippets gevonden die overeenkomen met de huidige zoekopdracht. Voer een nieuwe zoekopdracht in of gebruik de knop \"Filters wissen\" hierboven."
+
+#: php/views/partials/editor-shortcuts.php:22
+msgid "Save changes"
+msgstr "Wijzigingen opslaan"
+
+#: php/admin-menus/class-edit-menu.php:828
+msgctxt "keyboard key"
+msgid "S"
+msgstr "S"
+
+#: php/admin-menus/class-edit-menu.php:500
+msgid "Save Snippet and Activate"
+msgstr "Snippet opslaan en activeren"
+
+#: php/admin-menus/class-edit-menu.php:494
+msgid "Save Snippet and Deactivate"
+msgstr "Snippet opslaan en deactiveren"
+
+#: php/admin-menus/class-edit-menu.php:486
+msgid "Save Snippet and Execute Once"
+msgstr "Snippet opslaan en eenmalig uitvoeren"
+
+#: php/admin-menus/class-edit-menu.php:485
+msgid "Execute Once"
+msgstr "Eenmalig uitvoeren"
+
+#: php/admin-menus/class-edit-menu.php:478
+msgid "Save Snippet"
+msgstr "Snippet opslaan"
+
+#: php/admin-menus/class-edit-menu.php:477
+#: php/admin-menus/class-edit-menu.php:722
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: php/views/partials/editor-shortcuts.php:46
+msgid "Persistent search"
+msgstr "Aanhoudend zoeken"
+
+#: php/views/partials/editor-shortcuts.php:42
+msgid "Replace all"
+msgstr "Vervang alles"
+
+#: php/views/partials/editor-shortcuts.php:38
+msgid "Replace"
+msgstr "Vervangen"
+
+#: php/views/partials/editor-shortcuts.php:34
+msgid "Find previous"
+msgstr "Vorige zoeken"
+
+#: php/views/partials/editor-shortcuts.php:30
+msgid "Find next"
+msgstr "Volgende zoeken"
+
+#: php/views/partials/editor-shortcuts.php:26
+msgid "Begin searching"
+msgstr "Begin het zoeken"
+
+#: php/admin-menus/class-edit-menu.php:827
+msgctxt "keyboard key"
+msgid "R"
+msgstr "R"
+
+#: php/admin-menus/class-edit-menu.php:826
+msgctxt "keyboard key"
+msgid "G"
+msgstr "G"
+
+#: php/admin-menus/class-edit-menu.php:825
+msgctxt "keyboard key"
+msgid "F"
+msgstr "F"
+
+#: php/admin-menus/class-edit-menu.php:824
+msgctxt "keyboard key"
+msgid "Alt"
+msgstr "Alt"
+
+#: php/admin-menus/class-edit-menu.php:823
+msgctxt "keyboard key"
+msgid "Option"
+msgstr "Optie"
+
+#: php/admin-menus/class-edit-menu.php:822
+msgctxt "keyboard key"
+msgid "Shift"
+msgstr "Shift"
+
+#: php/admin-menus/class-edit-menu.php:821
+msgctxt "keyboard key"
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: php/admin-menus/class-edit-menu.php:820
+msgctxt "keyboard key"
+msgid "Cmd"
+msgstr "Cmd"
+
+#: php/views/partials/editor-shortcuts.php:17
+msgctxt "help tooltip"
+msgid "?"
+msgstr "?"
+
+#: php/class-contextual-help.php:170
+msgid "Here you can load snippets from a code snippets export file into the database alongside existing snippets."
+msgstr "Hier kan je snippets uit een exportbestand van code snippets in de database laden naast bestaande snippets."
+
+#: php/class-contextual-help.php:145
+msgid "Here you can add a new snippet, or edit an existing one."
+msgstr "Hier kun je een nieuwe snippet toevoegen of een bestaande snippet bewerken."
+
+#: php/class-contextual-help.php:121
+msgid "Here you can manage your existing snippets and perform tasks on them such as activating, deactivating, deleting and exporting."
+msgstr "Hier kan je je bestaande snippets beheren en er taken op uitvoeren zoals activeren, deactiveren, verwijderen en exporteren."
+
+#: php/class-contextual-help.php:109
+msgid "Snippets are similar to plugins - they both extend and expand the functionality of WordPress. Snippets are more light-weight, just a few lines of code, and do not put as much load on your server. "
+msgstr "Snippets zijn vergelijkbaar met plugins - ze breiden beide de functionaliteit van WordPress uit. Snippets zijn lichter van gewicht, slechts een paar regels code, en belasten je server niet zo zwaar. "
+
+#: php/admin-menus/class-edit-menu.php:27
+msgctxt "menu label"
+msgid "Edit Snippet"
+msgstr "Snippet bewerken"
+
+#: php/admin-menus/class-manage-menu.php:97
+msgctxt "tools submenu label"
+msgid "Snippets"
+msgstr "Snippets"
+
+#: php/admin-menus/class-admin-menu.php:222
+msgctxt "snippets"
+msgid "Settings"
+msgstr "instellingen"
+
+#: php/admin-menus/class-admin-menu.php:213
+#: php/admin-menus/class-settings-menu.php:131
+msgctxt "snippets"
+msgid "Manage"
+msgstr "Beheren"
+
+#. translators: %s: tag name
+#: php/class-list-table.php:1251
+msgid " in tag &ldquo;%s&rdquo;"
+msgstr " in tag &ldquo;%s&rdquo;"
+
+#. translators: %s: search query
+#: php/class-list-table.php:1244
+msgid " for &ldquo;%s&rdquo;"
+msgstr " voor &ldquo;%s&rdquo;"
+
+#: php/admin-menus/class-admin-menu.php:219
+msgctxt "snippets"
+msgid "Import"
+msgstr "Importeren"
+
+#: php/views/import.php:84
+msgid "Upload Files"
+msgstr "Upload bestanden"
+
+#: php/class-list-table.php:869
+msgid "It looks like you don't have any snippets."
+msgstr "Het lijkt erop dat je geen snippets hebt."
+
+#: php/class-list-table.php:241 php/class-list-table.php:465
+msgid "Clone"
+msgstr "Kloon"
+
+#: php/admin-menus/class-manage-menu.php:177
+msgid "Selected snippets <strong>cloned</strong>."
+msgstr "Geselecteerde snippets zijn <strong>gekloond</strong>."
+
+#: php/admin-menus/class-manage-menu.php:176
+msgid "Snippet <strong>cloned</strong>."
+msgstr "Snippet <strong>gekloond</strong>."
+
+#: php/admin-menus/class-edit-menu.php:440 php/class-list-table.php:414
+#: php/settings/settings-fields.php:77
+msgid "Priority"
+msgstr "Prioriteit"
+
+#: php/admin-menus/class-edit-menu.php:439
+msgid "Snippets with a lower priority number will run before those with a higher number."
+msgstr "Snippets met een lager prioriteitsnummer worden eerder uitgevoerd dan degene met een hoger nummer."
+
+#: php/views/import.php:55
+msgid "Duplicate Snippets"
+msgstr "Dupliceer snippets"
+
+#: php/settings/settings-fields.php:96
+msgid "When the plugin is deleted from the Plugins menu, also delete all snippets and plugin settings."
+msgstr "Als de plugin verwijderd wordt uit het plugin menu, verwijder dan ook alle snippets en plugin instellingen."
+
+#: php/settings/settings-fields.php:94
+msgid "Complete Uninstall"
+msgstr "Volledige deinstallatie"
+
+#: php/admin-menus/class-settings-menu.php:162
+msgid "Reset to Default"
+msgstr "Herstel naar standaardwaarden"
+
+#: php/admin-menus/class-settings-menu.php:47
+msgid "All settings have been reset to their defaults."
+msgstr "Alle instellingen zijn teruggezet naar hun standaardwaarden."
+
+#: php/admin-menus/class-import-menu.php:137
+msgid "No snippets were imported."
+msgstr "Er werden geen snippets geïmporteerd."
+
+#: php/views/import.php:79
+msgid "Do not import any duplicate snippets; leave all existing snippets unchanged."
+msgstr "Importeer geen dubbele snippets; laat alle bestaande snippets ongewijzigd."
+
+#: php/views/import.php:72
+msgid "Replace any existing snippets with a newly imported snippet of the same name."
+msgstr "Vervang bestaande snippets door een nieuw geïmporteerde snippet met dezelfde naam."
+
+#: php/views/import.php:65
+msgid "Ignore any duplicate snippets: import all snippets from the file regardless and leave all existing snippets unchanged."
+msgstr "Negeer dubbele snippets: importeer alle snippets ongeacht het bestand en laat alle bestaande snippets ongewijzigd."
+
+#: php/views/import.php:58
+msgid "What should happen if an existing snippet is found with an identical name to an imported snippet?"
+msgstr "Wat moet er gebeuren als er een bestaande snippet wordt gevonden met een identieke naam als een geïmporteerde snippet?"
+
+#: php/views/import.php:87
+msgid "Choose one or more Code Snippets (.xml or .json) files to upload, then click \"Upload files and import\"."
+msgstr "Kies een of meer code snippets bestanden (.xml of .json) om te uploaden en klik vervolgens op\"Bestanden uploaden en importeren\"."
+
+#: php/views/import.php:38
+msgid "Upload one or more Code Snippets export files and the snippets will be imported."
+msgstr "Upload een of meer exportbestanden voor code snippet en de snippets worden geïmporteerd."
+
+#: php/admin-menus/class-edit-menu.php:725
+msgid "Save Changes and Execute Once"
+msgstr "Wijzigingen opslaan en eenmaal uitvoeren"
+
+#: php/admin-menus/class-edit-menu.php:745 php/class-list-table.php:466
+msgid "Download"
+msgstr "Download"
+
+#: php/class-list-table.php:282
+msgid "Run Once"
+msgstr "Eénmalig uitvoeren"
+
+#: php/class-admin.php:78
+msgid "Snippets &raquo; Settings"
+msgstr "Snippets &raquo; Instellingen"
+
+#: php/admin-menus/class-manage-menu.php:169
+msgid "Snippet <strong>executed</strong>."
+msgstr "Snippet <strong>uitgevoerd</strong>."
+
+#: php/admin-menus/class-edit-menu.php:617
+msgid "Snippet <strong>added</strong> and <strong>executed</strong>."
+msgstr "Snippet <strong>toegevoegd</strong> en <strong>uitgevoerd</strong>."
+
+#: php/views/partials/edit-scopes.php:26
+msgid "Only run once"
+msgstr "Eénmalig uitvoeren"
+
+#: php/admin-menus/class-edit-menu.php:458
+msgid "Sharing Settings"
+msgstr "Instellingen delen"
+
+#: php/class-list-table.php:878
+msgid "Perhaps you would like to add a new one?"
+msgstr "Misschien wil je een nieuwe toevoegen?"
+
+#: php/class-list-table.php:234
+msgid "Network Only"
+msgstr "Alleen netwerk"
+
+#: php/class-list-table.php:232
+msgid "Network Active"
+msgstr "Netwerk actief"
+
+#: php/admin-menus/class-edit-menu.php:777
+msgid "You are about to permanently delete this snippet."
+msgstr "Je staat op het punt dit snippet definitief te verwijderen."
+
+#: php/views/edit.php:75
+msgid "Enter title here"
+msgstr "Titel hier invoeren"
+
+#: php/admin-menus/class-edit-menu.php:778 php/class-list-table.php:257
+msgid "'Cancel' to stop, 'OK' to delete."
+msgstr "\"Annuleren\" om te stoppen, \"Oké\" om te verwijderen."
+
+#: php/class-list-table.php:256
+msgid "You are about to permanently delete the selected item."
+msgstr "Je staat op het punt het geselecteerde item definitief te verwijderen."
+
+#: php/admin-menus/class-settings-menu.php:25
+msgctxt "menu label"
+msgid "Settings"
+msgstr "Instellingen"
+
+#: php/admin-menus/class-manage-menu.php:55
+msgctxt "top-level menu label"
+msgid "Snippets"
+msgstr "Snippets"
+
+#: php/admin-menus/class-manage-menu.php:27
+msgctxt "menu label"
+msgid "All Snippets"
+msgstr "Alle snippets"
+
+#: php/admin-menus/class-import-menu.php:19
+msgctxt "menu label"
+msgid "Import"
+msgstr "Importeren"
+
+#: php/admin-menus/class-edit-menu.php:54
+msgctxt "menu label"
+msgid "Add New"
+msgstr "Nieuwe toevoegen"
+
+#: php/settings/settings-fields.php:89
+msgid "Disable the syntax highlighting for the [code_snippet] shortcode on the front-end."
+msgstr "Schakel de syntax markering uit voor de [code_snippet] shortcode op de front-end."
+
+#: php/settings/settings-fields.php:87
+msgid "Disable Shortcode Syntax Highlighter"
+msgstr "Schakel de shortcode syntaxmarkeerder uit"
+
+#: php/class-contextual-help.php:62
+msgid "Plugin Website"
+msgstr "Plugin site"
+
+#: php/class-admin.php:311
+msgid "Dismiss"
+msgstr "Negeren"
+
+#: php/admin-menus/class-edit-menu.php:599
+msgid "The snippet has been deactivated due to an error in the code."
+msgstr "De snippet werd gedeactiveerd vanwege een fout in de code."
+
+#. translators: %d: line of file where error originated
+#: php/admin-menus/class-edit-menu.php:589
+msgid "The snippet has been deactivated due to an error on line %d:"
+msgstr "De snippet werd gedeactiveerd vanwege een fout in regelnummer %d:"
+
+#: php/admin-menus/class-edit-menu.php:228
+msgid "If you prefer, you can close this page and discard the changes you just made. No changes will be made to this site."
+msgstr "Indien het je voorkeur heeft, kun je deze pagina sluiten en de wijzigingen die je zojuist hebt gemaakt weggooien. Er zullen geen wijzigingen worden aangebracht op deze site."
+
+#: php/admin-menus/class-edit-menu.php:227
+msgid "Please use the back button in your browser to return to the previous page and try to fix the code error."
+msgstr "Gebruik de terugknop in de browser om terug te keren naar de vorige pagina en probeer de codefout te corrigeren."
+
+#: php/admin-menus/class-edit-menu.php:226
+msgid "The previous version of the snippet is unchanged, and the rest of this site should be functioning normally as before."
+msgstr "De vorige versie van de snippet is onveranderd, en de rest van de site zou normaal moeten functioneren zoals voorheen."
+
+#. translators: %d: line where error was produced
+#: php/admin-menus/class-edit-menu.php:224
+msgid "The code snippet you are trying to save produced a fatal error on line %d:"
+msgstr "De code-snippet die je probeert op te slaan veroorzaakt een fatale fout op regelnummer %d:"
+
+#: php/admin-menus/class-edit-menu.php:222
+msgid "Don't Panic"
+msgstr "Geen paniek"
+
+#. Description of the plugin
+msgid "An easy, clean and simple way to run code snippets on your site. No need to edit to your theme's functions.php file again!"
+msgstr "Een eenvoudige, schone en simpele manier om code snippets aan je site toe te voegen. Je hoeft nooit meer je thema's functions.php te wijzigen!"
+
+#: php/views/import.php:106
+msgid "Upload files and import"
+msgstr "Upload en importeer bestanden"
+
+#. translators: %s: size in bytes
+#: php/views/import.php:95
+msgid "(Maximum size: %s)"
+msgstr "(Maximale grootte: %s)"
+
+#: php/views/import.php:92
+msgid "Choose files from your computer:"
+msgstr "Kies een bestand van je computer:"
+
+#. translators: %s: link to snippets admin menu
+#: php/views/import.php:43
+msgid "Afterwards, you will need to visit the <a href=\"%s\">All Snippets</a> page to activate the imported snippets."
+msgstr "Daarna zul je naar de pagina <a href=\"%s\">Alle snippets</a> moeten gaan om de geïmporteerde snippets te activeren."
+
+#: php/admin-menus/class-edit-menu.php:730
+msgid "Save Changes and Deactivate"
+msgstr "Wijzigingen opslaan en deactiveren"
+
+#: php/admin-menus/class-edit-menu.php:732
+msgid "Save Changes and Activate"
+msgstr "Wijzigingen opslaan en activeren"
+
+#: php/views/edit.php:86
+msgid "Code"
+msgstr "Code"
+
+#: php/admin-menus/class-admin-menu.php:216
+#: php/admin-menus/class-settings-menu.php:132 php/views/edit.php:39
+msgctxt "snippet"
+msgid "Add New"
+msgstr "Nieuwe toevoegen"
+
+#: php/admin-menus/class-settings-menu.php:229 php/settings/settings.php:283
+msgid "Settings saved."
+msgstr "Instellingen opgeslagen."
+
+#: php/settings/settings.php:197
+msgid "Editor Preview"
+msgstr "Editor voorbeeld"
+
+#: php/settings/settings.php:145
+msgid "Code Editor"
+msgstr "Code editor"
+
+#: php/settings/settings.php:144
+msgid "Description Editor"
+msgstr "Beschrijvingsbewerker"
+
+#: php/settings/settings.php:143
+msgid "General"
+msgstr "Algemeen"
+
+#: php/settings/settings-fields.php:194
+msgid "Highlight all instances of a currently selected word."
+msgstr "Markeer alle exemplaren van het huidige geselecteerd woord."
+
+#: php/settings/settings-fields.php:193
+msgid "Highlight Selection Matches"
+msgstr "Markeer selectie overeenkomsten"
+
+#: php/settings/settings-fields.php:187
+msgid "Auto-close brackets and quotes when typed."
+msgstr "Sluit haakjes en aanhalingstekens automatisch wanneer ze worden getypt."
+
+#: php/settings/settings-fields.php:185
+msgid "Auto Close Brackets"
+msgstr "Haakjes automatisch sluiten"
+
+#: php/settings/settings-fields.php:179
+msgid "Show line numbers to the left of the editor."
+msgstr "Toon regelnummers aan de linkerkant van de editor."
+
+#: php/settings/settings-fields.php:177
+msgid "Line Numbers"
+msgstr "Lijn nummers"
+
+#: php/settings/settings-fields.php:171
+msgid "Whether the editor should scroll or wrap for long lines."
+msgstr "Of de editor moet scrollen of omsluiten voor lange regels."
+
+#: php/settings/settings-fields.php:169
+msgid "Wrap Lines"
+msgstr "Lijnen omsluiten"
+
+#: php/settings/settings-fields.php:162
+msgid "How many spaces a block should be indented."
+msgstr "Met hoeveel spaties een blok moet inspringen."
+
+#: php/settings/settings-fields.php:160
+msgid "Indent Unit"
+msgstr "Inspring eenheid"
+
+#: php/settings/settings-fields.php:153
+msgid "The width of a tab character."
+msgstr "De breedte van een tab karakter."
+
+#: php/settings/settings-fields.php:151
+msgid "Tab Size"
+msgstr "Tabgrootte"
+
+#: php/settings/settings-fields.php:145
+msgid "Use hard tabs (not spaces) for indentation."
+msgstr "Gebruik harde tabs (geen spaties) voor het inspringen."
+
+#: php/settings/settings-fields.php:143
+msgid "Indent With Tabs"
+msgstr "Inspringing met tabs"
+
+#: php/settings/settings-fields.php:135
+msgid "Theme"
+msgstr "Thema"
+
+#: php/settings/settings-fields.php:126
+msgid "Enable the add media buttons."
+msgstr "Schakel de knoppen voor het toevoegen van media in."
+
+#: php/settings/settings-fields.php:124
+msgid "Media Buttons"
+msgstr "Media knoppen"
+
+#: php/settings/settings-fields.php:119
+msgid "Enable all features of the visual editor."
+msgstr "Schakel alle functies van de visuele bewerker in."
+
+#: php/settings/settings-fields.php:117
+msgid "Use Full Editor"
+msgstr "Gebruik de volledige editor"
+
+#: php/settings/settings-fields.php:111
+msgid "rows"
+msgstr "rijen"
+
+#: php/settings/settings-fields.php:109
+msgid "Row Height"
+msgstr "Rijhoogte"
+
+#: php/settings/settings-fields.php:68
+msgid "Show snippet descriptions on admin pages."
+msgstr "Toon snippet beschrijving op de beheerder pagina's."
+
+#: php/settings/settings-fields.php:66
+msgid "Enable Snippet Descriptions"
+msgstr "Schakel snippet beschrijvingen in"
+
+#: php/settings/settings-fields.php:61
+msgid "Show snippet tags on admin pages."
+msgstr "Toon snippet tags op beheer pagina's."
+
+#: php/settings/settings-fields.php:59
+msgid "Enable Snippet Tags"
+msgstr "Schakel snippet tags In"
+
+#: php/settings/settings-fields.php:54
+msgid "Make the 'Save and Activate' button the default action when saving a snippet."
+msgstr "Maak de 'Opslaan en activeer' knop de standaard actie wanneer een snippet opgeslagen wordt."
+
+#: php/settings/settings-fields.php:52
+msgid "Activate by Default"
+msgstr "Als standaard activeren"
+
+#. translators: %s: URL to Manage Snippets admin menu
+#: php/class-contextual-help.php:185
+msgid "You can save your snippets to a code snippets export file using the <a href=\"%s\">Manage Snippets</a> page."
+msgstr "Je kan je snippets opslaan in een Code Snippets (.xml) export bestand door van de <a href=\"%s\">Beheer Snippets</a> pagina gebruik te maken."
+
+#: php/class-contextual-help.php:183
+msgid "Exporting"
+msgstr "Aan het exporteren"
+
+#. translators: %s: URL to Snippets admin menu
+#: php/class-contextual-help.php:178
+msgid "Imported snippets will be added to the database along with your existing snippets. Regardless of whether the snippets were active on the previous site, imported snippets are always inactive until activated using the <a href=\"%s\">Manage Snippets</a> page."
+msgstr "Geïmporteerde snippets worden samen met je bestaande snippets aan de database toegevoegd. Ongeacht of de snippets actief waren op de vorige site, geïmporteerde snippets zijn altijd inactief totdat ze worden geactiveerd via de pagina <a href=\"%s\">Snippets beheren</a>."
+
+#: php/class-contextual-help.php:176
+msgid "You can load your snippets from a code snippets export file using this page."
+msgstr "Via deze pagina kun je je snippets laden uit een exportbestand voor code snippets."
+
+#: php/class-contextual-help.php:175
+msgid "Importing"
+msgstr "Aan het importeren"
+
+#: php/class-contextual-help.php:155
+msgid "Please be sure to check that your snippet is valid PHP code and will not produce errors before adding it through this page. While doing so will not become active straight away, it will help to minimise the chance of a faulty snippet becoming active on your site."
+msgstr "Zorg ervoor dat je controleert of je snippet geldige PHP-code is en geen fouten veroorzaakt voordat je het via deze pagina toevoegt. Hoewel dit niet meteen actief wordt, helpt het de kans te verkleinen dat een defect snippet op je site actief wordt."
+
+#: php/class-contextual-help.php:154
+msgid "You need to fill out the name and code fields for your snippet to be added. While the description field will add more information about how your snippet works, what is does and where you found it, it is completely optional."
+msgstr "Je moet de naam- en codevelden invullen om je snippet toe te voegen. Hoewel het beschrijvingsveld meer informatie zal toevoegen over hoe je snippet werkt, wat het doet en waar je het hebt gevonden, is het volledig optioneel."
+
+#: php/class-contextual-help.php:152
+msgid "Adding Snippets"
+msgstr "Snippets aan het toevoegen"
+
+#: php/class-contextual-help.php:128
+msgid "Be sure to check your snippets for errors before you activate them, as a faulty snippet could bring your whole blog down. If your site starts doing strange things, deactivate all your snippets and activate them one at a time."
+msgstr "Zorg ervoor dat je je snippets controleert op fouten voordat je ze activeert, aangezien een defect snippet je hele blog kan neerhalen. Als je site vreemde dingen gaat doen, deactiveert je al je snippets en activeert je ze één voor één."
+
+#: php/class-contextual-help.php:126
+msgid "Safe Mode"
+msgstr "Veilige modus"
+
+#: php/class-contextual-help.php:119 php/class-contextual-help.php:142
+#: php/class-contextual-help.php:168
+msgid "Overview"
+msgstr "Overzicht"
+
+#: php/class-contextual-help.php:61
+msgid "Support Forum"
+msgstr "Ondersteuningsforum"
+
+#: php/class-contextual-help.php:60
+msgid "FAQ"
+msgstr "FAQ"
+
+#: php/class-contextual-help.php:59
+msgid "About Plugin"
+msgstr "Over de plugin"
+
+#: php/class-contextual-help.php:65
+msgid "For more information:"
+msgstr "Voor meer informatie:"
+
+#: php/class-list-table.php:1260
+msgid "Clear Filters"
+msgstr "Verwijder filters"
+
+#: php/class-list-table.php:1227
+msgid "Search results"
+msgstr "Zoekresultaten"
+
+#: php/class-list-table.php:632
+msgid "Clear List"
+msgstr "Lijst wissen"
+
+#: php/class-list-table.php:624
+msgid "Filter"
+msgstr "Filteren"
+
+#: php/class-list-table.php:609
+msgid "Show all tags"
+msgstr "Toon alle tags"
+
+#. translators: %s: total number of recently activated snippets
+#: php/class-list-table.php:534
+msgid "Recently Active <span class=\"count\">(%s)</span>"
+msgid_plural "Recently Active <span class=\"count\">(%s)</span>"
+msgstr[0] "Recentelijk actief <span class=\"count\">(%s)</span>"
+msgstr[1] "Recentelijk actief <span class=\"count\">(%s)</span>"
+
+#. translators: %s: total number of inactive snippets
+#: php/class-list-table.php:526
+msgid "Inactive <span class=\"count\">(%s)</span>"
+msgid_plural "Inactive <span class=\"count\">(%s)</span>"
+msgstr[0] "Inactief <span class=\"count\">(%s)</span>"
+msgstr[1] "Inactief <span class=\"count\">(%s)</span>"
+
+#. translators: %s: total number of active snippets
+#: php/class-list-table.php:518
+msgid "Active <span class=\"count\">(%s)</span>"
+msgid_plural "Active <span class=\"count\">(%s)</span>"
+msgstr[0] "Actief <span class=\"count\">(%s)</span>"
+msgstr[1] "Actief <span class=\"count\">(%s)</span>"
+
+#. translators: %s: total number of snippets
+#: php/class-list-table.php:510
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Alle <span class=\"count\">(%s)</span>"
+msgstr[1] "Alle <span class=\"count\">(%s)</span>"
+
+#: php/class-list-table.php:415
+msgid "ID"
+msgstr "ID"
+
+#: php/class-list-table.php:409 php/views/edit.php:72
+msgid "Name"
+msgstr "Naam"
+
+#: php/class-list-table.php:333
+msgid "Shared on Network"
+msgstr "Gedeeld op het netwerk"
+
+#. translators: %d: snippet ID
+#: php/class-snippet.php:440
+msgid "Untitled #%d"
+msgstr "Zonder titel #%d"
+
+#: php/admin-menus/class-edit-menu.php:749 php/class-list-table.php:251
+#: php/class-list-table.php:468
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: php/admin-menus/class-edit-menu.php:748 php/class-list-table.php:242
+#: php/class-list-table.php:467
+msgid "Export"
+msgstr "Exporteren"
+
+#: php/class-list-table.php:240
+msgid "Edit"
+msgstr "Bewerken"
+
+#: php/admin-menus/class-edit-menu.php:499
+#: php/admin-menus/class-manage-menu.php:148 php/class-list-table.php:288
+#: php/class-list-table.php:463
+msgid "Activate"
+msgstr "Activeren"
+
+#: php/class-list-table.php:287 php/class-list-table.php:463
+msgid "Network Activate"
+msgstr "Netwerk activeren"
+
+#: php/admin-menus/class-edit-menu.php:493
+#: php/admin-menus/class-manage-menu.php:149 php/class-list-table.php:288
+#: php/class-list-table.php:464
+msgid "Deactivate"
+msgstr "Deactiveren"
+
+#: php/class-list-table.php:287 php/class-list-table.php:464
+msgid "Network Deactivate"
+msgstr "Netwerk deactiveren"
+
+#: php/class-list-table.php:84
+msgid "Snippets per page"
+msgstr "Snippets per pagina"
+
+#: php/class-admin.php:307
+msgid "Take the survey now"
+msgstr "Vul nu de enquête in"
+
+#: php/class-admin.php:300
+msgid "<strong>Have feedback on Code Snippets?</strong> Please take the time to answer a short survey on how you use this plugin and what you'd like to see changed or added in the future."
+msgstr "<strong>Heb je feedback over Code Snippets?</strong> Neem de tijd om een ​​korte enquête in te vullen over hoe je deze plugin gebruikt en wat je in de toekomst gewijzigd of toegevoegd zou willen zien."
+
+#: php/class-admin.php:191
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: php/class-admin.php:185
+msgid "About"
+msgstr "Over"
+
+#: php/class-admin.php:150
+msgid "Manage your existing snippets"
+msgstr "Beheer je bestaande snippets"
+
+#: php/admin-menus/class-settings-menu.php:26
+msgid "Snippets Settings"
+msgstr "Snippets instellingen"
+
+#: php/admin-menus/class-settings-menu.php:127 php/class-admin.php:141
+msgid "Settings"
+msgstr "Instellingen"
+
+#: php/admin-menus/class-manage-menu.php:175
+msgid "Selected snippets <strong>deleted</strong>."
+msgstr "Geselecteerde snippets <strong>verwijderd</strong>."
+
+#: php/admin-menus/class-manage-menu.php:174
+msgid "Snippet <strong>deleted</strong>."
+msgstr "Snippet <strong>verwijderd</strong>."
+
+#: php/admin-menus/class-manage-menu.php:173
+msgid "Selected snippets <strong>deactivated</strong>."
+msgstr "Geselecteerde snippets <strong>gedeactiveerd</strong>."
+
+#: php/admin-menus/class-manage-menu.php:172
+msgid "Snippet <strong>deactivated</strong>."
+msgstr "Snippet <strong>gedeactiveerd</strong>."
+
+#: php/admin-menus/class-manage-menu.php:171
+msgid "Selected snippets <strong>activated</strong>."
+msgstr "Geselecteerde snippets <strong>geactiveerd</strong>."
+
+#: php/admin-menus/class-manage-menu.php:170
+msgid "Snippet <strong>activated</strong>."
+msgstr "Snippet <strong>geactiveerd</strong>."
+
+#: php/admin-menus/class-manage-menu.php:163
+msgid "<strong>Warning:</strong> Safe mode is active and snippets will not execute! Remove the <code>CODE_SNIPPETS_SAFE_MODE</code> constant from <code>wp-config.php</code> to turn off safe mode. <a href=\"https://help.codesnippets.pro/article/12-safe-mode\" target=\"_blank\">Help</a>"
+msgstr "<strong>Waarschuwing:</strong> Veilige modus is actief en snippets zullen niet uitgevoerd worden! Verwijder de <code>CODE_SNIPPETS_SAFE_MODE</code> constante uit <code>wp-config.php</code> om de veilige modus uit te schakelen. <a href=\"https://help.codesnippets.pro/article/12-safe-mode\" target=\"_blank\">Hulp</a>"
+
+#: php/admin-menus/class-manage-menu.php:28
+#: php/admin-menus/class-manage-menu.php:54
+#: php/admin-menus/class-manage-menu.php:96 php/class-admin.php:77
+#: php/class-admin.php:151 php/views/manage.php:28
+msgid "Snippets"
+msgstr "Snippets"
+
+#: php/admin-menus/class-import-menu.php:127
+msgid "An error occurred when processing the import files."
+msgstr "Er is een fout opgetreden bij het verwerken van de importbestanden."
+
+#. translators: 1: amount of snippets imported, 2: link to Snippets menu
+#: php/admin-menus/class-import-menu.php:141
+msgid "Successfully imported <strong>%1$d</strong> snippet. <a href=\"%2$s\">Have fun!</a>"
+msgid_plural "Successfully imported <strong>%1$d</strong> snippets. <a href=\"%2$s\">Have fun!</a>"
+msgstr[0] "De snippet <strong>%1$d</strong> importeren is gelukt. <a href=\"%2$s\">Veel plezier.</a>"
+msgstr[1] "De snippets <strong>%1$d</strong> importeren is gelukt. <a href=\"%2$s\">Veel plezier.</a>"
+
+#: php/admin-menus/class-import-menu.php:115
+msgid "Import snippets from a code snippets export file"
+msgstr "Snippets importeren uit een exportbestand voor code snippets"
+
+#. Plugin Name of the plugin
+#: php/admin-menus/class-import-menu.php:114
+msgid "Code Snippets"
+msgstr "Code Snippets"
+
+#: php/admin-menus/class-import-menu.php:20 php/views/import.php:25
+msgid "Import Snippets"
+msgstr "Importeer snippets"
+
+#: php/admin-menus/class-edit-menu.php:619
+msgid "Snippet <strong>updated</strong> and <strong>deactivated</strong>."
+msgstr "Snippet <strong>geüpdatet</strong> en <strong>gedeactiveerd</strong>."
+
+#: php/admin-menus/class-edit-menu.php:618
+msgid "Snippet <strong>updated</strong> and <strong>activated</strong>."
+msgstr "Snippet <strong>geüpdatet</strong> en <strong>geactiveerd</strong>."
+
+#: php/admin-menus/class-edit-menu.php:616
+msgid "Snippet <strong>added</strong> and <strong>activated</strong>."
+msgstr "Snippet <strong>toegevoegd</strong> en <strong>geactiveerd</strong>."
+
+#: php/admin-menus/class-edit-menu.php:615
+msgid "Snippet <strong>updated</strong>."
+msgstr "Snippet <strong>geüpdatet</strong>."
+
+#: php/admin-menus/class-edit-menu.php:614
+msgid "Snippet <strong>added</strong>."
+msgstr "Snippet <strong>toegevoegd</strong>."
+
+#: php/admin-menus/class-edit-menu.php:608
+msgid "An error occurred when saving the snippet."
+msgstr "Er is een fout opgetreden bij het opslaan van de snippet."
+
+#: php/admin-menus/class-edit-menu.php:462
+msgid "Allow this snippet to be activated on individual sites on the network"
+msgstr "Toestaan ​​dat deze snippet wordt geactiveerd op afzonderlijke sites in het netwerk"
+
+#: php/views/partials/edit-scopes.php:16
+msgid "Scope"
+msgstr "Reikwijdte"
+
+#: php/views/partials/edit-scopes.php:25
+msgid "Only run on site front-end"
+msgstr "Alleen uitvoeren op site front-end"
+
+#: php/views/partials/edit-scopes.php:24
+msgid "Only run in administration area"
+msgstr "Alleen uitvoeren in beheergebied"
+
+#: php/views/partials/edit-scopes.php:23
+msgid "Run snippet everywhere"
+msgstr "Snippet overal uitvoeren"
+
+#: php/admin-menus/class-edit-menu.php:422
+msgid "Enter a list of tags; separated by commas"
+msgstr "Voer een lijst met tags in; gescheiden door komma's"
+
+#: php/admin-menus/class-edit-menu.php:417 php/class-list-table.php:412
+msgid "Tags"
+msgstr "Tags"
+
+#: php/admin-menus/class-edit-menu.php:388 php/class-list-table.php:411
+msgid "Description"
+msgstr "Beschrijving"
+
+#: php/admin-menus/class-edit-menu.php:55 php/views/edit.php:42
+msgid "Add New Snippet"
+msgstr "Nieuw snippet toevoegen"
+
+#: php/admin-menus/class-edit-menu.php:28 php/views/edit.php:35
+msgid "Edit Snippet"
+msgstr "Snippet bewerken"
+
+#: php/admin-menus/class-admin-menu.php:172
+msgid "You are not authorized to access this page."
+msgstr "Je bent niet geautoriseerd om deze pagina te openen."

@@ -1,0 +1,56 @@
+# Translation of Plugins - Remove admin menus by roles - Development (trunk) in Swedish
+# This file is distributed under the same license as the Plugins - Remove admin menus by roles - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-07 16:43:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Remove admin menus by roles - Development (trunk)\n"
+
+#. Description of the plugin
+msgid "Remove admin menus by roles."
+msgstr "Remove admin menus by roles."
+
+#. Author URI of the plugin
+msgid "https://www.info-d-74.com/en/shop/"
+msgstr "https://www.info-d-74.com/en/shop/"
+
+#. Author of the plugin
+msgid "InfoD74"
+msgstr "InfoD74"
+
+#: views/form.php:78
+msgid "Pro version"
+msgstr "Pro-version"
+
+#: views/form.php:74
+msgid "Save profile"
+msgstr "Spara profil"
+
+#: views/form.php:44
+msgid "Deselect all"
+msgstr "Avmarkera alla "
+
+#: views/form.php:44
+msgid "Select all"
+msgstr "Markera alla"
+
+#: views/form.php:43
+msgid "Remove these menus:"
+msgstr "Ta bort dessa menyer:"
+
+#: views/form.php:31
+msgid "For these roles:"
+msgstr "För dessa roller:"
+
+#. Plugin Name of the plugin
+msgid "Remove admin menus by roles"
+msgstr "Remove admin menus by roles"
+
+#: views/form.php:78
+msgid "You need multiple profiles? Look at"
+msgstr "Behöver du flera profiler? Kika på"

@@ -1,0 +1,140 @@
+# Translation of Plugins - WP jQuery Lightbox - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - WP jQuery Lightbox - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-02-21 18:03:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - WP jQuery Lightbox - Stable (latest release)\n"
+
+#: wp-jquery-lightbox.php:322
+msgid "Load JavaScripts in page footer"
+msgstr "Charger le Javascript en pied de page"
+
+#: wp-jquery-lightbox.php:322
+msgid "Uncheck this box to load jQuery and lightbox in the header of your page."
+msgstr "Décochez cette case pour charger jQuery et visionneuse dans l’en-tête de votre page."
+
+#. Author URI of the plugin
+msgid "http://www.ulfbenjaminsson.com"
+msgstr "http://www.ulfbenjaminsson.com"
+
+#. Author of the plugin
+msgid "Ulf Benjaminsson"
+msgstr "Ulf Benjaminsson"
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/extend/plugins/wp-jquery-lightbox/"
+msgstr "http://wordpress.org/extend/plugins/wp-jquery-lightbox/"
+
+#. Plugin Name of the plugin
+msgid "wp-jquery-lightbox"
+msgstr "wp-jquery-lightbox"
+
+#: wp-jquery-lightbox.php:339
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: wp-jquery-lightbox.php:334
+msgid "Slideshow speed (in milliseconds). 0 to disable."
+msgstr "Vitesse du diaporama (en millisecondes). 0 pour désactiver.\t"
+
+#: wp-jquery-lightbox.php:328
+msgid "Animation duration (in milliseconds) "
+msgstr "Durée de l’animation (en millisecondes) "
+
+#: wp-jquery-lightbox.php:315
+msgid "Use custom stylesheet"
+msgstr "Utiliser une feuille de style personnalisée"
+
+#: wp-jquery-lightbox.php:307
+msgid "Minimum margin to screen edge (default: 0)"
+msgstr "Marge minimale aux bords de l’écran (par défaut : 0)"
+
+#: wp-jquery-lightbox.php:307
+msgid "Keep a distance between the image and the screen edges."
+msgstr "Garder une distance entre l’image et les bords de l’écran."
+
+#: wp-jquery-lightbox.php:302
+msgid "Shrink large images to fit smaller screens"
+msgstr "Réduire les grandes images pour s’adapter aux petits écrans"
+
+#: wp-jquery-lightbox.php:294
+msgid "Show image info on top"
+msgstr "Afficher les informations de l’image sur le dessus"
+
+#: wp-jquery-lightbox.php:286
+msgid "Show download link"
+msgstr "Afficher le lien de téléchargement"
+
+#: wp-jquery-lightbox.php:279
+msgid "Show image numbers:"
+msgstr "Afficher les numéros d’image :"
+
+#: wp-jquery-lightbox.php:272
+msgid "Show caption"
+msgstr "Afficher la légende"
+
+#: wp-jquery-lightbox.php:265
+msgid "Show title"
+msgstr "Afficher le titre"
+
+#: wp-jquery-lightbox.php:258
+msgid "Enable lightbox in comments (disables <a href=\"http://codex.wordpress.org/Nofollow\">the nofollow attribute!</a>)"
+msgstr "Activer la visionneuse dans les commentaires (désactive <a href=\"http://codex.wordpress.org/Nofollow\">l’attribut nofollow !</a>)"
+
+#: wp-jquery-lightbox.php:258
+msgid "Note: this will disable the nofollow-attribute of comment links, that otherwise interfere with the lightbox."
+msgstr "Remarque : cela désactive l’attribut nofollow sur les liens de commentaire, ceci peut interférer avec la visionneuse."
+
+#: wp-jquery-lightbox.php:251
+msgid "Auto-lightbox image links"
+msgstr "Ajouter les liens Lightbox automatiquement"
+
+#: wp-jquery-lightbox.php:251
+msgid "Let the plugin add necessary html to image links"
+msgstr "Laisser l’extension ajouter le HTML nécessaire aux liens des images"
+
+#: wp-jquery-lightbox.php:237
+msgid "Cheatin&#8217; uh?"
+msgstr "Une mauvaise manipulation ?"
+
+#: wp-jquery-lightbox.php:146
+msgid "(play slideshow)"
+msgstr "(lire le diaporama)"
+
+#: wp-jquery-lightbox.php:145
+msgid "(pause slideshow)"
+msgstr "(mettre en pause le diaporama)"
+
+#: wp-jquery-lightbox.php:144
+msgid "Download"
+msgstr "Télécharger"
+
+#: wp-jquery-lightbox.php:143 wp-jquery-lightbox.php:279
+msgid " of "
+msgstr " sur "
+
+#: wp-jquery-lightbox.php:142 wp-jquery-lightbox.php:279
+msgid "Image "
+msgstr "Image "
+
+#: wp-jquery-lightbox.php:141
+msgid "close image gallery"
+msgstr "fermer la galerie"
+
+#: wp-jquery-lightbox.php:140
+msgid "next image"
+msgstr "Image suivante"
+
+#: wp-jquery-lightbox.php:139
+msgid "previous image"
+msgstr "Image précédente"
+
+#: wp-jquery-lightbox.php:49
+msgid "Settings"
+msgstr "Réglages"

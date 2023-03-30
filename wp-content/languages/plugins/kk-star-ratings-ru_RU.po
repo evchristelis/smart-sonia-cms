@@ -1,0 +1,78 @@
+# Translation of Plugins - kk Star Ratings - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - kk Star Ratings - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-01-08 09:43:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - kk Star Ratings - Stable (latest release)\n"
+
+#: src/core/views/admin/tabs/appearance.php:103
+msgid "Gap between the stars."
+msgstr "Отступ между звездами."
+
+#: src/core/functions/response.php:45
+msgid "vote"
+msgid_plural "votes"
+msgstr[0] "голос"
+msgstr[1] "голоса"
+msgstr[2] "голосов"
+
+#: src/core/views/admin/tabs/rich-snippets.php:25
+msgid "Enable/disable rich snippets."
+msgstr "Включить или выключить расширенные сниппеты"
+
+#: src/core/views/admin/tabs/appearance.php:40
+#: src/core/views/admin/tabs/appearance.php:61
+#: src/core/views/admin/tabs/rich-snippets.php:43
+msgid "The following variables are available:"
+msgstr "Доступны следующие переменные:"
+
+#: src/core/views/admin/tabs/appearance.php:38
+msgid "Text that will be displayed when no votes have been casted."
+msgstr "Текст показываемый если еще никто не проголосовал."
+
+#. Plugin Name of the plugin
+msgid "kk Star Ratings"
+msgstr "kk Star Ratings"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/kamalkhan/kk-star-ratings"
+msgstr "https://github.com/kamalkhan/kk-star-ratings"
+
+#. Description of the plugin
+msgid "Allow blog visitors to involve and interact more effectively with your website by rating posts."
+msgstr "Улучшите взаимодействие посетителей с вашим блогом, разрешив им оценивать записи."
+
+#. Author of the plugin
+msgid "Kamal Khan"
+msgstr "Kamal Khan"
+
+#. Author URI of the plugin
+msgid "http://bhittani.com"
+msgstr "http://bhittani.com"
+
+#: src/core/views/admin/tabs/general.php:61
+msgid "Globally activate/deactivate the star ratings."
+msgstr "Глобально включить/выключить оценку в звездах."
+
+#: src/core/views/admin/tabs/general.php:81
+msgid "Select the voting strategies."
+msgstr "Выберите стратегии по голосованиям."
+
+#: src/core/views/admin/tabs/appearance.php:86
+msgid "Total number of stars."
+msgstr "Общее количество звезд."
+
+#: src/core/views/admin/tabs/appearance.php:120
+msgid "Size of a single star."
+msgstr "Размер одной звезды."
+
+#: src/core/wp/actions/wp_ajax_kk-star-ratings.php:30
+#: src/core/wp/actions/wp_ajax_kksr-migrations.php:28
+msgid "This action is forbidden."
+msgstr "Это действие запрещено."

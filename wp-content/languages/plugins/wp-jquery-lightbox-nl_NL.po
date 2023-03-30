@@ -1,0 +1,136 @@
+# Translation of Plugins - WP jQuery Lightbox - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - WP jQuery Lightbox - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-03-26 17:11:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - WP jQuery Lightbox - Stable (latest release)\n"
+
+#: wp-jquery-lightbox.php:322
+msgid "Load JavaScripts in page footer"
+msgstr "Laad JavaScripts in pagina footer"
+
+#. Author URI of the plugin
+msgid "http://www.ulfbenjaminsson.com"
+msgstr "http://www.ulfbenjaminsson.com"
+
+#: wp-jquery-lightbox.php:328
+msgid "Animation duration (in milliseconds) "
+msgstr "Animatieduur (in milliseconden) "
+
+#: wp-jquery-lightbox.php:339
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: wp-jquery-lightbox.php:315
+msgid "Use custom stylesheet"
+msgstr "Gebruik aangepast stylesheet"
+
+#. Plugin Name of the plugin
+msgid "wp-jquery-lightbox"
+msgstr "wp-jquery-lightbox"
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/extend/plugins/wp-jquery-lightbox/"
+msgstr "http://wordpress.org/extend/plugins/wp-jquery-lightbox/"
+
+#. Author of the plugin
+msgid "Ulf Benjaminsson"
+msgstr "Ulf Benjaminsson"
+
+#: wp-jquery-lightbox.php:334
+msgid "Slideshow speed (in milliseconds). 0 to disable."
+msgstr "Diashow snelheid (in milliseconden). 0 om te deactiveren."
+
+#: wp-jquery-lightbox.php:49
+msgid "Settings"
+msgstr "Instellingen"
+
+#: wp-jquery-lightbox.php:139
+msgid "previous image"
+msgstr "vorige afbeelding"
+
+#: wp-jquery-lightbox.php:140
+msgid "next image"
+msgstr "volgende afbeelding"
+
+#: wp-jquery-lightbox.php:141
+msgid "close image gallery"
+msgstr "gallerij sluiten"
+
+#: wp-jquery-lightbox.php:142 wp-jquery-lightbox.php:279
+msgid "Image "
+msgstr "Afbeelding "
+
+#: wp-jquery-lightbox.php:143 wp-jquery-lightbox.php:279
+msgid " of "
+msgstr " van "
+
+#: wp-jquery-lightbox.php:144
+msgid "Download"
+msgstr "Download"
+
+#: wp-jquery-lightbox.php:145
+msgid "(pause slideshow)"
+msgstr "(pauzeer diashow)"
+
+#: wp-jquery-lightbox.php:146
+msgid "(play slideshow)"
+msgstr "(diashow)"
+
+#: wp-jquery-lightbox.php:251
+msgid "Let the plugin add necessary html to image links"
+msgstr "Laat de plugin zelf benodigde HTML in afbeedlingslinks invoegen"
+
+#: wp-jquery-lightbox.php:251
+msgid "Auto-lightbox image links"
+msgstr "Auto-Lightbox Afbeelding links"
+
+#: wp-jquery-lightbox.php:258
+msgid "Note: this will disable the nofollow-attribute of comment links, that otherwise interfere with the lightbox."
+msgstr "Let op: Dit zal het nofollow atribuut van reacties deactiveren, die anders interfereren met de lightbox."
+
+#: wp-jquery-lightbox.php:258
+msgid "Enable lightbox in comments (disables <a href=\"http://codex.wordpress.org/Nofollow\">the nofollow attribute!</a>)"
+msgstr "Aktiveer lightbox in reacties (deactiveert <a href=\"http://codex.wordpress.org/Nofollow\">het nofollow attribuut!</a>)"
+
+#: wp-jquery-lightbox.php:286
+msgid "Show download link"
+msgstr "Toon download link"
+
+#: wp-jquery-lightbox.php:294
+msgid "Show image info on top"
+msgstr "Toon afbeelding info over de afbeelding"
+
+#: wp-jquery-lightbox.php:302
+msgid "Shrink large images to fit smaller screens"
+msgstr "Maak grote afbeeldingen passend in kleinere schermen"
+
+#: wp-jquery-lightbox.php:307
+msgid "Keep a distance between the image and the screen edges."
+msgstr "Hou een afstand tussen de afbeelding en de schermranden."
+
+#: wp-jquery-lightbox.php:307
+msgid "Minimum margin to screen edge (default: 0)"
+msgstr "Minimum marge tot de schermrand (standaard: 0)"
+
+#: wp-jquery-lightbox.php:265
+msgid "Show title"
+msgstr "Toon titel"
+
+#: wp-jquery-lightbox.php:272
+msgid "Show caption"
+msgstr "Toon bijschrift"
+
+#: wp-jquery-lightbox.php:279
+msgid "Show image numbers:"
+msgstr "Toon afbeeldingnummers:"
+
+#: wp-jquery-lightbox.php:237
+msgid "Cheatin&#8217; uh?"
+msgstr "Aan het valsspelen, hé?"

@@ -1,0 +1,141 @@
+# Translation of Plugins - WP Add Custom CSS - Stable (latest release) in Norwegian (Bokmål)
+# This file is distributed under the same license as the Plugins - WP Add Custom CSS - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-10 19:51:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nb_NO\n"
+"Project-Id-Version: Plugins - WP Add Custom CSS - Stable (latest release)\n"
+
+#: wordpress-add-custom-css.php:146
+msgid "If you don't have a PayPal account use this PayPal donate button:"
+msgstr "Om du ikke har en PayPal-konto, bruk denne PayPal-bidragsknappen:"
+
+#: wordpress-add-custom-css.php:143
+msgid "paypal.me (it has lower fees):"
+msgstr "paypal.me (den har lavere gebyrer):"
+
+#: wordpress-add-custom-css.php:143
+msgid "If you have a PayPal account use"
+msgstr "Om du har en PayPal-konto, bruk"
+
+#: wordpress-add-custom-css.php:142
+msgid "Help me mantaining WP Add Custom CSS by making a donation:"
+msgstr "Hjelp meg vedlikeholde WP Add Custom CSS ved å gi et bidrag:"
+
+#: wordpress-add-custom-css.php:141
+msgid "Donations"
+msgstr "Bidrag"
+
+#: wordpress-add-custom-css.php:266
+msgid "Advanced editor layout"
+msgstr "Avansert redigeringsoppsett"
+
+#: wordpress-add-custom-css.php:259
+msgid "Enable"
+msgstr "Slå på"
+
+#: wordpress-add-custom-css.php:253
+msgid "Advanced editor"
+msgstr "Avansert redigering"
+
+#: wordpress-add-custom-css.php:208
+msgid "Light"
+msgstr "Lys"
+
+#: wordpress-add-custom-css.php:208
+msgid "Dark"
+msgstr "Mørk"
+
+#: wordpress-add-custom-css.php:194
+msgid "Enable advanced css editor, including line numbers and code coloring."
+msgstr "Aktiver avansert css-editor, inkludert linjenumre og kodefarging."
+
+#: wordpress-add-custom-css.php:156
+msgid "thank you!"
+msgstr "takk!"
+
+#: wordpress-add-custom-css.php:156
+msgid "5 star review,"
+msgstr "5 stjerners anmeldelse"
+
+#: wordpress-add-custom-css.php:156
+msgid "If you like \"WP Add Custom CSS\" leave a"
+msgstr "Hvis du liker \"WP Add Custom CSS\" legg igjen en"
+
+#. Description of the plugin
+msgid "Add custom css to the whole website and to specific posts, pages and custom post types."
+msgstr "Legg til tilpassede css på hele nettstedet og til bestemte innlegg, sider og egendefinerte innleggstyper."
+
+#: wordpress-add-custom-css.php:246
+msgid "Available post types"
+msgstr "Tilgjengelige innleggstyper"
+
+#: wordpress-add-custom-css.php:240
+msgid "Post types"
+msgstr "Innholdstyper"
+
+#: wordpress-add-custom-css.php:178
+msgid "Enable page specific CSS for the post types below."
+msgstr "Aktiver sidespesifikk CSS for innholdsstyper nedenfor."
+
+#. Author of the plugin
+msgid "Daniele De Santis"
+msgstr "Daniele De Santis"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.danieledesantis.net"
+msgstr "http://www.danieledesantis.net"
+
+#. Plugin Name of the plugin
+msgid "WP Add Custom CSS"
+msgstr "WP Legg til tilpasset CSS"
+
+#: wordpress-add-custom-css.php:331
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: wordpress-add-custom-css.php:233
+msgid "CSS rules"
+msgstr "CSS-regler"
+
+#: wordpress-add-custom-css.php:227
+msgid "Main CSS"
+msgstr "Hoved-CSS"
+
+#: wordpress-add-custom-css.php:164
+msgid "Write here the CSS rules you want to apply to the whole website."
+msgstr "Her skrives CSS-reglene du vil søke på hele nettstedet"
+
+#: wordpress-add-custom-css.php:157
+msgid "\"WP Add Custom CSS\" is a plugin by"
+msgstr "\"WP Add Custom CSS\" er en utvidelse av"
+
+#: wordpress-add-custom-css.php:154
+msgid "Credits"
+msgstr "Takk til"
+
+#: wordpress-add-custom-css.php:139
+msgid "Save"
+msgstr "Lagre"
+
+#: wordpress-add-custom-css.php:128
+msgid "Add Custom CSS"
+msgstr "Legg til tilpasset CSS"
+
+#: wordpress-add-custom-css.php:128 wordpress-add-custom-css.php:135
+msgid "Wordpress Add Custom CSS"
+msgstr "Wordpress Legg til tilpasset CSS"
+
+#: wordpress-add-custom-css.php:119
+msgid "Add custom CSS rules for this %s"
+msgstr "Legg til tilpassede CSS-regler for denne %s"
+
+#: wordpress-add-custom-css.php:91
+msgid "Custom CSS"
+msgstr "Tilpasset CSS"

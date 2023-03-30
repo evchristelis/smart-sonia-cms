@@ -1,0 +1,489 @@
+# Translation of Plugins - External Links &#8211; nofollow, noopener &amp; new window - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - External Links &#8211; nofollow, noopener &amp; new window - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-12-31 18:08:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - External Links &#8211; nofollow, noopener &amp; new window - Stable (latest release)\n"
+
+#: templates/partials/tab-contents/support.php:47
+msgid "Active Theme: "
+msgstr "Aktives Theme: "
+
+#: templates/partials/tab-contents/support.php:41
+msgid "WP URL: "
+msgstr "WordPress-URL: "
+
+#: templates/partials/tab-contents/support.php:59
+msgid " - "
+msgstr " - "
+
+#: includes/admin/class-wpel-settings-page.php:78
+msgid "PRO"
+msgstr "PRO"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:56
+msgid "Text:"
+msgstr "Text:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:38
+msgid "Title:"
+msgstr "Titel:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:64
+msgid "Text Size:"
+msgstr "Textgröße:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:52
+msgid "Title Size:"
+msgstr "Titelgröße:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:60
+msgid "Text Color:"
+msgstr "Textfarbe:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:85
+msgid "Button Text:"
+msgstr "Button-Text:"
+
+#: includes/admin/class-wpel-settings-page.php:74
+msgid "Link Checker"
+msgstr "Link-Überprüfer"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:188
+msgid "Add <code>\"ugc\"</code>"
+msgstr "Füge <code>„ugc“</code> ein"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:178
+msgid "Add <code>\"sponsored\"</code>"
+msgstr "Füge <code>„sponsored“</code> ein"
+
+#: templates/requirements-notice.php:14
+msgid "The plugin <strong>WP External Links</strong> requires PHP version 5.3 or up and WordPress version 3.6 or up.<br>Please upgrade your PHP and/or WordPress. Deactivate the plugin to remove this message."
+msgstr "Das Plugin <strong>WP External Links</strong> erfordert mindestens PHP 5.3 sowie WordPress 3.6 oder neuer.<br>Bitte upgrade PHP und/oder WordPress. Deaktiviere das Plugin, um diese Meldung zu entfernen."
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:172
+msgid "Separate url's by comma and/or a line break. Write the url's as specific as you want them to match."
+msgstr "Trenne die URLs mittels Komma oder Zeilenumbruch. Schreibe die URLs so exakt, wie sie für dich passen."
+
+#. Author URI of the plugin
+msgid "https://www.webfactoryltd.com/"
+msgstr "https://www.webfactoryltd.com/"
+
+#. Author of the plugin
+msgid "WebFactory Ltd"
+msgstr "WebFactory Ltd"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:137
+msgid "Separate classes by comma."
+msgstr "Trenne Klassen mittels Komma."
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:126
+msgid "Separate page- / post-id's by comma."
+msgstr "Trenne Seiten-/Beitrags-IDs mittels Komma."
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:47
+msgid "Ignore links by class:"
+msgstr "Ignoriere Links über Klasse:"
+
+#: includes/admin/class-wpel-network-page.php:36
+#: includes/admin/network-fields/class-wpel-network-fields.php:24
+msgid "Multi Site Settings"
+msgstr "Multisite-Einstellungen"
+
+#: includes/admin/class-wpel-network-page.php:46
+#: includes/admin/class-wpel-settings-page.php:82
+msgid "Support"
+msgstr "Support"
+
+#: includes/admin/class-wpel-network-page.php:170
+#: includes/admin/class-wpel-settings-page.php:300
+#: templates/network-page/help-tabs/under-construction.php:12
+#: templates/settings-page/help-tabs/under-construction.php:12
+msgid "Under Construction"
+msgstr "In Arbeit"
+
+#: includes/admin/class-wpel-settings-page.php:49
+#: includes/admin/settings-fields/class-wpel-internal-link-fields.php:31
+msgid "Internal Links"
+msgstr "Interne Links"
+
+#: includes/admin/class-wpel-settings-page.php:54
+#: includes/admin/settings-fields/class-wpel-excluded-link-fields.php:31
+msgid "Excluded Links"
+msgstr "Ausgeschlossene Links"
+
+#: includes/admin/class-wpel-settings-page.php:59
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:24
+msgid "Exceptions"
+msgstr "Ausnahmen"
+
+#: includes/admin/class-wpel-settings-page.php:305
+msgid "Data Attributes"
+msgstr "Data Attributes"
+
+#: includes/admin/network-fields/class-wpel-network-admin-fields.php:24
+msgid "Network Admin Settings"
+msgstr "Netzwerk-Admin-Einstellungen"
+
+#: includes/admin/network-fields/class-wpel-network-admin-fields.php:27
+msgid "Main Network Admin Menu:"
+msgstr "Netzwerk-Admin-Menü:"
+
+#: includes/admin/network-fields/class-wpel-network-admin-fields.php:80
+msgid "Create own network admin menu for this plugin"
+msgstr "Erstelle eigenen Netzwerk-Admin-Menüpunkt für das Plugin"
+
+#: includes/admin/network-fields/class-wpel-network-admin-fields.php:86
+#: includes/admin/settings-fields/class-wpel-admin-fields.php:50
+msgid "Or else it will be added to the \"Settings\" menu"
+msgstr "Andernfalls wird es unter \"Einstellungen\" angezeigt."
+
+#: includes/admin/network-fields/class-wpel-network-admin-fields.php:105
+#: includes/admin/settings-fields/class-wpel-admin-fields.php:69
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:240
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:249
+#: includes/admin/settings-fields/class-wpel-external-link-fields.php:95
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:321
+msgid "Something went wrong. One or more values were invalid."
+msgstr "Ein Fehler ist aufgetreten. Ein oder mehrere Werte sind ungültig."
+
+#: includes/admin/network-fields/class-wpel-network-fields.php:27
+msgid "Capability for individual sites:"
+msgstr "Berechtigung für individuelle Sites:"
+
+#: includes/admin/network-fields/class-wpel-network-fields.php:31
+msgid "Use the settings of this site as default for new sites:"
+msgstr "Verwende die Einstellungen dieser Site als Standard für neue Sites:"
+
+#: includes/admin/network-fields/class-wpel-network-fields.php:89
+msgid "Site Admins and Super Admins"
+msgstr "Admins oder Super Admins"
+
+#: includes/admin/network-fields/class-wpel-network-fields.php:90
+msgid "Only Super Admins"
+msgstr "Nur Super-Admins"
+
+#: includes/admin/network-fields/class-wpel-network-fields.php:100
+msgid "- none -"
+msgstr "- keine -"
+
+#: includes/admin/settings-fields/class-wpel-admin-fields.php:27
+msgid "Main Admin Menu:"
+msgstr "Admin-Menü:"
+
+#: includes/admin/settings-fields/class-wpel-admin-fields.php:44
+msgid "Create own admin menu for this plugin"
+msgstr "Erstelle eigenen Admin-Menüpunkt für das Plugin"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:27
+msgid "Apply settings on:"
+msgstr "Einstellungen anwenden auf:"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:53
+msgid "Include external links by URL:"
+msgstr "Externe URLs einschließen: "
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:56
+msgid "Exclude external links by URL:"
+msgstr "Externe URLs ausschließen:"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:59
+msgid "Own settings for excluded links:"
+msgstr "Ausgeschlossene Links:"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:62
+msgid "Skip <code>&lt;script&gt;</code>:"
+msgstr "Ignoriere <code>&lt;script&gt;</code>:"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:66
+msgid "Skip <code>mailto</code> links:"
+msgstr "Ignoriere <code>mailto</code>-Links:"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:83
+msgid "All contents (the whole page)"
+msgstr "Alle Inhalte (die ganze Seite)"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:183
+msgid "Treat excluded links as internal links"
+msgstr "Behandle ausgeschlossene Links wie interne Links"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:191
+msgid "Own settings for excluded links <span class=\"description\">(extra tab)</span>"
+msgstr "Eigene Einstellungen <span class=\"description\">(extra Tab)</span>"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:202
+msgid "Ignore all links in <code>&lt;script&gt;</code> blocks"
+msgstr "Ignoriere Links in <code>&lt;script&gt;</code>-Blöcken"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:212
+msgid "Ignore all <code>mailto</code> links"
+msgstr "Ignoriere <code>mailto</code>-Links"
+
+#: includes/admin/settings-fields/class-wpel-excluded-link-fields.php:23
+msgid "Settings for excluded links:"
+msgstr "Einstellungen für ausgeschlossene Links:"
+
+#: includes/admin/settings-fields/class-wpel-excluded-link-fields.php:24
+msgid "Open excluded links:"
+msgstr "Öffne ausgeschlossene Links:"
+
+#: includes/admin/settings-fields/class-wpel-external-link-fields.php:23
+msgid "Settings for external links:"
+msgstr "Einstellungen für externe Links:"
+
+#: includes/admin/settings-fields/class-wpel-external-link-fields.php:25
+msgid "Open external links:"
+msgstr "Öffne externe Links:"
+
+#: includes/admin/settings-fields/class-wpel-internal-link-fields.php:23
+msgid "Settings for internal links:"
+msgstr "Einstellungen für interne Links:"
+
+#: includes/admin/settings-fields/class-wpel-internal-link-fields.php:24
+msgid "Open internal links:"
+msgstr "Öffne interne Links:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:22
+msgid "Settings for links:"
+msgstr "Einstellungen für Links:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:26
+msgid "Open links:"
+msgstr "Öffne Links:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:35
+msgid "Set <code>follow</code> or <code>nofollow</code>:"
+msgstr "Setze <code>follow</code> oder <code>nofollow</code>:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:54
+msgid "Set <code>title</code>:"
+msgstr "Setze <code>title</code>:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:59
+msgid "Add CSS class(es):"
+msgstr "CSS-Klasse(n):"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:63
+msgid "Choose icon type:"
+msgstr "Wähle Icon-Typ:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:67
+msgid "Choose icon image:"
+msgstr "Wähle Icon-Datei:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:72
+msgid "Choose dashicon:"
+msgstr "Wähle Dashicon:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:76
+msgid "Choose FA icon:"
+msgstr "Wähle FA-Icon:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:80
+msgid "Icon position:"
+msgstr "Icon-Position:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:85
+msgid "Skip icon with <code>&lt;img&gt;</code>:"
+msgstr "Kein Icon für <code>&lt;img&gt;</code>-Links:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:102
+msgid "Apply these settings"
+msgstr "Einstellungen aktivieren"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:113
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:137
+msgid "- keep as is -"
+msgstr "- keine Änderung -"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:114
+msgid "in the same window, tab or frame"
+msgstr "im selben Fenster/Tab oder Frame"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:218
+msgid "- no icon -"
+msgstr "- kein Icon -"
+
+#: templates/partials/tab-contents/support.php:49
+msgid "Active Plugins:"
+msgstr "Aktivierte Plugins:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:158
+msgid "Add <code>\"noopener\"</code>"
+msgstr "Füge <code>\"noopener\"</code> hinzu"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:168
+msgid "Add <code>\"noreferrer\"</code>"
+msgstr "Füge <code>\"noreferrer\"</code> hinzu"
+
+#: templates/partials/tab-contents/support.php:37
+msgid "Copy Technical Info"
+msgstr "Kopiere tech. Info"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:220
+msgid "Dashicon"
+msgstr "Dashicon"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:115
+msgid "each in a separate new window or tab"
+msgstr "jeden in neuem Fenster/Tab"
+
+#: templates/partials/tab-contents/support.php:15
+#: templates/settings-page/help-tabs/data-attributes.php:12
+msgid "Exclude or include by data-attribute"
+msgstr "Anhand Data Attribute aus- bzw. einschließen"
+
+#: templates/partials/tab-contents/support.php:26
+msgid "FAQ"
+msgstr "FAQ"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:138
+msgid "follow"
+msgstr "follow"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/wp-external-links/"
+msgstr "https://wordpress.org/plugins/wp-external-links/"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:285
+msgid "Left side of the link"
+msgstr "vor dem Link"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:295
+msgid "No icon for links already containing an <code>&lt;img&gt;</code>-tag."
+msgstr "Kein Icon für Links mit <code>&lt;img&gt;</code>-Tag."
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:139
+msgid "nofollow"
+msgstr "nofollow"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:126
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:148
+msgid "Overwrite existing values."
+msgstr "Überschreibe vorhandene Werte."
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:286
+msgid "Right side of the link"
+msgstr "nach dem Link"
+
+#: templates/network-page/help-tabs/under-construction.php:14
+#: templates/settings-page/help-tabs/under-construction.php:14
+msgid "Still working on the documentation..."
+msgstr "Wir arbeiten hart an der Dokumentation..."
+
+#: templates/partials/tab-contents/support.php:63
+msgid "WPEL Settings:"
+msgstr "WP External Links - Einstellungen:"
+
+#: templates/partials/tab-contents/support.php:29
+msgid "Reported issues"
+msgstr "Bisher gemeldete Fälle"
+
+#: templates/partials/tab-contents/support.php:30
+msgid "When you experience problems using this plugin please look if your problem was <a href=\"https://wordpress.org/support/plugin/wp-external-links\" target=\"_blank\">already reported</a>."
+msgstr "Wenn du Probleme bei der Verwendung des Plugins hast besuche bitte unser Support-Forum und prüfe, ob das/ein ähnliches Problem nicht <a href=\"https://wordpress.org/support/plugin/wp-external-links\" target=\"_blank\">bereits gemeldet</a> wurde."
+
+#: templates/partials/tab-contents/support.php:32
+msgid "Send your issue"
+msgstr "Melde dein Problem"
+
+#: templates/partials/tab-contents/support.php:17
+#: templates/settings-page/help-tabs/data-attributes.php:14
+msgid "The <code>data-wpel-link</code> attribute can be set on links and forces the plugin to treat those links that way."
+msgstr "Das <code>data-wpel-link</code>-Attribut kann für Links vergeben werden und zwingt das Plugin, diese Links gesondert zu behandeln."
+
+#: templates/partials/tab-contents/support.php:20
+#: templates/settings-page/help-tabs/data-attributes.php:17
+msgid "Links with <code>data-wpel-link=\"internal\"</code> will be treated as internal links."
+msgstr "Links mit <code>data-wpel-link=\"internal\"</code> werden wie interne Links behandelt."
+
+#: templates/partials/tab-contents/support.php:21
+#: templates/settings-page/help-tabs/data-attributes.php:18
+msgid "Links with <code>data-wpel-link=\"external\"</code> will be treated as external links."
+msgstr "Links mit <code>data-wpel-link=\"external\"</code> werden wie externe Links behandelt."
+
+#: templates/partials/tab-contents/support.php:22
+#: templates/settings-page/help-tabs/data-attributes.php:19
+msgid "Links with <code>data-wpel-link=\"exclude\"</code> will be treated as excluded links (which have their own settings or will be treated as internal links)."
+msgstr "Links mit <code>data-wpel-link=\"exclude\"</code> werden wie ausgeschlossene Links behandelt (mit eigenen Einstellungen oder wie interne Links)."
+
+#: templates/partials/tab-contents/support.php:23
+#: templates/settings-page/help-tabs/data-attributes.php:20
+msgid "Links with <code>data-wpel-link=\"ignore\"</code> will be completely ignored by this plugin."
+msgstr "Links mit <code>data-wpel-link=\"ignore\"</code> werden ignoriert."
+
+#: templates/settings-page/tab-contents/exceptions.php:21
+msgid "The data-attribute <a href=\"%s\"><code>data-wpel-link</code></a> can be set on individual links to treat them as internal, external or excluded, or to completely ignore links form being processed by this plugin."
+msgstr "Das Data-Attribut <a href=\"%s\"><code>data-wpel-link</code></a> kann für individuelle Links vergeben werden, um diese wie interne, externe oder ausgeschlossene Links zu behandeln, oder um sie vollständig zu ignorieren."
+
+#: templates/partials/tab-contents/support.php:45
+msgid "PHP version: "
+msgstr "PHP-Version: "
+
+#: templates/partials/tab-contents/support.php:43
+msgid "WP version: "
+msgstr "WordPress-Version: "
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:219
+msgid "Image"
+msgstr "Bild"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:221
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:103
+msgid "Comments"
+msgstr "Kommentare"
+
+#: includes/admin/class-wpel-settings-page.php:44
+#: includes/admin/settings-fields/class-wpel-external-link-fields.php:60
+msgid "External Links"
+msgstr "Externe Links"
+
+#: includes/admin/class-wpel-network-page.php:41
+#: includes/admin/settings-fields/class-wpel-admin-fields.php:24
+msgid "Admin Settings"
+msgstr "Admin-Einstellungen"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:113
+msgid "All widgets"
+msgstr "Alle Widgets"
+
+#: includes/admin/settings-fields/class-wpel-external-link-fields.php:75
+msgid "Add <code>\"external\"</code>"
+msgstr "Füge <code>\"external\"</code> hinzu"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:44
+msgid "Also add to <code>rel</code> attribute:"
+msgstr "<code>rel</code>-Attribut:"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:50
+msgid "Make subdomains internal:"
+msgstr "Behandle Subdomains als interne Links:"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:93
+msgid "Post content"
+msgstr "Beiträge/Seiten"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:145
+msgid "Treat all links to the site's domain and subdomains as internal links"
+msgstr "Behandle alle Links zur eigenen Domain und Subdomains wie interne Links"
+
+#. Plugin Name of the plugin
+#: includes/admin/class-wpel-network-page.php:103
+#: includes/admin/class-wpel-network-page.php:104
+#: includes/admin/class-wpel-network-page.php:114
+#: includes/admin/class-wpel-network-page.php:115
+#: includes/admin/class-wpel-settings-page.php:191
+#: includes/admin/class-wpel-settings-page.php:193
+#: includes/admin/class-wpel-settings-page.php:207
+#: includes/admin/class-wpel-settings-page.php:209
+msgid "WP External Links"
+msgstr "WP External Links"

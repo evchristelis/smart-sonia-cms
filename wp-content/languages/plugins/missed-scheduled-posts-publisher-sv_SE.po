@@ -1,0 +1,28 @@
+# Translation of Plugins - Missed Scheduled Posts Publisher by WPBeginner - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Missed Scheduled Posts Publisher by WPBeginner - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-10-28 19:17:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Missed Scheduled Posts Publisher by WPBeginner - Stable (latest release)\n"
+
+#. Plugin Name of the plugin
+msgid "Missed Scheduled Posts Publisher by WPBeginner"
+msgstr "Missed Scheduled Posts Publisher by WPBeginner"
+
+#. Author URI of the plugin
+msgid "https://www.wpbeginner.com/"
+msgstr "https://www.wpbeginner.com/"
+
+#. Author of the plugin
+msgid "WPBeginner"
+msgstr "WPBeginner"
+
+#. Description of the plugin
+msgid "Catches scheduled posts that have been missed and publishes them."
+msgstr "Fångar upp schemalagda inlägg som har missats och publicerar dem."

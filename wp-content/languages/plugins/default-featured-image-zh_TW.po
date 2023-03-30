@@ -1,0 +1,53 @@
+# Translation of Plugins - Default featured image - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Default featured image - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-05-19 23:10:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Default featured image - Stable (latest release)\n"
+
+#: app/class-dfi.php:125
+msgctxt "Label on the settings page."
+msgid "Default featured image"
+msgstr "預設精選圖片"
+
+#. Author URI of the plugin
+msgid "https://janw.me/"
+msgstr "https://janw.me/"
+
+#. Author of the plugin
+msgid "Jan Willem Oostendorp"
+msgstr "Jan Willem Oostendorp"
+
+#. Description of the plugin
+msgid "Allows users to select a default featured image in the media settings"
+msgstr "允許使用者在 [媒體] 設定頁面中選取預設精選圖片。"
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/extend/plugins/default-featured-image/"
+msgstr "https://tw.wordpress.org/plugins/default-featured-image/"
+
+#: app/class-dfi.php:233
+msgid "Settings"
+msgstr "設定"
+
+#: app/class-dfi.php:189
+msgid "Set default featured image"
+msgstr "設定預設精選圖片"
+
+#: app/class-dfi.php:154 app/class-dfi.php:155
+msgid "Don't use a default featured image"
+msgstr "不使用預設精選圖片"
+
+#: app/class-dfi.php:148 app/class-dfi.php:150 app/class-dfi.php:188
+msgid "Select default featured image"
+msgstr "選取預設精選圖片"
+
+#. Plugin Name of the plugin
+msgid "Default featured image"
+msgstr "Default featured image"

@@ -1,0 +1,66 @@
+# Translation of Plugins - Categories Images - Stable (latest release) in Norwegian (Bokmål)
+# This file is distributed under the same license as the Plugins - Categories Images - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-18 13:22:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nb_NO\n"
+"Project-Id-Version: Plugins - Categories Images - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://zahlan.net/"
+msgstr "http://zahlan.net/"
+
+#. Author of the plugin/theme
+msgid "Muhammad Said El Zahlan"
+msgstr "Muhammad Said El Zahlan"
+
+#. Description of the plugin/theme
+msgid "Categories Images Plugin allow you to add an image to category or any custom term."
+msgstr "Utvidelsen Kategoribilder lar deg legge til et bilde til en kategori eller en term i en tilpasset taksonomi."
+
+#. Plugin URI of the plugin/theme
+msgid "http://zahlan.net/blog/2012/06/categories-images/"
+msgstr "http://zahlan.net/blog/2012/06/categories-images/"
+
+#: categories-images.php:305
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Du har ikke tilstrekkelig tillatelser til å se denne siden."
+
+#: categories-images.php:285
+msgid "Please select the taxonomies you want to exclude it from Categories Images plugin"
+msgstr "Vennligst velg de taksonomer du ønsker å utelukke fra utvidelsen Kategoribilder"
+
+#: categories-images.php:280
+msgid "Excluded Taxonomies"
+msgstr "Utelukkede taksonomier"
+
+#. #-#-#-#-#  categories-images-code.pot (Categories Images 2.5.4)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: categories-images.php:272 categories-images.php:310
+msgid "Categories Images"
+msgstr "Kategoribilder"
+
+#: categories-images.php:272 categories-images.php:279
+msgid "Categories Images settings"
+msgstr "Innstillinger for Kategoribilder"
+
+#: categories-images.php:252
+msgid "Thumbnail"
+msgstr "Fremhevet bilde"
+
+#: categories-images.php:88 categories-images.php:217
+msgid "Remove image"
+msgstr "Fjern bilde"
+
+#: categories-images.php:67 categories-images.php:87 categories-images.php:216
+msgid "Upload/Add image"
+msgstr "Last opp / Legg til bilde"
+
+#: categories-images.php:64 categories-images.php:85 categories-images.php:234
+msgid "Image"
+msgstr "Bilde"

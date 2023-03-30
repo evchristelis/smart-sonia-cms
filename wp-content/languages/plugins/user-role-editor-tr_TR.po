@@ -1,0 +1,856 @@
+# Translation of Plugins - User Role Editor - Stable (latest release) in Turkish
+# This file is distributed under the same license as the Plugins - User Role Editor - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-01-15 05:16:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: tr\n"
+"Project-Id-Version: Plugins - User Role Editor - Stable (latest release)\n"
+
+#: includes/settings-template.php:42
+msgid "Tools"
+msgstr "Araçlar"
+
+#: includes/classes/capability.php:216 includes/classes/capability.php:221
+msgid "There are no capabilities available for deletion!"
+msgstr "Silinebilecek kabiliyet yok!"
+
+#: includes/classes/capability.php:231
+msgid "capabilities were removed successfully"
+msgstr "kabiliyetler başarı ile kaldırıldı"
+
+#: includes/classes/grant-roles.php:296 includes/classes/grant-roles.php:342
+msgid "Not enough permissions"
+msgstr "Yeterli izin yok"
+
+#: includes/classes/grant-roles.php:302
+msgid "Can not edit user or invalid data at the users list"
+msgstr "Kullanıcılar listesindeki kullanıcı ya da geçersiz veri düzenlenemiyor"
+
+#: includes/classes/grant-roles.php:310
+msgid "Invalid primary role"
+msgstr "Geçersiz ana rol"
+
+#: includes/classes/grant-roles.php:323
+msgid "Invalid data at the other roles list"
+msgstr "Diğer roller listesinde geçersiz veri"
+
+#: includes/classes/grant-roles.php:349
+msgid "Wrong request, valid user ID was missed"
+msgstr "Yanlış istek, geçerli kullanıcı ID'si bulunamadı"
+
+#: includes/classes/grant-roles.php:355
+msgid "Requested user does not exist"
+msgstr "İstenilen kullanıcı mevcut değil"
+
+#: includes/classes/tools.php:20
+msgid "WARNING!"
+msgstr "UYARI!"
+
+#: includes/classes/user-role-editor.php:296
+msgid "To:"
+msgstr "Kime:"
+
+#: includes/classes/user-role-editor.php:755
+#: includes/classes/user-role-editor.php:801
+msgid "Confirm"
+msgstr "Onayla"
+
+#: includes/classes/user-role-editor.php:756
+#: includes/classes/user-role-editor.php:802
+msgid "Yes"
+msgstr "Evet"
+
+#: includes/classes/user-role-editor.php:757
+#: includes/classes/user-role-editor.php:803
+msgid "No"
+msgstr "Hayır"
+
+#: includes/classes/user-role-editor.php:805
+msgid "DANGER!"
+msgstr "DİKKAT!"
+
+#: includes/classes/view.php:289
+msgid "Working..."
+msgstr "İşleniyor..."
+
+#: includes/classes/view.php:320
+msgid "Group"
+msgstr "Grup"
+
+#: includes/classes/view.php:339
+msgid "Columns:"
+msgstr "Sütunlar:"
+
+#: includes/settings-template.php:107
+msgid "columns"
+msgstr "sütunlar"
+
+#: includes/classes/capabilities-groups-manager.php:130
+msgid "All"
+msgstr "Hepsi"
+
+#: includes/classes/capabilities-groups-manager.php:145
+msgid "Themes"
+msgstr "Temalar"
+
+#: includes/classes/capabilities-groups-manager.php:150
+msgid "Posts"
+msgstr "Yazılar"
+
+#: includes/classes/capabilities-groups-manager.php:155
+msgid "Pages"
+msgstr "Sayfalar"
+
+#: includes/classes/capabilities-groups-manager.php:160
+msgid "Plugins"
+msgstr "Eklentiler"
+
+#: includes/classes/capabilities-groups-manager.php:165
+msgid "Users"
+msgstr "Kullanıcılar"
+
+#: includes/classes/capabilities-groups-manager.php:103
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: includes/classes/capabilities-groups-manager.php:108
+#: includes/classes/capabilities-groups-manager.php:135
+msgid "Core"
+msgstr "Ana"
+
+#: includes/settings-template.php:16
+msgid "User Role Editor - Options"
+msgstr "Kullanıcı Rol Editörü - Seçenekler"
+
+#: includes/classes/capabilities-groups-manager.php:140
+#: includes/classes/user-role-editor.php:555 includes/settings-template.php:20
+msgid "General"
+msgstr "Genel"
+
+#: includes/classes/user-role-editor.php:561 includes/settings-template.php:26
+msgid "Additional Modules"
+msgstr "İlave Modüller"
+
+#: includes/classes/user-role-editor.php:567 includes/settings-template.php:31
+msgid "Default Roles"
+msgstr "Varsayılan Roller"
+
+#: includes/classes/capabilities-groups-manager.php:187
+#: includes/classes/user-role-editor.php:573 includes/settings-template.php:36
+msgid "Multisite"
+msgstr "Çoklu site"
+
+#: includes/settings-template.php:46
+msgid "About"
+msgstr "Hakkında"
+
+#: includes/classes/screen-help.php:15 includes/settings-template.php:61
+msgid "Show Administrator role at User Role Editor"
+msgstr "Yönetici rolünü Kullanıcı Rol Editörü'nde göster"
+
+#: includes/classes/screen-help.php:18 includes/settings-template.php:70
+msgid "Show capabilities in the human readable form"
+msgstr "Kabiliyetleri insancıl biçimde göster"
+
+#: includes/classes/role-view.php:363 includes/classes/screen-help.php:21
+#: includes/classes/user-view.php:164 includes/settings-template.php:78
+msgid "Show deprecated capabilities"
+msgstr "Önerilmeyen kabiliyetleri göster"
+
+#: includes/classes/screen-help.php:27 includes/settings-template.php:94
+msgid "Edit user capabilities"
+msgstr "Özel kabiliyetler düzenleme"
+
+#: includes/settings-template.php:121 includes/settings-template.php:156
+#: includes/settings-template.php:188 includes/settings-template.php:220
+msgid "Save"
+msgstr "Sakla"
+
+#: includes/classes/screen-help.php:47 includes/settings-template.php:141
+msgid "Count users without role"
+msgstr "Rolsüz kullanıcıları say"
+
+#: includes/settings-template.php:168
+msgid "Primary default role: "
+msgstr "Birincil varsayılan rol:"
+
+#: includes/settings-template.php:175
+msgid "Other default roles for new registered user: "
+msgstr "Yeni kaydolan kullanıcılar için diğer varsayılan roller:"
+
+#: includes/settings-template.php:181
+msgid "Note for multisite environment: take into account that other default roles should exist at the site, in order to be assigned to the new registered users."
+msgstr "Çoklu site ortamı için hatırlatma: diğer varsayılan rollerin yeni kaydolan kullanıcılara atanması için sitede bulunması gerektiğini olduğunu hesaba katın."
+
+#: includes/settings-template.php:207
+msgid "Allow non super administrators to create, edit, and delete users"
+msgstr "Süper yönetici olmayanların kullanıcı oluşturma, düzenleme ve silmelerine izin ver"
+
+#: includes/classes/user-role-editor.php:295
+msgid "Change role for users without role"
+msgstr "Rolsüz kullanıcıların rolünü değiştir"
+
+#: includes/classes/user-role-editor.php:297
+msgid "No rights"
+msgstr "İzin yok"
+
+#: includes/classes/user-role-editor.php:298
+msgid "Provide new role"
+msgstr "Yeni rol sağla"
+
+#: includes/classes/user-role-editor.php:370
+#: includes/classes/user-role-editor.php:372
+msgid "You do not have permission to edit this user."
+msgstr "Bu kullanıcıyı düzenlemek için izniniz yok."
+
+#: includes/classes/user-other-roles.php:238
+#: includes/classes/user-role-editor.php:398
+msgid "Capabilities"
+msgstr "Kabiliyetler"
+
+#: includes/classes/user-role-editor.php:506
+#: includes/classes/user-role-editor.php:519
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: includes/classes/lib.php:387 includes/classes/user-role-editor.php:532
+msgid "Changelog"
+msgstr "Değişiklik Günlüğü"
+
+#. Plugin Name of the plugin
+#: includes/classes/capabilities-groups-manager.php:84
+#: includes/classes/editor.php:1483 includes/classes/user-role-editor.php:586
+#: includes/classes/user-role-editor.php:587
+#: includes/classes/user-role-editor.php:599
+#: includes/classes/user-role-editor.php:600
+#: includes/classes/user-role-editor.php:615
+#: includes/classes/user-role-editor.php:616
+msgid "User Role Editor"
+msgstr "Kullanıcı Rol Editörü"
+
+#: includes/classes/settings.php:70 includes/classes/settings.php:90
+#: includes/classes/settings.php:140
+msgid "User Role Editor options are updated"
+msgstr "Kullanıcı Rol Editörü seçenekleri güncellendi"
+
+#: includes/classes/settings.php:120
+msgid "Default Roles are updated"
+msgstr "Varsayılan Roller güncellendi"
+
+#: includes/classes/user-role-editor.php:632
+msgid "You do not have sufficient permissions to manage options for User Role Editor."
+msgstr "Kullanıcı Rol Editörü seçeneklerini yönetmek için yeterli izniniz yok."
+
+#: includes/classes/capability.php:89 includes/classes/capability.php:209
+#: includes/classes/editor.php:950 includes/classes/editor.php:1019
+#: includes/classes/editor.php:1070 includes/classes/editor.php:1131
+#: includes/classes/editor.php:1277 includes/classes/editor.php:1319
+#: includes/classes/user-role-editor.php:665
+msgid "Insufficient permissions to work with User Role Editor"
+msgstr "Kullanıcı Rol Editörü ile çalışmak için yetersiz izin"
+
+#: includes/classes/user-role-editor.php:758
+msgid "Update"
+msgstr "Güncelle"
+
+#: includes/classes/user-role-editor.php:759
+msgid "Please confirm permissions update"
+msgstr "Lütfen izin güncellemesini onaylayın"
+
+#: includes/classes/user-role-editor.php:760
+msgid "Add New Role"
+msgstr "Yeni Rol Ekle"
+
+#: includes/classes/user-role-editor.php:761
+#: includes/classes/user-role-editor.php:766
+msgid "Rename Role"
+msgstr "Rol İsmi Değiştir"
+
+#: includes/classes/user-role-editor.php:762
+msgid " Role name (ID) can not be empty!"
+msgstr "Rol ismi (ID) boş olamaz!"
+
+#: includes/classes/user-role-editor.php:763
+msgid " Role name (ID) must contain latin characters, digits, hyphens or underscore only!"
+msgstr "Rol ismi (ID) yalnızca latin karakterleri, rakamlar, tireler veya alt çizgiler içermeli!"
+
+#: includes/classes/user-role-editor.php:764
+msgid " WordPress does not support numeric Role name (ID). Add latin characters to it."
+msgstr "WordPress sayısal rol ismi (ID) desteklemiyor. Latin karakterler ekleyin."
+
+#: includes/classes/user-role-editor.php:765
+msgid "Add Role"
+msgstr "Rol Ekle"
+
+#: includes/classes/user-role-editor.php:767
+msgid "Delete Role"
+msgstr "Rol Sil"
+
+#: includes/classes/user-role-editor.php:768
+msgid "Cancel"
+msgstr "İptal"
+
+#: includes/classes/user-role-editor.php:769
+msgid "Add Capability"
+msgstr "Kabiliyet Ekle"
+
+#: includes/classes/user-role-editor.php:770
+#: includes/classes/user-role-editor.php:773
+msgid "Delete Capability"
+msgstr "Kabiliyet Sil"
+
+#: includes/classes/tools.php:40 includes/classes/user-role-editor.php:804
+msgid "Reset"
+msgstr "Sıfırla"
+
+#: includes/classes/user-role-editor.php:810
+msgid "Continue?"
+msgstr "Devam mı?"
+
+#: includes/classes/user-role-editor.php:771
+msgid "Default Role"
+msgstr "Varsayılan Rol"
+
+#: includes/classes/user-role-editor.php:772
+msgid "Set New Default Role"
+msgstr "Yeni Varsayılan Rol Belirle"
+
+#: includes/classes/user-role-editor.php:774
+msgid "Warning! Be careful - removing critical capability could crash some plugin or other custom code"
+msgstr "Uyarı! Dikkatli olun - kritik kabiliyetleri kaldırmak bazı eklentileri veya diğer özel kodları bozabilir"
+
+#: includes/classes/user-role-editor.php:775
+msgid " Capability name (ID) can not be empty!"
+msgstr "Kabiliyet ismi (ID) boş olamaz!"
+
+#: includes/classes/user-role-editor.php:776
+msgid " Capability name (ID) must contain latin characters, digits, hyphens or underscore only!"
+msgstr "Kabiliyet ismi (ID) yalnızca latin karakterleri, rakamlar, tireler veya alt çizgiler içermeli!"
+
+#: includes/classes/user-other-roles.php:124
+#: includes/classes/user-other-roles.php:259
+msgid "Other Roles"
+msgstr "Diğer Roller"
+
+#: includes/classes/user-other-roles.php:245
+msgid "Edit"
+msgstr "Düzenle"
+
+#: includes/classes/role-view.php:397
+msgid "Select Role and change its capabilities:"
+msgstr "Rol seçin ve rolün kabiliyetlerini değiştirin:"
+
+#: includes/classes/role-view.php:353 includes/classes/user-view.php:154
+msgid "Show capabilities in human readable form"
+msgstr "Kabiliyetleri insancıl biçimde göster"
+
+#: includes/classes/role-view.php:367
+msgid "If checked, then apply action to ALL sites of this Network"
+msgstr "İşaretliyse işlem bu Ağdaki TÜM sitelere uygulanır"
+
+#: includes/classes/role-view.php:380 includes/classes/tools.php:31
+msgid "Apply to All Sites"
+msgstr "Tüm Sitelere Uygula"
+
+#: includes/classes/view.php:333
+msgid "Quick filter:"
+msgstr "Hızlı süzgeç:"
+
+#: includes/classes/editor.php:1524
+msgid "Error: wrong request"
+msgstr "Hata: yanlış talep"
+
+#: includes/classes/role-view.php:196 includes/classes/role-view.php:207
+msgid "Role name (ID): "
+msgstr "Rol ismi (ID):"
+
+#: includes/classes/role-view.php:198 includes/classes/role-view.php:209
+msgid "Display Role Name: "
+msgstr "Rol İsmini Görüntüle:"
+
+#: includes/classes/role-view.php:200
+msgid "Make copy of: "
+msgstr "Şundan kopyala:"
+
+#: includes/classes/role-view.php:216
+msgid "Select Role:"
+msgstr "Rol Seç:"
+
+#: includes/classes/role-view.php:241
+msgid "Capability name (ID): "
+msgstr "Kabiliyet ismi (ID):"
+
+#: includes/classes/editor.php:234 includes/classes/editor.php:236
+msgid "Error: "
+msgstr "Hata:"
+
+#: includes/classes/editor.php:236
+msgid "Role"
+msgstr "Rol"
+
+#: includes/classes/editor.php:237
+msgid "does not exist"
+msgstr "mevcut değil"
+
+#: includes/classes/editor.php:902
+msgid "Role is updated successfully"
+msgstr "Rol başarıyla güncellendi"
+
+#: includes/classes/editor.php:904
+msgid "Roles are updated for all network"
+msgstr "Roller tüm ağ için güncellendi"
+
+#: includes/classes/editor.php:911
+msgid "User capabilities are updated successfully"
+msgstr "Kullanıcı kabiliyetleri başarıyla güncellendi"
+
+#: includes/classes/editor.php:1393
+msgid "User Roles are restored to WordPress default values. "
+msgstr "Kullanıcı Rolleri WordPress varsayılanlarına geri döndürüldü."
+
+#: includes/classes/editor.php:992
+msgid "Error: Role ID must contain latin characters, digits, hyphens or underscore only!"
+msgstr "Hata: Rol ID yalnızca latin karakterleri, rakamlar, tireler veya alt çizgiler içermeli!"
+
+#: includes/classes/editor.php:998
+msgid "Error: WordPress does not support numeric Role name (ID). Add latin characters to it."
+msgstr "Hata: WordPress sayısal rol isimlerini (ID) desteklemiyor. Latin karakterleri ekleyin."
+
+#: includes/classes/editor.php:1032
+msgid "Role %s exists already"
+msgstr "%s rolü zaten mevcut"
+
+#: includes/classes/editor.php:1051
+msgid "Error is encountered during new role create operation"
+msgstr "Yeni rol oluşturma işlemi sırasında hata oluştu"
+
+#: includes/classes/editor.php:1058
+msgid "Role %s is created successfully"
+msgstr "%s rolü başarıyla oluşturuldu"
+
+#: includes/classes/editor.php:983
+msgid "Error: Role ID is empty!"
+msgstr "Hata: Rol ID'si boş!"
+
+#: includes/classes/editor.php:1143
+msgid "Error: Empty role display name is not allowed."
+msgstr "Hata: Boş görünen rol adına izin yok."
+
+#: includes/classes/editor.php:1150
+msgid "Role %s does not exists"
+msgstr "%s rolü mevcut değil"
+
+#: includes/classes/editor.php:1163
+msgid "Role %s is renamed to %s successfully"
+msgstr "%s rolünün ismi %s olarak başarıyla değiştirildi"
+
+#: includes/classes/editor.php:1295
+msgid "Unused roles are deleted successfully"
+msgstr "Kullanılmayan roller başarıyla silindi"
+
+#: includes/classes/editor.php:1297
+msgid "Role %s is deleted successfully"
+msgstr "%s rolü başarıyla silindi"
+
+#: includes/classes/editor.php:1343
+msgid "Error encountered during default role change operation"
+msgstr "Varsayılan rol değişimi işlemi sırasında hata oluştu"
+
+#: includes/classes/editor.php:1341
+msgid "Default role for new users is set to %s successfully"
+msgstr "Yeni kullanıcılar için varsayılan rol %s rolüne başarıyla ayarlandı"
+
+#: includes/classes/editor.php:1553
+msgid "Editor"
+msgstr "Editör"
+
+#: includes/classes/editor.php:1554
+msgid "Author"
+msgstr "Yazar"
+
+#: includes/classes/editor.php:1555
+msgid "Contributor"
+msgstr "İçerik Sağlayıcı"
+
+#: includes/classes/editor.php:1556
+msgid "Subscriber"
+msgstr "Abone"
+
+#: includes/classes/editor.php:1558
+msgid "Switch themes"
+msgstr "Tema değiştirme"
+
+#: includes/classes/editor.php:1559
+msgid "Edit themes"
+msgstr "Tema düzenleme"
+
+#: includes/classes/editor.php:1560
+msgid "Activate plugins"
+msgstr "Eklenti etkinleştirme"
+
+#: includes/classes/editor.php:1561
+msgid "Edit plugins"
+msgstr "Eklenti düzenleme"
+
+#: includes/classes/editor.php:1562
+msgid "Edit users"
+msgstr "Kullanıcı düzenleme"
+
+#: includes/classes/editor.php:1563
+msgid "Edit files"
+msgstr "Dosya düzenleme"
+
+#: includes/classes/editor.php:1564
+msgid "Manage options"
+msgstr "Seçenek yönetme"
+
+#: includes/classes/editor.php:1565
+msgid "Moderate comments"
+msgstr "Yorum ılıtma"
+
+#: includes/classes/editor.php:1566
+msgid "Manage categories"
+msgstr "Kategori yönetme"
+
+#: includes/classes/editor.php:1567
+msgid "Manage links"
+msgstr "Bağlantı yönetme"
+
+#: includes/classes/editor.php:1568
+msgid "Upload files"
+msgstr "Dosya yükleme"
+
+#: includes/classes/editor.php:1569
+msgid "Import"
+msgstr "İçe Aktarma"
+
+#: includes/classes/editor.php:1570
+msgid "Unfiltered html"
+msgstr "Süzülmemiş html"
+
+#: includes/classes/editor.php:1571
+msgid "Edit posts"
+msgstr "Yazı düzenleme"
+
+#: includes/classes/editor.php:1572
+msgid "Edit others posts"
+msgstr "Başkalarının yazılarını düzenleme"
+
+#: includes/classes/editor.php:1573
+msgid "Edit published posts"
+msgstr "Yayımdaki yazıları düzenleme"
+
+#: includes/classes/editor.php:1574
+msgid "Publish posts"
+msgstr "Yazı yayımlama"
+
+#: includes/classes/editor.php:1575
+msgid "Edit pages"
+msgstr "Sayfa düzenleme"
+
+#: includes/classes/editor.php:1576
+msgid "Read"
+msgstr "Okuma"
+
+#: includes/classes/editor.php:1577
+msgid "Level 10"
+msgstr "Seviye 10"
+
+#: includes/classes/editor.php:1578
+msgid "Level 9"
+msgstr "Seviye 9"
+
+#: includes/classes/editor.php:1579
+msgid "Level 8"
+msgstr "Seviye 8"
+
+#: includes/classes/editor.php:1580
+msgid "Level 7"
+msgstr "Seviye 7"
+
+#: includes/classes/editor.php:1581
+msgid "Level 6"
+msgstr "Seviye 6"
+
+#: includes/classes/editor.php:1582
+msgid "Level 5"
+msgstr "Seviye 5"
+
+#: includes/classes/editor.php:1583
+msgid "Level 4"
+msgstr "Seviye 4"
+
+#: includes/classes/editor.php:1584
+msgid "Level 3"
+msgstr "Seviye 3"
+
+#: includes/classes/editor.php:1585
+msgid "Level 2"
+msgstr "Seviye 2"
+
+#: includes/classes/editor.php:1586
+msgid "Level 1"
+msgstr "Seviye 1"
+
+#: includes/classes/editor.php:1587
+msgid "Level 0"
+msgstr "Seviye 0"
+
+#: includes/classes/editor.php:1588
+msgid "Edit others pages"
+msgstr "Başkalarının sayfalarını düzenleme"
+
+#: includes/classes/editor.php:1589
+msgid "Edit published pages"
+msgstr "Yayımdaki sayfaları düzenleme"
+
+#: includes/classes/editor.php:1590
+msgid "Publish pages"
+msgstr "Sayfa yayımlama"
+
+#: includes/classes/editor.php:1591
+msgid "Delete pages"
+msgstr "Sayfa silme"
+
+#: includes/classes/editor.php:1592
+msgid "Delete others pages"
+msgstr "Başkalarının sayfalarını silme"
+
+#: includes/classes/editor.php:1593
+msgid "Delete published pages"
+msgstr "Yayımdaki sayfaları silme"
+
+#: includes/classes/editor.php:1594
+msgid "Delete posts"
+msgstr "Yazı silme"
+
+#: includes/classes/editor.php:1595
+msgid "Delete others posts"
+msgstr "Başkalarının yazılarını silme"
+
+#: includes/classes/editor.php:1596
+msgid "Delete published posts"
+msgstr "Yayımdaki yazıları silme"
+
+#: includes/classes/editor.php:1597
+msgid "Delete private posts"
+msgstr "Kişisel yazıları silme"
+
+#: includes/classes/editor.php:1598
+msgid "Edit private posts"
+msgstr "Kişisel yazıları düzenleme"
+
+#: includes/classes/editor.php:1599
+msgid "Read private posts"
+msgstr "Kişisel yazıları okuma"
+
+#: includes/classes/editor.php:1600
+msgid "Delete private pages"
+msgstr "Kişisel sayfaları silme"
+
+#: includes/classes/editor.php:1601
+msgid "Edit private pages"
+msgstr "Kişisel sayfaları düzenleme"
+
+#: includes/classes/editor.php:1602
+msgid "Read private pages"
+msgstr "Kişisel sayfaları okuma"
+
+#: includes/classes/editor.php:1603
+msgid "Delete users"
+msgstr "Kullanıcı silme"
+
+#: includes/classes/editor.php:1604
+msgid "Create users"
+msgstr "Kullanıcı oluşturma"
+
+#: includes/classes/editor.php:1605
+msgid "Unfiltered upload"
+msgstr "Süzülmemiş yükleme"
+
+#: includes/classes/editor.php:1606
+msgid "Edit dashboard"
+msgstr "Panel düzenleme"
+
+#: includes/classes/editor.php:1607
+msgid "Update plugins"
+msgstr "Eklenti güncelleme"
+
+#: includes/classes/editor.php:1608
+msgid "Delete plugins"
+msgstr "Eklenti silme"
+
+#: includes/classes/editor.php:1609
+msgid "Install plugins"
+msgstr "Eklenti kurma"
+
+#: includes/classes/editor.php:1610
+msgid "Update themes"
+msgstr "Tema güncelleme"
+
+#: includes/classes/editor.php:1611
+msgid "Install themes"
+msgstr "Tema kurma"
+
+#: includes/classes/editor.php:1612
+msgid "Update core"
+msgstr "Çekirdek güncelleme"
+
+#: includes/classes/editor.php:1613
+msgid "List users"
+msgstr "Kullanıcı listeleme"
+
+#: includes/classes/editor.php:1614
+msgid "Remove users"
+msgstr "Kullanıcı kaldırma"
+
+#: includes/classes/editor.php:1615
+msgid "Add users"
+msgstr "Kullanıcı ekleme"
+
+#: includes/classes/editor.php:1616
+msgid "Promote users"
+msgstr "Kullanıcı teşvik etme"
+
+#: includes/classes/editor.php:1617
+msgid "Edit theme options"
+msgstr "Tema seçenekleri düzenleme"
+
+#: includes/classes/editor.php:1618
+msgid "Delete themes"
+msgstr "Tema silme"
+
+#: includes/classes/editor.php:1619
+msgid "Export"
+msgstr "Dışa Aktarma"
+
+#: includes/classes/capability.php:38
+msgid "Error: Capability name must contain latin characters and digits only!"
+msgstr "Hata: Kabiliyet ismi yalnızca latin karakterleri ve rakamlar içermeli!"
+
+#: includes/classes/capability.php:117
+msgid "Capability %s exists already"
+msgstr "%s kabiliyeti zaten mevcut"
+
+#: includes/classes/lib.php:383
+msgid "Version:"
+msgstr "Sürüm:"
+
+#: includes/classes/lib.php:384
+msgid "Author's website"
+msgstr "Yazarın web sitesi"
+
+#: includes/classes/lib.php:385
+msgid "Plugin webpage"
+msgstr "Eklenti web sayfası"
+
+#: includes/classes/lib.php:386
+msgid "Plugin download"
+msgstr "Eklenti indirme"
+
+#: includes/classes/lib.php:388
+msgid "FAQ"
+msgstr "S.S.S."
+
+#: includes/classes/role-view.php:64
+msgid "None"
+msgstr "Hiçbiri"
+
+#: includes/classes/role-view.php:96
+msgid "Delete All Unused Roles"
+msgstr "Tüm Kullanılmayan Rolleri Sil"
+
+#: includes/classes/grant-roles.php:384 includes/classes/user-view.php:96
+msgid "&mdash; No role for this site &mdash;"
+msgstr "&mdash; Bu site için hiç rol yok &mdash;"
+
+#: includes/classes/user-view.php:71
+msgid "Network Super Admin"
+msgstr "Ağ Süper Yöneticisi"
+
+#: includes/classes/user-view.php:137
+msgid "Change capabilities for user"
+msgstr "Kullanıcının kabiliyetlerini değiştir"
+
+#: includes/classes/user-view.php:175
+msgid "Primary Role:"
+msgstr "Birincil Rol:"
+
+#: includes/classes/user-view.php:181
+msgid "bbPress Role:"
+msgstr "bbPress Rolü:"
+
+#: includes/classes/user-view.php:190
+msgid "Other Roles:"
+msgstr "Diğer Roller:"
+
+#: includes/classes/screen-help.php:12 includes/classes/screen-help.php:43
+#: includes/classes/screen-help.php:62 includes/classes/screen-help.php:81
+msgid "User Role Editor Options page help"
+msgstr "Kullanıcı Rol Editörü Seçenekler"
+
+#: includes/classes/screen-help.php:65
+msgid "Other default roles for new registered user"
+msgstr "Yeni kayıtlı kullanıcılar için diğer varsayılan roller"
+
+#. Author of the plugin
+msgid "Vladimir Garagulya"
+msgstr "Vladimir Garagulya"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.role-editor.com"
+msgstr "https://www.role-editor.com"
+
+#: includes/classes/user-other-roles.php:125
+msgid "Select additional roles for this user"
+msgstr "Bu kullanıcı için ilave rolleri seçin"
+
+#: includes/classes/user-other-roles.php:222
+msgid "Denied: %s"
+msgstr "Reddedildi: %s"
+
+#: includes/classes/editor.php:1346
+msgid "Can not set Administrator role as a default one"
+msgstr "Yönetici rolü varsayılan bir rol olarak ayarlanamaz"
+
+#. Description of the plugin
+msgid "Change/add/delete WordPress user roles and capabilities."
+msgstr "WordPress kullanıcı rollerini ve yetkinliklerini düzenle/ekle/sil."
+
+#: includes/classes/editor.php:1348
+msgid "This role does not exist - "
+msgstr "Bu rol mevcut değil - "
+
+#: includes/classes/capabilities-groups-manager.php:201
+msgid "Custom capabilities"
+msgstr "Özel kabiliyetler"
+
+#: includes/classes/capability.php:115
+msgid "Capability %s was added successfully"
+msgstr "%s kabiliyeti başarıyla eklendi"
+
+#: includes/classes/user-role-editor.php:808
+msgid "For more information on how to undo undesired changes and restore plugin capabilities go to"
+msgstr "Değişiklikleri geri alma ve eklenti kabiliyetlerini geri yükleme hakkında daha fazla bilgi için gideceğiniz adres:"
+
+#: includes/classes/capability.php:227
+msgid "Capability %s was removed successfully"
+msgstr "%s kabiliyeti başarıyla eklendi"
+
+#: includes/classes/screen-help.php:84
+msgid "Allow non super-administrators to create, edit and delete users"
+msgstr "Süper yönetici olmayanların kullanıcı oluşturma, düzenleme ve silmelerine izin ver"
+
+#: includes/classes/editor.php:913
+msgid "Error occurred during user update"
+msgstr "Kullanıcı güncellemesi esnasında hata meydana geldi"
+
+#: includes/classes/editor.php:907
+msgid "Error occurred during role(s) update"
+msgstr "Rol güncellemesi esnasında hata meydana geldi"

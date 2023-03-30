@@ -1,0 +1,141 @@
+# Translation of Plugins - WP Add Custom CSS - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - WP Add Custom CSS - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-07-22 10:43:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - WP Add Custom CSS - Stable (latest release)\n"
+
+#: wordpress-add-custom-css.php:146
+msgid "If you don't have a PayPal account use this PayPal donate button:"
+msgstr "Als je geen PayPal account hebt, gebruik je deze PayPal donatieknop:"
+
+#: wordpress-add-custom-css.php:143
+msgid "paypal.me (it has lower fees):"
+msgstr "paypal.me (het heeft lagere kosten):"
+
+#: wordpress-add-custom-css.php:143
+msgid "If you have a PayPal account use"
+msgstr "Als je een PayPal account hebt, gebruik je"
+
+#: wordpress-add-custom-css.php:142
+msgid "Help me mantaining WP Add Custom CSS by making a donation:"
+msgstr "Help me WP Add Custom CSS te behouden door een donatie te doen:"
+
+#: wordpress-add-custom-css.php:141
+msgid "Donations"
+msgstr "Donaties"
+
+#: wordpress-add-custom-css.php:266
+msgid "Advanced editor layout"
+msgstr "Geavanceerde editorlay-out"
+
+#: wordpress-add-custom-css.php:259
+msgid "Enable"
+msgstr "Inschakelen"
+
+#: wordpress-add-custom-css.php:253
+msgid "Advanced editor"
+msgstr "Geavanceerde editor"
+
+#: wordpress-add-custom-css.php:208
+msgid "Light"
+msgstr "Licht"
+
+#: wordpress-add-custom-css.php:208
+msgid "Dark"
+msgstr "Donker"
+
+#: wordpress-add-custom-css.php:194
+msgid "Enable advanced css editor, including line numbers and code coloring."
+msgstr "Schakel de geavanceerde css-editor in, inclusief regelnummers en codekleuren."
+
+#: wordpress-add-custom-css.php:156
+msgid "thank you!"
+msgstr "dank je!"
+
+#: wordpress-add-custom-css.php:156
+msgid "5 star review,"
+msgstr "5 sterren beoordeling,"
+
+#: wordpress-add-custom-css.php:156
+msgid "If you like \"WP Add Custom CSS\" leave a"
+msgstr "Als je van \"WP Add Custom CSS\" houdt, laat dan een"
+
+#. Description of the plugin
+msgid "Add custom css to the whole website and to specific posts, pages and custom post types."
+msgstr "Voeg aangepaste css toe aan de hele site en aan specifieke berichten, pagina's en aangepaste berichttypen."
+
+#: wordpress-add-custom-css.php:246
+msgid "Available post types"
+msgstr "Beschikbare berichttypes"
+
+#: wordpress-add-custom-css.php:240
+msgid "Post types"
+msgstr "Berichttypes"
+
+#: wordpress-add-custom-css.php:178
+msgid "Enable page specific CSS for the post types below."
+msgstr "Schakel paginaspecifieke CSS in voor de onderstaande berichttypen."
+
+#. Author of the plugin
+msgid "Daniele De Santis"
+msgstr "Daniele De Santis"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.danieledesantis.net"
+msgstr "http://www.danieledesantis.net"
+
+#. Plugin Name of the plugin
+msgid "WP Add Custom CSS"
+msgstr "WP Add Custom CSS"
+
+#: wordpress-add-custom-css.php:331
+msgid "Settings"
+msgstr "Instellingen"
+
+#: wordpress-add-custom-css.php:233
+msgid "CSS rules"
+msgstr "CSS-regels"
+
+#: wordpress-add-custom-css.php:227
+msgid "Main CSS"
+msgstr "Hoofd CSS"
+
+#: wordpress-add-custom-css.php:164
+msgid "Write here the CSS rules you want to apply to the whole website."
+msgstr "Schrijf hier de CSS-regels op die je op de hele site wil toepassen."
+
+#: wordpress-add-custom-css.php:157
+msgid "\"WP Add Custom CSS\" is a plugin by"
+msgstr "\"WP Add Custom CSS\" is een plugin van"
+
+#: wordpress-add-custom-css.php:154
+msgid "Credits"
+msgstr "Credits"
+
+#: wordpress-add-custom-css.php:139
+msgid "Save"
+msgstr "Opslaan"
+
+#: wordpress-add-custom-css.php:128
+msgid "Add Custom CSS"
+msgstr "Aangepaste CSS toevoegen"
+
+#: wordpress-add-custom-css.php:128 wordpress-add-custom-css.php:135
+msgid "Wordpress Add Custom CSS"
+msgstr "WordPress aangepaste CSS toevoegen"
+
+#: wordpress-add-custom-css.php:119
+msgid "Add custom CSS rules for this %s"
+msgstr "Voeg aangepaste CSS-regels toe voor deze %s"
+
+#: wordpress-add-custom-css.php:91
+msgid "Custom CSS"
+msgstr "Aangepaste CSS"

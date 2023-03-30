@@ -1,0 +1,850 @@
+# Translation of Plugins - Customize WordPress Emails and Alerts &#8211; Better Notifications for WP - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Customize WordPress Emails and Alerts &#8211; Better Notifications for WP - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-03-30 20:01:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Customize WordPress Emails and Alerts &#8211; Better Notifications for WP - Stable (latest release)\n"
+
+#: includes/engine/class-bnfw-engine.php:1634
+msgid "Error: Download link is not available please contact support"
+msgstr "エラー: ダウンロードリンクが利用できません。サポートに連絡してください"
+
+#. Author URI of the plugin
+msgid "https://madewithfuel.com/"
+msgstr "https://madewithfuel.com/"
+
+#: includes/admin/class-bnfw-notification.php:553
+msgid "E.g. If you want a new post published notification to go to the post author, tick this box."
+msgstr "例えば、新しい投稿公開通知を投稿者に送信する場合は、このボックスにチェックマークを付けます。"
+
+#: includes/admin/class-bnfw-notification.php:311
+#: includes/admin/class-bnfw-notification.php:1285
+msgid "Post - Comment Approved"
+msgstr "投稿 - コメント承認完了"
+
+#: includes/admin/class-bnfw-notification.php:361
+#: includes/admin/class-bnfw-notification.php:1405
+msgid "Media - New Comment Awaiting Moderation"
+msgstr "メディア - 新規承認待ちコメント"
+
+#: includes/admin/class-bnfw-notification.php:363
+#: includes/admin/class-bnfw-notification.php:1408
+msgid "Media - Comment Reply"
+msgstr "メディア - コメント返信"
+
+#: includes/admin/class-bnfw-notification.php:358
+#: includes/admin/class-bnfw-notification.php:1402
+msgid "Media - Comment Approved"
+msgstr "メディア - コメント承認完了"
+
+#: includes/admin/class-bnfw-notification.php:342
+#: includes/admin/class-bnfw-notification.php:1399
+msgid "Page - Comment Approved"
+msgstr "ページ - コメント承認完了"
+
+#: includes/admin/class-bnfw-notification.php:1445
+msgid " Comment Approved"
+msgstr "コメント承認完了"
+
+#: includes/admin/class-bnfw-notification.php:230
+#: includes/admin/class-bnfw-notification.php:1330
+msgid "User Logged In - For Admin"
+msgstr "ユーザーのログイン - 管理者用"
+
+#: includes/admin/class-bnfw-notification.php:265
+#: includes/admin/class-bnfw-notification.php:1327
+msgid "User Logged In - For User"
+msgstr "ユーザーのログイン - ユーザー用"
+
+#: includes/admin/class-bnfw-notification.php:356
+#: includes/admin/class-bnfw-notification.php:1396
+msgid "Media - New Comment"
+msgstr "メディア - 新規コメント"
+
+#: includes/admin/class-bnfw-notification.php:303
+#: includes/admin/class-bnfw-notification.php:1360
+msgid "Published Post Moved to Trash"
+msgstr "ゴミ箱へ移動した公開投稿"
+
+#: includes/admin/class-bnfw-notification.php:352
+#: includes/admin/class-bnfw-notification.php:1390
+msgid "New Media Published"
+msgstr "新規メディアを公開しました"
+
+#: includes/admin/class-bnfw-notification.php:354
+#: includes/admin/class-bnfw-notification.php:1393
+msgid "Media Updated"
+msgstr "メディアを更新しました"
+
+#: includes/admin/class-bnfw-notification.php:516
+msgid "Email"
+msgstr "メール"
+
+#: includes/admin/class-bnfw-notification.php:514
+msgid "Name"
+msgstr "お名前"
+
+#: includes/admin/class-bnfw-notification.php:500
+msgid "Site Name"
+msgstr "サイト名"
+
+#: includes/admin/class-bnfw-settings.php:95
+msgid "Priority Support"
+msgstr "優先サポート"
+
+#: includes/admin/class-bnfw-settings.php:54
+msgid "Save Settings"
+msgstr "設定を保存"
+
+#: includes/admin/class-bnfw-notification.php:502
+msgid "Site Email"
+msgstr "サイトのメール"
+
+#: includes/admin/class-bnfw-notification.php:217
+msgid "Select the notification type"
+msgstr "通知タイプを選択します"
+
+#: includes/admin/class-bnfw-settings.php:88
+msgid "Premium Add-ons"
+msgstr "プレミアムアドオン"
+
+#: includes/admin/class-bnfw-notification.php:248
+msgid "Transactional"
+msgstr "トランザクション"
+
+#: includes/helpers/helpers.php:152
+msgid "Non WordPress Users"
+msgstr "WordPress 以外のユーザー"
+
+#: includes/engine/class-bnfw-engine.php:26
+msgid "This is a test email. All shortcodes below will show in place but not be replaced with content."
+msgstr "こちらはテストメールです。以下のすべてのショートコードは所定の位置に表示されますが、コンテンツに置き換えられることはありません。"
+
+#: includes/admin/class-bnfw-notification.php:403
+msgid "Comment Approved"
+msgstr "コメント承認完了"
+
+#: includes/engine/class-bnfw-engine.php:25
+msgid "Test Email:"
+msgstr "テストメール:"
+
+#: includes/admin/class-bnfw-notification.php:528
+#: includes/admin/class-bnfw-notification.php:542
+#: includes/admin/class-bnfw-notification.php:591
+#: includes/admin/class-bnfw-notification.php:609
+msgid "Select User Roles / Users"
+msgstr "ユーザー権限グループ / ユーザーを選択"
+
+#: includes/admin/class-bnfw-notification.php:1534
+msgid "Enable Notification"
+msgstr "通知を有効化"
+
+#. Plugin Name of the plugin
+msgid "Better Notifications for WP"
+msgstr "Better Notifications for WP"
+
+#: includes/admin/class-bnfw-notification.php:1472
+msgid "Enable Notifications"
+msgstr "通知を有効化"
+
+#: includes/admin/class-bnfw-notification.php:1473
+msgid "Disable Notifications"
+msgstr "通知を無効化"
+
+#: includes/admin/class-bnfw-notification.php:1542
+msgid "Disable Notification"
+msgstr "通知を無効化"
+
+#: includes/admin/class-bnfw-notification.php:1600
+msgid "Enabled 1 Notification."
+msgstr "1件の通知を有効にしました。"
+
+#: includes/admin/class-bnfw-notification.php:258
+#: includes/admin/class-bnfw-notification.php:1315
+msgid "User Email Changed Confirmation - For User"
+msgstr "メールアドレス変更確認 - ユーザー用"
+
+#: includes/admin/class-bnfw-notification.php:226
+#: includes/admin/class-bnfw-notification.php:1309
+msgid "User Email Changed - For Admin"
+msgstr "ユーザーメール変更完了 - 管理者用"
+
+#. translators: %s: enabled notification count
+#: includes/admin/class-bnfw-notification.php:1613
+msgid "Enabled %s Notification."
+msgid_plural "Enabled %s Notifications."
+msgstr[0] "%s件の通知を有効化しました。"
+
+#. translators: %s: disabled notification count
+#: includes/admin/class-bnfw-notification.php:1630
+msgid "Disabled %s Notification."
+msgid_plural "Disabled %s Notifications."
+msgstr[0] "%s件の通知を無効化しました。"
+
+#: includes/admin/class-bnfw-notification.php:279
+#: includes/admin/class-bnfw-notification.php:1384
+msgid "Privacy - Data Export - For User"
+msgstr "プライバシー - データエクスポート - ユーザー用"
+
+#: includes/admin/class-bnfw-notification.php:275
+msgid "Privacy - Confirm Action: Erase Data Request - For User"
+msgstr "プライバシー - 操作確認: データ消去リクエスト - ユーザー用"
+
+#: includes/admin/class-bnfw-notification.php:271
+msgid "Privacy - Confirm Action: Export Data Request - For User"
+msgstr "プライバシー - 操作確認: データエクスポートリクエスト - ユーザー用"
+
+#: includes/admin/class-bnfw-notification.php:283
+#: includes/admin/class-bnfw-notification.php:1387
+msgid "Privacy - Data Erased - For User"
+msgstr "プライバシー - データ消去完了 - ユーザー用"
+
+#: includes/admin/class-bnfw-notification.php:1375
+msgid "Privacy – Confirm Action: Erase Data Request – For User"
+msgstr "プライバシー – 操作確認: データ消去リクエスト – ユーザー用"
+
+#: includes/admin/class-bnfw-notification.php:1372
+msgid "Privacy – Confirm Action: Export Data Request – For User"
+msgstr "プライバシー – 操作確認: データエクスポートリクエスト – ユーザー用"
+
+#: includes/admin/class-bnfw-notification.php:240
+#: includes/admin/class-bnfw-notification.php:1381
+msgid "Privacy - Confirm Action: Erase Data Request - For Admin"
+msgstr "プライバシー - 操作確認: データ消去リクエスト - 管理者用"
+
+#: includes/admin/class-bnfw-notification.php:236
+#: includes/admin/class-bnfw-notification.php:1378
+msgid "Privacy - Confirm Action: Export Data Request - For Admin"
+msgstr "プライバシー - 操作確認: データエクスポートリクエスト - 管理者用"
+
+#: includes/admin/class-bnfw-notification.php:339
+msgid "Page - New Comment Awaiting Moderation"
+msgstr "ページ - 新規承認待ちコメント"
+
+#: includes/admin/class-bnfw-notification.php:1166
+msgid "Excluded User Roles / Users"
+msgstr "除外ユーザー権限グループ / ユーザー"
+
+#: includes/admin/class-bnfw-notification.php:1206
+msgid ", Post Author"
+msgstr "、投稿者"
+
+#: includes/admin/class-bnfw-notification.php:599
+msgid "Except For"
+msgstr "除外対象"
+
+#: includes/admin/class-bnfw-settings.php:187
+msgid "Shortcodes in the post/page content are disabled by default."
+msgstr "投稿/ページコンテンツのショートコードはデフォルトで無効になっています。"
+
+#: includes/admin/class-bnfw-settings.php:192
+msgid "Enable shortcode output in the page/post content"
+msgstr "ページ/投稿コンテンツへのショートコードを出力を有効化"
+
+#: includes/admin/class-bnfw-settings.php:187
+msgid "Enable Content Shortcodes?"
+msgstr "コンテンツショートコードを有効化しますか ?"
+
+#: includes/admin/class-bnfw-notification.php:602
+msgid "Choose the users and/or user roles that this notification should not be sent to."
+msgstr "このメール通知を送信しないユーザーおよび/またはユーザー権限グループを選択してください。"
+
+#: includes/admin/class-bnfw-notification.php:638
+#: includes/admin/class-bnfw-notification.php:652
+msgid " here."
+msgstr "こちら。"
+
+#: includes/admin/class-bnfw-notification.php:1004
+msgid ". Shortcodes will not be replaced with content."
+msgstr "。ショートコードはコンテンツに置き換えられません。"
+
+#: includes/admin/class-bnfw-notification.php:678
+msgid "Find Shortcodes"
+msgstr "ショートコードの検索"
+
+#: includes/admin/class-bnfw-notification.php:674
+msgid "Read Documentation"
+msgstr "ドキュメントを読む"
+
+#: includes/admin/class-bnfw-notification.php:670
+msgid "Insert Default Content"
+msgstr "デフォルトのコンテンツを挿入"
+
+#: includes/admin/class-bnfw-notification.php:638
+msgid "Notification subject. You can use "
+msgstr "通知の件名。使用可能: "
+
+#: includes/admin/class-bnfw-notification.php:652
+msgid "Notification message. You can use "
+msgstr "通知メッセージ。使用可能: "
+
+#: includes/admin/class-bnfw-notification.php:552
+msgid "Send to Author"
+msgstr "投稿者に送信"
+
+#: includes/admin/class-bnfw-notification.php:1004
+msgid "here"
+msgstr "こちら"
+
+#: includes/admin/class-bnfw-notification.php:523
+msgid "Publicly copy in any other users or user roles to this email."
+msgstr "他のユーザーやユーザー権限グループをこのメールに公開 CC する。"
+
+#: includes/admin/class-bnfw-notification.php:537
+msgid "Privately copy in any other users or user roles to this email."
+msgstr "他のユーザーやユーザー権限グループをこのメールに非公開で BCC する。"
+
+#: includes/admin/class-bnfw-notification.php:660
+msgid "Need some more help?"
+msgstr "ヘルプが必要ですか ?"
+
+#: includes/admin/class-bnfw-notification.php:586
+msgid "Choose the users and/or user roles to send this email notification to."
+msgstr "このメール通知を送信するユーザーおよび/またはユーザー権限グループを選択してください。"
+
+#: includes/admin/class-bnfw-notification.php:218
+msgid "Admin"
+msgstr "管理"
+
+#: includes/admin/class-bnfw-settings.php:161
+msgid "Don't send notifications for comments marked as SPAM"
+msgstr "スパムと判定されたコメントには通知を送信しない"
+
+#: includes/admin/class-bnfw-notification.php:991
+msgid "Notification Disabled"
+msgstr "通知が無効になりました"
+
+#: includes/admin/class-bnfw-notification.php:984
+msgid "Notification Enabled"
+msgstr "通知が有効になりました"
+
+#. Author of the plugin
+msgid "Made with Fuel"
+msgstr "Made with Fuel"
+
+#: includes/admin/class-bnfw-notification.php:1421
+msgid "Published"
+msgstr "公開済み"
+
+#: includes/admin/class-bnfw-notification.php:388
+msgid " Published"
+msgstr "公開済み"
+
+#. translators: %s: user name
+#: includes/overrides.php:196
+msgid "Password changed for user: %s"
+msgstr "ユーザー %s さんのパスワードを変更しました"
+
+#. translators: %1$s: pluign version info, %2$s: changelog link, %3$s: new
+#. version info, %4$s: closing a tag, %5$s: update link, %6$s: closing a tag.
+#: includes/libraries/class-edd-sl-plugin-updater.php:314
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s or %5$supdate now%6$s."
+msgstr "利用可能な %1$s の新しいバージョンがあります。%2$sバージョン %3$sの詳細%4$sを確認するか、%5$s今すぐ更新%6$sしてください。"
+
+#. translators: %1$s: pluign version info, %2$s: changelog link, %3$s: new
+#. version info, %4$s: closing a tag.
+#: includes/libraries/class-edd-sl-plugin-updater.php:305
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr "利用可能な %1$s の新しいバージョンがあります。%2$sバージョン %3$sの詳細%4$sを確認する。"
+
+#: includes/admin/class-bnfw-notification.php:256
+#: includes/admin/class-bnfw-notification.php:1312
+msgid "Password Changed - For User"
+msgstr "パスワード変更完了 - ユーザー用"
+
+#: includes/admin/class-bnfw-notification.php:224
+#: includes/admin/class-bnfw-notification.php:1306
+msgid "Password Changed - For Admin"
+msgstr "パスワード変更完了 - 管理者用"
+
+#: includes/admin/class-bnfw-notification.php:261
+#: includes/admin/class-bnfw-notification.php:1318
+msgid "User Email Changed - For User"
+msgstr "ユーザーメール変更完了 - ユーザー用"
+
+#: includes/admin/class-bnfw-notification.php:453
+msgid "This notification doesn't support additional email fields due to a limitation in WordPress."
+msgstr "WordPress の制限により、この通知は追加のメールフィールドをサポートしていません。"
+
+#: includes/admin/class-bnfw-notification.php:509
+msgid "Reply To"
+msgstr "返信先"
+
+#. translators: %s: site title
+#: includes/overrides.php:201
+msgid "[%s] Password Changed"
+msgstr "[%s] パスワードが変更されました"
+
+#: includes/admin/class-bnfw-settings.php:204
+msgid "Allow Usage Tracking?"
+msgstr "使用状況の追跡を許可しますか ?"
+
+#: includes/admin/class-bnfw-notification.php:299
+#: includes/admin/class-bnfw-notification.php:1354
+msgid "New Private Post"
+msgstr "新規非公開投稿"
+
+#: includes/admin/class-bnfw-notification.php:333
+msgid "New Private Page"
+msgstr "新規非公開ページ"
+
+#: includes/admin/class-bnfw-notification.php:394
+#: includes/admin/class-bnfw-notification.php:1433
+msgid "New Private "
+msgstr "新規非公開"
+
+#: includes/admin/class-bnfw-notification.php:488
+msgid "Set \"From\" Name & Email, Reply To, CC, BCC"
+msgstr "「送信者 (From)」の名前とメール、返信先、CC、BCC を設定"
+
+#: includes/admin/class-bnfw-notification.php:232
+#: includes/admin/class-bnfw-notification.php:1321
+msgid "WordPress Core Automatic Background Updates"
+msgstr "WordPressコア自動バックグラウンドアップデート"
+
+#: includes/admin/class-bnfw-notification.php:1442
+msgid " Comment Reply"
+msgstr " コメント返信"
+
+#: includes/admin/class-bnfw-notification.php:263
+#: includes/admin/class-bnfw-notification.php:1339
+msgid "User Role Changed - For User"
+msgstr "ユーザー権限グループ変更完了 - ユーザー用"
+
+#: includes/admin/class-bnfw-notification.php:228
+#: includes/admin/class-bnfw-notification.php:1342
+msgid "User Role Changed - For Admin"
+msgstr "ユーザー権限グループ変更完了 - 管理者用"
+
+#: includes/admin/class-bnfw-notification.php:345
+msgid "Page - Comment Reply"
+msgstr "ページ - コメント返信"
+
+#: includes/license/class-bnfw-license-setting.php:58
+msgid "Save License"
+msgstr "ライセンスを保存"
+
+#: includes/license/class-bnfw-license-setting.php:49
+msgid "BNFW Add-on Licenses"
+msgstr "BNFW アドオンライセンス"
+
+#: includes/admin/class-bnfw-notification.php:252
+#: includes/admin/class-bnfw-notification.php:1333
+msgid "New User - Post-registration Email"
+msgstr "新規ユーザー - 登録後メール"
+
+#: includes/admin/class-bnfw-notification.php:1450
+msgid "New Term"
+msgstr "新規ターム"
+
+#. translators: %s blogname.
+#: includes/overrides.php:168
+msgid "[%s] Your username and password"
+msgstr "[%s] ユーザー名とパスワード"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/bnfw/"
+msgstr "https://ja.wordpress.org/plugins/bnfw/"
+
+#. translators: %s password.
+#: includes/overrides.php:165
+msgid "Password: %s"
+msgstr "パスワード: %s"
+
+#. translators: %s message.
+#: includes/overrides.php:130
+msgid "[%s] Your username and password info"
+msgstr "[%s] ユーザー名とパスワード情報"
+
+#. translators: Password change notification email subject. %s: Site title
+#. translators: %s Blogname.
+#: includes/overrides.php:52 includes/overrides.php:149
+msgid "[%s] New User Registration"
+msgstr "[%s] 新規ユーザー登録"
+
+#: includes/overrides.php:125
+msgid "To set your password, visit the following address:"
+msgstr "パスワードを設定するには以下のアドレスへ移動してください:"
+
+#. translators: %s username.
+#: includes/overrides.php:45 includes/overrides.php:124
+#: includes/overrides.php:145 includes/overrides.php:163
+msgid "Username: %s"
+msgstr "ユーザー名: %s"
+
+#. translators: %s email.
+#: includes/overrides.php:47 includes/overrides.php:147
+msgid "E-mail: %s"
+msgstr "メール: %s"
+
+#: includes/license/class-bnfw-license-setting.php:142
+msgid "Deactivate License"
+msgstr "ライセンスの無効化"
+
+#. translators: %1$s Item name.
+#: includes/license/class-bnfw-license.php:177
+msgid "%1$s License Key"
+msgstr "%1$s ライセンスキー"
+
+#: includes/license/class-bnfw-license-setting.php:31
+#: includes/license/class-bnfw-license-setting.php:32
+msgid "Add-on Licenses"
+msgstr "アドオンライセンス"
+
+#. translators: %s site name.
+#: includes/overrides.php:43 includes/overrides.php:143
+msgid "New user registration on your site %s:"
+msgstr "サイト「%s」の新規ユーザー登録:"
+
+#: includes/libraries/class-edd-sl-plugin-updater.php:573
+msgid "Error"
+msgstr "エラー"
+
+#: includes/libraries/class-edd-sl-plugin-updater.php:573
+msgid "You do not have permission to install plugin updates"
+msgstr "プラグインアップデートをインストールする権限がありません"
+
+#: includes/class-bnfw-import.php:81
+msgid " (Auto Imported)"
+msgstr " (自動インポート)"
+
+#: includes/helpers/class-bnfw-ajax.php:47 includes/helpers/helpers.php:87
+msgid "User Roles"
+msgstr "ユーザー権限グループ"
+
+#: includes/helpers/class-bnfw-ajax.php:69 includes/helpers/helpers.php:108
+#: includes/helpers/helpers.php:113
+msgid "Users"
+msgstr "ユーザー"
+
+#: includes/admin/class-bnfw-notification.php:1436
+msgid " Comment"
+msgstr "コメント"
+
+#: includes/admin/class-bnfw-notification.php:1430
+msgid " Scheduled"
+msgstr "予約済み"
+
+#: includes/admin/class-bnfw-notification.php:1427
+msgid " Pending Review"
+msgstr "保留中のレビュー"
+
+#: includes/admin/class-bnfw-notification.php:1162
+msgid "Notification Type"
+msgstr "通知タイプ"
+
+#: includes/admin/class-bnfw-notification.php:1452
+msgid "New Term in "
+msgstr "新規ターム:"
+
+#: includes/admin/class-bnfw-notification.php:1165
+msgid "User Roles / Users"
+msgstr "ユーザー権限グループ / ユーザー"
+
+#: includes/admin/class-bnfw-notification.php:1424
+msgid "Updated "
+msgstr "更新完了 "
+
+#: includes/admin/class-bnfw-notification.php:1163
+msgid "Enabled?"
+msgstr "有効化しますか ?"
+
+#: includes/admin/class-bnfw-notification.php:1017
+msgid "Move to Trash"
+msgstr "ゴミ箱へ移動"
+
+#: includes/admin/class-bnfw-notification.php:1015
+msgid "Delete Permanently"
+msgstr "完全に削除"
+
+#: includes/admin/class-bnfw-notification.php:1002
+msgid "Send Me a Test Email"
+msgstr "テストメールを送ってください"
+
+#: includes/admin/class-bnfw-notification.php:1604
+msgid "Disabled 1 Notification."
+msgstr "1件の通知を無効化しました。"
+
+#: includes/admin/class-bnfw-notification.php:969
+#: includes/admin/class-bnfw-notification.php:1027
+#: includes/admin/class-bnfw-notification.php:1029
+msgid "Save"
+msgstr "保存"
+
+#: includes/admin/class-bnfw-notification.php:860
+msgid "Test Notification Sent."
+msgstr "テスト通知を送信しました。"
+
+#: includes/admin/class-bnfw-notification.php:689
+msgid "Stop additional paragraph and line break HTML from being inserted into my notifications"
+msgstr "通知に段落や改行の HTML を追加挿入しない"
+
+#: includes/admin/class-bnfw-notification.php:950
+msgid "Notification saved."
+msgstr "通知を保存しました。"
+
+#: includes/admin/class-bnfw-notification.php:651
+msgid "Message Body"
+msgstr "メール本文"
+
+#: includes/admin/class-bnfw-settings.php:81
+msgid "Documentation"
+msgstr "ドキュメンテーション"
+
+#: includes/admin/class-bnfw-notification.php:637
+#: includes/admin/class-bnfw-notification.php:1164
+msgid "Subject"
+msgstr "件名"
+
+#: includes/admin/class-bnfw-notification.php:536
+msgid "BCC"
+msgstr "BCC"
+
+#: includes/admin/class-bnfw-notification.php:522
+msgid "CC"
+msgstr "CC"
+
+#: includes/admin/class-bnfw-notification.php:585
+msgid "Send To"
+msgstr "送信先"
+
+#: includes/admin/class-bnfw-notification.php:482
+msgid "Additional Email Fields"
+msgstr "追加メールフィールド"
+
+#: includes/admin/class-bnfw-notification.php:434
+msgid "New"
+msgstr "新規"
+
+#: includes/admin/class-bnfw-notification.php:495
+msgid "From Name and Email"
+msgstr "送信者名とメールアドレス"
+
+#: includes/admin/class-bnfw-notification.php:460
+msgid "Email Formatting"
+msgstr "メール形式"
+
+#: includes/admin/class-bnfw-notification.php:576
+msgid "Do not send this Notification to the User that triggered it"
+msgstr "この通知をトリガーしたユーザーには送信しない"
+
+#: includes/admin/class-bnfw-notification.php:560
+msgid "Send this notification to the Author"
+msgstr "この通知を投稿者に送信"
+
+#: includes/admin/class-bnfw-notification.php:428
+msgid "Custom Taxonomy"
+msgstr "カスタムタクソノミー"
+
+#: includes/admin/class-bnfw-notification.php:305
+#: includes/admin/class-bnfw-notification.php:398
+#: includes/admin/class-bnfw-notification.php:1282
+msgid "New Comment"
+msgstr "新しいコメント"
+
+#: includes/admin/class-bnfw-notification.php:396
+msgid "Scheduled"
+msgstr "予約済み"
+
+#: includes/admin/class-bnfw-notification.php:392
+msgid "Pending Review"
+msgstr "レビュー待ち"
+
+#: includes/admin/class-bnfw-notification.php:388
+#: includes/admin/class-bnfw-notification.php:1421
+msgid "New "
+msgstr "New "
+
+#: includes/admin/class-bnfw-notification.php:390
+msgid "Updated"
+msgstr "更新済み"
+
+#. translators: %s Custom post type lable name.
+#: includes/admin/class-bnfw-notification.php:386
+msgid "Custom Post Type"
+msgstr "カスタム投稿タイプ"
+
+#: includes/admin/class-bnfw-notification.php:316
+#: includes/admin/class-bnfw-notification.php:1369
+msgid "New Tag"
+msgstr "新規タグ"
+
+#: includes/admin/class-bnfw-notification.php:329
+msgid "Page Updated"
+msgstr "ページを更新しました"
+
+#: includes/admin/class-bnfw-notification.php:337
+msgid "Page - New Comment"
+msgstr "ページ - 新規コメント"
+
+#: includes/admin/class-bnfw-notification.php:331
+msgid "Page Pending Review"
+msgstr "ページレビュー待ち"
+
+#: includes/admin/class-bnfw-notification.php:335
+msgid "Page Scheduled"
+msgstr "ページを公開予約しました"
+
+#: includes/admin/class-bnfw-notification.php:327
+#: includes/admin/class-bnfw-notification.php:1363
+msgid "New Page Published"
+msgstr "新規ページを公開しました"
+
+#: includes/admin/class-bnfw-notification.php:267
+#: includes/admin/class-bnfw-notification.php:406
+#: includes/admin/class-bnfw-notification.php:1297
+msgid "Comment Reply"
+msgstr "コメント返信"
+
+#: includes/admin/class-bnfw-notification.php:164
+msgid "Save Notification"
+msgstr "通知を保存"
+
+#: includes/admin/class-bnfw-notification.php:90
+msgid "No Notifications found in trash"
+msgstr "ゴミ箱に通知が見つかりません"
+
+#: includes/admin/class-bnfw-notification.php:88
+msgid "Search Notifications"
+msgstr "通知を検索"
+
+#: includes/admin/class-bnfw-notification.php:87
+msgid "View Notification"
+msgstr "通知を表示"
+
+#: includes/admin/class-bnfw-notification.php:85
+msgid "Edit Notification"
+msgstr "通知を編集"
+
+#: includes/admin/class-bnfw-notification.php:91
+msgid "All Notifications"
+msgstr "すべての通知"
+
+#: includes/admin/class-bnfw-notification.php:84
+msgid "Add New Notification"
+msgstr "新規通知を追加"
+
+#: includes/admin/class-bnfw-notification.php:212
+msgid "Notification For"
+msgstr "通知:"
+
+#: includes/admin/class-bnfw-notification.php:250
+#: includes/admin/class-bnfw-notification.php:1324
+msgid "New User Registration - For User"
+msgstr "新規ユーザー登録 - ユーザー用"
+
+#: includes/admin/class-bnfw-notification.php:220
+#: includes/admin/class-bnfw-notification.php:1336
+msgid "New User Registration - For Admin"
+msgstr "新規ユーザー登録 - 管理者用"
+
+#: includes/admin/class-bnfw-notification.php:254
+#: includes/admin/class-bnfw-notification.php:1300
+msgid "User Lost Password - For User"
+msgstr "ユーザーパスワード紛失 - ユーザー用"
+
+#: includes/admin/class-bnfw-notification.php:222
+#: includes/admin/class-bnfw-notification.php:1303
+msgid "User Lost Password - For Admin"
+msgstr "ユーザーパスワード紛失 - 管理者用"
+
+#: includes/admin/class-bnfw-notification.php:295
+#: includes/admin/class-bnfw-notification.php:1348
+msgid "Post Updated"
+msgstr "投稿を更新しました"
+
+#: includes/admin/class-bnfw-notification.php:318
+#: includes/admin/class-bnfw-notification.php:1291
+msgid "New Trackback"
+msgstr "新規トラックバック"
+
+#: includes/admin/class-bnfw-notification.php:320
+#: includes/admin/class-bnfw-notification.php:1294
+msgid "New Pingback"
+msgstr "新規ピンバック"
+
+#: includes/admin/class-bnfw-notification.php:314
+#: includes/admin/class-bnfw-notification.php:1366
+msgid "New Category"
+msgstr "新規カテゴリー"
+
+#: includes/admin/class-bnfw-notification.php:86
+msgid "New Notification"
+msgstr "新規通知"
+
+#: includes/admin/class-bnfw-notification.php:308
+#: includes/admin/class-bnfw-notification.php:400
+#: includes/admin/class-bnfw-notification.php:1288
+#: includes/admin/class-bnfw-notification.php:1439
+msgid "New Comment Awaiting Moderation"
+msgstr "新規承認待ちコメント"
+
+#: includes/admin/class-bnfw-notification.php:301
+#: includes/admin/class-bnfw-notification.php:1357
+msgid "Post Scheduled"
+msgstr "投稿を予約しました"
+
+#: includes/admin/class-bnfw-notification.php:297
+#: includes/admin/class-bnfw-notification.php:1351
+msgid "Post Pending Review"
+msgstr "投稿レビュー待ち"
+
+#: includes/admin/class-bnfw-notification.php:89
+msgid "No Notifications found"
+msgstr "通知は見つかりませんでした"
+
+#: includes/admin/class-bnfw-notification.php:293
+#: includes/admin/class-bnfw-notification.php:1345
+msgid "New Post Published"
+msgstr "新規投稿を公開しました"
+
+#: includes/admin/class-bnfw-notification.php:80
+msgid "Notification"
+msgstr "通知"
+
+#: includes/admin/class-bnfw-notification.php:81
+msgid "Add New"
+msgstr "新規追加"
+
+#: includes/admin/class-bnfw-notification.php:79
+#: includes/admin/class-bnfw-notification.php:82
+#: includes/admin/class-bnfw-notification.php:83
+msgid "Notifications"
+msgstr "通知"
+
+#: includes/admin/class-bnfw-notification.php:473
+#: includes/admin/class-bnfw-settings.php:249
+msgid "Plain Text"
+msgstr "プレーンテキスト"
+
+#: includes/admin/class-bnfw-notification.php:467
+#: includes/admin/class-bnfw-settings.php:244
+msgid "HTML Formatting"
+msgstr "HTML 書式設定"
+
+#: includes/admin/class-bnfw-settings.php:156
+msgid "Suppress SPAM comment notification"
+msgstr "スパムコメント通知を抑制"
+
+#: includes/admin/class-bnfw-settings.php:46
+msgid "BNFW Settings"
+msgstr "BNFW 設定"
+
+#: includes/admin/class-bnfw-settings.php:173
+msgid "Default Email Format"
+msgstr "デフォルトのメール形式"
+
+#: includes/admin/class-bnfw-notification.php:155
+#: includes/admin/class-bnfw-settings.php:32
+msgid "Notification Settings"
+msgstr "通知設定"
+
+#: bnfw.php:303 includes/admin/class-bnfw-settings.php:33
+msgid "Settings"
+msgstr "設定"

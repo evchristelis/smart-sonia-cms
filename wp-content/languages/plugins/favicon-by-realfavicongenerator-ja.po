@@ -1,0 +1,217 @@
+# Translation of Plugins - Favicon by RealFaviconGenerator - Development (trunk) in Japanese
+# This file is distributed under the same license as the Plugins - Favicon by RealFaviconGenerator - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-04-20 22:22:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Favicon by RealFaviconGenerator - Development (trunk)\n"
+
+#: admin/class-favicon-by-realfavicongenerator-api-response.php:209
+msgid "Apparently WordPress has no direct access to the file system (it uses another mean such as FTP). This may be the root cause of this issue."
+msgstr "WordPress がファイルシステムに直接アクセスできないようです (FTP など別の方法を使用しています)。これが、この問題の根本的な原因の可能性があります。"
+
+#: admin/views/keep_active_notice.php:18
+msgid "In any case, <a %s>the plugin is super lightweight</a> and will not affect the performance of your site."
+msgstr "ともかく<a %s>本プラグインは超軽量</a>で、サイトのパフォーマンスへの影響はありません。"
+
+#: admin/views/keep_active_notice.php:9
+msgid "You may wonder <a %s>why it works that way</a>."
+msgstr "あなたは<a %s>なぜこうなるのか</a>不思議がるかもしれません。"
+
+#: admin/views/keep_active_notice.php:3
+msgid "You should keep this plugin active. As soon as you deactive it, your favicon is disabled, too."
+msgstr "本プラグインを有効化したままにしてください。無効化するとファビコンも無効化されます。"
+
+#. Author URI of the plugin
+msgid "http://realfavicongenerator.net/"
+msgstr "https://realfavicongenerator.net/"
+
+#. Author of the plugin
+msgid "Philippe Bernard"
+msgstr "Philippe Bernard"
+
+#. Description of the plugin
+msgid "Create and install your favicon for all platforms: PC/Mac of course, but also iPhone/iPad, Android devices, Windows 8 tablets, etc."
+msgstr "サイトのアイコン（ファビコン）を、すべてのプラットフォーム用に生成し利用可能にします: パソコン/Mac、また iPhone/iPad、Android、Windows 8 タブレットなど。"
+
+#. Plugin URI of the plugin
+msgid "http://realfavicongenerator.net/extensions/wordpress"
+msgstr "https://realfavicongenerator.net/extensions/wordpress"
+
+#. Plugin Name of the plugin
+msgid "Favicon by RealFaviconGenerator"
+msgstr "Favicon by RealFaviconGenerator"
+
+#: public/class-favicon-by-realfavicongenerator-common.php:192
+msgid "Visit the <a href=\"%s\">RFG's change log</a> to view the content of the update"
+msgstr "<a href=\"%s\">RealFaviconGenerator 更新履歴</a>にて更新内容を確認"
+
+#: admin/views/settings.php:36
+msgid "Save changes"
+msgstr "設定を保存"
+
+#: admin/views/settings.php:27
+msgid "Get notifications when RealFaviconGenerator is updated. For example, when Apple releases a new version of iOS or a new platform is supported."
+msgstr "RealFaviconGenerator の最新版が利用可能なら通知を受け取ります。例えば、Apple の iOS がバージョンアップしたり、新たなプラットフォームに対応した場合です。"
+
+#: admin/views/settings.php:22
+msgid "Display update notifications"
+msgstr "アップデートを通知"
+
+#: admin/views/settings.php:11
+msgid "Do you want to setup your favicon? Go to <a href=\"%s\">Appearance &gt; Favicon</a>"
+msgstr "ファビコンを設定しますか ? <a href=\"%s\">外観 &gt; Favicon</a> へ移動"
+
+#: admin/views/appearance.php:299
+msgid "An internal error occurred"
+msgstr "内部エラーが発生"
+
+#: admin/views/appearance.php:288
+msgid "An error occured"
+msgstr "エラー発生"
+
+#: admin/views/appearance.php:231
+msgid "Preparing master picture..."
+msgstr "原本画像を準備中..."
+
+#: admin/views/appearance.php:131 admin/views/appearance.php:251
+msgid "Generate favicon"
+msgstr "ファビコン生成"
+
+#: admin/views/appearance.php:122
+msgid "recommended"
+msgstr "ルートディレクトリの利用が推奨されます"
+
+#: admin/views/appearance.php:121
+msgid "However, if this option is enabled, the plugin takes advantage of the permalink feature and the favicon files appear to be in the root directory"
+msgstr "しかしこのオプションを有効にすると、本プラグインはパーマリンク機能を利用し、ファビコン用のファイルがルートディレクトリにあるように振る舞います。"
+
+#: admin/views/appearance.php:119
+msgid "The plugin always stores the favicon files in a dedicated directory."
+msgstr "本プラグインは、常に専用フォルダにファビコンを保管します。"
+
+#: admin/views/appearance.php:114
+msgid "Favicon files in root directory"
+msgstr "ファビコンをルートディレクトリに"
+
+#: admin/views/appearance.php:106
+msgid "If the picture is on your hard drive, you can leave this field blank and upload the picture from RealFaviconGenerator."
+msgstr "ハードディスク上にある場合は空欄のままにし、RealFaviconGenerator のサイトからアップロードできます。"
+
+#: admin/views/appearance.php:104
+msgid "Submit a square picture, at least 70x70 (recommended: 260x260 or more)"
+msgstr "70x70ピクセル以上の四角の画像を指定します (推奨: 260x260以上)"
+
+#: admin/views/appearance.php:100 admin/views/appearance.php:101
+msgid "Select from the Media Library"
+msgstr "メディアライブラリから選択"
+
+#: admin/views/appearance.php:96
+msgid "Master picture URL"
+msgstr "原本画像の URL"
+
+#: admin/views/appearance.php:89
+msgid "You can replace the existing favicon."
+msgstr "既存のファビコンを置き換え可能です。"
+
+#: admin/views/appearance.php:87
+msgid "Favicon generation"
+msgstr "ファビコンの生成"
+
+#: admin/views/appearance.php:60
+msgid "No favicon has been configured yet."
+msgstr "ファビコンはまだ設定されていません。"
+
+#: admin/views/appearance.php:47 admin/views/appearance.php:79
+msgid "This option works only if your site is accessible from the outside."
+msgstr "この機能は、あなたのサイトが外部からアクセス可能な場合にのみ動作します。"
+
+#: admin/views/appearance.php:43 admin/views/appearance.php:74
+msgid "<a %s>Check your favicon</a> with RealFaviconGenerator's favicon checker."
+msgstr "<a %s>ファビコンを確認</a> RealFaviconGenerator ファビコンチェッカー。"
+
+#: admin/views/appearance.php:37 admin/views/appearance.php:58
+msgid "The favicon is up and ready."
+msgstr "ファビコンが生成され利用中です。"
+
+#: admin/views/appearance.php:30 admin/views/appearance.php:51
+msgid "Current favicon"
+msgstr "設定中のファビコン"
+
+#: admin/views/appearance.php:20
+msgid "Do you like the result? If so, would you like to <a %s>rate the plugin</a>?"
+msgstr "結果に満足であれば<a %s>本プラグインを評価</a>してくださいませんか ?"
+
+#: admin/views/appearance.php:16
+msgid "Favicon installed!"
+msgstr "ファビコンの設定完了 !"
+
+#: admin/views/appearance.php:11
+msgid "Favicon installation in progress. Please wait..."
+msgstr "ファビコンの設定中です。お待ちください..."
+
+#: admin/class-favicon-by-realfavicongenerator-api-response.php:300
+msgid "Cannot store downloaded file locally"
+msgstr "ダウンロードしたファイルをローカルに保存できません"
+
+#: admin/class-favicon-by-realfavicongenerator-api-response.php:296
+msgid "Cannot download file at %s"
+msgstr "%s からファイルをダウンロードできません"
+
+#: admin/class-favicon-by-realfavicongenerator-api-response.php:217
+msgid "Error while unziping the favicon package %1$s to directory %2$s"
+msgstr "ファビコン一群 %1$s のディレクトリ %2$s への展開中にエラー"
+
+#: admin/class-favicon-by-realfavicongenerator-api-response.php:207
+msgid "Unknown reason"
+msgstr "理由不明"
+
+#: admin/class-favicon-by-realfavicongenerator-api-response.php:160
+msgid "Cannot create directory %s to store the favicon package content"
+msgstr "ファビコン一群を保管するフォルダー %s を作成できません"
+
+#: admin/class-favicon-by-realfavicongenerator-admin.php:499
+msgid "Your favicon was updated automatically:"
+msgstr "ファビコンは自動更新されました:"
+
+#: admin/class-favicon-by-realfavicongenerator-admin.php:487
+#: admin/class-favicon-by-realfavicongenerator-admin.php:509
+msgid "Do not warn me again in case of update"
+msgstr "更新時に再び通知しない"
+
+#: admin/class-favicon-by-realfavicongenerator-admin.php:483
+#: admin/class-favicon-by-realfavicongenerator-admin.php:505
+msgid "Hide this notice"
+msgstr "この通知を非表示"
+
+#: admin/class-favicon-by-realfavicongenerator-admin.php:472
+msgid "You might want to <a href=\"%s\">generate your favicon again</a>"
+msgstr "<a href=\"%s\">再度ファビコンを生成</a>することもできます"
+
+#: admin/class-favicon-by-realfavicongenerator-admin.php:464
+msgid "An update is available on RealFaviconGenerator:"
+msgstr "RealFaviconGenerator の最新版があります:"
+
+#: admin/class-favicon-by-realfavicongenerator-admin.php:209
+#: public/class-favicon-by-realfavicongenerator-common.php:456
+msgid "Cannot create directory %s to store the favicon package"
+msgstr "ファビコンの一群を保管するディレクトリ %s を作成できません"
+
+#: admin/class-favicon-by-realfavicongenerator-admin.php:202
+msgid "Nonce was not recognized. This case is supposed to happen only in case of XSS attack. If you feel like something is wrong, please <a href=\\\"mailto:contact@realfavicongenerator.net\\\">contact us</a>."
+msgstr "乱数が認識されませんでした。これは XSS 攻撃でのみ発生するでしょう。何かおかしい場合、<a href=\\\"mailto:contact@realfavicongenerator.net\\\">私たちにお問い合わせ</a>ください。"
+
+#: admin/class-favicon-by-realfavicongenerator-admin.php:93
+msgid "Favicon Settings"
+msgstr "Favicon 設定"
+
+#: admin/class-favicon-by-realfavicongenerator-admin.php:85
+#: admin/class-favicon-by-realfavicongenerator-admin.php:86
+#: admin/class-favicon-by-realfavicongenerator-admin.php:94
+msgid "Favicon"
+msgstr "Favicon"

@@ -1,0 +1,915 @@
+# Translation of Plugins - WP-PostRatings - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - WP-PostRatings - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-08-12 15:20:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - WP-PostRatings - Stable (latest release)\n"
+
+#: postratings-options.php:322
+msgid "Enable Ratings in Rich Snippets?"
+msgstr "Waarderingen inschakelen in Rich Snippets?"
+
+#: postratings-manager.php:288
+msgid "Hashed IP / Host"
+msgstr "Hashed IP / Host"
+
+#: wp-postratings.php:638
+msgid "Vote Up"
+msgstr "Stem omhoog"
+
+#: wp-postratings.php:637
+msgid "Vote Down"
+msgstr "Stem omlaag"
+
+#: wp-postratings.php:601
+msgid "Invalid Post ID (#%s)."
+msgstr "Ongeldig bericht ID (#%s)."
+
+#: postratings-options.php:421
+msgid "Logged-in Users And Guests"
+msgstr "Ingelogde gebruikers en gasten"
+
+#: postratings-options.php:419
+msgid "Users Registered On Blog Only"
+msgstr "Gebruikers geregistreerd op alleen blog"
+
+#: postratings-options.php:417
+msgid "Logged-in Users Only"
+msgstr "Alleen ingelogde gebruikers"
+
+#: postratings-manager.php:514
+msgid "Rating Stats"
+msgstr "Waardering statistieken"
+
+#: postratings-manager.php:357
+msgid "No Rating Logs Found"
+msgstr "Geen waardering logs gevonden"
+
+#: postratings-manager.php:328 postratings-manager.php:330
+#: postratings-manager.php:336 postratings-manager.php:338
+msgid "User Rate This %s Star"
+msgid_plural "User Rate This %s Stars"
+msgstr[0] "Gebruikers waarderen dit met %s ster"
+msgstr[1] "Gebruikers waarderen dit met %s sterren"
+
+#: postratings-manager.php:263
+msgid "Rating Logs"
+msgstr "Waarderingslogboek"
+
+#: postratings-manager.php:24 postratings-options.php:24
+#: postratings-templates.php:24
+msgid "Access Denied"
+msgstr "Geen toegang"
+
+#: includes/postratings-widgets.php:174
+msgid "The minimum number of votes, before the rating displayed."
+msgstr "Het minimum aantal stemmen, voordat beoordeeling weergegeven wordt."
+
+#: wp-postratings.php:875
+msgid "user casted his vote."
+msgid_plural "users casted their vote."
+msgstr[0] "gebruiker heeft zijn stem uitgebracht."
+msgstr[1] "gebruikers hebben hun stem uitgebracht."
+
+#. translators: 1: Sort by text 2: Sort order text
+#: postratings-manager.php:274
+msgid "Sorted by %1$s in %2$s order."
+msgstr "Gesorteerd op %1$s in %2$s volgorde."
+
+#. translators: 1: Number of ratings on page 2: Max on page 3: Total rating
+#: postratings-manager.php:266
+msgid "Displaying %1$s to %2$s of %3$s rating log entries."
+msgstr "Weergave %1$s t/m %2$s van %3$s waarderingslogboek."
+
+#. Author URI of the plugin
+msgid "https://lesterchan.net"
+msgstr "http://lesterchan.net"
+
+#. Author of the plugin
+msgid "Lester 'GaMerZ' Chan"
+msgstr "Lester 'GaMerZ' Chan"
+
+#. Description of the plugin
+msgid "Adds an AJAX rating system for your WordPress site's content."
+msgstr "Voegt een AJAX-beoordelingssysteem toe voor de inhoud van je WordPress-site."
+
+#. Plugin URI of the plugin
+msgid "https://lesterchan.net/portfolio/programming/php/"
+msgstr "http://lesterchan.net/portfolio/programming/php/"
+
+#: includes/postratings-activation.php:70
+msgid "5 Stars"
+msgstr "5 sterren"
+
+#: includes/postratings-activation.php:70
+msgid "4 Stars"
+msgstr "4 sterren"
+
+#: includes/postratings-activation.php:70
+msgid "3 Stars"
+msgstr "3 sterren"
+
+#: includes/postratings-activation.php:70
+msgid "2 Stars"
+msgstr "2 sterren"
+
+#: includes/postratings-activation.php:70
+msgid "1 Star"
+msgstr "1 ster"
+
+#: includes/postratings-widgets.php:193
+msgid "** If you are not using any category or time range statistics, you can ignore it."
+msgstr "** Als je geen gebruik maakt van een bepaalde categorie of tijdschaal statistieken, kun je het negeren."
+
+#: includes/postratings-widgets.php:192
+msgid "* Time range statistics does not support Minimum Votes field, you can ignore that it."
+msgstr "* Tijdsperiodieke statistieken ondersteunen geen veld voor minimale stemmen, je kunt het negeren."
+
+#: includes/postratings-widgets.php:189
+msgid "Use values like <strong>1 day</strong>, <strong>2 weeks</strong>, <strong>1 month</strong>."
+msgstr "Gebruik waardes zoals <strong>1 dag</strong>, <strong>2 weken</strong>, <strong>1 maand</strong>."
+
+#: includes/postratings-widgets.php:187
+msgid "Time Range:"
+msgstr "Tijdsperiode:"
+
+#: includes/postratings-widgets.php:184
+msgid "Seperate mutiple categories with commas."
+msgstr "Scheidt meerdere categorieën met komma's."
+
+#: includes/postratings-widgets.php:182
+msgid "Category IDs:"
+msgstr "Categorie IDs:"
+
+#: includes/postratings-widgets.php:179
+msgid "<strong>0</strong> to disable."
+msgstr "<strong>0</strong> om uit te schakelen."
+
+#: includes/postratings-widgets.php:177
+msgid "Maximum Title Length (Characters):"
+msgstr "Maximale lengte titel (tekens):"
+
+#: includes/postratings-widgets.php:172
+msgid "Minimum Votes:"
+msgstr "Minimum stemmen:"
+
+#: includes/postratings-widgets.php:168
+msgid "No. Of Records To Show:"
+msgstr "Aantal records om weer te geven:"
+
+#: includes/postratings-widgets.php:162
+msgid "%s Only"
+msgstr "%s alleen"
+
+#: includes/postratings-widgets.php:159
+msgid "All"
+msgstr "Alles"
+
+#: includes/postratings-widgets.php:157
+msgid "Include Ratings From:"
+msgstr "Insluiten waarderingen van:"
+
+#: includes/postratings-widgets.php:153
+msgid "Highest Score By Time Range And Category"
+msgstr "Hoogste score op tijd en categorie"
+
+#: includes/postratings-widgets.php:152
+msgid "Highest Score By Time Range"
+msgstr "Hoogste score op tijdsperiode"
+
+#: includes/postratings-widgets.php:151
+msgid "Highest Score By Category"
+msgstr "Hoogste score per categorie"
+
+#: includes/postratings-widgets.php:150
+msgid "Highest Score"
+msgstr "Hoogste score"
+
+#: includes/postratings-widgets.php:148
+msgid "Lowest Rated By Time Range"
+msgstr "Laagst gewaardeerd op tijdsbereik"
+
+#: includes/postratings-widgets.php:147
+msgid "Lowest Rated By Category"
+msgstr "Minst gewaardeerd per categorie"
+
+#: includes/postratings-widgets.php:146
+msgid "Lowest Rated"
+msgstr "Minst gewaardeerd"
+
+#: includes/postratings-widgets.php:144
+msgid "Highest Rated By Time Range And Category"
+msgstr "Meest gewaardeerd op tijdsbereik en per categorie"
+
+#: includes/postratings-widgets.php:143
+msgid "Highest Rated By Time Range"
+msgstr "Meest gewaardeerd op tijdsbereik"
+
+#: includes/postratings-widgets.php:142
+msgid "Highest Rated By Category"
+msgstr "Hoogst gewaardeerd op categorie"
+
+#: includes/postratings-widgets.php:141
+msgid "Highest Rated"
+msgstr "Hoogst beoordeeld"
+
+#: includes/postratings-widgets.php:139
+msgid "Most Rated By Time Range And Category"
+msgstr "Meest beoordeeld op tijd en categorie"
+
+#: includes/postratings-widgets.php:138
+msgid "Most Rated By Time Range"
+msgstr "Meest gewaardeerd over tijd"
+
+#: includes/postratings-widgets.php:137
+msgid "Most Rated By Category"
+msgstr "Meest gewaardeerd per categorie"
+
+#: includes/postratings-widgets.php:136
+msgid "Most Rated"
+msgstr "Meeste gewaardeerd"
+
+#: includes/postratings-widgets.php:134
+msgid "Statistics Type:"
+msgstr "Statistiekensoort:"
+
+#: includes/postratings-widgets.php:130
+msgid "Title:"
+msgstr "Titel:"
+
+#: includes/postratings-widgets.php:28
+msgid "WP-PostRatings ratings statistics"
+msgstr "WP-PostRatings waarderingsstatistieken"
+
+#: wp-postratings.php:1119 wp-postratings.php:1122
+msgid "%s vote"
+msgid_plural "%s votes"
+msgstr[0] "%s stem"
+msgstr[1] "%s stemmen"
+
+#: wp-postratings.php:1119
+msgid "%s rating"
+msgid_plural "%s ratings"
+msgstr[0] "%s waardering"
+msgstr[1] "%s waarderingen"
+
+#: wp-postratings.php:861 wp-postratings.php:863 wp-postratings.php:905
+msgid "%s Most Rated Page"
+msgid_plural "%s Most Rated Pages"
+msgstr[0] "%s meest gewaardeerde pagina"
+msgstr[1] "%s meest gewaardeerde pagina's"
+
+#: wp-postratings.php:856 wp-postratings.php:858 wp-postratings.php:899
+msgid "%s Most Rated Post"
+msgid_plural "%s Most Rated Posts"
+msgstr[0] "%s meest gewaardeerde bericht"
+msgstr[1] "%s meest gewaardeerde berichten"
+
+#: wp-postratings.php:851 wp-postratings.php:853 wp-postratings.php:893
+msgid "%s Highest Rated Page"
+msgid_plural "%s Highest Rated Pages"
+msgstr[0] "%s hoogst gewaardeerde pagina"
+msgstr[1] "%s hoogst gewaardeerde pagina's"
+
+#: wp-postratings.php:846 wp-postratings.php:848 wp-postratings.php:887
+msgid "%s Highest Rated Post"
+msgid_plural "%s Highest Rated Posts"
+msgstr[0] "%s hoogst gewaardeerde bericht"
+msgstr[1] "%s Hoogst gewaardeerde berichten"
+
+#. Plugin Name of the plugin
+#: wp-postratings.php:833 wp-postratings.php:835 wp-postratings.php:873
+msgid "WP-PostRatings"
+msgstr "WP-PostRatings"
+
+#: wp-postratings.php:644
+msgid "%s Star"
+msgstr "%s Ster"
+
+#: wp-postratings.php:642
+msgid "%s Stars"
+msgstr "%s Sterren"
+
+#: wp-postratings.php:605
+msgid "You Had Already Rated This Post. Post ID #%s."
+msgstr "Je had dit bericht al beoordeeld. Bericht ID #%s."
+
+#: wp-postratings.php:581
+msgid "Guest"
+msgstr "Gast"
+
+#: wp-postratings.php:536
+msgid "Failed To Verify Referrer"
+msgstr "Kan verwijzer niet verifiëren"
+
+#: wp-postratings.php:488
+msgid "There is no excerpt because this is a protected post."
+msgstr "Er is geen samenvatting omdat dit een beveiligde bericht is."
+
+#: includes/postratings-shortcodes.php:31
+msgid "Note: There is a rating embedded within this post, please visit this post to rate it."
+msgstr "Opmerking: er is een waardering ingesloten in dit bericht. Bezoek dit bericht om het te waarderen."
+
+#: wp-postratings.php:330 wp-postratings.php:371
+msgid "%s gives a rating of %s"
+msgstr "%s geeft een waardering van %s"
+
+#: includes/postratings-scripts.php:54
+msgid "Please rate only 1 item at a time."
+msgstr "Waardeer slechts één item tegelijk."
+
+#: wp-postratings.php:102
+msgid "Loading..."
+msgstr "Laden..."
+
+#: includes/postratings-admin.php:75 includes/postratings-admin.php:76
+msgid "Ratings Options"
+msgstr "Waardering opties"
+
+#: includes/postratings-admin.php:55 includes/postratings-admin.php:56
+#: includes/postratings-admin.php:97 includes/postratings-widgets.php:26
+#: includes/postratings-widgets.php:116
+msgid "Ratings"
+msgstr "Waarderingen"
+
+#: postratings-templates.php:241
+msgid "Most Rated:"
+msgstr "Meest gewaardeerd:"
+
+#: postratings-templates.php:220
+msgid "Highest Rated:"
+msgstr "Hoogst gewaardeerd:"
+
+#: postratings-templates.php:204
+msgid "Ratings None:"
+msgstr "Geen waarderingen:"
+
+#: postratings-templates.php:189
+msgid "Ratings No Permission Text:"
+msgstr "Waarderingen geen toestemming tekst:"
+
+#: postratings-templates.php:174
+msgid "Ratings Voted Text:"
+msgstr "Waarderingen gestemd tekst:"
+
+#: postratings-templates.php:168 postratings-templates.php:183
+#: postratings-templates.php:198 postratings-templates.php:214
+#: postratings-templates.php:235 postratings-templates.php:252
+msgid "Restore Default Template (Up/Down Rating)"
+msgstr "Standaardtemplate herstellen (waardering omhoog/omlaag)"
+
+#: postratings-templates.php:166 postratings-templates.php:182
+#: postratings-templates.php:197 postratings-templates.php:213
+#: postratings-templates.php:234 postratings-templates.php:251
+msgid "Restore Default Template (Normal Rating)"
+msgstr "Standaardtemplate herstellen (normale waardering)"
+
+#: postratings-templates.php:158 postratings-templates.php:175
+#: postratings-templates.php:190 postratings-templates.php:205
+#: postratings-templates.php:221 postratings-templates.php:242
+msgid "Allowed Variables:"
+msgstr "Toegestane variabelen:"
+
+#: postratings-templates.php:157
+msgid "Ratings Vote Text:"
+msgstr "Waarderingen stem tekst:"
+
+#: includes/postratings-admin.php:84 includes/postratings-admin.php:85
+#: postratings-templates.php:153
+msgid "Ratings Templates"
+msgstr "Waardering templates"
+
+#: postratings-templates.php:150
+msgid "Display the individual rating text. Eg: 1 Star, 2 Stars, etc"
+msgstr "Geef de individuele waarderingstekst weer. Bijv.: 1 ster, 2 sterren, enz"
+
+#: postratings-templates.php:149
+msgid "Display the total score of the ratings"
+msgstr "Toon de totale score van de waarderingen"
+
+#: postratings-templates.php:146
+msgid "Display the ratings percentage"
+msgstr "Toon het waarderingspercentage"
+
+#: postratings-templates.php:145
+msgid "Display the max number of ratings"
+msgstr "Toon het maximale aantal waarderingen"
+
+#: postratings-templates.php:142
+msgid "Display the total number of users rated for the post"
+msgstr "Toon het totale aantal gebruikers weer dat is gewaardeerd voor het bericht"
+
+#: postratings-templates.php:141
+msgid "Display the average ratings"
+msgstr "Toon de gemiddelde waarderingen"
+
+#: postratings-templates.php:138
+msgid "Display the ratings voting image"
+msgstr "Toon de waardering stemafbeelding"
+
+#: postratings-templates.php:137
+msgid "Display the ratings images"
+msgstr "Toon de waarderingsafbeeldingen"
+
+#: postratings-templates.php:134
+msgid "Template Variables"
+msgstr "Template variabelen"
+
+#: postratings-templates.php:131
+msgid "Post Ratings Templates"
+msgstr "Templates voor waarderingen plaatsen"
+
+#: postratings-templates.php:65
+msgid "No Ratings Templates Updated"
+msgstr "Geen waardering templates bijgewerkt"
+
+#: includes/postratings-stats.php:61 includes/postratings-stats.php:120
+#: includes/postratings-stats.php:173 includes/postratings-stats.php:233
+#: includes/postratings-stats.php:286 includes/postratings-stats.php:346
+#: includes/postratings-stats.php:399 includes/postratings-stats.php:459
+#: includes/postratings-stats.php:512 includes/postratings-stats.php:572
+#: includes/postratings-stats.php:625 includes/postratings-stats.php:670
+#: includes/postratings-stats.php:722 includes/postratings-stats.php:768
+#: includes/postratings-stats.php:821 includes/postratings-stats.php:880
+#: includes/postratings-stats.php:939
+msgid "N/A"
+msgstr "N/A"
+
+#: postratings-options.php:442 postratings-templates.php:258
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: postratings-options.php:436
+msgid "Logged By Username"
+msgstr "Gelogd middels Gebruikersnaam"
+
+#: postratings-options.php:435
+msgid "Logged By Cookie And IP"
+msgstr "Gelogd middels een Cookie en IP"
+
+#: postratings-options.php:434
+msgid "Logged By IP"
+msgstr "Gelogd middels IP"
+
+#: postratings-options.php:433
+msgid "Logged By Cookie"
+msgstr "Gelogd middels een Cookie"
+
+#: postratings-options.php:432
+msgid "Do Not Log"
+msgstr "Log niet"
+
+#: postratings-options.php:429
+msgid "Ratings Logging Method:"
+msgstr "Logmethode voor waarderingen:"
+
+#: postratings-options.php:416
+msgid "Guests Only"
+msgstr "Alleen bezoekers"
+
+#: postratings-options.php:413
+msgid "Who Is Allowed To Rate?"
+msgstr "Wie mag waarderen?"
+
+#: postratings-options.php:410
+msgid "Allow To Rate"
+msgstr "Toestaan ​​om te waarderen"
+
+#: postratings-options.php:401
+msgid "Show Fading In And Fading Out Of Ratings"
+msgstr "Fade-in en fade-out van waarderingen weergeven"
+
+#: postratings-options.php:392
+msgid "Show Loading Image With Text"
+msgstr "Toon laadafbeelding met tekst"
+
+#: postratings-options.php:340 wp-postratings.php:655
+msgid "Rating Value"
+msgstr "Waarderingswaarde"
+
+#: postratings-options.php:339 wp-postratings.php:654
+msgid "Rating Text"
+msgstr "Waarderingstekst"
+
+#: postratings-options.php:338 wp-postratings.php:653
+msgid "Rating Image"
+msgstr "Waardeer afbeelding"
+
+#: postratings-options.php:333
+msgid "Individual Rating Text/Value"
+msgstr "Individuele waardering tekst/waarde"
+
+#: postratings-options.php:330
+msgid "Update 'Individual Rating Text/Value' Display"
+msgstr "Update 'Individual Rating Text/Value' Display"
+
+#: postratings-options.php:318 postratings-options.php:326
+#: postratings-options.php:395 postratings-options.php:404
+msgid "No"
+msgstr "Nee"
+
+#: postratings-options.php:316 postratings-options.php:324
+#: postratings-options.php:396 postratings-options.php:405
+msgid "Yes"
+msgstr "Ja"
+
+#: postratings-options.php:314
+msgid "Enable Google Rich Snippets?"
+msgstr "Google Rich Snippets inschakelen?"
+
+#: postratings-options.php:310
+msgid "Max Ratings:"
+msgstr "Max. waarderingen:"
+
+#: postratings-options.php:240
+msgid "Ratings Image:"
+msgstr "Afbeelding voor waardering:"
+
+#: postratings-options.php:227
+msgid "Post Ratings Options"
+msgstr "Opties voor waarderingen plaatsen"
+
+#: includes/postratings-activation.php:61
+#: includes/postratings-activation.php:62
+#: includes/postratings-activation.php:71
+#: includes/postratings-activation.php:77 postratings-options.php:164
+#: postratings-options.php:167 postratings-options.php:170
+#: postratings-options.php:176 postratings-templates.php:103
+#: postratings-templates.php:106 postratings-templates.php:109
+#: postratings-templates.php:115 wp-postratings.php:1122
+msgid "out of"
+msgstr "van de"
+
+#: includes/postratings-activation.php:61
+#: includes/postratings-activation.php:62
+#: includes/postratings-activation.php:77 postratings-options.php:164
+#: postratings-options.php:167 postratings-options.php:170
+#: postratings-templates.php:103 postratings-templates.php:106
+#: postratings-templates.php:109 wp-postratings.php:1122
+msgid "average"
+msgstr "gemiddeld"
+
+#: includes/postratings-activation.php:63 postratings-options.php:145
+#: postratings-options.php:173 postratings-templates.php:84
+#: postratings-templates.php:112
+msgid "No Ratings Yet"
+msgstr "Nog geen waarderingen"
+
+#: includes/postratings-activation.php:77 postratings-options.php:142
+#: postratings-options.php:170 postratings-templates.php:81
+#: postratings-templates.php:109
+msgid "You need to be a registered member to rate this."
+msgstr "Je moet een geregistreerd lid zijn om dit te waarderen."
+
+#: includes/postratings-activation.php:62 postratings-options.php:139
+#: postratings-options.php:142 postratings-options.php:167
+#: postratings-templates.php:78 postratings-templates.php:81
+#: postratings-templates.php:106
+msgid "rated"
+msgstr "gewaardeerd"
+
+#: includes/postratings-activation.php:61
+#: includes/postratings-activation.php:62
+#: includes/postratings-activation.php:77
+#: includes/postratings-activation.php:79 postratings-options.php:136
+#: postratings-options.php:139 postratings-options.php:142
+#: postratings-options.php:148 postratings-options.php:151
+#: postratings-options.php:164 postratings-options.php:167
+#: postratings-options.php:170 postratings-options.php:179
+#: postratings-templates.php:75 postratings-templates.php:78
+#: postratings-templates.php:81 postratings-templates.php:87
+#: postratings-templates.php:90 postratings-templates.php:103
+#: postratings-templates.php:106 postratings-templates.php:109
+#: postratings-templates.php:118
+msgid "votes"
+msgstr "stemmen"
+
+#: includes/postratings-activation.php:61
+#: includes/postratings-activation.php:62
+#: includes/postratings-activation.php:77 postratings-options.php:136
+#: postratings-options.php:139 postratings-options.php:142
+#: postratings-options.php:148 postratings-options.php:164
+#: postratings-options.php:167 postratings-options.php:170
+#: postratings-templates.php:75 postratings-templates.php:78
+#: postratings-templates.php:81 postratings-templates.php:87
+#: postratings-templates.php:103 postratings-templates.php:106
+#: postratings-templates.php:109 wp-postratings.php:1119
+#: wp-postratings.php:1122
+msgid ","
+msgstr ","
+
+#: postratings-options.php:136 postratings-options.php:139
+#: postratings-options.php:142 postratings-options.php:148
+#: postratings-templates.php:75 postratings-templates.php:78
+#: postratings-templates.php:81 postratings-templates.php:87
+msgid "rating"
+msgstr "waardering"
+
+#: postratings-options.php:110
+msgid "No Ratings Option Updated"
+msgstr "Geen waarderingsoptie geüpdatet"
+
+#: postratings-options.php:105 postratings-templates.php:60
+msgid "Updated"
+msgstr "Bijgewerkt"
+
+#: postratings-options.php:100 postratings-options.php:237
+msgid "Ratings Settings"
+msgstr "Instellingen voor waarderingen"
+
+#: postratings-options.php:99
+msgid "Allow To Vote Option"
+msgstr "Toestaan om te stemmen optie"
+
+#: postratings-options.php:98 postratings-options.php:426
+msgid "Logging Method"
+msgstr "Log-methode"
+
+#: postratings-options.php:97 postratings-options.php:389
+msgid "Ratings AJAX Style"
+msgstr "Waarderingen AJAX Style"
+
+#: postratings-options.php:96
+msgid "Individual Rating Value"
+msgstr "Individuele waarderingswaarde"
+
+#: postratings-options.php:95
+msgid "Individual Rating Text"
+msgstr "Individuele waarderingstekst"
+
+#: postratings-options.php:94
+msgid "Max Ratings"
+msgstr "Max. waarderingen"
+
+#: postratings-options.php:93
+msgid "Ratings Image"
+msgstr "Afbeelding voor waarderingen"
+
+#: postratings-options.php:92 postratings-templates.php:55
+msgid "Ratings Template For Most Rated"
+msgstr "Waardering template voor meest gewaardeerde"
+
+#: postratings-options.php:91 postratings-templates.php:54
+msgid "Ratings Template For Highest Rated"
+msgstr "Waardering template voor hoogst gewaardeerde"
+
+#: postratings-options.php:90 postratings-templates.php:53
+msgid "Ratings Template For No Ratings"
+msgstr "Waarderingen template voor geen waarderingen"
+
+#: postratings-options.php:89 postratings-templates.php:52
+msgid "Ratings Template No Permission"
+msgstr "Waarderingen template Geen toestemming"
+
+#: postratings-options.php:88 postratings-templates.php:51
+msgid "Ratings Template Voted"
+msgstr "Waardering template gestemd"
+
+#: postratings-options.php:87 postratings-templates.php:50
+msgid "Ratings Template Vote"
+msgstr "Waardering template Stemmen"
+
+#: postratings-options.php:86
+msgid "Custom Rating"
+msgstr "Aangepaste waardering"
+
+#: postratings-manager.php:573
+msgid "If your logging method is by IP and Cookie or by Cookie, users may still be unable to rate if they have voted before as the cookie is still stored in their computer."
+msgstr "Als je logmethode is via IP en Cookie of door Cookie, kunnen gebruikers mogelijk nog steeds niet waarderen als ze eerder hebben gestemd, omdat de cookie nog steeds op hun computer is opgeslagen."
+
+#: postratings-manager.php:572
+msgid "'Logs And Data' means both the logs generated and the rating data for the post."
+msgstr "Logboeken en gegevens' betekent zowel de gegenereerde logboeken als de waardering gegevens voor de bericht."
+
+#: postratings-manager.php:571
+msgid "'Data Only' means the rating data for the post."
+msgstr "Alleen gegevens' betekent de waardering gegevens voor de bericht."
+
+#: postratings-manager.php:570
+msgid "'Logs Only' means the logs generated when a user rates a post."
+msgstr "Alleen logboeken' betekent de logboeken die worden gegenereerd wanneer een gebruiker een bericht waardeert."
+
+#: postratings-manager.php:568
+msgid "Note:"
+msgstr "Let op:"
+
+#: postratings-manager.php:562
+msgid "You Are About To Delete Post Ratings Data/Logs.\\nThis Action Is Not Reversible.\\n\\n Choose \\'Cancel\\' to stop, \\'OK\\' to delete."
+msgstr "Je staat op het punt om gegevens/logboeken van waarderingen te verwijderen.\\nDeze actie is niet omkeerbaar.\\n\\n Kies\\'Annuleren\\' om te stoppen,\\'OK\\' om te verwijderen."
+
+#: postratings-manager.php:562
+msgid "Delete Data/Logs"
+msgstr "Gegevens/logboeken verwijderen"
+
+#: postratings-manager.php:557
+msgid "To delete ratings data/logs for all posts. Just type in: all"
+msgstr "Om waardering gegevens/logs voor alle berichten te verwijderen. Typ gewoon: alles"
+
+#: postratings-manager.php:556
+msgid "To delete ratings data/logs from Post ID 2, 3 and 4. Just type in: 2,3,4"
+msgstr "Om waardering gegevens/logs te verwijderen uit Post ID 2, 3 en 4. Typ gewoon: 2,3,4"
+
+#: postratings-manager.php:555
+msgid "Seperate each Post ID with a comma."
+msgstr "Scheid elk bericht-ID met een komma."
+
+#: postratings-manager.php:552
+msgid "Post ID(s):"
+msgstr "Bericht-id ('s):"
+
+#: postratings-manager.php:547
+msgid "Logs And Data"
+msgstr "Logboeken en gegevens"
+
+#: postratings-manager.php:546
+msgid "Data Only"
+msgstr "Alleen gegevens"
+
+#: postratings-manager.php:545
+msgid "Logs Only"
+msgstr "Alleen logboeken"
+
+#: postratings-manager.php:542
+msgid "Delete Type: "
+msgstr "Type verwijderen: "
+
+#: postratings-manager.php:535
+msgid "Delete Ratings Data/Logs"
+msgstr "Waardering gegevens/logboeken verwijderen"
+
+#: postratings-manager.php:526
+msgid "Total Average:"
+msgstr "Totaal gemiddelde:"
+
+#: postratings-manager.php:522
+msgid "Total Score:"
+msgstr "Totale score:"
+
+#: postratings-manager.php:518
+msgid "Total Users Voted:"
+msgstr "Totaal aantal stemmen:"
+
+#: postratings-manager.php:505
+msgid "Go"
+msgstr "Start"
+
+#: postratings-manager.php:495 postratings-manager.php:497
+msgid "Per Page"
+msgstr "Per pagina"
+
+#: postratings-manager.php:473
+msgid "Sort Options:"
+msgstr "Sorteeropties:"
+
+#: postratings-manager.php:460
+msgid "Rating: "
+msgstr "Waardering: "
+
+#: postratings-manager.php:441
+msgid "Comment Author: "
+msgstr "Reactie auteur: "
+
+#: postratings-manager.php:439
+msgid "Registered User: "
+msgstr "Geregistreerde gebruiker: "
+
+#: postratings-manager.php:433
+msgid " Guest"
+msgstr " Gast"
+
+#: postratings-manager.php:428
+msgid "Post ID:"
+msgstr "Bericht ID:"
+
+#: postratings-manager.php:426
+msgid "Filter Options:"
+msgstr "Filter opties:"
+
+#: postratings-manager.php:411
+msgid "Last"
+msgstr "Afgelopen"
+
+#: postratings-manager.php:411
+msgid "Go to Last Page"
+msgstr "Ga naar laatste pagina"
+
+#: postratings-manager.php:403
+msgid "Page"
+msgstr "Pagina"
+
+#: postratings-manager.php:396 postratings-manager.php:408
+msgid "Go to Page"
+msgstr "Ga naar pagina"
+
+#: postratings-manager.php:393
+msgid "First"
+msgstr "Eerste"
+
+#: postratings-manager.php:393
+msgid "Go to First Page"
+msgstr "Ga naar de eerste pagina"
+
+#: postratings-manager.php:390
+msgid "Pages (%s): "
+msgstr "Pagina's (%s): "
+
+#: postratings-manager.php:381
+msgid "Next Page"
+msgstr "Volgende pagina"
+
+#: postratings-manager.php:372
+msgid "Previous Page"
+msgstr "Vorige pagina"
+
+#: postratings-manager.php:328 postratings-manager.php:330
+#: postratings-manager.php:336 postratings-manager.php:338
+msgid " Out Of "
+msgstr " van "
+
+#: postratings-manager.php:306
+msgid "%s @ %s"
+msgstr "%s @ %s"
+
+#: postratings-manager.php:287
+msgid "Date / Time"
+msgstr "Datum / Tijd"
+
+#: includes/postratings-admin.php:66 includes/postratings-admin.php:67
+#: postratings-manager.php:262
+msgid "Manage Ratings"
+msgstr "Beheer waarderingen"
+
+#: postratings-manager.php:212 postratings-manager.php:488
+msgid "Descending"
+msgstr "Aflopend"
+
+#: postratings-manager.php:210 postratings-manager.php:487
+msgid "Ascending"
+msgstr "Oplopend"
+
+#: postratings-manager.php:204 postratings-manager.php:481
+msgid "Date"
+msgstr "Datum"
+
+#: postratings-manager.php:199 postratings-manager.php:483
+msgid "Host"
+msgstr "Host"
+
+#: postratings-manager.php:195 postratings-manager.php:482
+msgid "IP"
+msgstr "IP"
+
+#: postratings-manager.php:191 postratings-manager.php:286
+#: postratings-manager.php:480
+msgid "Post Title"
+msgstr "Bericht titel"
+
+#: postratings-manager.php:187 postratings-manager.php:285
+#: postratings-manager.php:479
+msgid "Post ID"
+msgstr "Bericht ID"
+
+#: postratings-manager.php:183 postratings-manager.php:284
+#: postratings-manager.php:478
+msgid "Rating"
+msgstr "Waardering"
+
+#: postratings-manager.php:179 postratings-manager.php:283
+#: postratings-manager.php:477
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: postratings-manager.php:175 postratings-manager.php:282
+#: postratings-manager.php:476
+msgid "ID"
+msgstr "ID"
+
+#: postratings-manager.php:108 postratings-manager.php:141
+msgid "Rating Data \"%s\" For Post ID(s) %s Has Been Deleted."
+msgstr "Waardering gegevens\"%s\" voor bericht-ID ('s)%s is verwijderd."
+
+#: postratings-manager.php:100 postratings-manager.php:126
+msgid "Rating Data \"%s\" Has Been Deleted."
+msgstr "Waardering gegevens\"%s\" zijn verwijderd."
+
+#: postratings-manager.php:90 postratings-manager.php:134
+msgid "An Error Has Occured While Deleting All Rating Logs For Post ID(s) %s."
+msgstr "Er is een fout opgetreden bij het verwijderen van alle waardering logboeken voor bericht-ID's%s."
+
+#: postratings-manager.php:88 postratings-manager.php:132
+msgid "All Rating Logs For Post ID(s) %s Have Been Deleted."
+msgstr "Alle waardering logboeken voor bericht-ID's%s zijn verwijderd."
+
+#: postratings-manager.php:82 postratings-manager.php:120
+msgid "An Error Has Occured While Deleting All Rating Logs."
+msgstr "Er is een fout opgetreden bij het verwijderen van alle waardering logboeken."
+
+#: postratings-manager.php:80 postratings-manager.php:118
+msgid "All Rating Logs Have Been Deleted."
+msgstr "Alle waardering logboeken zijn verwijderd."

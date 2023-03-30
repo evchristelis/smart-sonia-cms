@@ -1,0 +1,124 @@
+# Translation of Plugins - WP Add Custom CSS - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WP Add Custom CSS - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-07-09 22:02:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WP Add Custom CSS - Stable (latest release)\n"
+
+#: wordpress-add-custom-css.php:146
+msgid "If you don't have a PayPal account use this PayPal donate button:"
+msgstr "Si no tienes una cuenta de PayPal utiliza este botón de donación de PayPal:"
+
+#: wordpress-add-custom-css.php:143
+msgid "paypal.me (it has lower fees):"
+msgstr "paypal.me (tiene tarifas más bajas):"
+
+#: wordpress-add-custom-css.php:143
+msgid "If you have a PayPal account use"
+msgstr "Si tienes una cuenta de PayPal utiliza "
+
+#: wordpress-add-custom-css.php:142
+msgid "Help me mantaining WP Add Custom CSS by making a donation:"
+msgstr "Ayúdame a mantener WP Add Custom CSS haciendo una donación:"
+
+#: wordpress-add-custom-css.php:141
+msgid "Donations"
+msgstr "Donaciones"
+
+#: wordpress-add-custom-css.php:266
+msgid "Advanced editor layout"
+msgstr "Diseño avanzado del editor"
+
+#: wordpress-add-custom-css.php:259
+msgid "Enable"
+msgstr "Activar"
+
+#: wordpress-add-custom-css.php:253
+msgid "Advanced editor"
+msgstr "Editor avanzado"
+
+#: wordpress-add-custom-css.php:208
+msgid "Light"
+msgstr "Claro"
+
+#: wordpress-add-custom-css.php:208
+msgid "Dark"
+msgstr "Oscuro"
+
+#: wordpress-add-custom-css.php:194
+msgid "Enable advanced css editor, including line numbers and code coloring."
+msgstr "Activar el editor de css avanzado, incluyendo números de línea y coloreado de código."
+
+#: wordpress-add-custom-css.php:156
+msgid "thank you!"
+msgstr "¡gracias!"
+
+#: wordpress-add-custom-css.php:156
+msgid "5 star review,"
+msgstr "valoración de 5 estrellas,"
+
+#: wordpress-add-custom-css.php:156
+msgid "If you like \"WP Add Custom CSS\" leave a"
+msgstr "Si te gusta «WP Add Custom CSS» deja una"
+
+#: wordpress-add-custom-css.php:246
+msgid "Available post types"
+msgstr "Tipos de contenido disponibles"
+
+#: wordpress-add-custom-css.php:240
+msgid "Post types"
+msgstr "Tipos de contenido"
+
+#: wordpress-add-custom-css.php:178
+msgid "Enable page specific CSS for the post types below."
+msgstr "Activar CSS específico de página para los siguientes tipos de contenido."
+
+#: wordpress-add-custom-css.php:331
+msgid "Settings"
+msgstr "Configurar"
+
+#: wordpress-add-custom-css.php:139
+msgid "Save"
+msgstr "Guardar"
+
+#: wordpress-add-custom-css.php:154
+msgid "Credits"
+msgstr "Agradecimientos"
+
+#: wordpress-add-custom-css.php:91
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: wordpress-add-custom-css.php:233
+msgid "CSS rules"
+msgstr "Reglas CSS"
+
+#: wordpress-add-custom-css.php:227
+msgid "Main CSS"
+msgstr "CSS principal"
+
+#: wordpress-add-custom-css.php:164
+msgid "Write here the CSS rules you want to apply to the whole website."
+msgstr "Escribe aquí las reglas CSS que quieras aplicar a toda la web."
+
+#: wordpress-add-custom-css.php:157
+msgid "\"WP Add Custom CSS\" is a plugin by"
+msgstr "«WP Add Custom CSS» es un plugin hecho por"
+
+#: wordpress-add-custom-css.php:128
+msgid "Add Custom CSS"
+msgstr "Añade CSS personalizado"
+
+#: wordpress-add-custom-css.php:128 wordpress-add-custom-css.php:135
+msgid "Wordpress Add Custom CSS"
+msgstr "Wordpress Add Custom CSS"
+
+#: wordpress-add-custom-css.php:119
+msgid "Add custom CSS rules for this %s"
+msgstr "Añade reglas de CSS personalizado para esta %s"

@@ -1,0 +1,738 @@
+# Translation of Plugins - Content Views &#8211; Post Grid &amp; Filter for WordPress - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Content Views &#8211; Post Grid &amp; Filter for WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-08 08:49:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Content Views &#8211; Post Grid &amp; Filter for WordPress - Stable (latest release)\n"
+
+#: admin/views/view.php:368
+msgid "Show this grid view on the Blog, Category, Tag pages and replace the default layout"
+msgstr "在博客、类别、标签页面上显示此网格视图并替换默认布局"
+
+#: admin/views/view.php:290
+msgid "Allow visitors to filter, search, and sort in the frontend"
+msgstr "允许访问者在前端过滤、搜索和排序"
+
+#: includes/settings.php:219
+msgid "Other pagination styles: Infinite scrolling, Load more button"
+msgstr "其他分页样式：无限滚动、加载更多按钮"
+
+#: admin/content-views-admin.php:217
+msgid "Color value"
+msgstr "颜色值"
+
+#: admin/content-views-admin.php:216
+msgid "Select Color"
+msgstr "选择颜色"
+
+#: admin/content-views-admin.php:215
+msgid "Select default color"
+msgstr "选择默认颜色"
+
+#: admin/content-views-admin.php:214
+msgid "Default"
+msgstr "默认"
+
+#: admin/content-views-admin.php:213
+msgid "Clear color"
+msgstr "清除颜色"
+
+#: admin/content-views-admin.php:212
+msgid "Clear"
+msgstr "清除"
+
+#: admin/views/view.php:289
+msgid "Filter by custom field"
+msgstr "\t按自定义字段筛选"
+
+#: admin/views/view.php:241
+msgid "Leaving it empty might cause performance issues. You should enable pagination (on the next tab) in this case."
+msgstr "将其留空可能会导致性能问题。在这种情况下，您应该启用分页（在下一个选项卡上）。"
+
+#: includes/settings.php:695
+msgid "If thumbnail looks blurry, check this option, and select a bigger size option above"
+msgstr "如果缩略图看起来模糊，请选中此选项，然后在上方选择更大的尺寸选项"
+
+#: includes/settings.php:386
+msgid "Balancing tag prevents unmatched elements. But it does not work for all cases.<br> Check this option to show original content"
+msgstr "平衡标签可防止不匹配的元素。但它并不适用于所有情况。<br>选中此选项以显示原始内容"
+
+#: includes/settings.php:384
+msgid "Do not attempt to balance HTML tags in content"
+msgstr "不要试图平衡内容中的 HTML 标签"
+
+#: admin/views/view.php:604
+msgid "It requires enough horizontal space. You might reduce <code>Items Per Row</code> above if available, or select smaller thumbnail size below"
+msgstr "它需要足够的水平空间。如果可用，您可以减少<code>Items Per Row</code> ，或在下面选择较小的缩略图大小"
+
+#: admin/content-views-admin.php:335
+msgctxt "Plugin name. Do not translate"
+msgid "Content Views"
+msgstr "Content Views"
+
+#: includes/settings.php:700
+msgid "In this lite version, thumbnail is only shown if the post has %s.<br>In the Pro version, you can show the first image in post as thumbnail, without having to set a featured image"
+msgstr "在此精简版中，仅当文章包含 %s 时才会显示缩略图。<br>在专业版中，您可以将文章中的第一张图片显示为缩略图，而无需设置特色图片"
+
+#: includes/settings.php:468
+msgid "To change color of this button, <a href=\"%s\" target=\"_blank\"> please check this document </a>"
+msgstr "如需改变按钮颜色, <a href=\"%s\" target=\"_blank\"> 请查看该文档 </a>"
+
+#: admin/views/view.php:622
+msgid "Do not wrap text around image"
+msgstr "不要在图像周边围绕文字"
+
+#: includes/settings.php:953
+msgid "HTML tag"
+msgstr "HTML 标签"
+
+#: includes/functions.php:728
+msgid "[Preview only] Pagination is disabled when there is only 1 page, because of"
+msgstr "[仅供预览] 只有1页时分页无效, 因为"
+
+#: includes/functions.php:727
+msgid "is less than or equal to (&le;) the <b>Items per page</b> value"
+msgstr "小于等于 <b>每页行数</b> 数值"
+
+#: includes/functions.php:727
+msgid "the <b>Limit</b> value"
+msgstr "<b>限制</b> 数值"
+
+#: includes/functions.php:727
+msgid "the number of results"
+msgstr "结果的数量"
+
+#: public/content-views.php:246
+msgid "See View"
+msgstr "查看视图"
+
+#: includes/values.php:111
+msgid "AND - show posts which match ALL selected terms"
+msgstr "AND - 显示与所有所选字词匹配的文章"
+
+#: includes/values.php:110
+msgid "NOT IN - show posts which DO NOT match ANY selected terms"
+msgstr "NOT IN - 显示与任何所选字词不匹配的文章"
+
+#: includes/values.php:109
+msgid "IN - show posts which match ANY selected terms"
+msgstr "IN - 显示与任何所选字词相匹配的文章"
+
+#: includes/settings.php:461
+msgid "Read More text"
+msgstr "阅读更多文本"
+
+#: includes/settings.php:443
+msgid "Use manual excerpt (in the Excerpt field under the post edit box)"
+msgstr "使用手动摘录（在文章编辑框下方的摘录字段中）"
+
+#: admin/views/view.php:364
+msgid "The logical relationship between above taxonomies"
+msgstr "上述分类法之间的逻辑关系"
+
+#: public/content-views.php:241
+msgctxt "add new on admin bar"
+msgid "Content View"
+msgstr "Content View"
+
+#: includes/values.php:358
+msgid "Show thumbnail on the left/right of text"
+msgstr "在文本的左/右显示缩略图"
+
+#: includes/values.php:357
+msgid "Show thumbnail & text vertically"
+msgstr "垂直显示缩略图和文字"
+
+#: admin/views/view.php:563 includes/hooks.php:78
+msgid "Format"
+msgstr "版式"
+
+#: admin/views/view.php:524
+msgid "Responsive"
+msgstr "反应"
+
+#: admin/views/view.php:494 includes/hooks.php:73 includes/hooks.php:97
+msgid "Layout"
+msgstr "布局"
+
+#: admin/views/view.php:254
+msgid "Advance"
+msgstr "提前"
+
+#: admin/views/view.php:161
+msgid "Common"
+msgstr "常见"
+
+#: includes/settings.php:290
+msgid "Show Custom Fields, show Title above Thumbnail..."
+msgstr "显示自定义字段，在缩略图上方显示标题..."
+
+#: includes/settings.php:104
+msgid "Sort by drag & drop, custom field, slug, random order, menu order"
+msgstr "通过拖放，自定义字段，slug，随机顺序，菜单顺序排序"
+
+#: admin/views/view.php:521
+msgid "More amazing layouts (Pinterest, Timeline...)"
+msgstr "更多惊人的布局（Pinterest，时间轴...）"
+
+#: includes/functions.php:630
+msgid "Error: View %s may not exist"
+msgstr "错误：视图%s可能不存在"
+
+#: admin/views/view.php:471
+msgid "It will search keyword in title, excerpt, content of posts"
+msgstr "它将搜索关键字的标题，摘录，内容的文章"
+
+#: includes/settings.php:919
+msgid "get Pro version"
+msgstr "获取专业版"
+
+#: admin/views/view.php:641
+msgid "Disable this format on small screens (less than 481 pixels)"
+msgstr "在小屏幕（小于481像素）上禁用此格式"
+
+#: admin/content-views-admin.php:237
+msgid "If post excerpt contains shortcode of theme or another plugin, please save this View, paste its shortcode to a page, then view that page"
+msgstr "如果文章摘录包含主题或另一个插件的简码，请保存此视图，粘贴其简码到一个页面，然后查看该页面"
+
+#: includes/functions.php:314
+msgctxt "Word count type. Do not translate!"
+msgid "words"
+msgstr "characters_excluding_spaces"
+
+#: includes/values.php:299
+msgid "Published date"
+msgstr "发布日期"
+
+#: includes/html.php:122
+msgid "Loading..."
+msgstr "加载中..."
+
+#: admin/views/view.php:545
+msgid "Mobile"
+msgstr "手机"
+
+#: admin/views/view.php:532
+msgid "Tablet"
+msgstr "平板"
+
+#: includes/values.php:421
+msgid "Full Size"
+msgstr "全尺寸"
+
+#: includes/values.php:296
+msgid "Select"
+msgstr "选择"
+
+#: includes/settings.php:851
+msgid "Open the first item by default"
+msgstr "默认情况下打开第一个项目"
+
+#: includes/settings.php:766 includes/values.php:242
+msgid "Tags"
+msgstr "标签"
+
+#: includes/settings.php:766 includes/values.php:242
+msgid "Categories"
+msgstr "类别"
+
+#: includes/settings.php:766
+msgid "Show Taxonomies (%s, %s...)"
+msgstr "显示分类（%s，%s...）"
+
+#: includes/settings.php:700
+msgid "Featured Image"
+msgstr "特色图像"
+
+#: includes/settings.php:647
+msgid "Comment"
+msgstr "评论"
+
+#: includes/settings.php:647
+msgid "Show Meta Fields"
+msgstr "显示元字段"
+
+#: includes/settings.php:486
+msgid "Meta fields"
+msgstr "元字段"
+
+#: includes/settings.php:336
+msgid "Content"
+msgstr "内容"
+
+#: includes/settings.php:317
+msgid "Thumbnail"
+msgstr "缩略图"
+
+#: includes/settings.php:171
+msgid "If value of the %s setting is not empty, this value should be smaller than that"
+msgstr "如果%s设置的值不为空，则此值应小于该值"
+
+#: includes/html.php:877 includes/settings.php:467
+msgid "Read more..."
+msgstr "继续阅读..."
+
+#: admin/views/view.php:689
+msgid "Others"
+msgstr "其他"
+
+#: admin/views/view.php:449
+msgid "Select post status"
+msgstr "选择文章状态"
+
+#: admin/views/view.php:415
+msgid "Not by author"
+msgstr "不是作者"
+
+#: admin/views/view.php:399
+msgid "By author"
+msgstr "作者"
+
+#: admin/views/view.php:373 admin/views/view.php:376 includes/settings.php:92
+#: includes/values.php:244
+msgid "Sort by"
+msgstr "排序方式"
+
+#: admin/views/view.php:312
+msgid "Select taxonomy"
+msgstr "选择分类"
+
+#: admin/views/view.php:308 includes/settings.php:647 includes/values.php:242
+msgid "Taxonomy"
+msgstr "分类"
+
+#: admin/views/view.php:308 admin/views/view.php:396 admin/views/view.php:431
+#: admin/views/view.php:456
+msgid "Filter by %s"
+msgstr "按%s过滤"
+
+#: admin/views/view.php:67
+msgid "To see live output, please click %s button"
+msgstr "要查看实时输出，请单击%s按钮"
+
+#: admin/content-views-admin.php:343 admin/content-views-admin.php:401
+#: admin/content-views-admin.php:495 public/content-views.php:242
+msgctxt "post"
+msgid "Add New"
+msgstr "添加"
+
+#: admin/views/view.php:213
+msgid "Enter ID of parent page to show its children"
+msgstr "输入父页面的ID以显示其子级"
+
+#: includes/settings.php:672
+msgid "Size"
+msgstr "大小"
+
+#: includes/settings.php:207
+msgid "Style"
+msgstr "样式"
+
+#: includes/settings.php:179
+msgid "Type"
+msgstr "样式"
+
+#: admin/views/view.php:230
+msgid "Total number of posts to show. Leave empty to show all found posts"
+msgstr "要显示的文章数。 留空显示所有找到的文章"
+
+#: admin/views/view.php:183
+msgid "List of post IDs to show (comma-separated values, for example: 1,2,3)"
+msgstr "要显示的文章ID列表（以逗号分隔的值，例如：1,2,3）"
+
+#: includes/settings.php:693
+msgid "Disable responsive image of WordPress"
+msgstr "禁用WordPress的响应图像"
+
+#: includes/values.php:217
+msgid "Descending"
+msgstr "降序"
+
+#: includes/values.php:216
+msgid "Ascending"
+msgstr "上升"
+
+#: admin/views/view.php:330
+msgid "Filter by custom taxonomy"
+msgstr "按自定义分类法进行过滤"
+
+#: admin/views/view.php:176
+msgid "Include only"
+msgstr "仅包括"
+
+#: admin/views/view.php:156
+msgid "Filter custom post type (product, event...)"
+msgstr "自定义筛选文章样式（产品，。。）"
+
+#. Author URI of the plugin
+msgid "http://profiles.wordpress.org/pt-guy"
+msgstr "http://profiles.wordpress.org/pt-guy"
+
+#. Description of the plugin
+msgid "Query and display <strong>posts, pages</strong> in awesome layouts (<strong>grid, scrollable list, collapsible list</strong>) easier than ever, without coding!"
+msgstr "使用比以往更容易的方式来查询、显示丰富多彩的 <strong>文章和网页</strong> 排版方式（例如<strong>网格、滚动列表、可折叠列表</strong>），而且不需要任何代码！"
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/plugins/content-views-query-and-display-post-page/"
+msgstr "http://wordpress.org/plugins/content-views-query-and-display-post-page/"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+msgid "Content Views"
+msgstr "Content Views"
+
+#: public/content-views.php:251
+msgid "No views found in Trash."
+msgstr "在回收站中未找到视图。"
+
+#: public/content-views.php:250
+msgid "No views found."
+msgstr "未找到视图。"
+
+#: public/content-views.php:249
+msgid "Parent Views:"
+msgstr "父视图："
+
+#: public/content-views.php:248
+msgid "Search Views"
+msgstr "搜索视图"
+
+#: public/content-views.php:244
+msgid "New View"
+msgstr "新视图"
+
+#: public/content-views.php:240
+msgctxt "admin menu"
+msgid "Views"
+msgstr "视图"
+
+#: public/content-views.php:239
+msgctxt "post type singular name"
+msgid "View"
+msgstr "视图"
+
+#: public/content-views.php:238
+msgctxt "post type general name"
+msgid "Views"
+msgstr "视图"
+
+#: includes/values.php:445
+msgid "Right"
+msgstr "右侧"
+
+#: includes/values.php:444
+msgid "Left"
+msgstr "左侧"
+
+#: includes/values.php:373
+msgid "New tab"
+msgstr "新选项卡"
+
+#: includes/values.php:372
+msgid "Current tab"
+msgstr "当前选项卡"
+
+#: includes/values.php:318
+msgid "Scrollable List"
+msgstr "可滚动列表"
+
+#: includes/values.php:317
+msgid "Collapsible List"
+msgstr "可折叠列表"
+
+#: includes/values.php:316
+msgid "Grid"
+msgstr "网格"
+
+#: includes/values.php:300
+msgid "Modified date"
+msgstr "修改日期"
+
+#: admin/views/view.php:100 includes/settings.php:295 includes/values.php:298
+msgid "Title"
+msgstr "标题"
+
+#: includes/values.php:297
+msgid "ID"
+msgstr "ID"
+
+#: includes/values.php:201
+msgid "Numbered pagination"
+msgstr "编号分页"
+
+#: includes/values.php:186
+msgid "Normal"
+msgstr "正常"
+
+#: includes/values.php:185
+msgid "Ajax"
+msgstr "Ajax"
+
+#: includes/values.php:169
+msgid "No"
+msgstr "否"
+
+#: includes/values.php:168
+msgid "Yes"
+msgstr "是的"
+
+#: includes/values.php:99
+msgid "OR"
+msgstr "或"
+
+#: includes/values.php:98
+msgid "AND"
+msgstr "与"
+
+#: includes/settings.php:785
+msgid "Show Comment Count"
+msgstr "显示评论计数"
+
+#: includes/settings.php:747
+msgid "Show Author"
+msgstr "显示作者"
+
+#: includes/settings.php:728
+msgid "Show Date"
+msgstr "显示日期"
+
+#: includes/settings.php:628
+msgid "Show Content"
+msgstr "显示内容"
+
+#: includes/settings.php:609
+msgid "Show Title"
+msgstr "显示标题"
+
+#: includes/settings.php:590
+msgid "Show Thumbnail"
+msgstr "显示缩略图"
+
+#: includes/settings.php:558
+msgid "Thumbnail position"
+msgstr "缩略图位置"
+
+#: includes/settings.php:453
+msgid "Allow HTML tags (a, br, strong, em, strike, i, ul, ol, li) in excerpt"
+msgstr "摘录中允许HTML标签（a，br，strong，em，strike，li，ul，ol，li）"
+
+#: includes/settings.php:438
+msgid "Generate excerpt by selecting the first X words of post content"
+msgstr "通过选择文章内容的前X个字词生成摘录"
+
+#: includes/settings.php:429
+msgid "Excerpt settings"
+msgstr "摘录设置"
+
+#: includes/settings.php:349
+msgid "Show Excerpt"
+msgstr "显示摘录"
+
+#: includes/settings.php:348
+msgid "Show Full Content"
+msgstr "显示完整内容"
+
+#: includes/settings.php:251
+msgid "How to open item when click on Title, Thumbnail, Read-more button"
+msgstr "如何打开项目，当点击标题，缩略图，阅读更多按钮"
+
+#: includes/settings.php:243
+msgid "Open item in"
+msgstr "在中打开项"
+
+#: includes/settings.php:150
+msgid "Enable"
+msgstr "启用"
+
+#: admin/views/view.php:672 includes/hooks.php:89
+msgid "Pagination"
+msgstr "分页"
+
+#: includes/settings.php:108
+msgid "Order"
+msgstr "订购"
+
+#: includes/settings.php:62
+msgid "Operator"
+msgstr "操作"
+
+#: includes/settings.php:46
+msgid "Select terms"
+msgstr "选择项"
+
+#: includes/html.php:773
+msgid "Go to page"
+msgstr "转到页面"
+
+#: includes/html.php:772
+msgid "Current page is"
+msgstr "当前页为"
+
+#: includes/html.php:771
+msgid "Go to last page"
+msgstr "最新页"
+
+#: includes/html.php:770
+msgid "Go to next page"
+msgstr "下一页"
+
+#: includes/html.php:769
+msgid "Go to previous page"
+msgstr "上一页"
+
+#: includes/html.php:768
+msgid "Go to first page"
+msgstr "首页"
+
+#: includes/html.php:873
+msgid "Read More"
+msgstr "阅读更多"
+
+#: admin/views/view.php:532 admin/views/view.php:545 includes/hooks.php:97
+#: includes/settings.php:811
+msgid "Items per row"
+msgstr "每行项目"
+
+#: includes/hooks.php:89 includes/settings.php:158
+msgid "Items per page"
+msgstr "每页项目"
+
+#: includes/hooks.php:58
+msgid "Please set value in"
+msgstr "请设置值"
+
+#: includes/hooks.php:57
+msgid "Please select an option in"
+msgstr "请在中选择一个选项"
+
+#: includes/html.php:257
+msgid "No posts found."
+msgstr "未找到文章。"
+
+#: includes/functions.php:537 includes/html.php:402
+msgid "(no title)"
+msgstr "(无标题)"
+
+#: admin/views/view.php:654 includes/hooks.php:83
+msgid "Fields settings"
+msgstr "字段设置"
+
+#: admin/views/view.php:471
+msgid "Enter keyword to searching for posts"
+msgstr "输入关键字以搜索文章"
+
+#: admin/views/view.php:456 includes/values.php:245
+msgid "Keyword"
+msgstr "关键词"
+
+#: admin/views/view.php:431 includes/values.php:243
+msgid "Status"
+msgstr "状态"
+
+#: admin/views/view.php:355
+msgid "Relation"
+msgstr "关联"
+
+#: admin/views/view.php:222 includes/settings.php:171
+msgid "Limit"
+msgstr "限制"
+
+#: admin/views/view.php:206
+msgid "Parent page"
+msgstr "父页面"
+
+#: admin/views/view.php:198
+msgid "List of post IDs to exclude (comma-separated values, for example: 1,2,3)"
+msgstr "要排除的文章ID列表（逗号分隔值，例如：1,2,3）"
+
+#: admin/views/view.php:191
+msgid "Exclude"
+msgstr "排除"
+
+#: admin/views/view.php:144 includes/hooks.php:68
+msgid "Content type"
+msgstr "内容样式"
+
+#: admin/views/view.php:129 includes/hooks.php:62
+msgid "Display Settings"
+msgstr "显示设置"
+
+#: admin/views/view.php:125 includes/hooks.php:61
+msgid "Filter Settings"
+msgstr "筛选设置"
+
+#: admin/views/view.php:118 admin/views/view.php:720
+msgid "Save"
+msgstr "保存"
+
+#: admin/views/view.php:107
+msgid "Enter a name to identify your views easily"
+msgstr "输入名称以轻松识别您的视图"
+
+#: admin/views/view.php:60
+msgid "Preview"
+msgstr "预览"
+
+#: admin/views/view.php:39 public/content-views.php:245
+msgid "Edit View"
+msgstr "编辑视图"
+
+#: includes/settings.php:887
+msgid "There is no option"
+msgstr "没有选项"
+
+#: admin/content-views-admin.php:455 includes/settings.php:647
+msgid "Date"
+msgstr "日期"
+
+#: admin/content-views-admin.php:454 admin/views/view.php:396
+#: includes/settings.php:647 includes/values.php:246
+msgid "Author"
+msgstr "作者"
+
+#: admin/content-views-admin.php:453
+msgid "Shortcode"
+msgstr "短码"
+
+#: admin/content-views-admin.php:435 admin/content-views-admin.php:495
+msgid "Edit"
+msgstr "编辑"
+
+#: admin/content-views-admin.php:347 admin/content-views-admin.php:400
+msgid "Settings"
+msgstr "设置"
+
+#: admin/content-views-admin.php:343 public/content-views.php:243
+msgid "Add New View"
+msgstr "新增视图"
+
+#: admin/content-views-admin.php:339 public/content-views.php:247
+msgid "All Views"
+msgstr "所有视图"
+
+#: admin/content-views-admin.php:335 admin/content-views-admin.php:347
+msgid "Content Views Settings"
+msgstr "内容视图设置"
+
+#: admin/content-views-admin.php:243
+msgid "Update Preview"
+msgstr "更新预览"
+
+#: admin/content-views-admin.php:242
+msgid "Hide Preview"
+msgstr "隱藏預覽"
+
+#: admin/content-views-admin.php:241 admin/views/view.php:67
+#: admin/views/view.php:77
+msgid "Show Preview"
+msgstr "显示预览"
+
+#: admin/content-views-admin.php:236
+msgid "There is no taxonomy for selected content type"
+msgstr "还有没有所选内容类型的分类"

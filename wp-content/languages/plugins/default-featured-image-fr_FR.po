@@ -1,0 +1,48 @@
+# Translation of Plugins - Default featured image - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Default featured image - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-03-25 13:45:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Default featured image - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "https://janw.me/"
+msgstr "https://janw.me/"
+
+#. Author of the plugin
+msgid "Jan Willem Oostendorp"
+msgstr "Jan Willem Ostendorp"
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/extend/plugins/default-featured-image/"
+msgstr "http://wordpress.org/extend/plugins/default-featured-image/"
+
+#: app/class-dfi.php:233
+msgid "Settings"
+msgstr "Réglages"
+
+#: app/class-dfi.php:189
+msgid "Set default featured image"
+msgstr "Définir en tant qu’image mise en avant par défaut"
+
+#: app/class-dfi.php:154 app/class-dfi.php:155
+msgid "Don't use a default featured image"
+msgstr "Ne pas utiliser d’image mise en avant par défaut"
+
+#: app/class-dfi.php:148 app/class-dfi.php:150 app/class-dfi.php:188
+msgid "Select default featured image"
+msgstr "Sélectionner l’image mise en avant par défaut"
+
+#. Plugin Name of the plugin
+msgid "Default featured image"
+msgstr "Default featured image"
+
+#. Description of the plugin
+msgid "Allows users to select a default featured image in the media settings"
+msgstr "Autorise les utilisateurs ou utilisatrices à sélectionner une image mise en avant par défaut dans les réglages des médias."

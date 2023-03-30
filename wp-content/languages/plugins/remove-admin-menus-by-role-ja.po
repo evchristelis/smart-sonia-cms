@@ -1,0 +1,44 @@
+# Translation of Plugins - Remove admin menus by roles - Development (trunk) in Japanese
+# This file is distributed under the same license as the Plugins - Remove admin menus by roles - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-01-21 15:09:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Remove admin menus by roles - Development (trunk)\n"
+
+#: views/form.php:44
+msgid "Select all"
+msgstr "すべて選択"
+
+#: views/form.php:44
+msgid "Deselect all"
+msgstr "すべて選択解除"
+
+#: views/form.php:74
+msgid "Save profile"
+msgstr "プロフィールを保存"
+
+#: views/form.php:78
+msgid "You need multiple profiles? Look at"
+msgstr "複数のプロフィールが必要な場合はこちらをご覧ください:"
+
+#: views/form.php:43
+msgid "Remove these menus:"
+msgstr "これらのメニューを削除:"
+
+#. Plugin Name of the plugin
+msgid "Remove admin menus by roles"
+msgstr "権限グループごとに管理メニューを削除"
+
+#: views/form.php:31
+msgid "For these roles:"
+msgstr "これらの権限グループで:"
+
+#: views/form.php:78
+msgid "Pro version"
+msgstr "プロ版"

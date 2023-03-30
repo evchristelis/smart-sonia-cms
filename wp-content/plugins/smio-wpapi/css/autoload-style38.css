@@ -1,0 +1,12 @@
+#toplevel_page_smapi_setting .wp-menu-image {
+background: url(../images/menuicon-smioapi.png) 3px 110% no-repeat;
+}
+#toplevel_page_smapi_setting:hover .wp-menu-image {
+background-position: 3px 0px;
+}
+#smapi-submit{
+margin-bottom:0!important;
+}
+#smapi-usage-stats{
+margin: 25px -10px -22px -10px!important;
+}

@@ -1,0 +1,207 @@
+# Translation of Plugins - Add Admin CSS - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Add Admin CSS - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-03-23 17:49:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Add Admin CSS - Stable (latest release)\n"
+
+#. translators: 1: The name of a code function, 2: The name of a WordPress
+#. action.
+#: add-admin-css.php:236
+msgid "The method %1$s should not be called until after the %2$s action."
+msgstr "在 %2$s 動作執行前，不應該呼叫 %1$s 方法。"
+
+#. translators: %s: URL for Add Admin JavaSCript plugin page.
+#: add-admin-css.php:291
+msgid "If you like this plugin and are interested in also easily adding custom JavaScript to the admin areas of your site, check out my <a href=\"%s\">Add Admin JavaScript</a> plugin."
+msgstr "如果外掛對這個網站有所幫助，並且有為管理後台自訂 JavaScript 的需求，可以採用一樣由我開發的 <a href=\"%s\" target=\"_blank\">Add Admin JavaScript</a> 外掛。"
+
+#: add-admin-css.php:286
+msgid "Both plugins mentioned above are geared towards their respective tasks and are very simple to use, requiring no knowledge of CSS."
+msgstr "這兩個外掛能完成不同目的的工作，簡單易用，不需要了解 CSS 相關知識。"
+
+#: add-admin-css.php:281
+msgid "If you only want to hide in-page help text, check out my <a href=\"%s\">Admin Expert Mode</a> plugin."
+msgstr "如果只是要隱藏某些頁面的使用說明內容，請使用 <a href=\"%s\" target=\"_blank\">Admin Expert Mode</a> 外掛。"
+
+#: add-admin-css.php:274
+msgid "If you are primarily only interested in hiding certain administration interface elements, take a look at my <a href=\"%s\">Admin Trim Interface</a> plugin."
+msgstr "如果網站管理員想要隱藏某些管理介面元素，請使用 <a href=\"%s\" target=\"_blank\">Admin Trim Interface</a> 外掛。"
+
+#: add-admin-css.php:268
+msgid "TIPS:"
+msgstr "提示:"
+
+#. translators: %s: Name of plugin class.
+#: add-admin-css.php:194
+msgid "%s cannot be unserialized."
+msgstr "%s 無法去序列化。"
+
+#. translators: %s: Name of plugin class.
+#: add-admin-css.php:191
+msgid "%s cannot be cloned."
+msgstr "%s 無法再製。"
+
+#: add-admin-css.php:238
+msgid "The plugin author homepage."
+msgstr "外掛開發者網站首頁。"
+
+#: add-admin-css.php:233
+msgid "Something went wrong."
+msgstr "執行時發生錯誤。"
+
+#: add-admin-css.php:380
+msgid "<strong>RECOVERY MODE ENABLED:</strong> CSS output for this plugin is disabled on this page view."
+msgstr "<strong>[復原模式] 已啟用:</strong> 這個外掛的 CSS 輸出已在這個頁面檢視中停用。"
+
+#: add-admin-css.php:376
+msgid "<strong>RECOVERY MODE ENABLED:</strong> CSS output for this plugin is currently disabled for the entire admin area via use of the <code>%s</code> constant."
+msgstr "<strong>[復原模式] 已啟用:</strong> 由於使用了 <code>%s</code> 常數，這個外掛的 CSS 輸出目前已在整個管理後台中停用。"
+
+#: add-admin-css.php:207
+msgid "Donate"
+msgstr "贊助"
+
+#: add-admin-css.php:219
+msgid "More Plugin Help"
+msgstr "更多外掛使用說明"
+
+#. translators: %s: The setting configuration key name.
+#: add-admin-css.php:241
+msgid "The plugin configuration option '%s' must be supplied."
+msgstr "必須提供外掛組態設定 %s。"
+
+#. Author URI of the plugin
+msgid "https://coffee2code.com/"
+msgstr "https://coffee2code.com/"
+
+#. Author of the plugin
+msgid "Scott Reilly"
+msgstr "Scott Reilly"
+
+#. Description of the plugin
+msgid "Easily define additional CSS (inline and/or by URL) to be added to all administration pages."
+msgstr "提供介面以便為全部後台管理頁面新增附加的 CSS 樣式，CSS 樣式表可透過內嵌或外部網址加入。"
+
+#. Plugin URI of the plugin
+msgid "https://coffee2code.com/wp-plugins/add-admin-css/"
+msgstr "https://coffee2code.com/wp-plugins/add-admin-css/"
+
+#: add-admin-css.php:205
+msgid "Did you find this plugin useful?"
+msgstr "這個外掛對這個網站是否有所幫助？"
+
+#: add-admin-css.php:221
+msgid "Please consider a donation"
+msgstr "請考慮贊助外掛開發"
+
+#. translators: %s: Link to plugin author's homepage.
+#: add-admin-css.php:244
+msgid "This plugin brought to you by %s."
+msgstr "這個外掛由 %s 所開發。"
+
+#: add-admin-css.php:223
+msgid "Reset Settings"
+msgstr "重設設定"
+
+#: add-admin-css.php:225
+msgid "Save Changes"
+msgstr "儲存設定"
+
+#: add-admin-css.php:203
+msgid "Coffee fuels my coding."
+msgstr "咖啡補充了我編寫程式碼的動力。"
+
+#: add-admin-css.php:229
+msgid "Settings"
+msgstr "設定"
+
+#: add-admin-css.php:217
+msgid "More Help"
+msgstr "更多使用說明"
+
+#: add-admin-css.php:201
+msgid " (especially check out the \"Other Notes\" tab, if present)"
+msgstr " (如果出現 [其他注意事項] 分頁的話，請特別留意其中的內容)"
+
+#: add-admin-css.php:199
+msgid "Click for more help on this plugin"
+msgstr "點擊這裡以取得更多外掛使用說明"
+
+#. translators: 1: plugin name 2: plugin version
+#: add-admin-css.php:215
+msgid "More information about %1$s %2$s"
+msgstr "進一步了解 %1$s %2$s"
+
+#: add-admin-css.php:209
+msgid "Expected integer value for: %s"
+msgstr "預期的整數值: %s"
+
+#. translators: %s: Label for setting.
+#: add-admin-css.php:197
+msgid "A value is required for: \"%s\""
+msgstr "必要的值: %s"
+
+#: add-admin-css.php:231
+msgid "Settings reset."
+msgstr "設定已重設。"
+
+#: add-admin-css.php:227
+msgid "See the \"Help\" link to the top-right of the page for more help."
+msgstr "請查閱畫面右上方 [使用說明] 分頁的內容以進一步了解。"
+
+#. translators: %s: Path to the plugin file.
+#: add-admin-css.php:212
+msgid "Invalid file specified for C2C_Plugin: %s"
+msgstr "為 C2C_Plugin 指定的檔案無效: %s"
+
+#: add-admin-css.php:344
+msgid "You can also programmatically add to or customize any referenced CSS files defined in the \"Admin CSS Files\" field via the <code>c2c_add_admin_css_files</code> filter, like so:"
+msgstr "網站管理員可以透過 <code>c2c_add_admin_css_files</code> 篩選器，以程式設計的方式或將參照的自訂 CSS 檔案加入 <strong>[控制台 CSS 檔案]</strong> 欄位，如下所示:"
+
+#: add-admin-css.php:330
+msgid "You can also programmatically add to or customize any CSS defined in the \"Admin CSS\" field via the <code>c2c_add_admin_css</code> filter, like so:"
+msgstr "網站管理員可以透過 <code>c2c_add_admin_css</code> 篩選器，以程式設計的方式將自訂 CSS 程式碼加入 <strong>[控制台 CSS 樣式]</strong> 欄位，如下所示:"
+
+#: add-admin-css.php:306 add-admin-css.php:328
+msgid "Advanced Tips"
+msgstr "進階提示"
+
+#: add-admin-css.php:265
+msgid "See the \"Advanced Tips\" tab in the \"Help\" section for info on how to use the plugin to programmatically customize CSS."
+msgstr "請查閱 [使用說明] 分頁中的 [進階提示] 內容，以便了解如何使用這個外掛以程式設計的方式自訂 CSS。"
+
+#: add-admin-css.php:262
+msgid "Add additional CSS to your admin pages, which allows you to tweak the appearance of the WordPress administration pages to your liking."
+msgstr "將附加的 CSS 加入管理頁面，這樣便能依據網站管理員需求校調 WordPress 管理頁面外觀。"
+
+#: add-admin-css.php:260
+msgid "Add Admin CSS Settings"
+msgstr "Add Admin CSS 設定"
+
+#: add-admin-css.php:153
+msgid "Note that the above CSS will be added to all admin pages and apply for all users able to view those pages."
+msgstr "請注意，這個欄位中的 CSS 程式碼會套用至後台全部管理頁面，且能登入後台的使用者都會看到相同的頁面顯示結果。"
+
+#: add-admin-css.php:145
+msgid "List one file per line. The reference can be relative to the root of your active theme, relative to the root of your site (by prepending file or path with \"/\"), or a full, absolute URL. These will be output in the order listed above and appear before the CSS defined below."
+msgstr "每行輸入一個檔案位址。參照項目路徑可以相對於目前使用的佈景主題的根目錄、可以相對於這個網站的根目錄 (透過在檔案或路徑前面加上 <code>/</code>)、或完整的絕對網址。這些 CSS 檔案會依照列出的順序套用，且套用權重高於下方 [控制台 CSS 樣式] 欄位中的 CSS 程式碼。"
+
+#: add-admin-css.php:144
+msgid "Admin CSS Files"
+msgstr "控制台 CSS 檔案"
+
+#: add-admin-css.php:137 add-admin-css.php:152
+msgid "Admin CSS"
+msgstr "控制台 CSS 樣式"
+
+#. Plugin Name of the plugin
+#: add-admin-css.php:136
+msgid "Add Admin CSS"
+msgstr "Add Admin CSS"

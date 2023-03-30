@@ -1,0 +1,269 @@
+# Translation of Plugins - WPFront Scroll Top - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - WPFront Scroll Top - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-21 13:19:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - WPFront Scroll Top - Stable (latest release)\n"
+
+#: templates/options-template.php:193
+msgid "[Window scroll duration in milliseconds.]"
+msgstr "[窗口滚动持续时间,以毫秒为单位.]"
+
+#: templates/options-template.php:152
+msgid "[Set 0px to auto fit.]"
+msgstr "[设置自适应为0像素]"
+
+#: classes/class-wpfront-scroll-top.php:428
+msgid "[Post]"
+msgstr "[Post]"
+
+#: classes/class-wpfront-scroll-top.php:419
+#: classes/class-wpfront-scroll-top.php:423
+msgid "[Page]"
+msgstr "[Page]"
+
+#: templates/options-template.php:136
+msgid "[Number of pixels to be scrolled before the button appears.]"
+msgstr "[ 要滚动按钮前出现的像素数。]"
+
+#: templates/options-template.php:429 templates/options-template.php:444
+msgid "[Negative value allowed.]"
+msgstr "[允许负值。]"
+
+#: templates/options-template.php:234
+msgid "[Button will be hidden on small devices when the width matches.]"
+msgstr "[当宽度匹配时，按钮将被隐藏在小设备上。]"
+
+#: templates/options-template.php:304
+msgid "[Button will be hidden on iframes, usually inside popups.]"
+msgstr "[按钮将会在内嵌框架里隐藏，通常包含在弹出窗里。]"
+
+#: templates/options-template.php:248
+msgid "[Button will be hidden on devices with lesser or equal width.]"
+msgstr "[在宽度较小或相等的设备上隐藏按钮.]"
+
+#: templates/options-template.php:276
+msgid "[Button will be hidden on browser window with lesser or equal width.]"
+msgstr "[当宽度小于或等于此值时，按键将被隐藏在浏览器窗口中。]"
+
+#: templates/options-template.php:262
+msgid "[Button will be hidden on broswer window when the width matches.]"
+msgstr "[当宽度匹配时，按钮将在浏览器窗口上隐藏。]"
+
+#: templates/options-template.php:290
+msgid "[Button will be hidden on 'wp-admin'.]"
+msgstr "[按钮将会在'wp-admin‘页面隐藏。]"
+
+#: templates/options-template.php:220
+msgid "[Button will be auto hidden after this duration in seconds, if enabled.]"
+msgstr "[如果启用，按钮将在此持续时间（以秒为单位）后自动隐藏。]"
+
+#: templates/options-template.php:179
+msgid "[Button fade duration in milliseconds.]"
+msgstr "[按钮消失持续时间,以毫秒为单位.]"
+
+#: classes/class-wpfront-scroll-top.php:441
+msgid "You do not have sufficient permissions to access this page."
+msgstr "您没有足够的权限访问此页面。"
+
+#: templates/options-template.php:55
+msgid "WPFront Scroll Top Settings"
+msgstr "WPFront Scroll Top设置"
+
+#. Plugin Name of the plugin
+#: classes/class-wpfront-scroll-top.php:182
+msgid "WPFront Scroll Top"
+msgstr "WPFront Scroll Top"
+
+#: templates/options-template.php:413
+msgid "Top Right"
+msgstr "右上角"
+
+#: templates/options-template.php:414
+msgid "Top Left"
+msgstr "左上角"
+
+#: classes/class-wpfront-scroll-top-options.php:71
+msgid "Text Color"
+msgstr "文本颜色"
+
+#: templates/options-template.php:522
+msgid "Text Button"
+msgstr "按钮文本"
+
+#: classes/class-wpfront-scroll-top-options.php:70
+#: templates/options-template.php:334
+msgid "Text"
+msgstr "文本"
+
+#. Author of the plugin
+msgid "Syam Mohan"
+msgstr "Syam Mohan"
+
+#: classes/class-wpfront-scroll-top-options.php:54
+msgid "Small Window Max Width"
+msgstr "小窗口最大宽度"
+
+#: classes/class-wpfront-scroll-top-options.php:52
+msgid "Small Device Max Width"
+msgstr "小设备最大宽度"
+
+#: templates/options-template.php:754
+msgid "Settings Description"
+msgstr "设置说明"
+
+#: classes/class-wpfront-scroll-top.php:99
+msgid "Settings"
+msgstr "设置"
+
+#: classes/class-wpfront-scroll-top.php:182
+msgid "Scroll Top"
+msgstr "滚动到顶部"
+
+#: classes/class-wpfront-scroll-top-options.php:43
+msgid "Scroll Offset"
+msgstr "滚动偏移"
+
+#: classes/class-wpfront-scroll-top-options.php:48
+msgid "Scroll Duration"
+msgstr "滚动的持续时间"
+
+#: classes/class-wpfront-scroll-top-options.php:68
+msgid "Margin Y"
+msgstr "Y轴边界"
+
+#: classes/class-wpfront-scroll-top-options.php:67
+msgid "Margin X"
+msgstr "X轴边界"
+
+#: classes/class-wpfront-scroll-top-options.php:66
+#: templates/options-template.php:392
+msgid "Location"
+msgstr "位置"
+
+#: templates/options-template.php:475
+msgid "Include in following pages"
+msgstr "包含以下页面"
+
+#: classes/class-wpfront-scroll-top-options.php:56
+msgid "Image ALT"
+msgstr "图片alt属性"
+
+#: templates/options-template.php:332
+msgid "Image"
+msgstr "图像"
+
+#: templates/options-template.php:66
+msgid "If you have a caching plugin, clear the cache for the new settings to take effect."
+msgstr "如果您有缓存插件，请清除缓存以使新设置生效。"
+
+#. Plugin URI of the plugin
+msgid "http://wpfront.com/scroll-top-plugin/"
+msgstr "http://wpfront.com/scroll-top-plugin/"
+
+#. Author URI of the plugin
+msgid "http://wpfront.com"
+msgstr "http://wpfront.com"
+
+#: classes/class-wpfront-scroll-top.php:419
+msgid "Home"
+msgstr "首页"
+
+#: classes/class-wpfront-scroll-top-options.php:57
+msgid "Hide on WP-ADMIN"
+msgstr "有WP-ADMIN里隐藏"
+
+#: classes/class-wpfront-scroll-top-options.php:53
+msgid "Hide on Small Window"
+msgstr "在小窗口上隐藏"
+
+#: classes/class-wpfront-scroll-top-options.php:51
+msgid "Hide on Small Devices"
+msgstr "在小设备上隐藏"
+
+#: classes/class-wpfront-scroll-top-options.php:58
+msgid "Hide on iframes"
+msgstr "在内嵌框架(iframes)里隐藏"
+
+#: templates/options-template.php:452
+msgid "Filter"
+msgstr "筛选"
+
+#: templates/options-template.php:496
+msgid "Exclude in following pages"
+msgstr "排除以下页面"
+
+#: classes/class-wpfront-scroll-top-options.php:41
+msgid "Enabled"
+msgstr "启用"
+
+#: classes/class-wpfront-scroll-top-options.php:82
+msgid "Display on Pages"
+msgstr "显示页面"
+
+#: templates/options-template.php:75
+msgid "Display"
+msgstr "显示"
+
+#: templates/options-template.php:719
+msgid "Custom URL"
+msgstr "自定义链接"
+
+#: classes/class-wpfront-scroll-top-options.php:74
+#: classes/class-wpfront-scroll-top-options.php:80
+msgid "Custom CSS"
+msgstr "自定义CSS"
+
+#: templates/options-template.php:756
+msgid "Buy me a Beer or Coffee"
+msgstr "给我买啤酒或咖啡"
+
+#: classes/class-wpfront-scroll-top-options.php:55
+msgid "Button Style"
+msgstr "按钮样式 "
+
+#: templates/options-template.php:146
+msgid "Button Size"
+msgstr "按钮大小"
+
+#: classes/class-wpfront-scroll-top-options.php:46
+msgid "Button Opacity"
+msgstr "按钮不透明度"
+
+#: classes/class-wpfront-scroll-top-options.php:47
+msgid "Button Fade Duration"
+msgstr "按钮消失时间"
+
+#: templates/options-template.php:411
+msgid "Bottom Right"
+msgstr "右下角"
+
+#: templates/options-template.php:412
+msgid "Bottom Left"
+msgstr "左下角"
+
+#: classes/class-wpfront-scroll-top-options.php:72
+msgid "Background Color"
+msgstr "背景颜色"
+
+#: classes/class-wpfront-scroll-top-options.php:50
+msgid "Auto Hide After"
+msgstr "自动隐藏之后"
+
+#: classes/class-wpfront-scroll-top-options.php:49
+msgid "Auto Hide"
+msgstr "自动隐藏"
+
+#. Description of the plugin
+msgid "Allows the visitor to easily scroll back to the top of the page."
+msgstr "允许访问者轻松滚动到页面顶部。"
+
+#: templates/options-template.php:470
+msgid "All pages."
+msgstr "所有页面。"

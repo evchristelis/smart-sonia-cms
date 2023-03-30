@@ -1,0 +1,693 @@
+# Translation of Plugins - Yasr &#8211; Yet Another Stars Rating - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Yasr &#8211; Yet Another Stars Rating - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-12-25 20:20:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Yasr &#8211; Yet Another Stars Rating - Stable (latest release)\n"
+
+#: admin/editor/YasrMetaboxBelowEditor.php:107
+msgid "Structured Data"
+msgstr "結構化資料"
+
+#: admin/editor/YasrMetaboxSchemaFields.php:53
+msgid "The brand of the product."
+msgstr "產品的品牌名稱。"
+
+#: admin/editor/YasrMetaboxSchemaFields.php:58
+msgid "Merchant-specific identifier for product."
+msgstr "產品的商家專屬識別碼。"
+
+#: admin/editor/YasrMetaboxSchemaFields.php:70
+msgid "Select global identifier. More info %s here %s"
+msgstr "請選取全域識別碼。如需進一步了解，請點擊%s這裡%s"
+
+#: admin/editor/YasrMetaboxSchemaFields.php:453
+msgid "More info %s here %s"
+msgstr "如需進一步了解，請點擊%s這裡%s"
+
+#: admin/editor/YasrMetaboxSchemaFields.php:201
+msgid "More info %s here %s and %s here %s"
+msgstr "如需進一步了解，請點擊%s連結 1%s 及%s連結 2%s"
+
+#: includes/rest/classes/YasrCustomEndpoint.php:351
+msgid "This Multi Set doesn't exists"
+msgstr "這個多重評等組合不存在"
+
+#: includes/rest/classes/YasrCustomEndpoint.php:213
+msgid "Invalid Post ID"
+msgstr "無效的文章 ID。"
+
+#: includes/rest/classes/YasrCustomEndpoint.php:222
+msgid "Post ID doesn't exists"
+msgstr "文章 ID 不存在。"
+
+#: includes/classes/YasrLastRatingsWidget.php:215
+msgid "You rated %s on"
+msgstr "%s 分的評等，你於 "
+
+#: includes/yasr-widgets.php:462
+msgid "No recent ratings yet"
+msgstr "尚無最近的評等記錄"
+
+#: admin/settings/classes/YasrImportRatingPlugins.php:654
+msgid "No Multi Rating data found"
+msgstr "找不到 Multi Rating 的資料"
+
+#: admin/settings/classes/YasrImportRatingPlugins.php:868
+msgid "No supported plugin has been found"
+msgstr "找不到受支援的外掛"
+
+#: admin/settings/yasr-stats-page.php:52
+msgid "MultiSet"
+msgstr "多重評等組合"
+
+#: admin/settings/classes/YasrStats.php:192
+msgid "Multi Set doesn't exists"
+msgstr "多重評等組合不存在"
+
+#: admin/settings/classes/YasrStats.php:209
+msgid "Field doesn't exists"
+msgstr "欄位不存在"
+
+#: admin/settings/classes/YasrStats.php:214
+msgid "Imported Data"
+msgstr "已匯入的資料"
+
+#: admin/settings/yasr-stats-page.php:39
+msgid "Ratings Stats"
+msgstr "評等統計資料"
+
+#: includes/classes/YasrLastRatingsWidget.php:188
+msgid "No Recent votes yet"
+msgstr "尚無最近的評等記錄"
+
+#: includes/shortcodes/classes/YasrMultiSet.php:95
+msgid "No Set Found with this ID"
+msgstr "找不到符合這個 ID 的多重評等組合。"
+
+#: admin/editor/yasr-metabox-schema.php:68
+msgid "Is this a review?"
+msgstr "是否啟用評等"
+
+#: admin/editor/yasr-metabox-schema.php:102
+msgid "Select ItemType"
+msgstr "選取項目類型"
+
+#: admin/settings/classes/YasrSettings.php:220
+msgid "Align"
+msgstr "對齊方式"
+
+#: admin/settings/classes/YasrSettings.php:222
+msgid "Left"
+msgstr "靠左對齊"
+
+#: admin/settings/classes/YasrSettings.php:223
+msgid "Center"
+msgstr "置中對齊"
+
+#: admin/settings/classes/YasrSettings.php:224
+msgid "Right"
+msgstr "靠右對齊"
+
+#: includes/classes/YasrDefineOptions.php:158
+msgid "Save All Settings"
+msgstr "儲存全部設定"
+
+#: includes/classes/YasrSettingsValues.php:81
+msgid "Our Score"
+msgstr "評等結果"
+
+#: includes/classes/YasrSettingsValues.php:82
+msgid "Click to rate this post!"
+msgstr "點擊便能為這篇文章進行評等！"
+
+#: includes/classes/YasrSettingsValues.php:84
+msgid "[Total: %s  Average: %s]"
+msgstr "[評等總次數: %s，平均評等: %s]"
+
+#: admin/settings/classes/YasrSettings.php:202
+msgid "Before the content"
+msgstr "內容上方"
+
+#: admin/settings/classes/YasrSettings.php:203
+msgid "After the content"
+msgstr "內容下方"
+
+#: admin/settings/classes/YasrSettings.php:507
+msgid "Example"
+msgstr "範例"
+
+#: admin/settings/classes/YasrSettings.php:1171
+#: admin/settings/yasr-settings-migration.php:37
+msgid "Migration Tools"
+msgstr "遷移工具"
+
+#: admin/settings/classes/YasrImportRatingPlugins.php:967
+msgid "Import data"
+msgstr "匯入資料"
+
+#: admin/settings/classes/YasrImportRatingPlugins.php:706
+msgid ""
+"To import %s seems like %s %d %s INSERT queries are necessary. %s\n"
+"                There is nothing wrong with that, but some hosting provider can have a query limit/hour. %s\n"
+"                I strongly suggest to contact your hosting and ask about your plan limit"
+msgstr "如需匯入 %s 的資料，一定需要執行 %s%d%s 次 INSERT 查詢。%s這些查詢非常正常，但是某些主機服務提供商會限制每小時的查詢執行次數。%s強烈建議聯絡目前使用的主機服務提供商，並了解目前使用方案的限制。"
+
+#: admin/settings/classes/YasrImportRatingPlugins.php:463
+msgid "No WP Post Rating data found"
+msgstr "找不到 WP-PostRatings 的資料"
+
+#: admin/settings/classes/YasrImportRatingPlugins.php:498
+#: admin/settings/classes/YasrImportRatingPlugins.php:562
+#: admin/settings/classes/YasrImportRatingPlugins.php:619
+#: admin/settings/classes/YasrImportRatingPlugins.php:683
+msgid "Woot! All data have been imported!"
+msgstr "大功告成！全部資料均已匯入。"
+
+#: admin/settings/classes/YasrImportRatingPlugins.php:534
+msgid "No KK Star Ratings data found"
+msgstr "找不到 KK Star Ratings 的資料"
+
+#: admin/settings/classes/YasrImportRatingPlugins.php:597
+msgid "No Rate My Post data found"
+msgstr "找不到 Rate My Post 的資料"
+
+#: admin/settings/classes/YasrSettings.php:696
+msgid "Custom text to display when login is required to vote"
+msgstr "顯示給必須登入才能進行評等時的自訂文字內容"
+
+#: admin/settings/classes/YasrSettings.php:1583
+msgid "Please rate YASR 5 stars on"
+msgstr "能否給予 YASR 5 星評價，在"
+
+#: admin/settings/classes/YasrSettings.php:1575
+msgid "Can I ask your help?"
+msgstr "協助開發者"
+
+#: admin/settings/classes/YasrSettings.php:1439
+msgid "Youtube channel"
+msgstr "YouTube 頻道"
+
+#: admin/settings/classes/YasrSettings.php:1431
+msgid "Documentation"
+msgstr "線上說明"
+
+#: admin/settings/classes/YasrSettings.php:1414
+msgid "YASR official website"
+msgstr "YASR 官方網站"
+
+#. Author URI of the plugin
+msgid "https://dariocurvino.it/"
+msgstr "https://dariocurvino.it/"
+
+#: admin/editor/YasrEditorHooks.php:346
+msgid "Insert the ability for your visitors to vote"
+msgstr "插入這個功能區塊後，網站訪客便可進行評等。"
+
+#: admin/editor/YasrEditorHooks.php:317
+msgid "Insert the author rating"
+msgstr "插入作者個人評等"
+
+#: yet-another-stars-rating.php:187
+msgid "Thank you for using Yasr Pro"
+msgstr "感謝使用 YASR Pro"
+
+#: admin/settings/classes/YasrSettings.php:802
+msgid "Do you want to save ip address?"
+msgstr "是否儲存網站訪客 IP 位址"
+
+#: admin/settings/classes/YasrSettings.php:1328
+msgid "Upgrade to YASR Pro"
+msgstr "升級至 YASR Pro"
+
+#: admin/settings/aspect_style/yasr-settings-style-actions.php:102
+msgid "Upgrade to %s"
+msgstr "升級至 %s 便能解鎖這項功能"
+
+#: admin/settings/yasr-stats-page.php:67
+msgid "Upgrade"
+msgstr "升級"
+
+#: yet-another-stars-rating.php:182
+msgid "Buy Yasr Pro"
+msgstr "購買 YASR Pro 約期授權"
+
+#: includes/classes/YasrScriptsLoader.php:80
+msgid "out of 5 stars"
+msgstr "星，滿分為 5 星"
+
+#: includes/yasr-widgets.php:386
+msgid "Show the 5 most recent rated posts"
+msgstr "顯示最近 5 篇含有評等的文章。"
+
+#: includes/yasr-widgets.php:489
+msgid "Recent Ratings"
+msgstr "最近的評等"
+
+#: includes/yasr-widgets.php:440
+msgid "Vote %s from %s on"
+msgstr "%s 分的評等，%s 於 "
+
+#: includes/yasr-widgets.php:384
+msgid "Yasr Recent Ratings"
+msgstr "YASR 最近的評等"
+
+#: includes/yasr-widgets.php:100
+msgid "Our Rating:"
+msgstr "我們的評等:"
+
+#: includes/yasr-widgets.php:113 includes/yasr-widgets.php:283
+#: includes/yasr-widgets.php:496
+msgid "Title:"
+msgstr "標題:"
+
+#: includes/yasr-widgets.php:47
+msgid "Display Overall Rating"
+msgstr "顯示 YASR [整體評等]。"
+
+#: includes/yasr-widgets.php:123 includes/yasr-widgets.php:301
+msgid "Size:"
+msgstr "評等圖示尺寸:"
+
+#: includes/yasr-widgets.php:202
+msgid "Yasr Visitor Votes"
+msgstr "YASR 網站訪客評等"
+
+#: includes/yasr-widgets.php:204
+msgid "Show Yasr Visitor Votes"
+msgstr "顯示 YASR [網站訪客評等]。"
+
+#: includes/yasr-widgets.php:262
+msgid "Rate This:"
+msgstr "為這篇文章/項目進行評等:"
+
+#: includes/yasr-widgets.php:45
+msgid "Yasr Overall Rating"
+msgstr "YASR 整體評等"
+
+#: admin/settings/aspect_style/yasr-settings-style-actions.php:117
+msgid "Save Settings"
+msgstr "儲存設定"
+
+#: admin/editor/yasr-metabox-top-right.php:96
+#: admin/js/src/guten/yasrSidebar.js:58
+msgid "Disable auto insert for this post or page?"
+msgstr "是否在這文章/頁面中停用自動插入"
+
+#: admin/settings/aspect_style/yasr-settings-style-actions.php:100
+msgid "Looking for more?"
+msgstr "需要更多評等圖示嗎？"
+
+#: admin/settings/classes/YasrSettingsMultiset.php:596
+msgid "Show average?"
+msgstr "是否顯示 [平均評等]"
+
+#: admin/editor/YasrEditorHooks.php:397
+msgid "Hide Average?"
+msgstr "隱藏 [平均評等]"
+
+#: admin/settings/classes/YasrSettings.php:622
+msgid "Publisher name (e.g. Google)"
+msgstr "發佈者名稱 (例如 Google)"
+
+#: admin/settings/aspect_style/yasr-settings-style-actions.php:31
+msgid "Choose Stars Set"
+msgstr "選取星等組合"
+
+#: admin/settings/classes/YasrSettings.php:1130
+msgid "Aspect & Styles"
+msgstr "外觀及樣式"
+
+#. Plugin Name of the plugin
+msgid "Yet Another Stars Rating"
+msgstr "Yet Another Stars Rating"
+
+#: admin/settings/classes/YasrSettings.php:1118
+msgid "General Settings"
+msgstr "一般設定"
+
+#: admin/settings/classes/YasrSettingsMultiset.php:438
+msgid "Remove whole set?"
+msgstr "移除這個多重評等組合"
+
+#: admin/settings/classes/YasrSettingsMultiset.php:483
+msgid "You can use up to 9 elements"
+msgstr "僅可使用最多 9 個評等項目"
+
+#: admin/settings/classes/YasrSettingsMultiset.php:709
+msgid "Something goes wrong trying insert set field name. Please report it"
+msgstr "插入評等組合欄位名稱時發生錯誤。請回報這項錯誤。"
+
+#: admin/settings/classes/YasrSettingsMultiset.php:904
+msgid "Something goes wrong trying to delete a Multi Set . Please report it"
+msgstr "刪除多重評等組合時發生錯誤。請回報這項錯誤。"
+
+#: admin/settings/classes/YasrSettingsMultiset.php:942
+msgid "Something goes wrong trying to delete a Multi Set's element. Please report it"
+msgstr "刪除多重評等組合的評等項目時發生錯誤。請回報這項錯誤。"
+
+#: admin/settings/classes/YasrSettingsMultiset.php:999
+msgid "Something goes wrong trying to update a Multi Set's element. Please report it"
+msgstr "更新多重評等組合的評等項目時發生錯誤。請回報這項錯誤。"
+
+#: admin/settings/classes/YasrSettingsMultiset.php:1065
+msgid "Something goes wrong trying to insert set field name in edit form. Please report it"
+msgstr "在編輯區中插入評等組合欄位時發生錯誤。請回報這項錯誤。"
+
+#: admin/settings/aspect_style/yasr-settings-style-functions.php:44
+msgid "Style Options"
+msgstr "樣式設定"
+
+#: admin/settings/aspect_style/yasr-settings-style-functions.php:62
+msgid "Custom CSS Styles"
+msgstr "自訂 CSS 樣式"
+
+#: admin/settings/aspect_style/yasr-settings-style-functions.php:117
+msgid "Please use text area below to write your own CSS styles to override the default ones."
+msgstr "請在下方文字方塊中輸入自訂 CSS 樣式以變更預設樣式。"
+
+#: admin/settings/classes/YasrSettings.php:1586
+msgid " It will require just 1 min but it's a HUGE help for me. Thank you."
+msgstr "這僅需花你 1 分鐘時間，但對我來說是相當大的幫助，感謝你。"
+
+#: includes/classes/YasrSettingsValues.php:91
+msgid "You must sign in to vote"
+msgstr "必須登入才能進行評等"
+
+#: includes/shortcodes/classes/YasrMultiSet.php:220
+msgid "Average"
+msgstr "平均評等"
+
+#: includes/shortcodes/classes/YasrVisitorMultiSet.php:62
+#: includes/shortcodes/classes/YasrVisitorMultiSet.php:70
+msgid "Submit!"
+msgstr "送出"
+
+#: admin/settings/classes/YasrSettingsRankings.php:135
+#: includes/classes/YasrScriptsLoader.php:82
+msgid "Most Rated"
+msgstr "最多評等"
+
+#: admin/settings/classes/YasrSettingsRankings.php:136
+#: includes/classes/YasrScriptsLoader.php:83
+msgid "Highest Rated"
+msgstr "最高評等"
+
+#: includes/shortcodes/classes/YasrNoStarsRankings.php:42
+msgid "Problem while retrieving the top 5 most active reviewers. Did you publish any review?"
+msgstr "擷取前 10 名評等最活躍的評論者資料時發生錯誤，請確認有作者發表過評論進行展示。"
+
+#: includes/shortcodes/classes/YasrNoStarsRankings.php:69
+msgid "Problem while retrieving the top 10 active users chart. Are you sure you have votes to show?"
+msgstr "擷取前 10 名評等最活躍的使用者資料時發生錯誤，請確認有足夠的資料進行展示。"
+
+#: admin/classes/YasrAdmin.php:179 admin/settings/yasr-settings.php:33
+#: yet-another-stars-rating.php:160
+msgid "Settings"
+msgstr "設定"
+
+#: admin/settings/classes/YasrSettingsMultiset.php:266
+msgid "Manage Multi Set"
+msgstr "管理多重評等組合"
+
+#: admin/settings/yasr-settings-multiset.php:45
+msgid "Save"
+msgstr "儲存"
+
+#. Author of the plugin
+msgid "Dario Curvino"
+msgstr "Dario Curvino"
+
+#: includes/classes/YasrScriptsLoader.php:79
+msgid "Loading, please wait"
+msgstr "正在載入，請稍候..."
+
+#: admin/editor/yasr-metabox-top-right.php:57
+#: admin/js/src/guten/blocks/deprecated/deprecated_blocks.js:111
+#: admin/js/src/guten/yasrGutenUtils.js:109
+msgid "Rate this article / item"
+msgstr "為這篇文章/項目進行評等"
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/plugins/yet-another-stars-rating/"
+msgstr "https://tw.wordpress.org/plugins/yet-another-stars-rating/"
+
+#: admin/settings/classes/YasrSettingsMultiset.php:477
+msgid "Save changes"
+msgstr "儲存設定"
+
+#: includes/shortcodes/classes/YasrVisitorMultiSet.php:162
+msgid "Thank you for voting!"
+msgstr "感謝你參與評等！"
+
+#: admin/settings/classes/YasrSettingsRankings.php:235
+msgid "Rating:"
+msgstr "評分:"
+
+#: admin/settings/aspect_style/yasr-settings-style-functions.php:120
+msgid "Leave it blank if you don't know what you're doing."
+msgstr "如果不了解這項設定的作用，請予以留空。"
+
+#: admin/settings/classes/YasrSettingsMultiset.php:720
+#: admin/settings/classes/YasrSettingsMultiset.php:882
+msgid "Settings Saved"
+msgstr "設定已儲存。"
+
+#: admin/editor/YasrEditorHooks.php:269
+msgid "Main"
+msgstr "主要功能"
+
+#: admin/editor/YasrEditorHooks.php:224
+msgid "Read the doc"
+msgstr "閱讀線上說明"
+
+#: admin/editor/YasrEditorHooks.php:313
+msgid "Insert Overall Rating"
+msgstr "插入 [整體評等]"
+
+#: admin/editor/YasrEditorHooks.php:322 admin/editor/YasrEditorHooks.php:351
+#: admin/js/src/guten/blocks/deprecated/deprecated_blocks.js:11
+msgid "Choose Size"
+msgstr "評等圖示尺寸"
+
+#: includes/yasr-widgets.php:130 includes/yasr-widgets.php:306
+#: admin/js/src/guten/blocks/deprecated/deprecated_blocks.js:14
+#: admin/js/src/guten/yasrGutenUtils.js:8
+msgid "Small"
+msgstr "小型"
+
+#: includes/yasr-widgets.php:138 includes/yasr-widgets.php:314
+#: admin/js/src/guten/blocks/deprecated/deprecated_blocks.js:15
+#: admin/js/src/guten/yasrGutenUtils.js:9
+msgid "Medium"
+msgstr "中型"
+
+#: includes/yasr-widgets.php:146 includes/yasr-widgets.php:323
+#: admin/js/src/guten/blocks/deprecated/deprecated_blocks.js:16
+#: admin/js/src/guten/yasrGutenUtils.js:10
+msgid "Large"
+msgstr "大型"
+
+#: admin/editor/YasrEditorHooks.php:335
+#: admin/settings/classes/YasrSettings.php:182
+#: admin/settings/classes/YasrSettings.php:347
+#: admin/settings/yasr-stats-page.php:46
+msgid "Visitor Votes"
+msgstr "網站訪客評等"
+
+#: admin/editor/YasrEditorHooks.php:343
+msgid "Insert Visitor Votes"
+msgstr "插入 [網站訪客評等]"
+
+#: admin/editor/YasrEditorHooks.php:378
+msgid "Choose wich set you want to insert."
+msgstr "選取要插入的評等組合。"
+
+#: admin/editor/YasrEditorHooks.php:384
+msgid "Readonly?"
+msgstr "唯讀"
+
+#: admin/editor/YasrEditorHooks.php:390
+msgid "If Readonly is checked, only you can insert the votes (in the box above the editor)"
+msgstr "為這篇內容啟用 [唯讀] 設定之後，便只有你能插入評等短代碼"
+
+#: admin/editor/YasrEditorHooks.php:407
+msgid "Insert Multi Set"
+msgstr "插入多重評等組合"
+
+#: admin/editor/YasrEditorHooks.php:364
+msgid "Insert Multiset:"
+msgstr "插入多重評等組合:"
+
+#: admin/editor/YasrEditorHooks.php:518
+msgid "Most Active Users"
+msgstr "評等最活躍的網站訪客"
+
+#: admin/settings/classes/YasrStats.php:175
+#: includes/classes/YasrLastRatingsWidget.php:199 includes/yasr-widgets.php:428
+msgid "anonymous"
+msgstr "匿名"
+
+#: includes/classes/YasrLastRatingsWidget.php:226
+msgid "Ip address"
+msgstr "IP 位址"
+
+#: includes/classes/YasrLastRatingsWidget.php:257
+msgid "Pages"
+msgstr "頁次"
+
+#: includes/classes/YasrScriptsLoader.php:76
+msgid "stars"
+msgstr "星評等"
+
+#: includes/classes/YasrScriptsLoader.php:75
+msgid "star"
+msgstr "星評等"
+
+#: admin/settings/classes/YasrSettings.php:73
+msgid "General settings"
+msgstr "一般設定"
+
+#: admin/settings/classes/YasrSettings.php:447
+msgid "Show \"Visitor Votes\" in Archive Page?"
+msgstr "是否在彙整頁面顯示 [網站訪客評等]"
+
+#: admin/settings/classes/YasrSettings.php:161
+msgid "Use Auto Insert?"
+msgstr "是否啟用自動插入"
+
+#: admin/settings/classes/YasrSettings.php:180
+#: admin/settings/classes/YasrSettings.php:345
+msgid "What?"
+msgstr "顯示項目"
+
+#: admin/settings/classes/YasrSettings.php:184
+#: admin/settings/classes/YasrSettings.php:204
+#: admin/settings/classes/YasrSettings.php:387
+msgid "Both"
+msgstr "兩者同時顯示"
+
+#: admin/settings/classes/YasrSettings.php:200
+msgid "Where?"
+msgstr "顯示位置"
+
+#: admin/settings/classes/YasrSettings.php:241
+#: admin/settings/classes/YasrSettingsRankings.php:111
+#: admin/js/src/guten/yasrGutenUtils.js:5
+msgid "Size"
+msgstr "尺寸大小"
+
+#: admin/settings/classes/YasrSettings.php:258
+#: admin/settings/classes/YasrSettings.php:364
+msgid "Exclude Pages?"
+msgstr "是否排除頁面"
+
+#: admin/settings/classes/YasrSettings.php:260
+#: admin/settings/classes/YasrSettings.php:282
+#: admin/settings/classes/YasrSettings.php:366
+#: admin/settings/classes/YasrSettingsRankings.php:296
+#: admin/settings/classes/YasrSettingsRankings.php:365
+msgid "Yes"
+msgstr "是 "
+
+#: admin/settings/classes/YasrSettings.php:261
+#: admin/settings/classes/YasrSettings.php:283
+#: admin/settings/classes/YasrSettings.php:367
+#: admin/settings/classes/YasrSettingsRankings.php:215
+#: admin/settings/classes/YasrSettingsRankings.php:295
+#: admin/settings/classes/YasrSettingsRankings.php:364
+msgid "No"
+msgstr "否"
+
+#: admin/settings/classes/YasrSettings.php:280
+msgid "Use only in custom post types?"
+msgstr "是否僅使用於自訂文章類型"
+
+#: admin/settings/classes/YasrSettings.php:678
+msgid "Custom text to display before Overall Rating"
+msgstr "顯示於 [整體評等] 前的自訂文字內容"
+
+#: admin/settings/classes/YasrSettings.php:684
+msgid "Custom text to display BEFORE Visitor Rating"
+msgstr "顯示於 [網站訪客評等] 前的自訂文字內容"
+
+#: admin/settings/classes/YasrSettings.php:690
+msgid "Custom text to display AFTER Visitor Rating"
+msgstr "顯示於 [網站訪客評等] 後的自訂文字內容"
+
+#: admin/settings/classes/YasrSettings.php:538
+msgid "Allow only logged-in users"
+msgstr "僅供已登入的網站訪客進行評等"
+
+#: admin/settings/classes/YasrSettings.php:539
+msgid "Allow everybody (logged in and anonymous)"
+msgstr "匿名及已登入的網站訪客均可進行評等"
+
+#: admin/settings/classes/YasrSettingsMultiset.php:162
+msgid "Element "
+msgstr "評等項目 "
+
+#: admin/settings/classes/YasrSettingsMultiset.php:138
+msgid "Create New Set"
+msgstr "建立新組合"
+
+#: admin/settings/aspect_style/yasr-settings-style-functions.php:53
+msgid "Which color scheme do you want to use?"
+msgstr "選取色彩配置"
+
+#: admin/settings/aspect_style/yasr-settings-style-functions.php:82
+msgid "Light"
+msgstr "淺色"
+
+#: admin/settings/aspect_style/yasr-settings-style-functions.php:96
+msgid "Preview"
+msgstr "預覽"
+
+#: admin/settings/aspect_style/yasr-settings-style-functions.php:101
+msgid "Light theme"
+msgstr "淺色主題"
+
+#: admin/settings/aspect_style/yasr-settings-style-functions.php:106
+msgid "Dark theme"
+msgstr "暗色主題"
+
+#: includes/classes/YasrLastRatingsWidget.php:209
+msgid "Vote %d from %s on"
+msgstr "%d 分的評等，%s 於 "
+
+#: admin/settings/classes/YasrSettings.php:348
+msgid "Overall Rating / Author Rating"
+msgstr "整體評等/作者個人評等"
+
+#: admin/settings/aspect_style/yasr-settings-style-functions.php:83
+msgid "Dark"
+msgstr "深色"
+
+#: admin/classes/YasrAdmin.php:226 admin/classes/YasrAdmin.php:241
+#: admin/classes/YasrAdmin.php:256 admin/classes/YasrOnInstall.php:26
+#: admin/editor/YasrEditorHooks.php:597
+#: admin/settings/classes/YasrImportRatingPlugins.php:450
+#: admin/settings/classes/YasrImportRatingPlugins.php:524
+#: admin/settings/classes/YasrImportRatingPlugins.php:588
+#: admin/settings/classes/YasrImportRatingPlugins.php:644
+#: admin/settings/yasr-settings.php:27 admin/settings/yasr-stats-page.php:27
+msgid "You do not have sufficient permissions to access this page."
+msgstr "目前的登入身分沒有存取這個頁面的權限。"
+
+#: admin/editor/YasrEditorHooks.php:158
+msgid "You don't have enought privileges to insert Overall Rating"
+msgstr "目前的登入身分沒有插入整體評等的權限"
+
+#: admin/editor/YasrEditorHooks.php:173
+msgid "You don't have enough privileges to insert a Multi Set"
+msgstr "目前的登入身分沒有插入多重評等組合的權限"
+
+#: admin/editor/yasr-metabox-schema.php:66
+msgid "Rich snippet options"
+msgstr "複合式搜尋結果設定"

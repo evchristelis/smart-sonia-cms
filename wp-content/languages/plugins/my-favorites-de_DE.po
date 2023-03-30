@@ -1,0 +1,70 @@
+# Translation of Plugins - My Favorites - Development (trunk) in German
+# This file is distributed under the same license as the Plugins - My Favorites - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-12-13 22:16:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - My Favorites - Development (trunk)\n"
+
+#: assets/list.php:110
+msgid "Loading"
+msgstr "Wird geladen"
+
+#: assets/list.php:109
+msgid "Load More"
+msgstr "Mehr laden"
+
+#. Description of the plugin
+msgid "Save user's favorite posts and list them."
+msgstr "Speichere Lieblingsbeiträge von Benutzern und liste sie auf."
+
+#: my-favorites.php:67
+msgid "Oops, PHP Class Name Conflict."
+msgstr "Ups, PHP-Klassennamenskonflikt."
+
+#: my-favorites.php:36
+msgid "Oops, this plugin will soon require PHP %s or higher."
+msgstr "Ups, dieses Plugin erfordert bald PHP %s oder höher."
+
+#: assets/list.php:28 assets/list.php:116
+msgid "There are no favorite items."
+msgstr "Es gibt keine Lieblings-Elemente."
+
+#: assets/list.php:105 assets/shortcode-select.php:27
+msgid "Favorite"
+msgstr "Favorit"
+
+#: assets/list.php:65
+msgid "Delete all"
+msgstr "Alle löschen"
+
+#: assets/list.php:64
+msgid "Favorite item"
+msgid_plural "Favorite items"
+msgstr[0] "Lieblings-Element"
+msgstr[1] "Lieblings-Elemente"
+
+#: assets/shortcode-list.php:28
+msgid "Favorites"
+msgstr "Favoriten"
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/takashimatsuyama/"
+msgstr "https://profiles.wordpress.org/takashimatsuyama/"
+
+#. Author of the plugin
+msgid "Takashi Matsuyama"
+msgstr "Takashi Matsuyama"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/my-favorites/"
+msgstr "https://de.wordpress.org/plugins/my-favorites/"
+
+#. Plugin Name of the plugin
+msgid "My Favorites"
+msgstr "My Favorites"

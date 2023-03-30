@@ -1,0 +1,144 @@
+# Translation of Plugins - WP jQuery Lightbox - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - WP jQuery Lightbox - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-12-27 09:22:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - WP jQuery Lightbox - Stable (latest release)\n"
+
+#: wp-jquery-lightbox.php:322
+msgid "Load JavaScripts in page footer"
+msgstr "Загрузка JavaScripts в footer страницы"
+
+#: wp-jquery-lightbox.php:322
+msgid "Uncheck this box to load jQuery and lightbox in the header of your page."
+msgstr "Снимите этот флажок, чтобы загрузить jQuery и лайтбокс в заголовок страницы."
+
+#. Author URI of the plugin
+msgid "http://www.ulfbenjaminsson.com"
+msgstr "http://www.ulfbenjaminsson.com"
+
+#. Author of the plugin
+msgid "Ulf Benjaminsson"
+msgstr "Ulf Benjaminsson"
+
+#. Description of the plugin
+msgid "A drop in replacement for LightBox-2 and similar plugins. Uses jQuery to save you from the JS-library mess in your header. :)"
+msgstr "Универсальная замена LightBox-2 и подобных плагинов. Использует jQuery, чтобы избавить вас от путаницы JS-библиотек в заголовке. :)"
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/extend/plugins/wp-jquery-lightbox/"
+msgstr "http://wordpress.org/extend/plugins/wp-jquery-lightbox/"
+
+#. Plugin Name of the plugin
+msgid "wp-jquery-lightbox"
+msgstr "WP jQuery Lightbox"
+
+#: wp-jquery-lightbox.php:339
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: wp-jquery-lightbox.php:334
+msgid "Slideshow speed (in milliseconds). 0 to disable."
+msgstr "Скорость слайд-шоу (в миллисекундах). 0 для отключения."
+
+#: wp-jquery-lightbox.php:328
+msgid "Animation duration (in milliseconds) "
+msgstr "Продолжительность анимации (в миллисекундах) "
+
+#: wp-jquery-lightbox.php:315
+msgid "Use custom stylesheet"
+msgstr "Использовать собственную таблицу стилей"
+
+#: wp-jquery-lightbox.php:307
+msgid "Minimum margin to screen edge (default: 0)"
+msgstr "Минимальный отступ от края экрана (по умолчанию: 0)"
+
+#: wp-jquery-lightbox.php:307
+msgid "Keep a distance between the image and the screen edges."
+msgstr "Сохранять расстояние между изображением и краями экрана."
+
+#: wp-jquery-lightbox.php:302
+msgid "Shrink large images to fit smaller screens"
+msgstr "Подгонять размер изображения под экран"
+
+#: wp-jquery-lightbox.php:294
+msgid "Show image info on top"
+msgstr "Показывать информацию об изображении сверху"
+
+#: wp-jquery-lightbox.php:286
+msgid "Show download link"
+msgstr "Показать ссылку на скачивание"
+
+#: wp-jquery-lightbox.php:279
+msgid "Show image numbers:"
+msgstr "Показать номера изображений:"
+
+#: wp-jquery-lightbox.php:272
+msgid "Show caption"
+msgstr "Показать подпись"
+
+#: wp-jquery-lightbox.php:265
+msgid "Show title"
+msgstr "Показать заголовок"
+
+#: wp-jquery-lightbox.php:258
+msgid "Enable lightbox in comments (disables <a href=\"http://codex.wordpress.org/Nofollow\">the nofollow attribute!</a>)"
+msgstr "Включите лайтбокс в комментариях (отключает <a href=\"http://codex.wordpress.org/Nofollow\">атрибут nofollow!</a>)"
+
+#: wp-jquery-lightbox.php:258
+msgid "Note: this will disable the nofollow-attribute of comment links, that otherwise interfere with the lightbox."
+msgstr "Заметка: это отключит nofollow атрибут в ссылках комментариев."
+
+#: wp-jquery-lightbox.php:251
+msgid "Auto-lightbox image links"
+msgstr "Использовать lightbox автоматически"
+
+#: wp-jquery-lightbox.php:251
+msgid "Let the plugin add necessary html to image links"
+msgstr "Позволить плагину добавлять необходимый html к ссылкам на изображения"
+
+#: wp-jquery-lightbox.php:237
+msgid "Cheatin&#8217; uh?"
+msgstr "Эй! Жульничаем?!"
+
+#: wp-jquery-lightbox.php:146
+msgid "(play slideshow)"
+msgstr "(воспроизвести слайд-шоу)"
+
+#: wp-jquery-lightbox.php:145
+msgid "(pause slideshow)"
+msgstr "(пауза в слайд-шоу)"
+
+#: wp-jquery-lightbox.php:144
+msgid "Download"
+msgstr "Скачать"
+
+#: wp-jquery-lightbox.php:143 wp-jquery-lightbox.php:279
+msgid " of "
+msgstr " из "
+
+#: wp-jquery-lightbox.php:142 wp-jquery-lightbox.php:279
+msgid "Image "
+msgstr "Изображение "
+
+#: wp-jquery-lightbox.php:141
+msgid "close image gallery"
+msgstr "закрыть галерею"
+
+#: wp-jquery-lightbox.php:140
+msgid "next image"
+msgstr "следующее изображение"
+
+#: wp-jquery-lightbox.php:139
+msgid "previous image"
+msgstr "предыдущее изображение"
+
+#: wp-jquery-lightbox.php:49
+msgid "Settings"
+msgstr "Настройки"

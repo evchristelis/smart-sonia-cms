@@ -1,0 +1,51 @@
+# Translation of Plugins - Welcome Email Editor - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Welcome Email Editor - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-02-27 19:01:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Welcome Email Editor - Stable (latest release)\n"
+
+#: class-setup.php:135
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: modules/settings/class-settings-module.php:221
+msgid "Additional Email Headers"
+msgstr "Zusätzliche E-Mail Headers"
+
+#: modules/settings/templates/fields/general/content-type.php:21
+msgid "HTML"
+msgstr "HTML"
+
+#: modules/settings/class-settings-module.php:212
+msgid "From Name"
+msgstr "Absendername"
+
+#: modules/settings/class-settings-module.php:211
+msgid "From Email Address"
+msgstr "Absenderadresse"
+
+#: modules/settings/class-settings-module.php:204
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: wp-new-user-notification.php:324
+msgid "Click to set"
+msgstr "Klicken zum Auswählen"
+
+#: modules/settings/class-settings-module.php:219
+msgid "\"Reply-To\" Email Address"
+msgstr "„Antwort an“-E-Mail-Adresse"
+
+#. Plugin Name of the plugin
+#: modules/settings/class-settings-module.php:116
+#: modules/settings/class-settings-module.php:117
+#: modules/settings/templates/settings-template.php:23
+msgid "Welcome Email Editor"
+msgstr "Welcome Email Editor"

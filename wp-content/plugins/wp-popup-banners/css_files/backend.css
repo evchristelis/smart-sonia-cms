@@ -1,0 +1,548 @@
+.clearfix:before, .clearfix:after{
+    clear:both;
+    display: table;
+    content:'';
+}
+.wpb-add-set-wrapper{
+    overflow: hidden;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+.wpb-add-set-wrapper {
+    overflow-x:hidden;
+    display:inline-block;
+    width:100%;  
+}
+
+.wbp-left-section-wrapper {
+    width: 74%;
+    float: left;
+}
+
+.wpb-popup-sidebar {
+    width: 25%;
+    float: left;
+}
+
+.wpb-panel {
+    float: left;
+    width: 100%;
+}
+
+.wpb-manage-tabs {
+    border-bottom: 1px solid #ccc;
+    display: block;
+    margin-bottom: 0;
+    position: relative;
+    z-index: 5;
+}
+
+.wpb-manage-tabs > li {
+    border: 1px solid #cccccc;
+    border-radius: 5px 5px 0 0;
+    display: inline-block;
+    margin: 2px 0 -1px 2px;
+    padding: 5px 0;
+    text-align: center;
+}
+
+.wpb-input-field-textarea{
+    margin-left: 155px!important;
+}
+
+.wpb-field-title, .wpb-setting-field-title{
+    float: left;
+    width: 13%;
+}
+
+.wpb-input-field{
+    width: 90%;
+}
+
+.wpb_settings, .wpb_about {
+    display: none;
+}
+
+.wpb-general-options{
+    padding: 30px 20px;
+}
+
+#optionsframework{
+    width: 100%;
+    float: left;
+    min-height: 500px;
+}
+
+.wpb-field-setting{
+    width: 100%;
+    margin: 5px;
+}
+
+.wpb-field-setting-title{
+    width: 200px;
+    font-size: 14px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.wpb-odd-row{
+    background-color: rgba(158, 158, 158, 0.08);
+}
+
+.wpb_tabs_content{
+    padding:15px 18px;
+}
+
+.wpb-add-new, 
+.wpb-add-set-wrapper .wpb_settings.wpb_tabs_content h1{
+    margin-bottom: 18px;
+}
+.wpb_error{
+    color: red;
+}
+
+.wpb-add-set-wrapper .wpb-add-new a.add-new-h2 {
+    margin-left: 0;
+}
+
+.wpb-add-set-wrapper .wpb-banner{
+    height: auto;
+    background-color: #AB0808;
+    color:#ffffff;
+    min-height: 100%;
+    padding:15px 10px;
+}
+
+#wp-wpb-popup-content-editor-container {
+    background:none;
+}
+
+.wpb-add-set-wrapper .wpb-panel .wpb-boards-wrapper .wpb-banner .wpb-social-wrap {
+    float:right;
+    margin-top: -43px;
+}
+
+.wpb-add-set-wrapper .wpb-panel .wpb-boards-wrapper .wpb-banner .wpb-social-wrap p {
+    margin:25px 0 5px 0;
+}
+
+.wpb-add-set-wrapper .wpb-panel .wpb-boards-wrapper .wpb-banner .wpb_main_heading{
+    color:#ffffff;
+    text-align: center;
+    margin:15px 0;
+    font-size: 26px;
+}
+
+.wpb-add-set-wrapper .wpb-panel .wpb-boards-wrapper .wpb-banner .wpb-version {
+    background-color:#AB0808;
+    color:#ffffff;
+    padding: 2px 6px;
+    font-weight:700;
+    text-align: center;
+}
+
+.wpb-page-header h2{
+    text-transform:uppercase;
+    font-size:24px;
+}
+
+.wpb-general-options #wpb_form .wpb-general-settings.wpb-input-field .wpb-input-field, 
+.wpb-general-options #wpb_form .wpb-display-settings.wpb-input-field .wpb-input-field {
+    display: inline-block;
+    width: 79%;
+    margin-bottom: 15px;
+    margin-left: 1%;
+}
+
+.wpb-general-options #wpb_form .wpb-image-type, 
+.wpb-general-options #wpb_form > .wpb-option-field, 
+.wpb-general-options #wpb_form .wpb-general-settings.wpb-input-field, 
+.wpb-general-options #wpb_form .wpb-display-settings.wpb-input-field{
+    display: inline-block;
+    width: 100%;
+}
+
+.wpb-general-options form input[type=text], 
+.wpb-general-options select, 
+.wpb-general-options form input[type=number],.wpb-general-options textarea {
+    width:30%;
+}
+
+.wpb-add-set-wrapper form input, 
+.wpb-add-set-wrapper select, 
+.wpb-setting-input-field {
+    display:inline-block;
+}
+
+.wpb-general-options input[type=radio], 
+.wpb-general-options input[type=button]{
+    width: initial;
+}
+
+.wpb-general-options .wpb-save-button {
+    min-width: 12%;
+    margin-right: 5px;
+}
+
+.wpb-general-options #wpb-preview {
+    min-width: 12%;
+    background: #0085ba;
+    border-width:1px;
+    border-color: #0073aa #006799 #006799;
+    -webkit-box-shadow: 0 1px 0 #006799;
+    box-shadow: 0 1px 0 #006799;
+    color:#ffffff;
+}
+
+.wpb-general-options #wpb-preview:hover {
+    background:#008ec2;
+    color:#ffffff;
+    min-width:12%;
+    border-color: #006799;
+    -webkit-box-shadow: 0 1px 0 #006799;
+    box-shadow: 0 1px 0 #006799;
+    border-width: 1px;
+}
+
+.wpb-general-options #wpb_form .wpb-general-settings.wpb-input-field label, 
+.wpb-general-options #wpb_form .wpb-display-settings.wpb-input-field label {
+    width:19%;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 14px;
+    font-weight:700;
+}
+#wpb_setting_form .wpb-field-setting label {
+    width:24%;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 14px;
+}
+
+.wpb-add-set-wrapper .wpb-panel .wpb-manage-header .nav-tab-wrapper a:focus{
+    outline: none;
+    box-shadow: none;
+}
+
+.wpb-add-set-wrapper .wpb-panel .wpb-manage-header .wpb-boards-wrapper .nav-tab-wrapper {
+    margin-top: 20px;
+}
+
+#wpbody-content .wpb-add-set-wrapper .wpb-panel .wpb_tab_content_holder {
+    padding-top: 18px;
+}
+
+.wpb-add-set-wrapper .wpb-general-options .wpb-input-field #btn_yes, 
+.wpb-add-set-wrapper .wpb-general-options .wpb-input-field #btn_no {
+    margin-bottom: 0;
+}
+
+.wpb-input-field .wp-picker-container .wp-color-result:after {
+    height: 20px;
+}
+
+.wpb-add-set-wrapper .wpb-panel .wpb-boards-wrapper .wpb_tab_content_holder .wbp-tab-title {
+    margin:5px 7px 20px 7px;
+    font-size: 20px;
+}
+
+.wpb-add-set-wrapper .wpb-panel .wpb-boards-wrapper .wpb_manage_popups.wpb_tabs_content .wpb-general-options h3 {
+    margin-bottom: 30px;
+    margin-top: 0;
+}
+
+.wpb-add-set-wrapper .wpb-boards-wrapper .wbp-left-section-wrapper .notice.is-dismissible {
+    margin-bottom:0;
+    padding:8px 38px 8px 12px;
+    margin-top:20px;
+}
+
+.wpb-add-set-wrapper .wpb-panel .wpb-boards-wrapper .wpb_manage_popups .nav-tab-wrapper {
+    margin-top: 30px;
+    padding:0;
+    border-bottom:none;
+}
+
+/*----------popup-banner--------*/
+
+input.upload_image_button.button.button-primary {
+    margin-top: 0;
+}
+
+/*about us section*/
+
+.about-desc-wrap {
+    float: left;
+    width: 65%;
+}
+
+.about-img-wrap {
+    float: right;
+    width: 35%;
+}
+
+.about-pinterest-wrapper {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.about-title {
+    background: none;
+    border: medium none;
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    padding: 0;
+}
+
+.about-content {
+    color: #141414;
+    font-size: 13px;
+    line-height: 24px;
+}
+
+.about-desc-wrap {
+    padding: 0;
+    width: 100%;
+}
+
+.about-img-wrap img {
+    border: 5px solid #ededed;
+}
+
+.about-title > span {
+    color: #7b7b7b;
+    font-size: 18px;
+}
+
+.more-title {
+    background: none repeat scroll 0 0 #f1f1f1;
+    color: #141414;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 47px;
+    text-align: center;
+    width: 100%;
+}
+
+.more-product > li {
+    float: left;
+    text-align: center;
+    width: 208px;
+    margin: 0px 7% 40px 7%;
+}
+
+.more-product > li a{
+    text-decoration: none;
+}
+
+.prod-title {
+    color: #141414;
+    display: block;
+    font-size: 19px;
+    font-weight: 700;
+    line-height: 26px;
+    margin: 20px auto;
+    text-decoration: none;
+    width: 40%;
+}
+
+.about-social > li {
+    float: left;
+    text-align: center;
+    width: 16.66%;
+}
+
+.about-social .fa {
+    color: #ffffff;
+    display: block;
+    font-size: 35px;
+    font-weight: 400;
+    height: 50px;
+    line-height: 50px;
+    margin: 0 auto;
+    -webkit-transition: background 0.5s ease 0s;
+    -moz-transition: background 0.5s ease 0s;
+    -ms-transition: background 0.5s ease 0s;
+    transition: background 0.5s ease 0s;
+    width: 50px;
+}
+
+.about-social a{
+    display: block;
+    text-decoration: none;
+}
+
+.about-social .fb .fa{
+    background: #3d5c99; 
+}
+
+.about-social .twt .fa{
+    background: #2aa8dd; 
+}
+
+.about-social .gp .fa{
+    background: #cc3838; 
+}
+
+.about-social .utube .fa{
+    background: #cc3535; 
+}
+
+.about-social .skype .fa{
+    background: #1eb2ef; 
+}
+
+.about-social .pin .fa{
+    background: #c8232f; 
+}
+
+.about-social .fb .fa:hover{
+    background: #354e80; 
+}
+
+.about-social .twt .fa:hover{
+    background: #2593c3; 
+}
+
+.about-social .gp .fa:hover{
+    background: #9f3535; 
+}
+
+.about-social .utube .fa:hover{
+    background: #b03434; 
+}
+
+.about-social .skype .fa:hover{
+    background: #118dc0; 
+}
+
+.about-social .pin .fa:hover{
+    background: #a6212b; 
+}
+
+
+.about-social span {
+    color: #141414;
+    display: block;
+    font-size: 15px;
+    line-height: 10px;
+    margin: 10px 0;
+}
+
+.about-social span .bold {
+    display: block;
+    font-weight: 700;
+}
+
+.save-seting {
+    padding: 0 20px 10px;
+}
+
+.social-iframe {
+    padding: 20px;
+}
+
+.social-iframe iframe {
+    width: 100% !important;
+}
+
+.demo-link{
+    margin-bottom: 10px;
+}
+
+.about-content > ul {
+    list-style: outside none disc;
+    margin: 0 0 20px;
+    padding-left: 30px;
+}
+.clearfix:after {
+    content: ".";
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+    display: block;
+}
+.about-content li {
+    width: 210px;
+    background-color: #eee;
+    padding: 10px;
+    font-size: 14px;
+}
+
+/** Upgrade Section **/
+.intro ul {
+    list-style: disc;
+    padding-left: 40px;
+}
+div#wpb-section-upgrade h3 {
+    background-color: #3B5998;
+    color: white;
+    padding: 10px;
+}
+.intro p i {
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    background-color: #3B5998;
+    color: white;
+    padding: 5px 10px;
+    width: 100%;
+    display: inline-block;
+}
+a.upgrade-action-btn {
+    background-color: #3B5998;
+    color: white;
+    border: 2px solid #FFF;
+    padding: 5px 20px;
+    text-decoration: none;
+    margin: 0 20px;
+    font-size: 16px;
+}
+.upgrade-actions {
+    margin: 40px 0;
+}
+a.upgrade-action-btn:hover {
+    color: #3B5998;
+    background-color: #fff;
+    border-color: #3B5998;
+}
+ul.price-wrap {
+    font-size: 16px;
+    line-height: 30px;
+}
+
+.wpb-input-field-wrap {
+    margin-bottom: 15px;
+}
+.wpb-author-detail a {
+    font-size: 14px;
+    display: block;
+    margin-top: 12px;
+    color: #fff;
+    text-decoration: none;
+}
+.wpb-author-detail a:focus{box-shadow:0 0 0 0;}
+
+.wpb-group a {
+    background: #fff;
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.wpb-group{
+    margin: 15px 15px 20px 0px;
+}

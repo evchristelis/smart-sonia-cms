@@ -1,0 +1,905 @@
+# Translation of Plugins - Code Snippets - Development (trunk) in Danish
+# This file is distributed under the same license as the Plugins - Code Snippets - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-10-16 21:17:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: da_DK\n"
+"Project-Id-Version: Plugins - Code Snippets - Development (trunk)\n"
+
+#: code-snippets.php:47
+msgid "Another version of Code Snippets appears to be installed. Deactivating this version."
+msgstr "En anden version af Code Snippets, synes at være installerede. Deaktivere denne version."
+
+#: php/admin-menus/class-edit-menu.php:525
+msgid "RTL"
+msgstr "RTL"
+
+#: php/admin-menus/class-edit-menu.php:524
+msgid "LTR"
+msgstr "LTR"
+
+#: php/admin-menus/class-edit-menu.php:521
+msgid "Code Direction"
+msgstr "Kode retning"
+
+#: php/admin-menus/class-manage-menu.php:150
+msgid "An error occurred when attempting to activate"
+msgstr "Der opstod en fejl under aktiveringen"
+
+#. translators: 1: date format, 2: time format
+#: php/class-snippet.php:625
+msgctxt "date and time format"
+msgid "%1$s \\a\\t %2$s"
+msgstr "%1$s \\a\\t %2$s"
+
+#. translators: %s: Human-readable time difference.
+#: php/class-snippet.php:615
+msgid "%s ago"
+msgstr "%s siden"
+
+#. translators: %s: PHP identifier name
+#: php/class-validator.php:215
+msgid "Cannot redeclare %s."
+msgstr "Kan ikke generklære %s."
+
+#. translators: %s: PHP interface name
+#: php/class-validator.php:211
+msgid "Cannot redeclare interface %s."
+msgstr "Kan ikke generklære interface %s."
+
+#. translators: %s: PHP class name
+#: php/class-validator.php:207
+msgid "Cannot redeclare class %s."
+msgstr "Kan ikke generklære class %s."
+
+#. translators: %s: PHP function name
+#: php/class-validator.php:203
+msgid "Cannot redeclare function %s."
+msgstr "Kan ikke generklære function %s."
+
+#: php/class-snippet.php:617
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+#. translators: 1: search query, 2: line number
+#: php/class-list-table.php:1235
+msgid " for &ldquo;%1$s&rdquo; on line %2$d"
+msgstr " for &ldquo;%1$s&rdquo; i linje %2$d"
+
+#: php/class-validator.php:253
+msgid "Parse error: syntax error, unexpected end of snippet"
+msgstr "Analysefejl: syntaks fejl, uventet afslutning af kode"
+
+#: php/class-validator.php:190
+msgid "Parse error: syntax error, unexpected end of snippet."
+msgstr "Analysefejl: syntaks fejl, uventet afslutning af kode."
+
+#: php/class-list-table.php:413
+msgid "Modified"
+msgstr "Ændret"
+
+#. Author of the plugin
+msgid "Code Snippets Pro"
+msgstr "Code Snippets Pro"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://codesnippets.pro"
+msgstr "https://codesnippets.pro"
+
+#: php/admin-menus/class-edit-menu.php:477
+#: php/admin-menus/class-edit-menu.php:722
+msgid "Save Changes"
+msgstr "Gem ændringer"
+
+#: php/admin-menus/class-edit-menu.php:478
+msgid "Save Snippet"
+msgstr "Gem kodestykke"
+
+#: php/admin-menus/class-edit-menu.php:485
+msgid "Execute Once"
+msgstr "Udfør straks"
+
+#: php/admin-menus/class-edit-menu.php:494
+msgid "Save Snippet and Deactivate"
+msgstr "Gem kodestykke og deaktiver"
+
+#: php/admin-menus/class-edit-menu.php:500
+msgid "Save Snippet and Activate"
+msgstr "Gem kodestykke og aktiver"
+
+#: php/views/partials/editor-shortcuts.php:22
+msgid "Save changes"
+msgstr "Gem ændringer"
+
+#: php/class-list-table.php:863
+msgid "No snippets were found matching the current search query. Please enter a new query or use the \"Clear Filters\" button above."
+msgstr "Der blev ikke fundet kodestykker, der matcher din søgning. Prøv med en ny søgning eller tryk på knappen \"Ryd Filtre\" nedenfor."
+
+#: php/admin-menus/class-edit-menu.php:486
+msgid "Save Snippet and Execute Once"
+msgstr "Gem kodestykke og udfør straks"
+
+#: php/admin-menus/class-edit-menu.php:828
+msgctxt "keyboard key"
+msgid "S"
+msgstr "S-tasten"
+
+#: php/admin-menus/class-edit-menu.php:27
+msgctxt "menu label"
+msgid "Edit Snippet"
+msgstr "Rediger kodestykke"
+
+#: php/views/partials/editor-shortcuts.php:17
+msgctxt "help tooltip"
+msgid "?"
+msgstr "?"
+
+#: php/views/partials/editor-shortcuts.php:26
+msgid "Begin searching"
+msgstr "Begynd søgning"
+
+#: php/views/partials/editor-shortcuts.php:30
+msgid "Find next"
+msgstr "Find næste"
+
+#: php/views/partials/editor-shortcuts.php:34
+msgid "Find previous"
+msgstr "Find forrige"
+
+#: php/views/partials/editor-shortcuts.php:38
+msgid "Replace"
+msgstr "Erstat"
+
+#: php/views/partials/editor-shortcuts.php:42
+msgid "Replace all"
+msgstr "Erstat alle"
+
+#: php/views/partials/editor-shortcuts.php:46
+msgid "Persistent search"
+msgstr "Vedvarende søgning"
+
+#: php/admin-menus/class-edit-menu.php:823
+msgctxt "keyboard key"
+msgid "Option"
+msgstr "Mulighed"
+
+#: php/admin-menus/class-edit-menu.php:820
+msgctxt "keyboard key"
+msgid "Cmd"
+msgstr "Cmd-tasten"
+
+#: php/admin-menus/class-edit-menu.php:821
+msgctxt "keyboard key"
+msgid "Ctrl"
+msgstr "Ctrl-tasten"
+
+#: php/admin-menus/class-edit-menu.php:822
+msgctxt "keyboard key"
+msgid "Shift"
+msgstr "Shift-tasten"
+
+#: php/admin-menus/class-edit-menu.php:824
+msgctxt "keyboard key"
+msgid "Alt"
+msgstr "Alt-tasten"
+
+#: php/admin-menus/class-edit-menu.php:825
+msgctxt "keyboard key"
+msgid "F"
+msgstr "F-tasten"
+
+#: php/admin-menus/class-edit-menu.php:826
+msgctxt "keyboard key"
+msgid "G"
+msgstr "G-tasten"
+
+#: php/admin-menus/class-edit-menu.php:827
+msgctxt "keyboard key"
+msgid "R"
+msgstr "R-tasten"
+
+#: php/admin-menus/class-admin-menu.php:222
+msgctxt "snippets"
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: php/admin-menus/class-admin-menu.php:213
+#: php/admin-menus/class-settings-menu.php:131
+msgctxt "snippets"
+msgid "Manage"
+msgstr "Administrer"
+
+#: php/admin-menus/class-manage-menu.php:97
+msgctxt "tools submenu label"
+msgid "Snippets"
+msgstr "Snippets"
+
+#. translators: %s: tag name
+#: php/class-list-table.php:1251
+msgid " in tag &ldquo;%s&rdquo;"
+msgstr " i tagget &ldquo;%s&rdquo;"
+
+#. translators: %s: search query
+#: php/class-list-table.php:1244
+msgid " for &ldquo;%s&rdquo;"
+msgstr " for &ldquo;%s&rdquo;"
+
+#: php/admin-menus/class-admin-menu.php:219
+msgctxt "snippets"
+msgid "Import"
+msgstr "Importer"
+
+#: php/views/import.php:84
+msgid "Upload Files"
+msgstr "Upload filer"
+
+#: php/admin-menus/class-edit-menu.php:439
+msgid "Snippets with a lower priority number will run before those with a higher number."
+msgstr "Kodestykker med lavere prioritetsnummer vil udføres før dem med et højere nummer."
+
+#: php/admin-menus/class-manage-menu.php:176
+msgid "Snippet <strong>cloned</strong>."
+msgstr "Kodestykke <strong>er klonet</strong>."
+
+#: php/class-list-table.php:241 php/class-list-table.php:465
+msgid "Clone"
+msgstr "Klon"
+
+#: php/class-list-table.php:869
+msgid "It looks like you don't have any snippets."
+msgstr "Det ser ud til, at du ikke har nogen kodestykker."
+
+#: php/admin-menus/class-manage-menu.php:177
+msgid "Selected snippets <strong>cloned</strong>."
+msgstr "Det valgte kodestykke blev<strong>klonet</strong>."
+
+#: php/admin-menus/class-edit-menu.php:440 php/class-list-table.php:414
+#: php/settings/settings-fields.php:77
+msgid "Priority"
+msgstr "Prioritet"
+
+#: php/admin-menus/class-settings-menu.php:47
+msgid "All settings have been reset to their defaults."
+msgstr "Alle indstillinger er blevet nulstillet til standard indstillingerne."
+
+#: php/admin-menus/class-settings-menu.php:162
+msgid "Reset to Default"
+msgstr "Nulstil til standard"
+
+#: php/settings/settings-fields.php:94
+msgid "Complete Uninstall"
+msgstr "Komplet afinstallering"
+
+#: php/views/import.php:55
+msgid "Duplicate Snippets"
+msgstr "Dublerende kodestykker"
+
+#: php/admin-menus/class-import-menu.php:137
+msgid "No snippets were imported."
+msgstr "Ingen kodestykker blev importeret."
+
+#: php/views/partials/edit-scopes.php:26
+msgid "Only run once"
+msgstr "Udfør kun en gang"
+
+#: php/admin-menus/class-edit-menu.php:617
+msgid "Snippet <strong>added</strong> and <strong>executed</strong>."
+msgstr "Kodestykke <strong>tilføjet</strong> og <strong>aktiveret</strong>."
+
+#: php/admin-menus/class-manage-menu.php:169
+msgid "Snippet <strong>executed</strong>."
+msgstr "Kodestykke <strong>er aktiveret</strong>."
+
+#: php/class-admin.php:78
+msgid "Snippets &raquo; Settings"
+msgstr "Kodestykke &raquo; indstillinger"
+
+#: php/class-list-table.php:282
+msgid "Run Once"
+msgstr "Udfør en gang"
+
+#: php/admin-menus/class-edit-menu.php:745 php/class-list-table.php:466
+msgid "Download"
+msgstr "Download"
+
+#: php/admin-menus/class-edit-menu.php:725
+msgid "Save Changes and Execute Once"
+msgstr "Gem ændringerne og udfør en gang"
+
+#: php/views/import.php:87
+msgid "Choose one or more Code Snippets (.xml or .json) files to upload, then click \"Upload files and import\"."
+msgstr "Vælg et eller flere kodestykker (. XML-eller. JSON-filer), der skal uploades, og klik derefter på \"upload filer og importer\"."
+
+#: php/views/import.php:58
+msgid "What should happen if an existing snippet is found with an identical name to an imported snippet?"
+msgstr "Hvad skal der ske hvis et eksisterende kodestykke bliver fundet med et identisk navn i et importeret kodestykke?"
+
+#: php/views/import.php:65
+msgid "Ignore any duplicate snippets: import all snippets from the file regardless and leave all existing snippets unchanged."
+msgstr "Ignorer alle dublerede kodestykker: importer alle kodestykker fra filen uanset, og efterlad alle eksisterende kodestykker uændret."
+
+#: php/views/import.php:79
+msgid "Do not import any duplicate snippets; leave all existing snippets unchanged."
+msgstr "Importer ikke dublerede kodestykker; efterlad alle eksisterende kodestykker uændret."
+
+#: php/views/import.php:72
+msgid "Replace any existing snippets with a newly imported snippet of the same name."
+msgstr "Erstat alle eksisterende kodestykker med nye importeret kodestykker med samme navn."
+
+#: php/views/import.php:38
+msgid "Upload one or more Code Snippets export files and the snippets will be imported."
+msgstr "Upload en eller flere kodestykke-eksport filer og kodestykkerne vil blive importeret."
+
+#: php/admin-menus/class-edit-menu.php:458
+msgid "Sharing Settings"
+msgstr "Delings indstillinger"
+
+#: php/class-list-table.php:878
+msgid "Perhaps you would like to add a new one?"
+msgstr "Måske vil du gerne tilføje en ny?"
+
+#: php/class-list-table.php:234
+msgid "Network Only"
+msgstr "Kun netværk"
+
+#: php/class-list-table.php:232
+msgid "Network Active"
+msgstr "Netværks aktiv"
+
+#: php/views/edit.php:75
+msgid "Enter title here"
+msgstr "Skriv titel her"
+
+#: php/admin-menus/class-edit-menu.php:778 php/class-list-table.php:257
+msgid "'Cancel' to stop, 'OK' to delete."
+msgstr "'Annullér' for at stoppe, 'OK' for at slette."
+
+#: php/admin-menus/class-manage-menu.php:27
+msgctxt "menu label"
+msgid "All Snippets"
+msgstr "Alle kodestykker"
+
+#: php/admin-menus/class-edit-menu.php:54
+msgctxt "menu label"
+msgid "Add New"
+msgstr "Tilføj ny"
+
+#: php/admin-menus/class-settings-menu.php:25
+msgctxt "menu label"
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: php/admin-menus/class-edit-menu.php:777
+msgid "You are about to permanently delete this snippet."
+msgstr "Du er ved permanent, at slette dette kodestykke."
+
+#: php/class-list-table.php:256
+msgid "You are about to permanently delete the selected item."
+msgstr "Du er ved permanent, at slette det valgte element."
+
+#: php/admin-menus/class-import-menu.php:19
+msgctxt "menu label"
+msgid "Import"
+msgstr "Importer"
+
+#: php/admin-menus/class-manage-menu.php:55
+msgctxt "top-level menu label"
+msgid "Snippets"
+msgstr "Snippets"
+
+#: php/class-admin.php:311
+msgid "Dismiss"
+msgstr "Afvis"
+
+#: php/settings/settings-fields.php:87
+msgid "Disable Shortcode Syntax Highlighter"
+msgstr "Deaktiver fremhævning af kortkode syntaks"
+
+#: php/class-contextual-help.php:62
+msgid "Plugin Website"
+msgstr "Plugin website"
+
+#: php/admin-menus/class-edit-menu.php:599
+msgid "The snippet has been deactivated due to an error in the code."
+msgstr "Kodestykket er blevet deaktiveret på grund af en fejl i koden."
+
+#. translators: %d: line of file where error originated
+#: php/admin-menus/class-edit-menu.php:589
+msgid "The snippet has been deactivated due to an error on line %d:"
+msgstr "Kodestykket er blevet deaktiveret på grund af en fejl på linje %d:"
+
+#: php/admin-menus/class-edit-menu.php:228
+msgid "If you prefer, you can close this page and discard the changes you just made. No changes will be made to this site."
+msgstr "Hvis du foretrækker, kan du lukke denne side og forkaste de ændringer, du netop har lavet. Ingen ændringer vil blive foretaget."
+
+#: php/admin-menus/class-edit-menu.php:226
+msgid "The previous version of the snippet is unchanged, and the rest of this site should be functioning normally as before."
+msgstr "Den tidligere version af kodestykket er uændret, og resten af dette websted bør fungere normalt som før."
+
+#: php/admin-menus/class-edit-menu.php:222
+msgid "Don't Panic"
+msgstr "Tag det roligt"
+
+#: php/admin-menus/class-edit-menu.php:227
+msgid "Please use the back button in your browser to return to the previous page and try to fix the code error."
+msgstr "Brug tilbage knappen i din browser til at vende tilbage til den forrige side for at rette kode fejlen."
+
+#. translators: %d: line where error was produced
+#: php/admin-menus/class-edit-menu.php:224
+msgid "The code snippet you are trying to save produced a fatal error on line %d:"
+msgstr "Det kodestykke, du forsøger at gemme generede en fatal fejl på linje %d:"
+
+#: php/admin-menus/class-edit-menu.php:749 php/class-list-table.php:251
+#: php/class-list-table.php:468
+msgid "Delete"
+msgstr "Slet"
+
+#: php/settings/settings-fields.php:135
+msgid "Theme"
+msgstr "Tema"
+
+#: php/class-list-table.php:409 php/views/edit.php:72
+msgid "Name"
+msgstr "Navn"
+
+#: php/settings/settings.php:143
+msgid "General"
+msgstr "Generelt"
+
+#: php/class-list-table.php:624
+msgid "Filter"
+msgstr "Filtrer"
+
+#: php/admin-menus/class-settings-menu.php:127 php/class-admin.php:141
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: php/admin-menus/class-edit-menu.php:730
+msgid "Save Changes and Deactivate"
+msgstr "Gem ændringer og deaktiver"
+
+#: php/admin-menus/class-edit-menu.php:732
+msgid "Save Changes and Activate"
+msgstr "Gem ændringer og aktiver"
+
+#: php/views/edit.php:86
+msgid "Code"
+msgstr "Kode"
+
+#: php/admin-menus/class-admin-menu.php:216
+#: php/admin-menus/class-settings-menu.php:132 php/views/edit.php:39
+msgctxt "snippet"
+msgid "Add New"
+msgstr "Tilføj ny"
+
+#: php/admin-menus/class-settings-menu.php:229 php/settings/settings.php:283
+msgid "Settings saved."
+msgstr "Indstillinger gemt."
+
+#: php/settings/settings.php:197
+msgid "Editor Preview"
+msgstr "Editor forhåndsvisning"
+
+#: php/settings/settings-fields.php:194
+msgid "Highlight all instances of a currently selected word."
+msgstr "Fremhæv alle forekomster af et aktuelt valgt ord."
+
+#: php/settings/settings-fields.php:169
+msgid "Wrap Lines"
+msgstr "Ombryd linjer"
+
+#: php/settings/settings-fields.php:162
+msgid "How many spaces a block should be indented."
+msgstr "Hvor mange mellemrum en blok skal være indrykket."
+
+#: php/settings/settings-fields.php:160
+msgid "Indent Unit"
+msgstr "Indryk enhed"
+
+#: php/settings/settings-fields.php:151
+msgid "Tab Size"
+msgstr "Tabulator størrelse"
+
+#: php/settings/settings-fields.php:145
+msgid "Use hard tabs (not spaces) for indentation."
+msgstr "Brug tabulator tasten (ikke mellemrum) til indrykning."
+
+#: php/settings/settings-fields.php:143
+msgid "Indent With Tabs"
+msgstr "Indryk med tabulator tasten"
+
+#: php/settings/settings-fields.php:124
+msgid "Media Buttons"
+msgstr "Medier knapper"
+
+#: php/settings/settings-fields.php:111
+msgid "rows"
+msgstr "rækker"
+
+#: php/settings/settings-fields.php:54
+msgid "Make the 'Save and Activate' button the default action when saving a snippet."
+msgstr "Gør knappen 'Gem og Aktivere' til standard handling når et kodestykke gemmes."
+
+#: php/class-contextual-help.php:183
+msgid "Exporting"
+msgstr "Eksporterer"
+
+#: php/class-contextual-help.php:175
+msgid "Importing"
+msgstr "Importerer"
+
+#: php/class-contextual-help.php:152
+msgid "Adding Snippets"
+msgstr "Tilføjelse af kodestykker"
+
+#: php/class-contextual-help.php:128
+msgid "Be sure to check your snippets for errors before you activate them, as a faulty snippet could bring your whole blog down. If your site starts doing strange things, deactivate all your snippets and activate them one at a time."
+msgstr "Sørg for at kontrollere dine kodestykker for fejl, før du aktiverer dem, da en fejlbehæftet kode kan bringe hele din blog ned. Hvis dit websted begynder at gøre mærkelige ting, skal du deaktivere alle dine kodestykker og aktivere dem en ad gangen."
+
+#: php/class-contextual-help.php:119 php/class-contextual-help.php:142
+#: php/class-contextual-help.php:168
+msgid "Overview"
+msgstr "Overblik"
+
+#: php/class-contextual-help.php:65
+msgid "For more information:"
+msgstr "For mere information:"
+
+#: php/class-list-table.php:1260
+msgid "Clear Filters"
+msgstr "Ryd filtrer"
+
+#: php/class-list-table.php:1227
+msgid "Search results"
+msgstr "Søgeresultater"
+
+#: php/class-list-table.php:632
+msgid "Clear List"
+msgstr "Ryd liste"
+
+#: php/class-list-table.php:609
+msgid "Show all tags"
+msgstr "Vis alle tags"
+
+#. translators: %s: total number of snippets
+#: php/class-list-table.php:510
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Alle <span class=\"count\">(%s)</span>"
+msgstr[1] "Alle <span class=\"count\">(%s)</span>"
+
+#: php/class-list-table.php:415
+msgid "ID"
+msgstr "ID"
+
+#. translators: %d: snippet ID
+#: php/class-snippet.php:440
+msgid "Untitled #%d"
+msgstr "Unavngiven #%d"
+
+#: php/admin-menus/class-edit-menu.php:748 php/class-list-table.php:242
+#: php/class-list-table.php:467
+msgid "Export"
+msgstr "Eksporter"
+
+#: php/class-list-table.php:240
+msgid "Edit"
+msgstr "Rediger"
+
+#: php/class-list-table.php:84
+msgid "Snippets per page"
+msgstr "Kodestykker pr. side"
+
+#: php/class-admin.php:307
+msgid "Take the survey now"
+msgstr "Tag spørge undersøgelsen nu"
+
+#: php/class-admin.php:300
+msgid "<strong>Have feedback on Code Snippets?</strong> Please take the time to answer a short survey on how you use this plugin and what you'd like to see changed or added in the future."
+msgstr "<strong>Har du feedback på Code Snippets?</strong> Tag dig tid til at besvare en kort undersøgelse af, hvordan du bruger dette plugin og hvad du gerne vil se ændret eller tilføjet i fremtiden."
+
+#: php/class-admin.php:191
+msgid "Support"
+msgstr "Support"
+
+#: php/class-admin.php:185
+msgid "About"
+msgstr "Om"
+
+#: php/class-admin.php:150
+msgid "Manage your existing snippets"
+msgstr "Administrer dine eksisterende kodestykker"
+
+#: php/admin-menus/class-settings-menu.php:26
+msgid "Snippets Settings"
+msgstr "Kodestykke indstillinger"
+
+#: php/admin-menus/class-manage-menu.php:174
+msgid "Snippet <strong>deleted</strong>."
+msgstr "Kodestykke <strong>slettet</strong>."
+
+#: php/class-list-table.php:287 php/class-list-table.php:463
+msgid "Network Activate"
+msgstr "Netværks aktiveret"
+
+#: php/class-list-table.php:287 php/class-list-table.php:464
+msgid "Network Deactivate"
+msgstr "Netværks deaktiveret"
+
+#: php/settings/settings-fields.php:185
+msgid "Auto Close Brackets"
+msgstr "Luk automatisk parenteser"
+
+#: php/settings/settings-fields.php:187
+msgid "Auto-close brackets and quotes when typed."
+msgstr "Lukker automatisk parenteser og citater, når de er skrevet."
+
+#: php/class-contextual-help.php:60
+msgid "FAQ"
+msgstr "Ofte stillede spørgsmål"
+
+#: php/views/import.php:92
+msgid "Choose files from your computer:"
+msgstr "Vælg filer fra din computer:"
+
+#: php/class-contextual-help.php:61
+msgid "Support Forum"
+msgstr "Support forum"
+
+#. translators: %s: URL to Snippets admin menu
+#: php/class-contextual-help.php:178
+msgid "Imported snippets will be added to the database along with your existing snippets. Regardless of whether the snippets were active on the previous site, imported snippets are always inactive until activated using the <a href=\"%s\">Manage Snippets</a> page."
+msgstr "Importerede kodestykker vil tilføjes databasen sammen med dine eksisterende kodestykker. Uanset om kodestykkerne er aktiveret på det forrige websted, vil importerede kodestykker altid være deaktiveret indtil de aktiveres ved hjælp af <a href=\"%s\">Administrer Kodestykker</a> siden."
+
+#. translators: %s: URL to Manage Snippets admin menu
+#: php/class-contextual-help.php:185
+msgid "You can save your snippets to a code snippets export file using the <a href=\"%s\">Manage Snippets</a> page."
+msgstr "Du kan gemme dine kodestykker i en kodestykke fil som kan eksporteres fra <a href=\"%s\">Administrer Kodestykker</a> siden."
+
+#. translators: %s: size in bytes
+#: php/views/import.php:95
+msgid "(Maximum size: %s)"
+msgstr "(Maksimal størrelse: %s)"
+
+#: php/settings/settings-fields.php:66
+msgid "Enable Snippet Descriptions"
+msgstr "Aktiver beskrivelse af kodestykke"
+
+#: php/settings/settings-fields.php:59
+msgid "Enable Snippet Tags"
+msgstr "Aktiver tags til kodestykker"
+
+#: php/settings/settings-fields.php:52
+msgid "Activate by Default"
+msgstr "Aktiver som standard"
+
+#: php/settings/settings.php:144
+msgid "Description Editor"
+msgstr "Editor beskrivelse"
+
+#: php/settings/settings-fields.php:153
+msgid "The width of a tab character."
+msgstr "Længde på et tabulatortegn."
+
+#: php/class-list-table.php:333
+msgid "Shared on Network"
+msgstr "Delt på netværk"
+
+#: php/class-contextual-help.php:176
+msgid "You can load your snippets from a code snippets export file using this page."
+msgstr "Du kan indlæse dine kodestykker fra en eksportfil på denne side."
+
+#: php/class-contextual-help.php:154
+msgid "You need to fill out the name and code fields for your snippet to be added. While the description field will add more information about how your snippet works, what is does and where you found it, it is completely optional."
+msgstr "Du skal udfylde navn og kodefelter for din kode som skal tilføjes. Selvom beskrivelse feltet vil tilføje mere information om hvordan din kode fungere, hvad det gør og hvor du fandt det, er det helt valgfrit."
+
+#. Description of the plugin
+msgid "An easy, clean and simple way to run code snippets on your site. No need to edit to your theme's functions.php file again!"
+msgstr "En nem og enkelt måde, at tilføje kodestykker til din website. Du behøver ikke at redigere i dit temas functions.php fil igen!"
+
+#: php/class-contextual-help.php:59
+msgid "About Plugin"
+msgstr "Om plugin"
+
+#: php/settings/settings-fields.php:109
+msgid "Row Height"
+msgstr "Række højde"
+
+#: php/class-contextual-help.php:126
+msgid "Safe Mode"
+msgstr "Fejlsikret tilstand"
+
+#: php/admin-menus/class-manage-menu.php:173
+msgid "Selected snippets <strong>deactivated</strong>."
+msgstr "Det valgte kodestykke blev <strong>deaktiveret</strong>."
+
+#: php/admin-menus/class-manage-menu.php:175
+msgid "Selected snippets <strong>deleted</strong>."
+msgstr "Det valgte kodestykke blev <strong>slettet</strong>."
+
+#: php/settings/settings-fields.php:179
+msgid "Show line numbers to the left of the editor."
+msgstr "Vis linjenumre til venstre i editoren."
+
+#: php/settings/settings-fields.php:171
+msgid "Whether the editor should scroll or wrap for long lines."
+msgstr "Om editoren skal rulle eller ombryde ved lange linjer."
+
+#: php/settings/settings-fields.php:177
+msgid "Line Numbers"
+msgstr "Linje numre"
+
+#: php/settings/settings-fields.php:193
+msgid "Highlight Selection Matches"
+msgstr "Fremhæv ligheder mellem de valgte"
+
+#: php/settings/settings.php:145
+msgid "Code Editor"
+msgstr "Kode editor"
+
+#: php/views/import.php:106
+msgid "Upload files and import"
+msgstr "Upload filer og importere"
+
+#: php/admin-menus/class-edit-menu.php:499
+#: php/admin-menus/class-manage-menu.php:148 php/class-list-table.php:288
+#: php/class-list-table.php:463
+msgid "Activate"
+msgstr "Aktiver"
+
+#: php/admin-menus/class-edit-menu.php:493
+#: php/admin-menus/class-manage-menu.php:149 php/class-list-table.php:288
+#: php/class-list-table.php:464
+msgid "Deactivate"
+msgstr "Deaktiver"
+
+#. translators: %s: total number of inactive snippets
+#: php/class-list-table.php:526
+msgid "Inactive <span class=\"count\">(%s)</span>"
+msgid_plural "Inactive <span class=\"count\">(%s)</span>"
+msgstr[0] "Inaktiv <span class=\"count\">(%s)</span>"
+msgstr[1] "Inaktive <span class=\"count\">(%s)</span>"
+
+#: php/settings/settings-fields.php:117
+msgid "Use Full Editor"
+msgstr "Brug fuld editor"
+
+#. translators: %s: total number of active snippets
+#: php/class-list-table.php:518
+msgid "Active <span class=\"count\">(%s)</span>"
+msgid_plural "Active <span class=\"count\">(%s)</span>"
+msgstr[0] "Aktiv <span class=\"count\">(%s)</span>"
+msgstr[1] "Aktive <span class=\"count\">(%s)</span>"
+
+#. translators: %s: total number of recently activated snippets
+#: php/class-list-table.php:534
+msgid "Recently Active <span class=\"count\">(%s)</span>"
+msgid_plural "Recently Active <span class=\"count\">(%s)</span>"
+msgstr[0] "Senest aktiveret <span class=\"count\">(%s)</span>"
+msgstr[1] "Seneste aktiveret <span class=\"count\">(%s)</span>"
+
+#: php/class-contextual-help.php:155
+msgid "Please be sure to check that your snippet is valid PHP code and will not produce errors before adding it through this page. While doing so will not become active straight away, it will help to minimise the chance of a faulty snippet becoming active on your site."
+msgstr "Venligst for at kontrollere, at dit kodestykke er en gyldigt PHP-kode og ikke producerer fejl, før du tilføjer det via denne side. Når du gør dette, vil det ikke blive aktiveret med det samme, dette vil medvirke til at minimere risikoen for, at et defekt kodestykke bliver aktiveret på dit websted."
+
+#. translators: %s: link to snippets admin menu
+#: php/views/import.php:43
+msgid "Afterwards, you will need to visit the <a href=\"%s\">All Snippets</a> page to activate the imported snippets."
+msgstr "Herefter skal du gå til <a href=\"%s\">Alle kodestykker</a> siden for, at aktivere det importerede kodestykker."
+
+#: php/admin-menus/class-edit-menu.php:388 php/class-list-table.php:411
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: php/admin-menus/class-manage-menu.php:172
+msgid "Snippet <strong>deactivated</strong>."
+msgstr "Kodestykke <strong>deaktiveret</strong>."
+
+#: php/admin-menus/class-manage-menu.php:170
+msgid "Snippet <strong>activated</strong>."
+msgstr "Kodestykke <strong>aktiveret</strong>."
+
+#: php/admin-menus/class-manage-menu.php:28
+#: php/admin-menus/class-manage-menu.php:54
+#: php/admin-menus/class-manage-menu.php:96 php/class-admin.php:77
+#: php/class-admin.php:151 php/views/manage.php:28
+msgid "Snippets"
+msgstr "Kodestykker"
+
+#: php/admin-menus/class-import-menu.php:115
+msgid "Import snippets from a code snippets export file"
+msgstr "Importer kodestykke fra en kodestykke-eksportfil"
+
+#. Plugin Name of the plugin
+#: php/admin-menus/class-import-menu.php:114
+msgid "Code Snippets"
+msgstr "Code Snippets"
+
+#: php/admin-menus/class-import-menu.php:20 php/views/import.php:25
+msgid "Import Snippets"
+msgstr "Importer kodestykker"
+
+#: php/admin-menus/class-edit-menu.php:619
+msgid "Snippet <strong>updated</strong> and <strong>deactivated</strong>."
+msgstr "Kodestykke <strong>opdateret</strong> og <strong>deaktiveret</strong>."
+
+#: php/admin-menus/class-edit-menu.php:618
+msgid "Snippet <strong>updated</strong> and <strong>activated</strong>."
+msgstr "Kodestykke <strong>opdateret</strong> og <strong>aktiveret</strong>."
+
+#: php/admin-menus/class-edit-menu.php:616
+msgid "Snippet <strong>added</strong> and <strong>activated</strong>."
+msgstr "Kodestykke <strong>tilføjet</strong> og <strong>aktiveret</strong>."
+
+#: php/admin-menus/class-edit-menu.php:615
+msgid "Snippet <strong>updated</strong>."
+msgstr "Kodestykke <strong>opdateret</strong> ."
+
+#: php/admin-menus/class-edit-menu.php:614
+msgid "Snippet <strong>added</strong>."
+msgstr "Kodestykke <strong>tilføjet</strong>."
+
+#: php/admin-menus/class-edit-menu.php:462
+msgid "Allow this snippet to be activated on individual sites on the network"
+msgstr "Tillad, at dette kodestykke aktiveres på individuelle websteder på netværket"
+
+#: php/views/partials/edit-scopes.php:16
+msgid "Scope"
+msgstr "Omfang"
+
+#: php/views/partials/edit-scopes.php:25
+msgid "Only run on site front-end"
+msgstr "Udfør kun på webstedets front-end"
+
+#: php/views/partials/edit-scopes.php:24
+msgid "Only run in administration area"
+msgstr "Udfør kun på webstedets administrations side"
+
+#: php/views/partials/edit-scopes.php:23
+msgid "Run snippet everywhere"
+msgstr "Udfør kodestykke alle steder"
+
+#: php/admin-menus/class-edit-menu.php:422
+msgid "Enter a list of tags; separated by commas"
+msgstr "Indtast en liste med tags; adskilt af kommaer"
+
+#: php/admin-menus/class-edit-menu.php:417 php/class-list-table.php:412
+msgid "Tags"
+msgstr "Tags"
+
+#: php/admin-menus/class-edit-menu.php:28 php/views/edit.php:35
+msgid "Edit Snippet"
+msgstr "Rediger kodestykke"
+
+#: php/admin-menus/class-import-menu.php:127
+msgid "An error occurred when processing the import files."
+msgstr "Der opstod en fejl under behandling af importfilerne."
+
+#: php/admin-menus/class-edit-menu.php:608
+msgid "An error occurred when saving the snippet."
+msgstr "Der opstod en fejl under forsøget på at gemme kodestykket."
+
+#: php/admin-menus/class-edit-menu.php:55 php/views/edit.php:42
+msgid "Add New Snippet"
+msgstr "Tilføj nyt kodestykke"
+
+#: php/admin-menus/class-admin-menu.php:172
+msgid "You are not authorized to access this page."
+msgstr "Du har ikke adgangstilladelse til denne side."
+
+#: php/admin-menus/class-manage-menu.php:171
+msgid "Selected snippets <strong>activated</strong>."
+msgstr "Det valgte kodestykke blev <strong>aktiveret</strong>."
+
+#. translators: 1: amount of snippets imported, 2: link to Snippets menu
+#: php/admin-menus/class-import-menu.php:141
+msgid "Successfully imported <strong>%1$d</strong> snippet. <a href=\"%2$s\">Have fun!</a>"
+msgid_plural "Successfully imported <strong>%1$d</strong> snippets. <a href=\"%2$s\">Have fun!</a>"
+msgstr[0] "Importeret <strong>%1$d</strong> kodestykke, uden problemer. <a href=\"%2$s\">God fornøjelse!</a>"
+msgstr[1] "Importeret <strong>%1$d</strong> kodestykker, uden problemer. <a href=\"%2$s\">God fornøjelse!</a>"

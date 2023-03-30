@@ -1,0 +1,640 @@
+# Translation of Plugins - External Links &#8211; nofollow, noopener &amp; new window - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - External Links &#8211; nofollow, noopener &amp; new window - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-01-15 09:46:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - External Links &#8211; nofollow, noopener &amp; new window - Stable (latest release)\n"
+
+#: templates/partials/tab-contents/support.php:47
+msgid "Active Theme: "
+msgstr "使用中的佈景主題: "
+
+#: templates/partials/tab-contents/support.php:41
+msgid "WP URL: "
+msgstr "WordPress 網址: "
+
+#: templates/partials/tab-contents/support.php:59
+msgid " - "
+msgstr " - "
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:232
+msgid "Text size of the Exit Confirmation popup button."
+msgstr "請設定 [確認離開] 彈出式訊息按鈕文字大小。"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:225
+msgid "Text of the button that will cancel leaving website."
+msgstr "取消離開網站的按鈕文字。"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:200
+msgid "Background color of the Exit Confirmation popup title."
+msgstr "請選取 [確認離開] 彈出式訊息標題背景色彩。"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:193
+msgid "Background color of the Exit Confirmation popup."
+msgstr "請選取 [確認離開] 彈出式訊息背景色彩。"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:183
+msgid "Show transparent overlay behind popup"
+msgstr "在彈出式訊息下方顯示透明覆疊色彩"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:176
+msgid "Height of the Exit Confirmation popup. Leave empty for auto."
+msgstr "請設定 [確認離開] 彈出式訊息高度。欄位留空代表自動設定。"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:169
+msgid "Width of the Exit Confirmation popup."
+msgstr "請設定 [確認離開] 彈出式訊息寬度。"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:162
+msgid "Text size of the Exit Confirmation popup text."
+msgstr "請設定 [確認離開] 彈出式訊息內容文字大小。"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:155
+msgid "Text size of the Exit Confirmation popup title."
+msgstr "請設定 [確認離開] 彈出式訊息標題文字大小。"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:148
+msgid "Color of the Exit Confirmation popup title."
+msgstr "請選取 [確認離開] 彈出式訊息標題色彩。"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:141
+msgid "Color of the Exit Confirmation popup text."
+msgstr "請選取 [確認離開] 彈出式訊息文字色彩。"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:134
+msgid "Text of the Exit Confirmation popup. Leave empty for no text."
+msgstr "請輸入 [確認離開] 彈出式訊息內容。欄位留空代表沒有內容。"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:122
+msgid "Title of the Exit Confirmation popup. Leave empty for no title."
+msgstr "請輸入 [確認離開] 彈出式訊息標題。欄位留空代表沒有標題。"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:97
+msgid "Button Background:"
+msgstr "按鈕背景色彩:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:93
+msgid "Button Text Color:"
+msgstr "按鈕文字色彩:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:89
+msgid "Button Text Size:"
+msgstr "按鈕文字大小:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:85
+msgid "Button Text:"
+msgstr "按鈕文字:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:81
+msgid "Overlay Color:"
+msgstr "覆疊色彩:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:76
+msgid "Show overlay:"
+msgstr "顯示覆疊色彩:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:72
+msgid "Popup Height:"
+msgstr "彈出式訊息高度:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:68
+msgid "Popup Width:"
+msgstr "彈出式訊息寬度:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:64
+msgid "Text Size:"
+msgstr "文字大小:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:60
+msgid "Text Color:"
+msgstr "文字色彩:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:56
+msgid "Text:"
+msgstr "文字:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:52
+msgid "Title Size:"
+msgstr "標題大小:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:47
+msgid "Title Background Color:"
+msgstr "標題背景色彩:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:42
+msgid "Title Text Color:"
+msgstr "標題文字色彩:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:39
+msgid "You are leaving our website"
+msgstr "即將離開這個網站"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:38
+msgid "Title:"
+msgstr "標題:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:33
+msgid "Popup Background Color:"
+msgstr "彈出式訊息背景色彩:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:28
+msgid "Exit Confirmation Preview"
+msgstr "[確認離開] 訊息預覽"
+
+#: includes/admin/class-wpel-settings-page.php:78
+msgid "PRO"
+msgstr "PRO"
+
+#: includes/admin/class-wpel-settings-page.php:69
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:25
+msgid "Exit Confirmation"
+msgstr "[確認離開] 訊息"
+
+#: includes/admin/class-wpel-settings-page.php:64
+msgid "Link Rules"
+msgstr "連結規則"
+
+#: includes/admin/class-wpel-settings-page.php:74
+msgid "Link Checker"
+msgstr "連結檢查程式"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:188
+msgid "Add <code>\"ugc\"</code>"
+msgstr "新增 <code>ugc</code> 屬性值"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:178
+msgid "Add <code>\"sponsored\"</code>"
+msgstr "新增 <code>sponsored</code> 屬性值"
+
+#: templates/partials/tab-contents/support.php:34
+msgid "<br>Make sure you copy/paste the technical information displayed below. Without it we can't help you."
+msgstr "<br>請確認提問時附上在下方顯示技術支援資訊。如果沒有附上這些資訊，我們無法提供協助。"
+
+#: templates/partials/tab-contents/support.php:33
+msgid "If the issue wasn't reported yet then you should <a href=\"https://wordpress.org/support/plugin/wp-external-links#postform\" target=\"_blank\">post your problem</a>. <b>Our average response time is a few hours, and we reply to every message!</b>"
+msgstr "如果發生的問題未曾回報過，請<a href=\"https://wordpress.org/support/plugin/wp-external-links#postform\" target=\"_blank\">發佈新問題</a>。<b>我們平均會在幾小時內回應，而且我們會回覆全部訊息。</b>"
+
+#: templates/requirements-notice.php:14
+msgid "The plugin <strong>WP External Links</strong> requires PHP version 5.3 or up and WordPress version 3.6 or up.<br>Please upgrade your PHP and/or WordPress. Deactivate the plugin to remove this message."
+msgstr "<strong>WP External Links</strong> 外掛需要 PHP 5.3 及 WordPress 3.6 或兩者的更新版本。<br>請升級網站主機的 PHP 及 WordPress。停用外掛便能移除這項訊息。"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:172
+msgid "Separate url's by comma and/or a line break. Write the url's as specific as you want them to match."
+msgstr "請使用逗號 (分行符號亦可) 分隔多個網址。請依據需要符合的條件，盡量明確的輸入網址。"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:166
+msgid ""
+"For example:\n"
+"somedomain.org, sub.domain.net/some-slug\n"
+"http://sub.moredomain.net, http://www.domain.com/other-slug"
+msgstr ""
+"範例:\n"
+"somedomain.org, sub.domain.net/some-slug\n"
+"http://sub.moredomain.net, http://www.domain.com/other-slug"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:201
+msgid "Use this <code>{title}</code> for the original title value and <code>{text}</code> for the link text (or <code>{text_clean}</code> for text stripped of HTML) as shown on the page"
+msgstr "使用 <code>{title}</code> 在頁面顯示原始標題值，使用 <code>{text}</code> 在頁面顯示連結文字，或使用 <code>{text_clean}</code> 在頁面顯示移除 HTML 標籤的文字"
+
+#. Author URI of the plugin
+msgid "https://www.webfactoryltd.com/"
+msgstr "https://www.webfactoryltd.com/"
+
+#. Author of the plugin
+msgid "WebFactory Ltd"
+msgstr "WebFactory Ltd"
+
+#. Description of the plugin
+msgid "Open external links in a new tab or window, control \"nofollow\" and \"noopener\", set font icon; SEO friendly."
+msgstr "這個外掛能管理網站的外部連結，包含是否要在新視窗/分頁中開啟連結、控制 nofollow、ugc、sponsored 及 noopener 屬性值，並為連結設定圖示字型，這會讓網站更容易進行 SEO。"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:137
+msgid "Separate classes by comma."
+msgstr "請使用逗號分隔多個類別。"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:126
+msgid "Separate page- / post-id's by comma."
+msgstr "請使用逗號分隔多個文章/頁面 ID。"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:47
+msgid "Ignore links by class:"
+msgstr "依據類別忽略連結:"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:44
+msgid "Skip pages or posts (id's):"
+msgstr "略過頁面或文章 (請以逗號分隔多個 ID):"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:117
+msgid "in the topmost frame (NOT recommended)"
+msgstr "在最上方畫面開啟 (不建議)"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:116
+msgid "all in the same new window or tab (NOT recommended)"
+msgstr "全部在同一新視窗或分頁開啟 (不建議)"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/wp-external-links/"
+msgstr "https://tw.wordpress.org/plugins/wp-external-links/"
+
+#: templates/settings-page/tab-contents/exceptions.php:21
+msgid "The data-attribute <a href=\"%s\"><code>data-wpel-link</code></a> can be set on individual links to treat them as internal, external or excluded, or to completely ignore links form being processed by this plugin."
+msgstr "data-attribute 的 <a href=\"%s\"><code>data-wpel-link</code></a> 屬性可以設定於個別連結中，並將其視為內部連結、外部連結、已排除的連結，或是完全忽略由這個外掛處理過的這類連結。"
+
+#: templates/partials/tab-contents/support.php:23
+#: templates/settings-page/help-tabs/data-attributes.php:20
+msgid "Links with <code>data-wpel-link=\"ignore\"</code> will be completely ignored by this plugin."
+msgstr "這個外掛會完全忽略包含 <code>data-wpel-link=\"ignore\"</code> 屬性值的連結。"
+
+#: templates/partials/tab-contents/support.php:22
+#: templates/settings-page/help-tabs/data-attributes.php:19
+msgid "Links with <code>data-wpel-link=\"exclude\"</code> will be treated as excluded links (which have their own settings or will be treated as internal links)."
+msgstr "這個外掛會將包含 <code>data-wpel-link=\"exclude\"</code> 屬性值的連結視為已排除的連結。已排除的連結可以擁有專屬設定，或將其視為內部連結。"
+
+#: templates/partials/tab-contents/support.php:21
+#: templates/settings-page/help-tabs/data-attributes.php:18
+msgid "Links with <code>data-wpel-link=\"external\"</code> will be treated as external links."
+msgstr "這個外掛會將包含 <code>data-wpel-link=\"external\"</code> 屬性值的連結視為外部連結。"
+
+#: templates/partials/tab-contents/support.php:20
+#: templates/settings-page/help-tabs/data-attributes.php:17
+msgid "Links with <code>data-wpel-link=\"internal\"</code> will be treated as internal links."
+msgstr "這個外掛會將包含 <code>data-wpel-link=\"internal\"</code> 屬性值的連結視為內部連結。"
+
+#: templates/partials/tab-contents/support.php:17
+#: templates/settings-page/help-tabs/data-attributes.php:14
+msgid "The <code>data-wpel-link</code> attribute can be set on links and forces the plugin to treat those links that way."
+msgstr "可以在連結中設定 <code>data-wpel-link</code> 屬性，並強制外掛以這種方式處理連結。"
+
+#: templates/partials/tab-contents/support.php:15
+#: templates/settings-page/help-tabs/data-attributes.php:12
+msgid "Exclude or include by data-attribute"
+msgstr "依據 data-attribute 排除或納入連結"
+
+#: templates/partials/tab-contents/support.php:63
+msgid "WPEL Settings:"
+msgstr "WP External Links 設定:"
+
+#: templates/partials/tab-contents/support.php:49
+msgid "Active Plugins:"
+msgstr "使用中的外掛:"
+
+#: templates/partials/tab-contents/support.php:45
+msgid "PHP version: "
+msgstr "PHP 版本: "
+
+#: templates/partials/tab-contents/support.php:43
+msgid "WP version: "
+msgstr "WordPress 版本: "
+
+#: templates/partials/tab-contents/support.php:37
+msgid "Copy Technical Info"
+msgstr "複製技術支援資訊"
+
+#: templates/partials/tab-contents/support.php:32
+msgid "Send your issue"
+msgstr "回報問題"
+
+#: templates/partials/tab-contents/support.php:30
+msgid "When you experience problems using this plugin please look if your problem was <a href=\"https://wordpress.org/support/plugin/wp-external-links\" target=\"_blank\">already reported</a>."
+msgstr "如果使用這個外掛時遇到問題，請先參考外掛技術支援論壇上<a href=\"https://wordpress.org/support/plugin/wp-external-links\" target=\"_blank\">已回報的問題</a>。"
+
+#: templates/partials/tab-contents/support.php:29
+msgid "Reported issues"
+msgstr "已回報的問題"
+
+#: templates/partials/tab-contents/support.php:27
+msgid "On the <a href=\"https://wordpress.org/plugins/wp-external-links/faq/\" target=\"_blank\">FAQ page</a> you can find some additional tips & tricks."
+msgstr "在外掛說明頁的<a href=\"https://tw.wordpress.org/plugins/wp-external-links/faq/\" target=\"_blank\">常見問題集</a>區段，我們提供了一些額外的使用技巧。"
+
+#: templates/partials/tab-contents/support.php:26
+msgid "FAQ"
+msgstr "常見問題集"
+
+#: templates/network-page/help-tabs/under-construction.php:14
+#: templates/settings-page/help-tabs/under-construction.php:14
+msgid "Still working on the documentation..."
+msgstr "說明文件目前仍在準備中..."
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:295
+msgid "No icon for links already containing an <code>&lt;img&gt;</code>-tag."
+msgstr "不為包含 <code>&lt;img&gt;</code> 標籤的連結加入圖示"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:286
+msgid "Right side of the link"
+msgstr "連結右側"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:285
+msgid "Left side of the link"
+msgstr "連結左側"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:221
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:220
+msgid "Dashicon"
+msgstr "Dashicon"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:219
+msgid "Image"
+msgstr "圖示圖片"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:218
+msgid "- no icon -"
+msgstr "- 無圖示 -"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:168
+msgid "Add <code>\"noreferrer\"</code>"
+msgstr "新增 <code>noreferrer</code> 屬性值"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:158
+msgid "Add <code>\"noopener\"</code>"
+msgstr "新增 <code>noopener</code> 屬性值"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:139
+msgid "nofollow"
+msgstr "nofollow"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:138
+msgid "follow"
+msgstr "follow"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:126
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:148
+msgid "Overwrite existing values."
+msgstr "覆寫現有屬性值"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:115
+msgid "each in a separate new window or tab"
+msgstr "在不同新視窗或分頁個別開啟"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:114
+msgid "in the same window, tab or frame"
+msgstr "在同一視窗、分頁或畫面開啟"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:113
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:137
+msgid "- keep as is -"
+msgstr "- 維持不變 -"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:102
+msgid "Apply these settings"
+msgstr "套用相關設定"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:85
+msgid "Skip icon with <code>&lt;img&gt;</code>:"
+msgstr "包含 <code>&lt;img&gt;</code> 標記即略過圖示:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:80
+msgid "Icon position:"
+msgstr "圖示位置:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:76
+msgid "Choose FA icon:"
+msgstr "選取 Font Awesome 圖示:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:72
+msgid "Choose dashicon:"
+msgstr "選取 Dashicon 圖示:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:67
+msgid "Choose icon image:"
+msgstr "選取圖示圖片:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:63
+msgid "Choose icon type:"
+msgstr "選取圖示類型:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:59
+msgid "Add CSS class(es):"
+msgstr "新增 CSS 類別:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:54
+msgid "Set <code>title</code>:"
+msgstr "設定 <code>title</code> 屬性:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:35
+msgid "Set <code>follow</code> or <code>nofollow</code>:"
+msgstr "設定 <code>follow</code> 或 <code>nofollow</code> 屬性值:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:26
+msgid "Open links:"
+msgstr "開啟連結:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:22
+msgid "Settings for links:"
+msgstr "連結設定:"
+
+#: includes/admin/settings-fields/class-wpel-internal-link-fields.php:24
+msgid "Open internal links:"
+msgstr "內部連結開啟方式:"
+
+#: includes/admin/settings-fields/class-wpel-internal-link-fields.php:23
+msgid "Settings for internal links:"
+msgstr "內部連結設定:"
+
+#: includes/admin/settings-fields/class-wpel-external-link-fields.php:25
+msgid "Open external links:"
+msgstr "外部連結開啟方式:"
+
+#: includes/admin/settings-fields/class-wpel-external-link-fields.php:23
+msgid "Settings for external links:"
+msgstr "外部連結設定:"
+
+#: includes/admin/settings-fields/class-wpel-excluded-link-fields.php:24
+msgid "Open excluded links:"
+msgstr "已排除的連結的開啟方式:"
+
+#: includes/admin/settings-fields/class-wpel-excluded-link-fields.php:23
+msgid "Settings for excluded links:"
+msgstr "已排除的連結的設定:"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:212
+msgid "Ignore all <code>mailto</code> links"
+msgstr "忽略全部 <code>mailto</code> 連結"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:202
+msgid "Ignore all links in <code>&lt;script&gt;</code> blocks"
+msgstr "忽略在 <code>&lt;script&gt;</code> 區段中的全部連結"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:191
+msgid "Own settings for excluded links <span class=\"description\">(extra tab)</span>"
+msgstr "[已排除的連結] 的專屬設定 <span class=\"description\">(額外分頁)</span>"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:183
+msgid "Treat excluded links as internal links"
+msgstr "將已排除的連結視為內部連結"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:83
+msgid "All contents (the whole page)"
+msgstr "全部內容 (整頁)"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:66
+msgid "Skip <code>mailto</code> links:"
+msgstr "略過 <code>mailto</code> 連結:"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:62
+msgid "Skip <code>&lt;script&gt;</code>:"
+msgstr "略過 <code>&lt;script&gt;</code> 標籤:"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:59
+msgid "Own settings for excluded links:"
+msgstr "已排除的連結的自訂設定:"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:56
+msgid "Exclude external links by URL:"
+msgstr "依據網址排除外部連結:"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:53
+msgid "Include external links by URL:"
+msgstr "依據網址納入外部連結:"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:27
+msgid "Apply settings on:"
+msgstr "套用設定項目:"
+
+#: includes/admin/settings-fields/class-wpel-admin-fields.php:44
+msgid "Create own admin menu for this plugin"
+msgstr "為這個外掛建立專屬管理選單"
+
+#: includes/admin/settings-fields/class-wpel-admin-fields.php:27
+msgid "Main Admin Menu:"
+msgstr "主要管理選單:"
+
+#: includes/admin/network-fields/class-wpel-network-fields.php:100
+msgid "- none -"
+msgstr "- 不套用 -"
+
+#: includes/admin/network-fields/class-wpel-network-fields.php:90
+msgid "Only Super Admins"
+msgstr "僅多站網路管理員"
+
+#: includes/admin/network-fields/class-wpel-network-fields.php:89
+msgid "Site Admins and Super Admins"
+msgstr "網站管理員及多站網路管理員"
+
+#: includes/admin/network-fields/class-wpel-network-fields.php:31
+msgid "Use the settings of this site as default for new sites:"
+msgstr "將這個網站的設定套用至新網站預設設定:"
+
+#: includes/admin/network-fields/class-wpel-network-fields.php:27
+msgid "Capability for individual sites:"
+msgstr "個別網站權限:"
+
+#: includes/admin/network-fields/class-wpel-network-admin-fields.php:105
+#: includes/admin/settings-fields/class-wpel-admin-fields.php:69
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:240
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:249
+#: includes/admin/settings-fields/class-wpel-external-link-fields.php:95
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:321
+msgid "Something went wrong. One or more values were invalid."
+msgstr "執行時發生錯誤。一或多個設定值無效。"
+
+#: includes/admin/network-fields/class-wpel-network-admin-fields.php:86
+#: includes/admin/settings-fields/class-wpel-admin-fields.php:50
+msgid "Or else it will be added to the \"Settings\" menu"
+msgstr "如果停用這項設定，外掛選單會顯示於 [設定] 選單中。"
+
+#: includes/admin/network-fields/class-wpel-network-admin-fields.php:80
+msgid "Create own network admin menu for this plugin"
+msgstr "為這個外掛建立專屬多站網路管理選單"
+
+#: includes/admin/network-fields/class-wpel-network-admin-fields.php:27
+msgid "Main Network Admin Menu:"
+msgstr "多站網路主要管理選單:"
+
+#: includes/admin/network-fields/class-wpel-network-admin-fields.php:24
+msgid "Network Admin Settings"
+msgstr "多站網路管理後台設定"
+
+#: includes/admin/class-wpel-settings-page.php:305
+msgid "Data Attributes"
+msgstr "資料屬性"
+
+#: includes/admin/class-wpel-settings-page.php:59
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:24
+msgid "Exceptions"
+msgstr "例外狀況"
+
+#: includes/admin/class-wpel-settings-page.php:54
+#: includes/admin/settings-fields/class-wpel-excluded-link-fields.php:31
+msgid "Excluded Links"
+msgstr "已排除的連結"
+
+#: includes/admin/class-wpel-settings-page.php:49
+#: includes/admin/settings-fields/class-wpel-internal-link-fields.php:31
+msgid "Internal Links"
+msgstr "內部連結"
+
+#: includes/admin/class-wpel-network-page.php:170
+#: includes/admin/class-wpel-settings-page.php:300
+#: templates/network-page/help-tabs/under-construction.php:12
+#: templates/settings-page/help-tabs/under-construction.php:12
+msgid "Under Construction"
+msgstr "建置中"
+
+#: includes/admin/class-wpel-network-page.php:46
+#: includes/admin/class-wpel-settings-page.php:82
+msgid "Support"
+msgstr "技術支援"
+
+#: includes/admin/class-wpel-network-page.php:36
+#: includes/admin/network-fields/class-wpel-network-fields.php:24
+msgid "Multi Site Settings"
+msgstr "多站網路設定"
+
+#: includes/admin/settings-fields/class-wpel-external-link-fields.php:75
+msgid "Add <code>\"external\"</code>"
+msgstr "新增 <code>external</code> 屬性值"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:44
+msgid "Also add to <code>rel</code> attribute:"
+msgstr "一併新增至 <code>rel</code> 的屬性值:"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:145
+msgid "Treat all links to the site's domain and subdomains as internal links"
+msgstr "將這個網站的網域名稱連結及其子網域名稱連結全部視為內部連結"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:50
+msgid "Make subdomains internal:"
+msgstr "將子網域納入內部連結:"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:113
+msgid "All widgets"
+msgstr "全部小工具"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:103
+msgid "Comments"
+msgstr "留言"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:93
+msgid "Post content"
+msgstr "文章內容"
+
+#: includes/admin/class-wpel-network-page.php:41
+#: includes/admin/settings-fields/class-wpel-admin-fields.php:24
+msgid "Admin Settings"
+msgstr "管理後台設定"
+
+#: includes/admin/class-wpel-settings-page.php:44
+#: includes/admin/settings-fields/class-wpel-external-link-fields.php:60
+msgid "External Links"
+msgstr "外部連結"
+
+#. Plugin Name of the plugin
+#: includes/admin/class-wpel-network-page.php:103
+#: includes/admin/class-wpel-network-page.php:104
+#: includes/admin/class-wpel-network-page.php:114
+#: includes/admin/class-wpel-network-page.php:115
+#: includes/admin/class-wpel-settings-page.php:191
+#: includes/admin/class-wpel-settings-page.php:193
+#: includes/admin/class-wpel-settings-page.php:207
+#: includes/admin/class-wpel-settings-page.php:209
+msgid "WP External Links"
+msgstr "WP External Links"

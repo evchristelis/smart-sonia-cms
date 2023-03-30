@@ -1,0 +1,281 @@
+#col-container{
+clear: left;
+}
+#smapi-icon-setting{
+background-image:url('../images/options.png');
+height: 55px;
+width: 48px;
+margin-top: 1px;
+}
+#smapi-icon-devsetting{
+background-image:url('../images/Developer.png');
+height: 55px;
+width: 48px;
+margin-top: 1px;
+}
+#smapi-icon-doc{
+background-image:url('../images/help.png');
+height: 55px;
+width: 48px;
+margin-top: 1px;
+}
+#smapi-icon-optmanage{
+background-image:url('../images/gear.png');
+height: 48px;
+width: 48px;
+margin-top: 1px;
+}
+#smapi-icon-servmanage{
+background-image:url('../images/blocks.png');
+height: 48px;
+width: 48px;
+margin-top: 1px;
+}
+#smapi-icon-clients{
+background-image:url('../images/lock.png');
+height: 55px;
+width: 48px;
+margin-top: 1px;
+}
+#smapi-icon-engine{
+background-image:url('../images/services.png');
+height: 55px;
+width: 48px;
+margin-top: 1px;
+}
+#smapi-icon-stats{
+background-image:url('../images/statistics.png');
+height: 55px;
+width: 48px;
+margin-top: 1px;
+}
+.smapi_process{
+display:none;
+}
+.smapi_document{
+border-collapse: collapse;
+width: 100%;
+border-color: #ccc;
+border-style: solid;
+border: 0;
+}
+.smapi_document th{
+width: 150px;
+height:30px;
+background-color: #f5f5f5;
+text-align: left;
+font-family: "Source Sans Pro", sans-serif;
+font-weight: 700;
+font-size: 14px;
+padding: 4px 8px;
+border: #e0e0e0 1px solid;
+vertical-align: middle;
+}
+.smapi_tdhold{
+line-height: 20px;
+font-family: "Source Sans Pro", sans-serif;
+font-weight: 700;
+vertical-align: middle;
+border: #e0e0e0 1px solid;
+padding: 5px;
+word-break: break-word;
+}
+.smapi_tdhold pre, .smapi_pre{
+border: 1px solid #c7c7c7;
+height: 300px;
+font-family: courier;
+line-height: 19px;
+margin: 5px;
+width: 665px;
+background-color: #f4f4f4;
+color: #222;
+overflow: auto;
+padding: 7px;
+}
+.smapi_pre{
+font-family: Consolas,Monaco,monospace;
+font-size: 13px;
+width: 95%;
+margin: 0;
+white-space: -moz-pre-wrap;
+white-space: -pre-wrap;
+white-space: -o-pre-wrap;
+white-space: pre-wrap;
+word-wrap: break-word;
+}
+.smapi_td{
+font-family: "Source Sans Pro", sans-serif;
+font-weight: 700;
+vertical-align: middle;
+border-right: #e0e0e0 1px solid;
+}
+.smapi_td tr:last-child td{
+border-bottom: 0;
+}
+.smapi_td tr:first-child td{
+border-top: 0;
+}
+.smapi_tdparam{
+border-bottom: #e0e0e0 2px dashed;
+border-top: #e0e0e0 1px solid;
+border-right: #e0e0e0 1px solid;
+padding:5px;
+font-size: 15px;
+font-family: "Source Code Pro";
+font-style: normal;
+font-weight: 400;
+width: 100px;
+}
+.smapi_tdcode{
+border-bottom: #e0e0e0 2px dashed;
+border-top: #e0e0e0 1px solid;
+vertical-align: middle;
+}
+.smapi_tdcode td{
+border-top: #e0e0e0 1px solid!important;
+vertical-align: middle;
+line-height: 25px;
+}
+.smapi_tdcode tr:first-child td strong{
+padding-top: 4px;
+font-weight: bold;
+line-height: 17px;
+width: 80%;
+float: left;
+}
+.smapi_tdcode tr:first-child td{
+border-top: 0!important;
+}
+.smapi_tdcode tr:last-child td{
+border-bottom: 0;
+}
+.smapi_document p{
+float: left;
+margin: 3px;
+}
+.smapi_document span{
+background-color: #FAFAFA;
+margin-right: 5px;
+padding-left: 5px;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+height: 25px;
+float: left;
+display: block;
+width: 105px;
+}
+.smapitbwbord{
+border-right: #e0e0e0 1px solid;
+border-bottom: #e0e0e0 1px solid;
+}
+.smapi-errors p{
+display: block;
+width:500px;
+padding:4px;
+background-color:#D6492E;
+margin:4px 0;
+color:#fff;
+float: inherit;
+}
+.smapi-switch-button-label {
+float: left;
+font-size: 10pt;
+cursor: pointer;
+}
+.smapi-switch-button-label.off {
+color: #adadad;
+}
+.smapi-switch-button-label.on {
+color: #0088CC;
+}
+.smapi-switch-button-background {
+float: left;
+position: relative;
+background-color: rgb(236, 0, 0);
+border: 1px solid #aaa;
+margin: 1px 10px;
+-webkit-border-radius: 12px;
+-moz-border-radius: 12px;
+border-radius: 12px;
+cursor: pointer;
+}
+.smapi-switch-button-button {
+position: absolute;
+left: -1px;
+top : -1px;
+background: #FAFAFA;
+border: 1px solid #aaa;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+}
+.smapi-checked{
+background-color: #81D657;
+}
+.smapi-open-btn{
+margin-bottom: 5px!important;
+width: 52px;
+}
+.smapi_desc{
+margin:2px 0 0!important;
+}
+#smapi-usage-stats{
+border-top: 1px solid #dfdfdf;
+margin: 25px -10px -9px -10px;
+padding: 10px 10px 25px 10px;
+background: #fcfcfc;
+-moz-box-shadow: inset 0 1px 0 #fff;
+-webkit-box-shadow: inset 0 1px 0 #fff;
+box-shadow: inset 0 1px 0 #fff;
+overflow: hidden;
+border-radius: 0 0 2px 2px;
+-webkit-border-radius: 0 0 2px 2px;
+-moz-border-radius: 0 0 2px 2px;
+-khtml-border-radius: 0 0 2px 2px;
+}
+#smapi-usage-stats>div{
+float: left;
+width: 30%;
+}
+#smapi-usage-stats h4{
+font-size: 15px;
+margin: 0 0 .7em 0 !important;
+color: #222;
+}
+#smapi-usage-stats p{
+font-size: 15px;
+margin:0;
+color: #999;
+}
+.smapi-center{
+text-align:center!important;
+}
+#smapi-submit{
+margin-bottom:10px;
+}
+.smapi-alternate td:last-child{
+border-right:solid 3px #0074a2;
+}
+.wp-list-table td, .wp-list-table th{
+vertical-align: middle!important;
+}
+.smapi_code_write{
+font-family: Consolas,Monaco,monospace;
+font-size: 13px;
+width:100%;
+}
+#col-left{
+float: left;
+}
+.smapi-installed-hint{
+  background:#4CAF50;
+  color: #fff;
+}
+.smapi-not-installed-hint{
+  background:#cc6b6b;
+  color: #fff;
+}
+#namediv input {
+  width: inherit;
+}

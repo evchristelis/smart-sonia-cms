@@ -1,0 +1,44 @@
+# Translation of Plugins - Default featured image - Stable (latest release) in Turkish
+# This file is distributed under the same license as the Plugins - Default featured image - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-08-24 22:12:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: tr\n"
+"Project-Id-Version: Plugins - Default featured image - Stable (latest release)\n"
+
+#: app/class-dfi.php:233
+msgid "Settings"
+msgstr "Ayarlar"
+
+#. Author of the plugin
+msgid "Jan Willem Oostendorp"
+msgstr "Jan Willem Oostendorp"
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/extend/plugins/default-featured-image/"
+msgstr "http://wordpress.org/extend/plugins/default-featured-image/"
+
+#: app/class-dfi.php:189
+msgid "Set default featured image"
+msgstr "Varsayılan öne çıkarılmış görseli ayarla"
+
+#: app/class-dfi.php:154 app/class-dfi.php:155
+msgid "Don't use a default featured image"
+msgstr "Varsayılan öne çıkarılmış görseli kullanma"
+
+#: app/class-dfi.php:148 app/class-dfi.php:150 app/class-dfi.php:188
+msgid "Select default featured image"
+msgstr "Varsayılan öne çıkarılmış görseli seç"
+
+#. Plugin Name of the plugin
+msgid "Default featured image"
+msgstr "Varsayılan öne çıkarılmış görsel"
+
+#. Description of the plugin
+msgid "Allows users to select a default featured image in the media settings"
+msgstr "Ortam ayarkarından varsayılan öne çıkarılmış görseli belirleyebilmeleri için kullanıcılara izin ver "

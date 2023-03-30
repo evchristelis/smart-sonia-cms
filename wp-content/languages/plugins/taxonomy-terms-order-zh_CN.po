@@ -1,0 +1,137 @@
+# Translation of Plugins - Category Order and Taxonomy Terms Order - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Category Order and Taxonomy Terms Order - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-08 18:30:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Category Order and Taxonomy Terms Order - Stable (latest release)\n"
+
+#. Plugin URI of the plugin
+msgid "http://www.nsp-code.com"
+msgstr "http://www.nsp-code.com"
+
+#. Author of the plugin
+msgid "Nsp-Code"
+msgstr "Nsp-Code"
+
+#. Plugin Name of the plugin
+msgid "Category Order and Taxonomy Terms Order"
+msgstr "Category Order and Taxonomy Terms Order"
+
+#: include/options.php:61
+msgid "Admin Sort"
+msgstr "管理员排序"
+
+#: include/options.php:56
+msgid "global setting"
+msgstr "全局设置"
+
+#: include/options.php:56 include/options.php:67
+msgid "Auto Sort Description"
+msgstr "自动排序说明"
+
+#: include/options.php:78
+msgid "Save Settings"
+msgstr "保存设置"
+
+#: include/options.php:56 include/options.php:67
+msgid "Additional description and details at "
+msgstr "有关其他说明和详细信息，请访问"
+
+#: include/options.php:67
+msgid "This will change the order of terms within the admin interface"
+msgstr "这将更改管理界面中的术语顺序"
+
+#: include/options.php:50
+msgid "Auto Sort"
+msgstr "自动排序"
+
+#: include/options.php:54 include/options.php:65
+msgid "ON"
+msgstr "开"
+
+#: include/options.php:53 include/options.php:64
+msgid "OFF"
+msgstr "关"
+
+#: include/options.php:42
+msgid "Editor"
+msgstr "编辑器"
+
+#: include/options.php:43
+msgid "Administrator"
+msgstr "管理员"
+
+#: include/options.php:41
+msgid "Author"
+msgstr "撰稿人"
+
+#: include/options.php:36
+msgid "Minimum Level to use this plugin"
+msgstr "使用此插件的最低等级"
+
+#: include/options.php:40
+msgid "Contributor"
+msgstr "贡献者"
+
+#: include/options.php:39
+msgid "Subscriber"
+msgstr "订阅者"
+
+#: include/options.php:31
+msgid "General"
+msgstr "主要"
+
+#: include/options.php:25
+msgid "General Settings"
+msgstr "主要设置"
+
+#: include/interface.php:201
+msgid "Items Order Updated"
+msgstr "已排序"
+
+#: include/options.php:17
+msgid "Settings Saved"
+msgstr "设置已保存"
+
+#: include/interface.php:46
+msgid "This plugin can't work without javascript, because it's use drag and drop and AJAX."
+msgstr "这个插件需要浏览器支持javascript才可使用，因为它的拖动排序采用的是AJAX。"
+
+#: include/interface.php:100
+msgid "Taxonomies"
+msgstr "分类方法"
+
+#: include/interface.php:104
+msgid "Total Posts"
+msgstr "文章总数"
+
+#: include/interface.php:156
+msgid "Update"
+msgstr "更新"
+
+#: include/interface.php:104
+msgid "Taxonomy Title"
+msgstr "分类标题"
+
+#: include/interface.php:38 taxonomy-terms-order.php:116
+#: taxonomy-terms-order.php:118 taxonomy-terms-order.php:120
+msgid "Taxonomy Order"
+msgstr "分类排序"
+
+#: include/functions.php:56 include/functions.php:57
+msgid "Check our"
+msgstr "查看我们的"
+
+#: include/functions.php:55
+msgid "Read more"
+msgstr "继续阅读"
+
+#: include/functions.php:54
+msgid "Did you find this plugin useful? Please support our work with a donation or write an article about this plugin in your blog with a link to our site"
+msgstr "您觉得这个插件有用吗？ 请捐款支持我们的工作，或在您的博客中撰写有关此插件的文章，并提供指向我们网站的链接"

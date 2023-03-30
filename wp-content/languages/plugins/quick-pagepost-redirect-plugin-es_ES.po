@@ -1,0 +1,879 @@
+# Translation of Plugins - Quick Page/Post Redirect Plugin - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Quick Page/Post Redirect Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-03-10 21:59:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Quick Page/Post Redirect Plugin - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "http://www.anadnet.com/"
+msgstr "http://www.anadnet.com/"
+
+#. Author of the plugin
+msgid "anadnet"
+msgstr "anadnet"
+
+#. Plugin URI of the plugin
+msgid "http://www.anadnet.com/quick-pagepost-redirect-plugin/"
+msgstr "http://www.anadnet.com/quick-pagepost-redirect-plugin/"
+
+#: page_post_redirect_plugin.php:2362
+msgid "would redirect 10 seconds after the required element is loaded (i.e., body or an element with a specific class). *Intsant will still have a 'slight' delay, as some content needs to load before the redirect occurs. Settings on individual pages will override this setting."
+msgstr "hará la redirección 10 segundos después de que se cargue el elemento requerido (p. ej. el body o un elemento con una clase específica). *Instantáneo también tendrá un «ligero» retardo, debido a que ciertos contenidos tienen que cargarse antes de que se ocurra la redirección. Los ajustes en las páginas individuales omitirán este ajuste."
+
+#. Description of the plugin
+msgid "Redirect Pages, Posts or Custom Post Types to another location quickly (for internal or external URLs). Includes individual post/page options, redirects for Custom Post types, non-existant 301 Quick Redirects (helpful for sites converted to WordPress), New Window functionality, and rel=nofollow functionality."
+msgstr "Redirige páginas, entradas o tipos de contenido personalizados a otra ubicación rápidamente (para URLs internas y externas). Incluye opciones para cada entrada/página individual, redirecciones para tipos de contenido personalizados, redirecciones rápidas 301 no existentes (útil para sitios convertidos a WordPress), funcionalidad de nueva ventana, y funcionalidad rel=nofollow."
+
+#. Plugin Name of the plugin
+msgid "Quick Page/Post Redirect Plugin"
+msgstr "Quick Page/Post Redirect Plugin"
+
+#: page_post_redirect_plugin.php:2402
+msgid "The plugin will be deactivated now to prevent conflicts. You may delete it if you desire."
+msgstr "El plugin se desactivará ahora para evitar conflictos. Puedes borrarlo si lo deseas."
+
+#: page_post_redirect_plugin.php:2401
+msgid "so you no longer need to have the addon plugin installed."
+msgstr "para que no tengas que tener el plugin añadido instalado."
+
+#: page_post_redirect_plugin.php:2401
+msgid "activated. This plugin's functionality is now built into the parent"
+msgstr "activo. La funcionalidad de este plugin está ahora en el superior"
+
+#: page_post_redirect_plugin.php:2401
+msgid "You have the Addon Plugin"
+msgstr "Tienes el plugin añadido"
+
+#: page_post_redirect_plugin.php:2378
+msgid "The \"%1$\" will be replaced with the actual seconds."
+msgstr "«%1$» se reemplazará con los segundos reales."
+
+#: page_post_redirect_plugin.php:2376
+msgid "To use a counter, add the following:"
+msgstr "Para usar un contador añade lo siguiente:"
+
+#: page_post_redirect_plugin.php:2374
+msgid "Add your content below"
+msgstr "Añade abajo tu contenido"
+
+#: page_post_redirect_plugin.php:2374
+msgid "Be sure to include a tag with your class or ID or tag name (entered above) so the redirect triggers - if you do not, the redirect will not happen. If you check the box to \"Load Page Content\", this data will be inserted into the page right after the %1$s tag. Otherwise, it will be the only content shown."
+msgstr "Asegúrate de incluir una etiqueta con tu clase o ID o nombre de la etiqueta (introducida arriba) para que se lance la redirección - si no lo haces no se hará la redirección. Si marcas la casilla «Cargar contenido de la página» se insertarán estos datos en la página justo después de la etiqueta %1$s. En caso contrario será el único contenido que se muestre."
+
+#: page_post_redirect_plugin.php:2370
+msgid "The %1$s, %2$s or tag name of the element you want the content to load into when the page loads."
+msgstr "%1$s, %2$s o nombre de etiqueta del elemento que quieres que se cargue en el contenido cuando cargue la página."
+
+#: page_post_redirect_plugin.php:2366
+msgid "The %1$s, %2$s or tag name of the element you want to load before triggering redirect. Use a %3$s in the class name or %4$s for the ID. <strong><em>For example:</em></strong> if you want it to redirect when the body tag loads, you would type %5$s above. To redirect after an element with a class or ID, use %6$s or %7$s."
+msgstr "%1$s, %2$s o nombre de etiqueta del elemento que quieres cargar antes de lanzar la redirección. Utiliza una %3$s en el nombre de la clase o %4$s para el ID. <strong><em>Por ejemplo:</em></strong> si quieres redirigirlo cuando cargue la etiqueta body deberías teclear arriba %5$s. Para hacer la redirección después de un elemento con una clase o ID usa %6$s o %7$s."
+
+#: page_post_redirect_plugin.php:2362
+msgid "instant"
+msgstr "instantáneo"
+
+#: page_post_redirect_plugin.php:2358
+msgid "Check if you want the normal page to load before redirect happens (if redirect is 0 seconds, it may not load fully)."
+msgstr "Márcalo si quieres que la página normal cargue antes de que ocurra la redirección (si la redirección es a los 0 segundos puede que no se cargue del todo)."
+
+#: page_post_redirect_plugin.php:2357
+msgid "Load Page Content?"
+msgstr "¿Cargar contenido de la página?"
+
+#: page_post_redirect_plugin.php:2352
+msgid "Using the setting below, you can add elements or a message to the page that is loaded before tht redirect, or just allow the page to load as normal until the redirect reaches the number of seconds you have set below."
+msgstr "Usando el siguiente ajuste puedes añadir elementos o un mensaje a la página que se está cargando antes de la redirección, o simplemente permitir que la página cargue normalmente hasta que la redirección alcance el número de segundos que hayas configurado abajo."
+
+#: page_post_redirect_plugin.php:2351
+msgid "This section is for updating options for redirects that use the \"meta refresh\" funcitonality for redirecting."
+msgstr "Esta sección es para modificar las opciones de las redirecciones que usen la funcionalidad «meta refresh» para la redirección."
+
+#: page_post_redirect_plugin.php:2350
+msgid "Settings Updated"
+msgstr "Ajustes actualizados"
+
+#: page_post_redirect_plugin.php:2349
+msgid "Meta Redirect Settings"
+msgstr "Ajustes de redirección meta"
+
+#: page_post_redirect_plugin.php:1839
+msgid "method."
+msgstr "método."
+
+#: page_post_redirect_plugin.php:1839
+msgid "<strong>NOTE:</strong> For a Page or Post (or Custom Post) Redirect to work, it may need to be published first and then saved again as a Draft. If you do not already have a page/post created you can add a 'Quick' redirect using the"
+msgstr "<strong>NOTA:</strong> Para que funcione una redirección de página o entrada (o contenido personalizado) puede que tengas que publicarlo primero y guardarlo luego como borrador. Si no has creado aún una página/entrada puedes añadir una redirección «Rápida» usando el"
+
+#: page_post_redirect_plugin.php:1837
+msgid "Leave blank to use options setting. 0 = instant."
+msgstr "Déjalo en blanco para usar el ajuste. 0 = instantáneo."
+
+#: page_post_redirect_plugin.php:1837
+msgid "Redirect Seconds (ONLY for meta redirects)."
+msgstr "Redirigir segundos (SOLO para redirecciones meta)."
+
+#: page_post_redirect_plugin.php:1830
+msgid "Default is 301 (Permanent Redirect)."
+msgstr "Por defecto es 301 (redirección permanente)."
+
+#: page_post_redirect_plugin.php:1829
+msgid "Meta Redirect"
+msgstr "Redirección meta"
+
+#: page_post_redirect_plugin.php:1827 page_post_redirect_plugin.php:1828
+msgid "Temporary"
+msgstr "Temporal"
+
+#: page_post_redirect_plugin.php:1826
+msgid "Permanent"
+msgstr "Permanente"
+
+#: page_post_redirect_plugin.php:1804
+msgid "Type of Redirect:"
+msgstr "Tipo de redirección:"
+
+#: page_post_redirect_plugin.php:1803
+msgid "(i.e., <strong>http://example.com</strong> or <strong>/somepage/</strong> or <strong>p=15</strong> or <strong>155</strong>. Use <b>FULL URL</b> <i>including</i> <strong>http://</strong> for all external <i>and</i> meta redirects.)"
+msgstr "(p.ej. <strong>http://ejemplo.com</strong> o <strong>/unapagina/</strong> o <strong>p=15</strong> o <strong>155</strong>. Usa la <b>URL COMPLETA</b> <i>incluyendo</i> <strong>http://</strong> en todas las redirecciones externas <i>y</i> meta.)"
+
+#: page_post_redirect_plugin.php:1802
+msgid "Redirect / Destination URL:"
+msgstr "Redirección / URL de destino:"
+
+#: page_post_redirect_plugin.php:1800
+msgid "To increase effectivness, select \"Use jQuery\" in the options. This will only change the URL in the link <strong>NOT</strong> the URL in the Address bar."
+msgstr "Para incrementar su efectividad elige «Usar jQuery» en las opciones. Esto solo cambiará la URL en el enlace <strong>NO</strong> la URL en la barra de direcciones."
+
+#: page_post_redirect_plugin.php:1800
+msgid "<strong>Show</strong> Redirect URL in link."
+msgstr "<strong>Mostrar</strong> URL de redirección en el enlace."
+
+#: page_post_redirect_plugin.php:1799
+msgid "Add <strong>rel=\"nofollow\"</strong> to link."
+msgstr "Añadir <strong>rel=\"nofollow\"</strong> al enlace."
+
+#: page_post_redirect_plugin.php:1798 page_post_redirect_plugin.php:1799
+msgid "To increase effectivness, select \"Use jQuery\" in the options."
+msgstr "Para incrementar su efectividad elige «Usar jQuery» en las opciones."
+
+#: page_post_redirect_plugin.php:1798
+msgid "Open in a <strong>new window.</strong>"
+msgstr "Abrir en  una <strong>nueva ventana.</strong>"
+
+#: page_post_redirect_plugin.php:1797
+msgid "Check to turn on or redirect will not work."
+msgstr "Marca esto para activarlo o no funcionará la redirección."
+
+#: page_post_redirect_plugin.php:1797
+msgid "Make Redirect <strong>Active</strong>."
+msgstr "<strong>Activar</strong> la redirección."
+
+#: page_post_redirect_plugin.php:1779
+msgid "Donate"
+msgstr "Donar"
+
+#: page_post_redirect_plugin.php:1778
+msgid "FAQ"
+msgstr "FAQ"
+
+#: page_post_redirect_plugin.php:1777 page_post_redirect_plugin.php:1839
+msgid "Quick Redirects"
+msgstr "Redirecciones rápidas"
+
+#: page_post_redirect_plugin.php:1771
+msgid "Settings"
+msgstr "Ajustes"
+
+#: page_post_redirect_plugin.php:1706
+msgid "ERROR - No Valid items to add."
+msgstr "ERROR - No hay ningún elemento válido que añadir."
+
+#: page_post_redirect_plugin.php:1706
+msgid "It does not look like there are any valid items to import - check the file and try again."
+msgstr "Parece que no hay ningún elemento válido que añadir para importarlo - revisa el archivo e inténtalo de nuevo."
+
+#: page_post_redirect_plugin.php:1668
+msgid "This does not look like the file is in the correct format - it is possibly damaged or corrupt.<br/>Be sure the redirects are 1 per line and the redirect and destination are seperated by a PIPE (|), COMMA (,) or a TAB."
+msgstr "Parece que el archivo no tiene el formato correcto - posiblemente esté dañado o corrupto.<br/>Asegúrate de que haya 1 redirección en cada línea y que la redirección y el destino estén separados por una barra vertical (|), coma (,) o un tabulado."
+
+#: page_post_redirect_plugin.php:1654
+msgid "An error occured during the file upload. It might me that the file is too large or you do not have the premissions to write to the temporary upload directory. Please fix your server configuration and retry."
+msgstr "Ocurrió un error durante la carga del archivo. Me parece que el archivo es demasiado grande o que no tienes suficientes permisos para escribir en el directorio temporal de subidas. Por favor, arregla la configuración de tu servidor e inténtalo de nuevo."
+
+#: page_post_redirect_plugin.php:1633 page_post_redirect_plugin.php:1639
+#: page_post_redirect_plugin.php:1668
+msgid "ERROR - Not a valid File"
+msgstr "ERROR - No es un archivo válido"
+
+#: page_post_redirect_plugin.php:1633 page_post_redirect_plugin.php:1639
+msgid "This does not look like a Quick Page Post Redirect file - it is possibly damaged or corrupt."
+msgstr "No parece ser un archivo de Quick Page Post Redirect - posiblemente esté dañado o corrupto."
+
+#: page_post_redirect_plugin.php:1588 page_post_redirect_plugin.php:1654
+msgid "SERVER ERROR - Could Not Load"
+msgstr "ERROR DEL SERVIDOR - No se pudo cargar"
+
+#: page_post_redirect_plugin.php:1588
+msgid "An error occured during the file upload. Please fix your server configuration and retry."
+msgstr "Ocurrió un error durante la carga del archivo. Por favor, arregla la configuración de tu servidor e inténtalo de nuevo."
+
+#: page_post_redirect_plugin.php:1437
+msgid "No Quick Redirects."
+msgstr "No hay redirecciones rápidas."
+
+#: page_post_redirect_plugin.php:1429
+msgid "Delete"
+msgstr "Borrar"
+
+#: page_post_redirect_plugin.php:1428
+msgid "Edit"
+msgstr "Editar"
+
+#: page_post_redirect_plugin.php:1387
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: page_post_redirect_plugin.php:1386
+msgid "Save"
+msgstr "Guardar"
+
+#: page_post_redirect_plugin.php:1368
+msgid "Existing Redirects"
+msgstr "Redirecciones existentes"
+
+#: page_post_redirect_plugin.php:1358
+msgid "New Window(NW) and NoFollow(NF) functionality not available unless \"Use with jQuery\" is set in the options."
+msgstr "Las funcionalidades de Nueva Ventana (NV) y NoFollow (NF) no estarán disponibles a menos que actives «Usar con jQuery» en las opciones."
+
+#: page_post_redirect_plugin.php:1335 page_post_redirect_plugin.php:1344
+#: page_post_redirect_plugin.php:1353 page_post_redirect_plugin.php:1385
+msgid "add No Follow"
+msgstr "Añadir «no follow»"
+
+#: page_post_redirect_plugin.php:1334 page_post_redirect_plugin.php:1343
+#: page_post_redirect_plugin.php:1352 page_post_redirect_plugin.php:1384
+msgid "open in a New Window"
+msgstr "se abre en una nueva ventana"
+
+#: page_post_redirect_plugin.php:1326 page_post_redirect_plugin.php:1375
+msgid "NF"
+msgstr "NF"
+
+#: page_post_redirect_plugin.php:1325 page_post_redirect_plugin.php:1374
+msgid "NW"
+msgstr "NV"
+
+#: page_post_redirect_plugin.php:1324 page_post_redirect_plugin.php:1373
+msgid "Destination URL"
+msgstr "URL de destino"
+
+#: page_post_redirect_plugin.php:1322 page_post_redirect_plugin.php:1371
+msgid "Request URL"
+msgstr "URL solicitada"
+
+#: page_post_redirect_plugin.php:1319 page_post_redirect_plugin.php:1362
+msgid "Add New Redirects"
+msgstr "Añadir nuevas redirecciones"
+
+#: page_post_redirect_plugin.php:1313
+msgid "See 'HELP' in the upper right corner, for troubleshooting problems and example redirects."
+msgstr "Ver 'AYUDA' en la esquina superior derecha para la resolución de problemas y redirecciones de ejemplo."
+
+#: page_post_redirect_plugin.php:1312
+msgid "To add Quick Redirects, put the URL for the redirect in the <strong>Request URL</strong> field, and the URL it should be redirected to in the <strong>Destination URL</strong> field. To delete a redirect, click the trash can at the end of that row. To edit a redirect, click the pencil edit icon."
+msgstr "Para agregar redirecciones rápidas pon la dirección URL de la redirección en el campo <strong>URL solicitada</strong> y la dirección URL a la que debería redirigirse en el campo <strong>URL de destino</strong>. Para borrar una redirección haz clic en papelera al final de esa fila. Para modificar una redirección haz clic en el icono del lápiz de edición."
+
+#: page_post_redirect_plugin.php:1311
+msgid "Quick Redirects are useful when you have links from an old site that now come up 404 Not Found, and you need to have them redirect to a new location on the current site - as long as the old site and the current site have the same domain name. They are also helpful if you have an existing URL that you need to send some place else and you don't want to create a Page or Post just to use the individual Page/Post Redirect option."
+msgstr "Las redirecciones rápidas son útiles cuando tienes enlaces de un sitio antiguo que ahora muestran 404 No encontrado, y tienes que redirigirlos a una nueva ubicación en el sitio actual - siempre y cuando el antiguo sitio y el sitio actual tengan el mismo nombre de dominio. También son útiles si tienes una URL que tienes que enviar a otro lugar y no quieres crear una página o una entrada sólo para utilizar la opción de redirigir a una entrada / página individual."
+
+#: page_post_redirect_plugin.php:1307
+msgid "To use the <strong>NW</strong> (open in a new window) <strong>NF</strong> (nofollow) options, check the appropriate option and update when adding redirects. Then, any link in the page that has the request URL will be updated with these options (as long as you have <code>Use jQuery?</code> enabled in the plugin settings."
+msgstr "Para usar las opciones <strong>NV</strong> (abrir en una nueva ventana) <strong>NF</strong> (nofollow) activa la correspondiente opción y guarda los cambios cuando añadas redirecciones. A partir de este momento cualquier enlace de la página que tenga una petición de URL se actualizará con estas opciones (siempre y cuando tengas activo <code>¿Usar jQuery?</code> en los ajustes del plugin."
+
+#: page_post_redirect_plugin.php:1303 page_post_redirect_plugin.php:1308
+msgid "hide this message"
+msgstr "ocultar este mensaje"
+
+#: page_post_redirect_plugin.php:1302
+msgid "The <code>Use jQuery?</code> option is turned off in the settings.<br/>In order to use <strong>NW</strong> (open in a new window) or <strong>NF</strong> (add rel=\"nofollow\") options for Quick Redirects, you must have it enabled."
+msgstr "La opción <code>¿Usar jQuery?</code> está desactivada en los ajustes.<br/>Para usar las opciones <strong>NV</strong> (abrir en una nueva ventana) o <strong>NF</strong> (añade rel=\"nofollow\") en las redirecciones rápidas debes activarla."
+
+#: page_post_redirect_plugin.php:1291
+msgid "Quick Redirects (301 Redirects)"
+msgstr "Redirecciones rápidas (redirecciones 301)"
+
+#: page_post_redirect_plugin.php:1283
+msgid "Additionally, you can add the redirect counter to the page by adding the code sample under the <strong>Page Content</strong> box."
+msgstr "Adicionalmente puedes añadir el contador de redirección a la página añadiendo el código mostrado bajo la caja <strong>Contenido de la página</strong>."
+
+#: page_post_redirect_plugin.php:1282
+msgid "A good example of use, is adding a tracking script (or Facebook Conversion Pixel) to the <strong>Page Content box</strong> and unchecking the <strong>Load Content?</strong> box. Then set the <strong>Redirect Seconds</strong> to 1 or 2 so the script has a chance to load and set <strong>Append Content</strong> To to \"body\" and <strong>Redirect Trigger</strong> to \"body\"."
+msgstr "Un buen ejemplo de uso es añadir un script de seguimiento (o píxel de conversión de Facebook) a la <strong>caja de Contenido de la página</strong> y desmarcar la casilla <strong>¿Cargar contenido?</strong>. Luego configura <strong>Segundos de redirección</strong> a 1 o 2 para que el script pueda cargarse y configura <strong>Adjuntar contenido</strong> a «body» y <strong>Lanzador de redirección</strong> a «body»."
+
+#: page_post_redirect_plugin.php:1281
+msgid "This is your page content you want to add. If you have a \"tracking pixel\" script or image tag you want to use, add it here."
+msgstr "Este es el contenido que quieres añadir a tu página. Si tienes un script de «píxel de seguimiento» o etiqueta de imagen que quieras usar, añádelo aquí."
+
+#: page_post_redirect_plugin.php:1280 page_post_redirect_plugin.php:2373
+msgid "Page Content"
+msgstr "Contenido de la página"
+
+#: page_post_redirect_plugin.php:1276
+msgid "When no class, id or tag name is used, the <strong>body</strong> tag will be used."
+msgstr "Cuando no se usa una clase, ID o nombre de etiqueta, se usará la etiqueta <strong>body</strong>."
+
+#: page_post_redirect_plugin.php:1275
+msgid "If you are loading the content of the page, use an existing class or id for an existing element (i.e., .page-content) so your additional page content (if any) is loaded into that element."
+msgstr "Si estás cargando el contenido de la página usa una clase o id existente de un elemento que ya exista (p.ej. page-content) para que el contenido adicional de tu página (si lo hubiese) se cargue en ese elemento."
+
+#: page_post_redirect_plugin.php:1274
+msgid "The class, id or tag name that you want the content in the <strong>Page Content</strong> to be loading into."
+msgstr "La clase, id o nombre de etiqueta que quieras del contenido para que se cargue en el <strong>Contenido de la página</strong>."
+
+#: page_post_redirect_plugin.php:1273 page_post_redirect_plugin.php:2369
+msgid "Append Content To"
+msgstr "Adjuntar contenido a"
+
+#: page_post_redirect_plugin.php:1269
+msgid "Do not use a tag name that is common, like \"a\" or \"div\" as it will trigger on all events."
+msgstr "No uses un nombre de etiqueta que sea muy común, como «a» o «div» ya que se lanzaría en todos los eventos."
+
+#: page_post_redirect_plugin.php:1268
+msgid "If you use a tag name, the name should NOT have the \"&lt;\" or \"&gt;\" characters in the name, i.e., &lt;body&gt; would just be <strong>body</strong>."
+msgstr "Si usas un nombre de etiqueta el nombre NO debería tener los caracteres «&lt;» o «&gt;» en el nombre, p. ej.: &lt;body&gt; debería ser solo <strong>body</strong>."
+
+#: page_post_redirect_plugin.php:1267
+msgid "If you use an id, the id should have the \"#\" in the name, i.e., <strong>#my-id-name</strong>."
+msgstr "Si usas un ID, el ID debe tener «#» en el nombre, p. ej., <strong>#nombre-de-mi-id</strong>."
+
+#: page_post_redirect_plugin.php:1266
+msgid "If you use a class, the class name should have the \".\" in the name, i.e., <strong>.my-class-name</strong>"
+msgstr "Si usas una clase, el nombre e la clase debería tener el «.» en el nombre, p. ej. <strong>.nombre-de-mi-clase</strong>"
+
+#: page_post_redirect_plugin.php:1265
+msgid "The class or id or tag name of the element to load before the redirect starts counting down. If nothing is used, it will default to the body tag as a trigger."
+msgstr "La clase o id o nombre de etiqueta del elemento a cargar antes de que empiece la cuenta atrás de la redirección. Si no se usa nada se usará la etiqueta body como lanzador."
+
+#: page_post_redirect_plugin.php:1264 page_post_redirect_plugin.php:2365
+msgid "Redirect Trigger"
+msgstr "Lanzador de la redirección"
+
+#: page_post_redirect_plugin.php:1260
+msgid "*Keep in mind that the redirect seconds will start counting only AFTER the <strong>Redirect Trigger</strong> element is loaded - so 0 may be slightly longer than instant, depending on how much content needs to load before the trigger happens."
+msgstr "*No olvides que los segundos de redirección empezarán a contar solo DESPUÉS de que se cargue el elemento <strong>Lanzador de redirección</strong> - por lo que 0 podría ser ligeramente más largo que instantáneo, dependiendo de cuánto contenido tenga que cargarse antes de que se cargue el lanzador."
+
+#: page_post_redirect_plugin.php:1259
+msgid "Enter the nuber of seconds to wait before the redirect happens. Enter 0 to have an instant redirect*."
+msgstr "Introduce el número de segundos a esperar antes de que empiece la redirección. Introduce 0 para hacer una redirección instantánea*."
+
+#: page_post_redirect_plugin.php:1258 page_post_redirect_plugin.php:2361
+msgid "Redirect Seconds"
+msgstr "Segundos de la redirección"
+
+#: page_post_redirect_plugin.php:1254
+msgid "If checked, all of the original content will load, so keep this in mind when setting the <strong>Redirect Seconds</strong> - if set too low, the page will not compeletely load. "
+msgstr "Si se activa se cargará todo el contenido original, así que ten esto en mente cuando establezcas <strong>Segundos de redirección</strong>: si lo pones demasiado bajo la página no se cargará del todo. "
+
+#: page_post_redirect_plugin.php:1253
+msgid "Use the <strong>Load Content?</strong> option to allow the page content to load as normal or to only load a blank page or the content provided in the <strong>Page Content</strong> section. "
+msgstr "Usa la opción <strong>¿Cargar contenido?</strong> para permitir que el contenido de la página cargue normal o para que solo cargue una página en blanco o el contenido facilitado en la sección <strong>Contenido de la página</strong>. "
+
+#: page_post_redirect_plugin.php:1252
+msgid "Load Content?"
+msgstr "¿Cargar contenido?"
+
+#: page_post_redirect_plugin.php:1242
+msgid "You can export redirects in two formats - Encoded or Delimited."
+msgstr "Puedes exportar redirecciones en dos formatos - Codificado o delimitado."
+
+#: page_post_redirect_plugin.php:1232
+msgid "The open in a new window or nofollow settings will not happen if someone just types the old link in the URL or if they come from a bookmark or link outside your site - in essence, there needs to be a link that they click on in your site so that the jQuery script can add the appropriate <code>target</code> and <code>rel</code> properties to the link to make it work."
+msgstr "Los ajustes de abrir en nueva ventana o nofollow no funcionarán si alguien simplemente teclea el enlace antiguo en la URL o si viene de un marcador favorito o de un enlace fuera de tu sitio - en esencia, tiene que haber un enlace al que hagan clic n tu sitio para que el script jQuery pueda añadir las propiedades <code>target</code> y <code>rel</code> al enlace para que funcione."
+
+#: page_post_redirect_plugin.php:1231
+msgid "A link that uses the request url SOMEWHERE in your site page - i.e., in a menu, content, sidebar, etc."
+msgstr "Un enlace que utiliza la url solicitada EN ALGUNA PARTE de la página de tu sitio - p.ej. en un menú, en el contenido, una barra lateral, etc."
+
+#: page_post_redirect_plugin.php:1230
+msgid "\"Use jQuery?\" option selected in the settings page"
+msgstr "la opción «¿Usar jQuery?» seleccionada en la página de ajustes"
+
+#: page_post_redirect_plugin.php:1228
+msgid "In order for NW (open in a new window) or NF (rel=\"nofollow\") options to work with Quick Redirects, you need to have:"
+msgstr "Para que las opciones NV (abrir en nueva ventana) o NF (rel=\"nofollow\") funcionen con las redirecciones rápidas tienes que tener:"
+
+#: page_post_redirect_plugin.php:1227
+msgid "The <b>Destination</b> field can be any valid URL or relative path (from root), for example"
+msgstr "El campo <b>Destino</b> puede ser cualquier URL válida o ruta relativa (desde el raíz), por ejemplo"
+
+#: page_post_redirect_plugin.php:1226
+msgid "If you are having issues with the link not redirecting on a SSL site with mixed SSL (meaning links can be either SSL or non SSL), try adding two redirects, one with and one without the SSL protocol."
+msgstr "Si estás teniendo problemas y el enlace no se redirige a un sitio SSL con contenido mixto SSL (lo que significa que hay enlaces que pueden ser SSL o no SSL) trata de añadir dos redirecciones, una con SSL y una sin SSL."
+
+#: page_post_redirect_plugin.php:1225
+msgid "If you do use the domain name in the Request URL field, make sure it matches your site's domain style and protocol. For example, if your site uses \"www\" in front of your domain name, be sure to include it. if your site uses <code>https://</code>, use it as the protocol. Our best guess is that your domain and protocol are"
+msgstr "Si usas el nombre de dominio en el URL solicitad asegúrate de que coincide con el estilo y protocolo del dominio de tu sitio. Por ejemplo, si tu sitio usa «www» delante de tu nombre de dominio asegúrate de incluirlo. Si tu sitio utiliza <code>https://</code> úsalo como protocolo. Nuestra mejor estimación es que tu dominio y protocolo son"
+
+#: page_post_redirect_plugin.php:1224
+msgid "It is recommended that the <b>Request URL</b> be relative to the ROOT directory and contain the <code>/</code> at the beginning."
+msgstr "Se recomienda que la <b>URL solicitada</b> sea relativa al directorio RAÍZ y contenga el <code>/</code> al principio."
+
+#: page_post_redirect_plugin.php:1223
+msgid "At this time the New Window (NW) and No Follow (NF) features will not work for Quick Redirects unless \"Use jQuery\" is enabled in the options."
+msgstr "De momento las funcionalidades Nueva Ventana (NV) y No Follow (NF) no funcionará en las redirecciones rápidas a menos que «Usar jQuery» esté activo en las opciones."
+
+#: page_post_redirect_plugin.php:1221
+msgid "IMPORTANT TROUBLESHOOTING NOTES:"
+msgstr "NOTAS IMPORTANTES SOBRE RESOLUCIÓN DE PROBLEMAS:"
+
+#: page_post_redirect_plugin.php:1218
+msgid "Troubleshooting"
+msgstr "Resolución de problemas"
+
+#: page_post_redirect_plugin.php:1213
+msgid "Examples"
+msgstr "Ejemplos"
+
+#: page_post_redirect_plugin.php:1171 page_post_redirect_plugin.php:2383
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: page_post_redirect_plugin.php:1167
+msgid "All Redirects and Settings will be removed from the database. This can NOT be undone!"
+msgstr "Se borrarán todas las redirecciones y ajustes de la base de datos. ¡Esto NO puede deshacerse!"
+
+#: page_post_redirect_plugin.php:1166
+msgid "Delete ALL Redirects AND Settings"
+msgstr "Borrar TODAS las redirecciones Y ajustes"
+
+#: page_post_redirect_plugin.php:1164
+msgid "Delete ALL Redirects & Settings?"
+msgstr "¿Borrar TODAS las redirecciones y ajustes?"
+
+#: page_post_redirect_plugin.php:1160
+msgid "Individual Redirects are redirects set up on individual pages or posts when in the editing screen. The Quick Redirects are set up on the Quick Redirects page."
+msgstr "Las redirecciones individuales son redirecciones configuradas para entradas o páginas individuales desde la ventana del editor. Las redirecciones rápidas se configuran en la página de Redirecciones rápidas."
+
+#: page_post_redirect_plugin.php:1159
+msgid "Delete all Quick Redirects"
+msgstr "Borrar todas las redirecciones rápidas"
+
+#: page_post_redirect_plugin.php:1158
+msgid "Delete All Individual Redirects"
+msgstr "Borrar todas las redirecciones individuales"
+
+#: page_post_redirect_plugin.php:1156
+msgid "Delete Redirects?"
+msgstr "¿Borrar redirecciones?"
+
+#: page_post_redirect_plugin.php:1153
+msgid "<strong>NOTE: </strong>This will DELETE all redirects - so be careful with this."
+msgstr "<strong>NOTA: </strong>Esto BORRA todas las redirecciones - así que ten cuidado con esto."
+
+#: page_post_redirect_plugin.php:1153
+msgid "Plugin Clean Up"
+msgstr "Limpieza del plugin"
+
+#: page_post_redirect_plugin.php:1147
+msgid "Makes link show redirect URL instead of the original URL. Will only work on Quick Redirects if the \"Use jQuery\" option is set."
+msgstr "Hace que el enlace muestre la URL de redirección en vez de la URL original. Solo funcionará en las redirecciones rápidas si la opción «Usar jQuery» está activa."
+
+#: page_post_redirect_plugin.php:1146
+msgid "Rewrite ALL Redirects URLs to Show in LINK?"
+msgstr "¿Reescribir TODAS las URLs de redirección para mostrarlas en el ENLACE?"
+
+#: page_post_redirect_plugin.php:1143
+msgid "Use full URL including <code>http://</code>."
+msgstr "Usa la URL completa incluyendo <code>http://</code>."
+
+#: page_post_redirect_plugin.php:1142
+msgid "Make ALL Redirects go to this URL:"
+msgstr "Hacer que TODAS las redirecciones vayan a esta URL:"
+
+#: page_post_redirect_plugin.php:1139
+msgid "Makes URLs CaSe SensiTivE - i.e., /somepage/ DOES NOT EQUAL /SoMEpaGe/"
+msgstr "Hace que las URLs distingan entre MAYÚSCULAS y minúsculas - p.ej., /unapagina/ NO ES LO MISMO QUE /UnaPaginA/"
+
+#: page_post_redirect_plugin.php:1138
+msgid "Make ALL redirects Case Sensitive?"
+msgstr "¿Hacemos que TODAS las redirecciones distingan entre mayúsculas y minúsculas?"
+
+#: page_post_redirect_plugin.php:1134
+msgid "(This will also override Quick Redirects)"
+msgstr "(Esto también omitirá las redirecciones rápidas)"
+
+#: page_post_redirect_plugin.php:1132
+msgid "Meta Refresh Redirect"
+msgstr "Redirección de meta refresco"
+
+#: page_post_redirect_plugin.php:1130 page_post_redirect_plugin.php:1131
+msgid "Temporary Redirect"
+msgstr "Redirección temporal"
+
+#: page_post_redirect_plugin.php:1129
+msgid "Permanant Redirect"
+msgstr "Redirección permanente"
+
+#: page_post_redirect_plugin.php:1128
+msgid "Use Individual Settings"
+msgstr "Usar ajustes individuales"
+
+#: page_post_redirect_plugin.php:1126
+msgid "Make ALL Redirects this type:"
+msgstr "Hacer que TODAS las redirecciones sean de este tipo:"
+
+#: page_post_redirect_plugin.php:1122
+msgid "Make ALL Redirects open in a New Window?"
+msgstr "¿Hacemos que TODAS las redirecciones se abran en una nueva ventana?"
+
+#: page_post_redirect_plugin.php:1119 page_post_redirect_plugin.php:1123
+msgid "Requires \"use jQuery\" option to work with Quick Redirects."
+msgstr "Requiere la opción «Usar jQuery» para que funcione con las redirecciones rápidas."
+
+#: page_post_redirect_plugin.php:1118
+msgid "Make ALL Redirects have <code>rel=\"nofollow\"</code>?"
+msgstr "¿Hacemos que TODAS las redirecciones tengan <code>rel=\"nofollow\"</code>?"
+
+#: page_post_redirect_plugin.php:1115
+msgid "Basically the same as having no redirects set up."
+msgstr "Básicamente lo mismo que si no has configurado ninguna redirección."
+
+#: page_post_redirect_plugin.php:1114
+msgid "Turn OFF all Redirects?"
+msgstr "¿DESACTIVAR todas las redirecciones?"
+
+#: page_post_redirect_plugin.php:1111
+msgid "<strong>NOTE: </strong>The below settings will override all individual settings."
+msgstr "<strong>NOTA: </strong>Los siguientes ajustes omitirán los ajustes individuales."
+
+#: page_post_redirect_plugin.php:1111
+msgid "Master Override Options"
+msgstr "Opciones maestras de omitir"
+
+#: page_post_redirect_plugin.php:1105
+msgid "Uses jQuery to add the \"New Window\" and \"No Follow\" attributes to links."
+msgstr "Usa jQuery para añadir los atributos «Nueva ventana» y «No follow» a los enlaces."
+
+#: page_post_redirect_plugin.php:1105
+msgid "Increases effectiveness of plugin. If you have a jQuery conflict, try turning this off."
+msgstr "Incrementa la efectividad del plugin. Si hay un conflicto con jQuery prueba a desactivar esto."
+
+#: page_post_redirect_plugin.php:1104
+msgid "Use jQuery?"
+msgstr "¿Usar jQuery?"
+
+#: page_post_redirect_plugin.php:1100
+msgid "Show Columns on list pages for set up redirects."
+msgstr "Muestra columnas en las páginas de listas para configurar redirecciones."
+
+#: page_post_redirect_plugin.php:1099
+msgid "Show Column Headers?"
+msgstr "¿Mostrar cabeceras de columnas?"
+
+#: page_post_redirect_plugin.php:1077
+msgid "meta box for following Post Types:"
+msgstr "caja meta en los siguientes tipos de contenido:"
+
+#: page_post_redirect_plugin.php:1077
+msgid "Hide"
+msgstr "Ocultar"
+
+#: page_post_redirect_plugin.php:1073
+msgid "Use with Custom Post Types?"
+msgstr "¿Usar con tipos de contenido personalizados?"
+
+#: page_post_redirect_plugin.php:1070
+msgid "Basic Settings"
+msgstr "Ajustes básicos"
+
+#: page_post_redirect_plugin.php:1041
+msgid "Quick Page Post Redirect Options"
+msgstr "Opciones de redirección rápida de entrada/entrada"
+
+#: page_post_redirect_plugin.php:1037
+msgid "There was an problem with your last request. Please reload the page and try again."
+msgstr "Hubo un problema con tu última solicitud. Por favor, recarga la página e inténtalo de nuevo."
+
+#: page_post_redirect_plugin.php:1036
+msgid "All Redirects and Settings deleted from database"
+msgstr "Todas las redirecciones y ajustes se han borrado de la base de datos"
+
+#: page_post_redirect_plugin.php:1033
+msgid "All Individual Redirects deleted from database."
+msgstr "Se han borrado todas las redirecciones individuales de la base de datos."
+
+#: page_post_redirect_plugin.php:1032
+msgid "All Quick Redirects deleted from database."
+msgstr "Se han borrado todas las redirecciones directas de la base de datos."
+
+#: page_post_redirect_plugin.php:1014
+msgid "ADD TO Current Quick Redirects"
+msgstr "AÑADIR A las redirecciones rápidas actuales"
+
+#: page_post_redirect_plugin.php:1007
+msgid "Make Sure any destination URLs that have a PIPE in the querystring data are URL encoded before adding them!"
+msgstr "¡Asegúrate de que toda URL de destino tenga una barra vertical (|) en los datos de cadena de solicitud sea una URL codificada antes de añadirla!"
+
+#: page_post_redirect_plugin.php:1007
+msgid "IMPORTANT:"
+msgstr "IMPORTANTE:"
+
+#: page_post_redirect_plugin.php:1005
+msgid "/dontate/|http://example.com/destination/|1|1"
+msgstr "/donar/|http://ejempmlo.com/destino/|1|1"
+
+#: page_post_redirect_plugin.php:1004
+msgid "/old-location.htm|http://some.com/new-destination/|0|1"
+msgstr "/anterior-ubicacion.htm|http://algo.com/nuevo-destino/|0|1"
+
+#: page_post_redirect_plugin.php:1002
+msgid "for Example:"
+msgstr "por ejemplo:"
+
+#: page_post_redirect_plugin.php:1001
+msgid "redirect|destination|newwindow|nofollow"
+msgstr "redirect|destination|newwindow|nofollow"
+
+#: page_post_redirect_plugin.php:999
+msgid "The import file should be a text file with one rediect per line, PIPE separated, in this format:"
+msgstr "El archivo a importar debe ser un archivo de texto con una redirección por línea, separadas por barras verticales (|), en este formato:"
+
+#: page_post_redirect_plugin.php:988 page_post_redirect_plugin.php:1009
+msgid "Select Quick Redirects file to import:"
+msgstr "Elige el archivo de redirecciones rápidas a importar:"
+
+#: page_post_redirect_plugin.php:984
+msgid "ADD TO Quick Redirects"
+msgstr "AÑADIR A redirecciones rápidas"
+
+#: page_post_redirect_plugin.php:982
+msgid "RESTORE Saved Quick Redirects"
+msgstr "RESTAURAR redirecciones rápidas guardadas"
+
+#: page_post_redirect_plugin.php:980
+msgid "To add new redirects in bulk use the \"Add To\" option - NOTE: to Add To redirects, the file must be pipe dilimited "
+msgstr "Para añadir nuevas redirecciones en lote usa la opción «Añadir a» - NOTA: para las redirecciones «Añadir a», el archivo debe estar delimitado por barras verticales "
+
+#: page_post_redirect_plugin.php:979
+msgid "If you want to replace or restore redirects from a file, use the \"Restore\" option."
+msgstr "Si quieres reemplazar o restaurar redirecciones desde un archivo utiliza la opción «Restaurar»."
+
+#: page_post_redirect_plugin.php:978 page_post_redirect_plugin.php:1246
+msgid "Import Redirects"
+msgstr "Importar redirecciones"
+
+#: page_post_redirect_plugin.php:971
+msgid "EXPORT all Quick Redirects (PIPE Separated)"
+msgstr "EXPORTAR todas las redirecciones rápidas (separadas por barras verticales)"
+
+#: page_post_redirect_plugin.php:970 page_post_redirect_plugin.php:983
+msgid "OR"
+msgstr "O"
+
+#: page_post_redirect_plugin.php:969
+msgid "EXPORT all Quick Redirects (Encoded)"
+msgstr "EXPORTAR todas las redirecciones rápidas (codificadas)"
+
+#: page_post_redirect_plugin.php:968
+msgid "Please use the below buttons to make a back-up as either encoded (unreadable) or pipe separated"
+msgstr "Por favor, utiliza los siguientes botones para hacer una copia de seguridad como codificadas (ilegible) o separadas por barras verticales"
+
+#: page_post_redirect_plugin.php:967
+msgid "You should back-up your redirect regularly in case something happens to the database."
+msgstr "Deberías hacer copia de seguridad de tus redirecciones con regularidad por si pasa algo en la base de datos."
+
+#: page_post_redirect_plugin.php:966 page_post_redirect_plugin.php:1241
+msgid "Export Redirects"
+msgstr "Exportar redirecciones"
+
+#: page_post_redirect_plugin.php:960 page_post_redirect_plugin.php:1059
+msgid "If you enjoy or find any of our plugins useful, please donate a few dollars to help with future development and updates. We thank you in advance."
+msgstr "Si disfrutas o encuentras útil alguno de nuestros plugins, por favor, dona unos pocos euros para ayudar al futuro desarrollo y actualizaciones. Gracias por adelantado."
+
+#: page_post_redirect_plugin.php:944
+msgid "Import/Export Redirects"
+msgstr "Importar/Exportar redirecciones"
+
+#: page_post_redirect_plugin.php:941 page_post_redirect_plugin.php:1035
+msgid "Quick Redirects Imported & Added to Existing Redirects."
+msgstr "Redirecciones rápidas importadas y añadidas a las redirecciones existentes."
+
+#: page_post_redirect_plugin.php:940 page_post_redirect_plugin.php:1034
+msgid "Quick Redirects Imported & Replaced."
+msgstr "Redirecciones rápidas importadas y reemplazadas."
+
+#: page_post_redirect_plugin.php:815
+msgid "redirect to URL"
+msgstr "redirigir a URL"
+
+#: page_post_redirect_plugin.php:814
+msgid "original URL"
+msgstr "URL original"
+
+#: page_post_redirect_plugin.php:813
+msgid "rewrite link"
+msgstr "enlace de re-escritura"
+
+#: page_post_redirect_plugin.php:812
+msgid "type"
+msgstr "tipo"
+
+#: page_post_redirect_plugin.php:811
+msgid "new window"
+msgstr "nueva ventana"
+
+#: page_post_redirect_plugin.php:810
+msgid "no follow"
+msgstr "no follow"
+
+#: page_post_redirect_plugin.php:809
+msgid "active"
+msgstr "activo"
+
+#: page_post_redirect_plugin.php:808
+msgid "post type"
+msgstr "tipo de contenido"
+
+#: page_post_redirect_plugin.php:807
+msgid "ID"
+msgstr "ID"
+
+#: page_post_redirect_plugin.php:805
+msgid "Rewrite Override is on!"
+msgstr "¡La omisión de reescritura está activa!"
+
+#: page_post_redirect_plugin.php:804
+msgid "New Window Override is on!"
+msgstr "¡Omitir nueva ventana está activo!"
+
+#: page_post_redirect_plugin.php:803
+msgid "No Follow Override is on!"
+msgstr "¡Omitir no follow está activo!"
+
+#: page_post_redirect_plugin.php:802
+msgid "Acitve Override is on - All Redirects are OFF!"
+msgstr "La omisión está activa - ¡Todas las redirecciones están DESACTIVADAS!"
+
+#: page_post_redirect_plugin.php:799
+msgid "Summary"
+msgstr "Resumen"
+
+#: page_post_redirect_plugin.php:791
+msgid "This is a summary of Individual &amp; Quick 301 Redirects."
+msgstr "Esto es un resumen de redirecciones 301 individuales y rápidas."
+
+#: page_post_redirect_plugin.php:790
+msgid "Quick Page Post Redirect Summary"
+msgstr "Resumen de redirección rápida de pagina/entrada"
+
+#: page_post_redirect_plugin.php:778
+msgid "Questions/Answers"
+msgstr "Preguntas/Respuestas"
+
+#: page_post_redirect_plugin.php:774
+msgid "Table of Contents"
+msgstr "Tabla de contenidos"
+
+#: page_post_redirect_plugin.php:756
+msgid "The FAQS are now on a feed that can be updated on the fly. If you have a question and don't see an answer, please send an email to <a href=\"mailto:info@anadnet.com\">info@anadnet.com</a> and ask your question. If it is relevant to the plugin, it will be added to the FAQs feed so it will show up here. Please be sure to include the plugin you are asking a question about (Quick Page/Post Redirect Plugin) and any other information like your WordPress version and examples if the plugin is not working correctly for you. THANKS!"
+msgstr "Las preguntas frecuentes están ahora en un feed que puede actualizarse en directo. Si tienes una pregunta y no ves la respuesta, por favor, envía un correo electrónico a <a href=\"mailto:info@anadnet.com\">info@anadnet.com</a> y haz tu pregunta. Si es relevante para el plugin se añadirá al feed de las preguntas frecuentes para que se vea ahí. Por favor, asegúrate de decir sobre qué plugin estás haciendo la pregunta (Quick Page/Post Redirect Plugin) y cualquier otra información, como tu versión de WordPress y ejemplos si no te está funcionando correctamente el plugin. ¡GRACIAS!"
+
+#: page_post_redirect_plugin.php:755
+msgid "Quick Page/Post Redirect FAQs/Help"
+msgstr "Preguntas frecuentes/Ayuda de Quick Page/Post Redirect"
+
+#: page_post_redirect_plugin.php:659
+msgid "Please add at least one redirect before submitting form"
+msgstr "Por favor, añade al menos una redirección antes de enviar el formulario"
+
+#: page_post_redirect_plugin.php:656
+msgid "File type not allowed,\\nAllowed file type: *.txt"
+msgstr "Tipo de archivo no permitido,\\nTipo de archivo permitido: *.txt"
+
+#: page_post_redirect_plugin.php:654
+msgid "Error Saving Redirect\\nTry refreshing the page and trying again."
+msgstr "Error al guardar la redirección\\nTrata de recargar la página e inténtalo de nuevo."
+
+#: page_post_redirect_plugin.php:653
+msgid "Are you sure you want to delete this redirect?"
+msgstr "¿Estás seguro de querer borrar esta redirección?"
+
+#: page_post_redirect_plugin.php:652
+msgid "Redirect could not be saved as a redirect already exists with the same Request URL."
+msgstr "No se pudo guardar la redirección porque ya existe una redirección con la misma URL solicitada."
+
+#: page_post_redirect_plugin.php:651
+msgid "Are you sure you want to PERMANENTLY Delets ALL Individual Redirects?"
+msgstr "¿Estás seguro de querer borrar PERMANENTEMENTE todas las redirecciones permanentes?"
+
+#: page_post_redirect_plugin.php:650
+msgid "Are you sure you want to PERMANENTLY Delete ALL Quick Redirects?"
+msgstr "¿Estás seguro de querer borrar PERMANENTEMENTE TODAS las redirecciones rápidas?"
+
+#: page_post_redirect_plugin.php:649
+msgid "Are you sure you want to PERMANENTLY Delete ALL Redirects and Settings (this cannot be undone)?"
+msgstr "¿Estás seguro de querer borrar PERMANENTEMENTE TODAS las redirecciones y ajustes (esto no puede deshacerse)?"
+
+#: page_post_redirect_plugin.php:616
+msgid "Quick Page/Post Redirect"
+msgstr "Redirección rápida de entrada/página"
+
+#: page_post_redirect_plugin.php:548
+msgid "Redirect"
+msgstr "Redirigir"
+
+#: page_post_redirect_plugin.php:443
+msgid "Quick Redirects Updated."
+msgstr "Redirecciones rápidas actualizadas."
+
+#: page_post_redirect_plugin.php:327
+msgid "If you experience JavaScript/jQuery conflicts, try turning this option off."
+msgstr "Si experimentas conflictos con JavaScript/jQuery trata de desactivar esta opción."
+
+#: page_post_redirect_plugin.php:326
+msgid "This adds JavaScript/jQuery scripting to check the links in the output HTML of the page and add the correct functionality if needed."
+msgstr "Esto añade scripts JavaScript/jQuery para comprobar los enlaces en la salida HTML de la página y añade la funcionalidad correcta si fuese necesario."
+
+#: page_post_redirect_plugin.php:325
+msgid "To increase the effectiveness of the plugin's ability to add new window and nofollow functionality, you can use the jQuery option."
+msgstr "Para incrementar la efectividad de las posibilidades del plugin de añadir la funcionalidad de nueva ventana y nofollow puedes usar la opción jQuery."
+
+#: page_post_redirect_plugin.php:324
+msgid "New Option to Use jQuery"
+msgstr "Nueva opción para usar jQuery"
+
+#: page_post_redirect_plugin.php:311
+msgid "and the redirect will be deleted. Click the trash can icon"
+msgstr "y la redirección se borrará. Haz clic en el icono de la papelera"
+
+#: page_post_redirect_plugin.php:311
+msgid "and the row will become editable. Click the trash can icon"
+msgstr "y la fila será editable. Haz clic en el icono de la papelera"
+
+#: page_post_redirect_plugin.php:311
+msgid "To edit an existing redirect, click the pencil icon"
+msgstr "Para editar una redirección existente haz clic en el icono del lápiz"
+
+#: page_post_redirect_plugin.php:310
+msgid "The existing <strong>Quick Redirects</strong> are now laid out in a list format instead of form fields. When you have a lot of Redirects, this helps eliminate the \"max_input_vars\" configuration issue where redirects were not saving correctly."
+msgstr "Las <strong>redirecciones rápidas</strong> existentes ahora están en una lista con formato en vez de campos de formulario. Cuando tienes muchas redirecciones esto ayuda a eliminar problemas de configuración con «max_input_vars» cuando las redirecciones no se guardar correctamente."
+
+#: page_post_redirect_plugin.php:309
+msgid "New Layout of Existing Redirects"
+msgstr "Nueva visualización de las redirecciones existentes"
+
+#: page_post_redirect_plugin.php:296
+msgid "Please view the Help Tab above to see more information about the Meta Redirect Settings."
+msgstr "Por favor, echa un vistazo a la pestaña de ayuda para ver más información sobre los ajustes de redirección meta."
+
+#: page_post_redirect_plugin.php:295
+msgid "New Meta Redirect options."
+msgstr "Opciones de nueva redirección meta."

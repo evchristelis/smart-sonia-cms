@@ -1,0 +1,66 @@
+# Translation of Plugins - Categories Images - Stable (latest release) in Ukrainian
+# This file is distributed under the same license as the Plugins - Categories Images - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-09-01 17:43:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Plugins - Categories Images - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://zahlan.net/"
+msgstr "http://zahlan.net/"
+
+#. Author of the plugin/theme
+msgid "Muhammad Said El Zahlan"
+msgstr "Muhammad Said El Zahlan"
+
+#. Description of the plugin/theme
+msgid "Categories Images Plugin allow you to add an image to category or any custom term."
+msgstr "Плагін Категорії Зображення дозволяє додавати зображення в категорію або будь-який спеціальний термін."
+
+#. Plugin URI of the plugin/theme
+msgid "http://zahlan.net/blog/2012/06/categories-images/"
+msgstr "http://zahlan.net/blog/2012/06/categories-images/"
+
+#: categories-images.php:305
+msgid "You do not have sufficient permissions to access this page."
+msgstr "У Вас немає права доступу до цієї сторінки."
+
+#: categories-images.php:285
+msgid "Please select the taxonomies you want to exclude it from Categories Images plugin"
+msgstr "Будь ласка, виберіть таксономії, які ви хочете виключити його з Категорії образів плагін"
+
+#: categories-images.php:280
+msgid "Excluded Taxonomies"
+msgstr "Виключені Таксономії"
+
+#. #-#-#-#-#  categories-images-code.pot (Categories Images 2.5.4)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: categories-images.php:272 categories-images.php:310
+msgid "Categories Images"
+msgstr "Категорії Зображення"
+
+#: categories-images.php:272 categories-images.php:279
+msgid "Categories Images settings"
+msgstr "Категорії Зображення настройки"
+
+#: categories-images.php:252
+msgid "Thumbnail"
+msgstr "Мініатюри"
+
+#: categories-images.php:88 categories-images.php:217
+msgid "Remove image"
+msgstr "Видалити зображення"
+
+#: categories-images.php:67 categories-images.php:87 categories-images.php:216
+msgid "Upload/Add image"
+msgstr "Додати/Додати зображення"
+
+#: categories-images.php:64 categories-images.php:85 categories-images.php:234
+msgid "Image"
+msgstr "Зображення"

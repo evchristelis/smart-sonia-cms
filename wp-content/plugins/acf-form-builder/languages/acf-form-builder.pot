@@ -1,0 +1,1460 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: User Frontend Submit PRO\n"
+"POT-Creation-Date: 2018-04-25 09:39+0700\n"
+"PO-Revision-Date: 2018-04-25 09:39+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: acf-form-builder.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-acf-form-builder-admin.php:110
+#: admin/class-acf-form-builder-admin.php:184
+#: admin/class-acf-form-builder-admin.php:188
+msgid "Form field type"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:162
+#: admin/class-acf-form-builder-admin.php:237
+msgid "Meta key"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:260
+msgctxt "Post Type General Name"
+msgid "Packages"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:261
+msgctxt "Post Type Singular Name"
+msgid "Package"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:262
+#: admin/class-acf-form-builder-admin.php:263
+#: admin/class-acf-form-builder-admin.php:738
+msgid "Packages"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:264
+#: admin/class-acf-form-builder-admin.php:315
+msgid "Item Archives"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:265
+#: admin/class-acf-form-builder-admin.php:316
+msgid "Item Attributes"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:266
+#: admin/class-acf-form-builder-admin.php:317
+msgid "Parent Item:"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:267
+#: admin/class-acf-form-builder-admin.php:318
+msgid "All Items"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:268
+#: admin/class-acf-form-builder-admin.php:319
+msgid "Add New Item"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:269
+#: admin/class-acf-form-builder-admin.php:320
+#: admin/class-acf-form-builder-admin.php:1726
+#: admin/class-acf-form-builder-admin.php:1800
+msgid "Add New"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:270
+#: admin/class-acf-form-builder-admin.php:321
+msgid "New Item"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:271
+#: admin/class-acf-form-builder-admin.php:322
+msgid "Edit Item"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:272
+#: admin/class-acf-form-builder-admin.php:323
+msgid "Update Item"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:273
+#: admin/class-acf-form-builder-admin.php:324
+msgid "View Item"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:274
+#: admin/class-acf-form-builder-admin.php:325
+msgid "View Items"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:275
+#: admin/class-acf-form-builder-admin.php:326
+msgid "Search Item"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:276
+#: admin/class-acf-form-builder-admin.php:327
+msgid "Not found"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:277
+#: admin/class-acf-form-builder-admin.php:328
+msgid "Not found in Trash"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:278
+#: admin/class-acf-form-builder-admin.php:329
+msgid "Featured Image"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:279
+#: admin/class-acf-form-builder-admin.php:330
+msgid "Set featured image"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:280
+#: admin/class-acf-form-builder-admin.php:331
+msgid "Remove featured image"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:281
+#: admin/class-acf-form-builder-admin.php:332
+msgid "Use as featured image"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:282
+#: admin/class-acf-form-builder-admin.php:333
+msgid "Insert into item"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:283
+#: admin/class-acf-form-builder-admin.php:334
+msgid "Uploaded to this item"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:284
+#: admin/class-acf-form-builder-admin.php:335
+msgid "Items list"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:285
+#: admin/class-acf-form-builder-admin.php:336
+msgid "Items list navigation"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:286
+#: admin/class-acf-form-builder-admin.php:337
+msgid "Filter items list"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:289
+#: admin/class-acf-form-builder-admin.php:596
+#: admin/class-acf-form-builder-admin.php:1389
+#: admin/class-acf-form-builder-admin.php:1867
+#: public/partials/acf-checkout-subscription.php:42
+msgid "Package"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:290
+msgid "Form Packages"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:311
+msgctxt "Post Type General Name"
+msgid "Transactions"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:312
+msgctxt "Post Type Singular Name"
+msgid "Transaction"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:313
+#: admin/class-acf-form-builder-admin.php:314
+msgid "Transactions"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:348
+msgid "Transaction"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:373
+#: admin/class-acf-form-builder-admin.php:374
+msgid "ACF FB"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:403
+msgid "Claim Listing"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:415
+msgid "Enable Claim Listing"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:420
+msgid "ACForm group"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:423
+msgid "Select a group"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:439
+#: admin/class-acf-form-builder-admin.php:834
+msgid "USD"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:440
+#: admin/class-acf-form-builder-admin.php:835
+msgid "EUR"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:453
+msgid "Claim Listing Feature"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:454
+msgid "Select post types what supported to claim listing feature"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:457
+msgid "Select post types"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:466
+#: admin/class-acf-form-builder-admin.php:734
+#: admin/class-acf-form-builder-admin.php:934
+msgid "Checkout Page"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:467
+#: admin/class-acf-form-builder-admin.php:935
+msgid "Select a checkout page"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:474
+#: admin/class-acf-form-builder-admin.php:488
+#: admin/class-acf-form-builder-admin.php:495
+#: admin/class-acf-form-builder-admin.php:508
+#: admin/class-acf-form-builder-admin.php:914
+#: admin/class-acf-form-builder-admin.php:942
+#: admin/class-acf-form-builder-admin.php:949
+#: admin/class-acf-form-builder-admin.php:956
+msgid "Select a page"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:479
+#: admin/class-acf-form-builder-admin.php:926
+msgid "Select currency"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:487
+#: admin/class-acf-form-builder-admin.php:948
+msgid "Checkout Failed Page"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:500
+#: admin/class-acf-form-builder-admin.php:887
+#: admin/class-acf-form-builder-admin.php:906
+msgid "Page"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:501
+msgid "Select redirection page after checkout"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:513
+#: admin/class-acf-form-builder-admin.php:1239
+msgid "Enable Paypal"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:518
+#: admin/class-acf-form-builder-admin.php:1245
+msgid "Paypal Email"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:524
+#: admin/class-acf-form-builder-admin.php:1251
+msgid "Paypal Sandbox Key"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:530
+#: admin/class-acf-form-builder-admin.php:1258
+msgid "Paypal Production Key"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:536
+#: admin/class-acf-form-builder-admin.php:1265
+msgid "Paypal Mode"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:538
+#: admin/class-acf-form-builder-admin.php:579
+#: admin/class-acf-form-builder-admin.php:1267
+#: admin/class-acf-form-builder-admin.php:1309
+msgid "Sandbox"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:539
+#: admin/class-acf-form-builder-admin.php:580
+#: admin/class-acf-form-builder-admin.php:1268
+#: admin/class-acf-form-builder-admin.php:1310
+msgid "Production"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:548
+#: admin/class-acf-form-builder-admin.php:1277
+msgid "Enable Stripe"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:553
+#: admin/class-acf-form-builder-admin.php:1283
+msgid "Stripe Sandbox Key"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:559
+#: admin/class-acf-form-builder-admin.php:1289
+msgid "Stripe Production Key"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:565
+#: admin/class-acf-form-builder-admin.php:1295
+msgid "Stripe Sandbox Secret Key"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:571
+#: admin/class-acf-form-builder-admin.php:1301
+msgid "Stripe Production Secret Key"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:577
+#: admin/class-acf-form-builder-admin.php:1307
+msgid "Stripe Mode"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:589
+#: admin/class-acf-form-builder-admin.php:1330
+msgid "Post Price"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:597
+#: admin/class-acf-form-builder-admin.php:1390
+msgid "Select available package for this form"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:624
+msgid "ACF form builder shortcode"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:639
+msgid "User Registration"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:644
+msgid "ACF group id"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:650
+msgid "Edit User Profile"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:654
+msgid "User Profile"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:658
+msgid "Current User's Packages"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:662
+msgid "User's Payment History"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:666
+msgid "Frontend Submit Post"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:671
+#: admin/class-acf-form-builder-admin.php:682
+msgid "ACF form id"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:677
+msgid "Edit Post Form"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:687
+msgid "Post id (optional)"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:688
+msgid "Add post id for creating edit form"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:694
+msgid "Show All Posts"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:704
+msgid "Post type"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:715
+msgid "Post Status"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:727
+msgid "User roles"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:743
+msgid "Package (optional)"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:744
+msgid "Select available packages"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:758
+#: admin/class-acf-form-builder-admin.php:1405
+msgid "Package style"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:759
+#: admin/class-acf-form-builder-admin.php:1406
+msgid "Select package style"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:761
+#: admin/class-acf-form-builder-admin.php:1408
+msgid "Style 1"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:762
+#: admin/class-acf-form-builder-admin.php:1409
+msgid "Style 2"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:763
+#: admin/class-acf-form-builder-admin.php:1410
+msgid "Style 3"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:764
+#: admin/class-acf-form-builder-admin.php:1411
+msgid "Style 4"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:771
+msgid "Number of columns"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:772
+msgid "Select an option"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:774
+msgid "1"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:775
+msgid "2"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:776
+msgid "3"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:777
+msgid "4"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:778
+msgid "6"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:828
+msgid "Frontend Post Submission"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:829
+msgid "User Registeration"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:844
+msgid "Form Builder Settings"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:857
+msgid "Form Display"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:858
+msgid "Use this field group as a form"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:863
+msgid "Form type"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:864
+msgid "Choose a form type you want to create"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:873
+msgid "Shortcode"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:874
+msgid "Copy and paste somewhere after you updated the field group"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:883
+msgid "Redirect after submission"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:884
+msgid "Select where to redirect user to after the submission"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:886
+#: admin/class-acf-form-builder-admin.php:898
+msgid "URL"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:888
+msgid "Newly post created"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:889
+#: admin/class-acf-form-builder-admin.php:1134
+msgid "Edit Page"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:899
+msgid "Put redirection URL here"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:907
+msgid "Select redirection page"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:920
+msgid "Enable payment"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:962
+msgid "Enable guest posting"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:970
+msgid "Select users"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:971
+msgid "Allow users posting"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:972
+msgid "No user selected is same all users"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:984
+msgid "Select roles"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:985
+msgid "Allow roles posting"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:986
+msgid "No role selected is same all roles"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1003
+msgid "Custom post type"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1004
+msgid "Select custom post type"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1007
+msgid "Select a custom post type"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1013
+msgid "Default feature image"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1014
+msgid "Add image"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1020
+msgid "Default category"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1028
+msgid "Select a category"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1034
+msgid "Default author"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1037
+msgid "Select an author"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1043
+msgid "Post status after created"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1052
+msgid "Comment status"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1054
+msgid "Disable"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1055
+msgid "Enable"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1064
+msgid "Show post title"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1070
+msgid "Show post content editor"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1076
+msgid "Field label placement"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1078
+msgid "Top"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1079
+msgid "Left"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1088
+msgid "Field instruction"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1090
+msgid "Label"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1091
+msgid "Field"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1100
+msgid "Field HTML wrapper"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1102
+msgid "div"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1103
+msgid "tr"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1104
+msgid "td"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1105
+msgid "ul"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1106
+msgid "ol"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1107
+msgid "dl"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1116
+msgid "Custom form attributes"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1122
+msgid "Upload form type"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1124
+msgid "Basic Upload"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1125
+msgid "WP Uploader"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1141
+msgid "Select Edit Page"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1154
+msgid "Set user role"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1155
+#: admin/class-acf-form-builder-admin.php:1158
+msgid "Select a role"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1164
+msgid "Can access WP-Admin"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1170
+msgid "Hide WP-Admin bar"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1176
+msgid "Send confirmation message"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1182
+msgid "Term and conditional"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1188
+msgid "Number of limit attempt"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1194
+msgid "Time limit"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1208
+msgid "Show custom fields in edit profile backend"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1214
+msgid "Hide custom fields in frontend"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1220
+msgid "Require password to update profile"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1226
+msgid "Custom CSS class"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1319
+msgid "Payment Type"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1321
+msgid "Pay Per Post"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1322
+#: public/class-acf-form-builder-public.php:691
+#: public/class-acf-form-builder-public.php:734
+#: public/class-acf-form-builder-public.php:799
+#: public/class-acf-form-builder-public.php:833
+msgid "Subscription"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1337
+msgid "Expiry time"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1338
+#: admin/class-acf-form-builder-admin.php:1360
+#: admin/class-acf-form-builder-admin.php:1382
+#: admin/class-acf-form-builder-admin.php:1765
+#: admin/class-acf-form-builder-admin.php:1785
+msgid "Enter number of expiry days"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1345
+#: admin/class-acf-form-builder-admin.php:1752
+msgid "Enable Feature Post"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1351
+msgid "Feature Post Price"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1352
+#: admin/class-acf-form-builder-admin.php:1374
+msgid "This price is additional price"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1359
+#: admin/class-acf-form-builder-admin.php:1764
+msgid "Expiry feature time"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1367
+#: admin/class-acf-form-builder-admin.php:1772
+msgid "Enable VIP Post"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1373
+msgid "VIP Post Price"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1381
+#: admin/class-acf-form-builder-admin.php:1784
+msgid "Expiry VIP time"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1426
+msgid "Submit button text"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1432
+msgid "Update button text"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1438
+msgid "Unauthorization error"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1440
+msgid "You do not have permission to edit this post or access this page"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1445
+msgid "Not match package error"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1447
+msgid ""
+"Your current package is empty or do not meet form requirements, please "
+"update or select the corresponding to this form."
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1460
+msgid "Enable notify"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1470
+#: admin/class-acf-form-builder-admin.php:1513
+#: admin/class-acf-form-builder-admin.php:1556
+#: admin/class-acf-form-builder-admin.php:1599
+msgid "Notify to user"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1476
+#: admin/class-acf-form-builder-admin.php:1495
+#: admin/class-acf-form-builder-admin.php:1519
+#: admin/class-acf-form-builder-admin.php:1538
+#: admin/class-acf-form-builder-admin.php:1562
+#: admin/class-acf-form-builder-admin.php:1581
+#: admin/class-acf-form-builder-admin.php:1605
+#: admin/class-acf-form-builder-admin.php:1624
+msgid "Subject"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1482
+#: admin/class-acf-form-builder-admin.php:1501
+#: admin/class-acf-form-builder-admin.php:1525
+#: admin/class-acf-form-builder-admin.php:1544
+#: admin/class-acf-form-builder-admin.php:1568
+#: admin/class-acf-form-builder-admin.php:1587
+#: admin/class-acf-form-builder-admin.php:1611
+#: admin/class-acf-form-builder-admin.php:1630
+msgid "Email body"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1489
+#: admin/class-acf-form-builder-admin.php:1532
+#: admin/class-acf-form-builder-admin.php:1575
+#: admin/class-acf-form-builder-admin.php:1618
+msgid "Notify to admin"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1637
+msgid ""
+"You can use mail-tags in a email body.<br/> This <code>%file_name%</code> is "
+"a mail-tag that will be replaced with an actual post info through the "
+"<code>field_name</code> field.<br/> (ex: <code>%post_title%</code>, <code>"
+"%post_date%</code>, ...)"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1643
+msgid ""
+"You can use mail-tags in a email body.<br/> This <code>%file_name%</code> is "
+"a mail-tag that will be replaced with an actual user info or user meta info "
+"through the <code>field_name</code> field.<br/> (ex: <code>%user_email%</"
+"code>, <code>%display_name%</code>, <code>%ID%</code> ...)"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1669
+msgid "Package Settings"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1677
+msgid "Package Options"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1682
+msgid "Enable Package Addon"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1687
+msgid "Parent Package"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1696
+msgid "Package Price"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1702
+msgid "Number Of Posts"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1708
+msgid "Package days"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1709
+msgid "Enter number of days"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1716
+msgid "Redirect after purchase"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1717
+msgid "Redirect to specific page after purchase this package"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1725
+msgid "Max post"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1727
+#: admin/class-acf-form-builder-admin.php:1801
+msgid "Group"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1732
+msgid "Number"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1739
+msgid "Day"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1740
+msgid "Week"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1741
+msgid "Month"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1742
+msgid "Year"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1744
+msgid "Time"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1757
+msgid "Number Of Feature Posts"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1777
+msgid "Number Of VIP Posts"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1794
+msgid "Package Feature"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1799
+msgid "Package Features"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1806
+msgid "Icon"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1811
+msgid "Text"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1837
+msgid "Transaction Time"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1841
+msgid "Transaction Secret"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1845
+msgid "Transaction Status"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1849
+msgid "Account"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1853
+msgid "Content"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1860
+msgid "Post title"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1881
+#: public/partials/acf-checkout-pay-per-post.php:71
+#: public/partials/acf-checkout-subscription.php:45
+#: public/partials/acf-form-builder-user-transactions.php:26
+msgid "Total"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1888
+msgid "Transaction Detail"
+msgstr ""
+
+#: admin/class-acf-form-builder-admin.php:1906
+msgid "Transaction Info"
+msgstr ""
+
+#: admin/partials/acf-form-builder-backend-user-profile.php:17
+#: public/partials/acf-form-builder-user-profile.php:30
+msgid "ACF custom fields"
+msgstr ""
+
+#: admin/partials/acf-info-package.php:24
+msgid "Package ID"
+msgstr ""
+
+#: admin/partials/acf-info-package.php:27
+msgid "Package Name"
+msgstr ""
+
+#: admin/partials/acf-info-package.php:30
+msgid "Number of remain posts"
+msgstr ""
+
+#: admin/partials/acf-info-package.php:33
+msgid "Number of remain posts in a "
+msgstr ""
+
+#: admin/partials/acf-info-package.php:36
+msgid "Number of remain vip posts"
+msgstr ""
+
+#: admin/partials/acf-info-package.php:39
+msgid "Number of remain feature posts"
+msgstr ""
+
+#: admin/partials/acf-info-package.php:42
+msgid "Expiry date"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/classes/framework.class.php:175
+msgid "Success. Imported backup options."
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/classes/framework.class.php:180
+msgid "Default options restored."
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/classes/framework.class.php:199
+msgid "Default options restored for only this section."
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/classes/framework.class.php:365
+msgid "Settings saved."
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/classes/framework.class.php:367
+msgid "Save"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/classes/framework.class.php:367
+msgid "Saving..."
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/classes/framework.class.php:368
+msgid "Restore"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/classes/framework.class.php:371
+#: includes/codestar-framework-1.0.1/fields/backup/backup.php:29
+msgid "Reset All Options"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/classes/framework.class.php:375
+msgid "show all options"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/classes/options.class.php:125
+msgid "CONFIG"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/classes/options.class.php:131
+#: includes/codestar-framework-1.0.1/classes/options.class.php:151
+msgid "USAGE"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/classes/options.class.php:137
+msgid "VALUE"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/classes/options.class.php:155
+#: public/partials/acf-form-builder-user-posts.php:22
+msgid "ID"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/classes/options.class.php:227
+#, php-format
+msgid "You are editing language: ( <strong>%s</strong> )"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/classes/shortcode.class.php:82
+#: includes/codestar-framework-1.0.1/classes/shortcode.class.php:90
+#: includes/codestar-framework-1.0.1/fields/textarea/textarea.php:27
+msgid "Add Shortcode"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/classes/shortcode.class.php:92
+msgid "Select a shortcode"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/classes/shortcode.class.php:108
+msgid "Insert Shortcode"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/fields/background/background.php:34
+#: includes/codestar-framework-1.0.1/fields/background/background.php:35
+#: includes/codestar-framework-1.0.1/fields/upload/upload.php:23
+#: includes/codestar-framework-1.0.1/fields/upload/upload.php:24
+msgid "Upload"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/fields/background/background.php:36
+#: includes/codestar-framework-1.0.1/fields/upload/upload.php:25
+msgid "Use Image"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/fields/backup/backup.php:21
+msgid "Import a Backup"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/fields/backup/backup.php:22
+msgid "copy-paste your backup string here"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/fields/backup/backup.php:27
+msgid "Export and Download Backup"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/fields/backup/backup.php:28
+msgid "or"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/fields/backup/backup.php:30
+msgid "Please be sure for reset all of framework options."
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/fields/gallery/gallery.php:21
+msgid "Add Gallery"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/fields/gallery/gallery.php:22
+msgid "Edit Gallery"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/fields/gallery/gallery.php:23
+msgid "Clear"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/fields/group/group.php:21
+msgid "Adding"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/fields/group/group.php:43
+#: includes/codestar-framework-1.0.1/fields/group/group.php:75
+msgid "Remove"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/fields/icon/icon.php:25
+#: includes/codestar-framework-1.0.1/functions/actions.php:82
+msgid "Add Icon"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/fields/icon/icon.php:26
+msgid "Remove Icon"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/fields/image/image.php:22
+msgid "Add Image"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/fields/sorter/sorter.php:24
+msgid "Enabled Modules"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/fields/sorter/sorter.php:25
+msgid "Disabled Modules"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/fields/switcher/switcher.php:20
+msgid "on"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/fields/switcher/switcher.php:20
+msgid "off"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/fields/typography/typography.php:73
+msgid "Web Safe Fonts"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/fields/typography/typography.php:79
+msgid "Google Fonts"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/fields/typography/typography.php:107
+#: includes/codestar-framework-1.0.1/functions/actions.php:32
+msgid "Error! Can not load json file."
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/functions/actions.php:83
+msgid "Search a Icon..."
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/functions/actions.php:84
+msgid "Loading..."
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/functions/helpers.php:48
+msgid "This field class is not available!"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/functions/validate.php:14
+msgid "Please write a valid email address!"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/functions/validate.php:33
+msgid "Please write a numeric data!"
+msgstr ""
+
+#: includes/codestar-framework-1.0.1/functions/validate.php:51
+msgid "Fatal Error! This field is required!"
+msgstr ""
+
+#: public/class-acf-form-builder-public.php:668
+#: public/class-acf-form-builder-public.php:789
+msgid "Pending"
+msgstr ""
+
+#: public/class-acf-form-builder-public.php:674
+#: public/partials/acf-checkout-pay-per-post.php:48
+#: public/partials/acf-checkout-pay-per-post.php:87
+#: public/partials/acf-checkout-pay-per-post.php:92
+msgid "Pay per post"
+msgstr ""
+
+#: public/class-acf-form-builder-public.php:702
+#: public/class-acf-form-builder-public.php:809
+msgid "Sorry, Can't purchase this action for now. Please try again."
+msgstr ""
+
+#: public/class-acf-form-builder-public.php:980
+#: public/class-acf-form-builder-public.php:1091
+#: public/class-acf-form-builder-public.php:1506
+msgid "Submit"
+msgstr ""
+
+#: public/class-acf-form-builder-public.php:982
+#: public/class-acf-form-builder-public.php:1093
+#: public/class-acf-form-builder-public.php:1508
+msgid "Post updated"
+msgstr ""
+
+#: public/class-acf-form-builder-public.php:1135
+#: public/class-acf-form-builder-public.php:1210
+msgid "VIP"
+msgstr ""
+
+#: public/class-acf-form-builder-public.php:1136
+#: public/class-acf-form-builder-public.php:1211
+msgid "Feature"
+msgstr ""
+
+#: public/class-acf-form-builder-public.php:1178
+msgid "You reached max posts"
+msgstr ""
+
+#: public/partials/acf-checkout-pay-per-post.php:41
+#: public/partials/acf-checkout-subscription.php:35
+msgid "Hi"
+msgstr ""
+
+#: public/partials/acf-checkout-pay-per-post.php:42
+msgid "Please purchase to submit your post"
+msgstr ""
+
+#: public/partials/acf-checkout-pay-per-post.php:46
+#: public/partials/acf-checkout-subscription.php:40
+msgid "Cart"
+msgstr ""
+
+#: public/partials/acf-checkout-pay-per-post.php:55
+msgid "Vip post"
+msgstr ""
+
+#: public/partials/acf-checkout-pay-per-post.php:58
+msgid "Feature post"
+msgstr ""
+
+#: public/partials/acf-checkout-subscription.php:36
+msgid "Please purchase to start submit your post"
+msgstr ""
+
+#: public/partials/acf-form-builder-package.php:72
+#: public/partials/acf-form-builder-package.php:91
+#: public/partials/acf-form-builder-package.php:114
+#: public/partials/acf-form-builder-package.php:134
+msgid "Free"
+msgstr ""
+
+#: public/partials/acf-form-builder-package.php:80
+#: public/partials/acf-form-builder-package.php:102
+#: public/partials/acf-form-builder-package.php:122
+#: public/partials/acf-form-builder-package.php:142
+msgid "Get Started"
+msgstr ""
+
+#: public/partials/acf-form-builder-package.php:155
+msgid "No available packages. Please add new one."
+msgstr ""
+
+#: public/partials/acf-form-builder-user-packages.php:31
+msgid "Expire date:"
+msgstr ""
+
+#: public/partials/acf-form-builder-user-packages.php:32
+msgid "Articles left:"
+msgstr ""
+
+#: public/partials/acf-form-builder-user-packages.php:33
+msgid "Articles today:"
+msgstr ""
+
+#: public/partials/acf-form-builder-user-packages.php:36
+msgid "Buy features"
+msgstr ""
+
+#: public/partials/acf-form-builder-user-packages.php:38
+msgid "Renew"
+msgstr ""
+
+#: public/partials/acf-form-builder-user-posts.php:23
+msgid "Title"
+msgstr ""
+
+#: public/partials/acf-form-builder-user-posts.php:24
+#: public/partials/acf-form-builder-user-transactions.php:27
+msgid "Status"
+msgstr ""
+
+#: public/partials/acf-form-builder-user-posts.php:25
+msgid "Post Type"
+msgstr ""
+
+#: public/partials/acf-form-builder-user-posts.php:26
+msgid "Action"
+msgstr ""
+
+#: public/partials/acf-form-builder-user-posts.php:62
+msgid "Edit"
+msgstr ""
+
+#: public/partials/acf-form-builder-user-posts.php:63
+msgid "Delete"
+msgstr ""
+
+#: public/partials/acf-form-builder-user-posts.php:73
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: public/partials/acf-form-builder-user-profile.php:24
+msgid "Hello"
+msgstr ""
+
+#: public/partials/acf-form-builder-user-profile.php:25
+msgid "Firstname:"
+msgstr ""
+
+#: public/partials/acf-form-builder-user-profile.php:26
+msgid "Lastname:"
+msgstr ""
+
+#: public/partials/acf-form-builder-user-profile.php:27
+msgid "Email:"
+msgstr ""
+
+#: public/partials/acf-form-builder-user-profile.php:28
+msgid "About me:"
+msgstr ""
+
+#: public/partials/acf-form-builder-user-transactions.php:24
+msgid "Transaction ID"
+msgstr ""
+
+#: public/partials/acf-form-builder-user-transactions.php:25
+msgid "Purchased package"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "User Frontend Submit PRO"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "acf-form-builder"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Create new posts on frontend with guest or paying feautres"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Cat's Plugins"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://support.catsplugins.com"
+msgstr ""

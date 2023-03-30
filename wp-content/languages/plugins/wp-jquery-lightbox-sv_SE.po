@@ -1,0 +1,132 @@
+# Translation of Plugins - WP jQuery Lightbox - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - WP jQuery Lightbox - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-07-18 16:20:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - WP jQuery Lightbox - Stable (latest release)\n"
+
+#: wp-jquery-lightbox.php:322
+msgid "Load JavaScripts in page footer"
+msgstr "Ladda JavaScripts i sidans sidfot"
+
+#. Author URI of the plugin
+msgid "http://www.ulfbenjaminsson.com"
+msgstr "http://www.ulfbenjaminsson.com"
+
+#: wp-jquery-lightbox.php:339
+msgid "Save Changes"
+msgstr "Spara ändringar"
+
+#. Author of the plugin
+msgid "Ulf Benjaminsson"
+msgstr "Ulf Benjaminsson"
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/extend/plugins/wp-jquery-lightbox/"
+msgstr "http://wordpress.org/extend/plugins/wp-jquery-lightbox/"
+
+#. Plugin Name of the plugin
+msgid "wp-jquery-lightbox"
+msgstr "wp-jquery-lightbox"
+
+#: wp-jquery-lightbox.php:328
+msgid "Animation duration (in milliseconds) "
+msgstr "Animationens varaktighet (i millisekunder)"
+
+#: wp-jquery-lightbox.php:334
+msgid "Slideshow speed (in milliseconds). 0 to disable."
+msgstr "Bildspelets hastighet (i millisekunder). 0 för att inaktivera."
+
+#: wp-jquery-lightbox.php:49
+msgid "Settings"
+msgstr "Inställningar"
+
+#: wp-jquery-lightbox.php:286
+msgid "Show download link"
+msgstr "Visa nedladdningslänk"
+
+#: wp-jquery-lightbox.php:272
+msgid "Show caption"
+msgstr "Visa bildtext"
+
+#: wp-jquery-lightbox.php:265
+msgid "Show title"
+msgstr "Visa rubrik"
+
+#: wp-jquery-lightbox.php:237
+msgid "Cheatin&#8217; uh?"
+msgstr "Fuskar du, va?"
+
+#: wp-jquery-lightbox.php:144
+msgid "Download"
+msgstr "Ladda ner"
+
+#: wp-jquery-lightbox.php:143 wp-jquery-lightbox.php:279
+msgid " of "
+msgstr " av "
+
+#: wp-jquery-lightbox.php:142 wp-jquery-lightbox.php:279
+msgid "Image "
+msgstr "Bild "
+
+#: wp-jquery-lightbox.php:141
+msgid "close image gallery"
+msgstr "stäng bildgalleri"
+
+#: wp-jquery-lightbox.php:140
+msgid "next image"
+msgstr "nästa bild"
+
+#: wp-jquery-lightbox.php:139
+msgid "previous image"
+msgstr "föregående bild"
+
+#: wp-jquery-lightbox.php:145
+msgid "(pause slideshow)"
+msgstr "(pausa bildspel)"
+
+#: wp-jquery-lightbox.php:146
+msgid "(play slideshow)"
+msgstr "(spela bildspel)"
+
+#: wp-jquery-lightbox.php:294
+msgid "Show image info on top"
+msgstr "Visa bildinfo överst"
+
+#: wp-jquery-lightbox.php:302
+msgid "Shrink large images to fit smaller screens"
+msgstr "Krymp stora bilder så att de passar mindre skärmar"
+
+#: wp-jquery-lightbox.php:307
+msgid "Keep a distance between the image and the screen edges."
+msgstr "Håll ett avstånd mellan bilden och skärmkanterna."
+
+#: wp-jquery-lightbox.php:307
+msgid "Minimum margin to screen edge (default: 0)"
+msgstr "Minsta marginal till skärmkant (standard: 0)"
+
+#: wp-jquery-lightbox.php:258
+msgid "Enable lightbox in comments (disables <a href=\"http://codex.wordpress.org/Nofollow\">the nofollow attribute!</a>)"
+msgstr "Aktivera lightbox i kommentarer (inaktiverar <a href=\"http://codex.wordpress.org/Nofollow\">attributet nofollow</a>)"
+
+#: wp-jquery-lightbox.php:258
+msgid "Note: this will disable the nofollow-attribute of comment links, that otherwise interfere with the lightbox."
+msgstr "Obs: Detta alternativ inaktiverar attributet nofollow på kommentarslänkar, eftersom de i annat fall stör lightbox-funktionen."
+
+#: wp-jquery-lightbox.php:251
+msgid "Auto-lightbox image links"
+msgstr "Gör automatiskt lightbox-länkar av bildlänkar"
+
+#: wp-jquery-lightbox.php:251
+msgid "Let the plugin add necessary html to image links"
+msgstr "Låt tillägget lägga till nödvändig html i bildlänkar"
+
+#: wp-jquery-lightbox.php:279
+msgid "Show image numbers:"
+msgstr "Visa bildnummer:"

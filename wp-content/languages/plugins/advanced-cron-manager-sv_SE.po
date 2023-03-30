@@ -1,0 +1,441 @@
+# Translation of Plugins - Advanced Cron Manager &#8211; debug &amp; control - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Advanced Cron Manager &#8211; debug &amp; control - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-02-13 20:41:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Advanced Cron Manager &#8211; debug &amp; control - Stable (latest release)\n"
+
+#: views/forms/event/add.php:46
+msgid "Add argument"
+msgstr "Lägg till argument"
+
+#: views/forms/event/add.php:42
+msgid "No arguments"
+msgstr "Inga argument"
+
+#: inc/Cron/EventsActions.php:74 inc/Cron/EventsActions.php:136
+#: inc/Cron/EventsActions.php:170 inc/Cron/EventsActions.php:203
+#: inc/Cron/EventsActions.php:236 inc/Cron/SchedulesActions.php:55
+#: inc/Cron/SchedulesActions.php:91 inc/Cron/SchedulesActions.php:127
+msgid "You're not allowed to do that."
+msgstr "Du har inte behörighet att göra det."
+
+#: inc/Cron/EventsLibrary.php:168
+msgid "Event is protected and cannot be paused"
+msgstr "Händelse är skyddad och kan inte pausas"
+
+#: views/forms/event/add.php:18
+msgid "Should not contain any HTML tags including script nor style"
+msgstr "Får inte innehålla några HTML-taggar, inte heller ”script” och ”style”"
+
+#: views/parts/events/tabs/logs.php:15
+msgid "Event rescheduling"
+msgstr "Schemalägg händelse på nytt"
+
+#: inc/Cron/EventsActions.php:128
+msgid "This event doesn't seem to exist anymore"
+msgstr "Denna händelse verkar inte finnas längre"
+
+#: views/parts/events/tabs/arguments.php:17
+msgid "Object"
+msgstr "Objekt"
+
+#: views/parts/events/tablenav.php:27
+msgid "Apply"
+msgstr "Tillämpa"
+
+#. Author URI of the plugin
+msgid "https://bracketspace.com"
+msgstr "https://bracketspace.com"
+
+#. Author of the plugin
+msgid "BracketSpace"
+msgstr "BracketSpace"
+
+#: views/parts/events/tabs/arguments.php:13
+msgid "Array"
+msgstr "Array"
+
+#: views/misc/notification-promo.php:26
+msgid "Download for free"
+msgstr "Ladda ner gratis"
+
+#: views/misc/notification-promo.php:20
+msgid "Notification - notification system for developers"
+msgstr "Avisering – aviseringssystem för utvecklare"
+
+#: views/server/settings.php:43
+msgid "Save settings"
+msgstr "Spara inställningar"
+
+#: inc/Assets.php:84
+msgid "Saving..."
+msgstr "Sparar …"
+
+#: views/server/settings.php:37
+msgid "The command you want to use is:"
+msgstr "Kommandot du vill använda är:"
+
+#: inc/Server/Settings.php:97
+msgid "Settings has been saved"
+msgstr "Inställningarna har sparats"
+
+#: views/server/settings.php:22
+msgid "Server Scheduler"
+msgstr "Serverschemaläggare"
+
+#: views/server/settings.php:30
+msgid "Enable Server Scheduler"
+msgstr "Aktivera serverschemaläggare"
+
+#: views/server/settings.php:40
+msgid "The reasonable time interval is 5-15 minutes. That is */5 * * * * or */15 * * * * for Cron interval setting"
+msgstr "Rimligt tidsintervall är 5–15 minuter. Intervallinställning för Cron är då */5 * * * * eller */15 * * * *"
+
+#: views/parts/schedules/row.php:25 views/parts/schedules/row.php:31
+#: views/parts/schedules/row.php:32
+msgid "Edit"
+msgstr "Redigera"
+
+#. Translators: numer of seconds.
+#: views/parts/schedules/row.php:18
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d sekund"
+msgstr[1] "%d sekunder"
+
+#: views/parts/schedules/header-row.php:14
+msgid "Actions"
+msgstr "Åtgärder"
+
+#: views/parts/schedules/header-row.php:11
+msgid "Label"
+msgstr "Etikett"
+
+#: views/parts/events/tabs/logs.php:20
+msgid "Get Advanced Cron Manager PRO now!"
+msgstr "Skaffa Advanced Cron Manager PRO nu!"
+
+#: views/parts/events/tablenav.php:12
+msgid "Bulk Actions"
+msgstr "Massåtgärder"
+
+#. Translators: human friendly diff time.
+#: views/parts/events/row.php:95
+msgid "In %s"
+msgstr "I %s"
+
+#: views/parts/events/row.php:61 views/parts/events/tablenav.php:25
+#: views/parts/schedules/row.php:34 views/parts/schedules/row.php:35
+msgid "Remove"
+msgstr "Ta bort"
+
+#: views/parts/events/row.php:59
+msgid "Protected"
+msgstr "Skyddad"
+
+#: views/parts/events/row.php:52
+msgid "Pause"
+msgstr "Paus"
+
+#: views/parts/events/row.php:45 views/parts/events/tablenav.php:13
+msgid "Execute now"
+msgstr "Kör nu"
+
+#: views/parts/events/row.php:42
+msgid "Details"
+msgstr "Detaljer"
+
+#: views/parts/events/header-row.php:16
+msgid "Next execution"
+msgstr "Nästa körning"
+
+#: views/forms/schedule/add.php:40 views/forms/schedule/edit.php:44
+msgid "Total seconds:"
+msgstr "Totalt antal sekunder:"
+
+#: views/forms/schedule/add.php:35 views/forms/schedule/edit.php:39
+msgid "Seconds"
+msgstr "Sekunder"
+
+#: views/forms/schedule/add.php:31 views/forms/schedule/edit.php:35
+msgid "Minutes"
+msgstr "Minuter"
+
+#: views/forms/schedule/add.php:27 views/forms/schedule/edit.php:31
+msgid "Hours"
+msgstr "Timmar"
+
+#: views/forms/schedule/add.php:23 views/forms/schedule/edit.php:27
+msgid "Days"
+msgstr "Dagar"
+
+#: views/forms/schedule/add.php:20 views/forms/schedule/edit.php:24
+#: views/parts/schedules/header-row.php:13
+msgid "Interval"
+msgstr "Intervall"
+
+#: views/forms/schedule/add.php:17 views/forms/schedule/edit.php:20
+#: views/parts/schedules/header-row.php:12
+msgid "Slug"
+msgstr "Slug"
+
+#: views/forms/schedule/add.php:14 views/forms/schedule/edit.php:17
+msgid "Display name"
+msgstr "Visningsnamn"
+
+#: views/forms/event/add.php:17
+msgid "Hook"
+msgstr "Åtgärds-hook"
+
+#: inc/Assets.php:82
+msgid "Removing..."
+msgstr "Tar bort …"
+
+#: inc/FormProvider.php:97
+msgid "Add schedule"
+msgstr "Lägg till schema"
+
+#: inc/FormProvider.php:97
+msgid "New schedule"
+msgstr "Nytt schema"
+
+#: inc/AdminScreen.php:73 views/forms/event/add.php:26
+#: views/parts/events/header-row.php:14
+msgid "Schedule"
+msgstr "Schemalägg"
+
+#: inc/AdminScreen.php:72 views/forms/event/add.php:40
+#: views/parts/events/header-row.php:15
+msgid "Arguments"
+msgstr "Argument"
+
+#: inc/AdminScreen.php:71
+msgid "Logs"
+msgstr "Loggar"
+
+#. Plugin Name of the plugin
+#: advanced-cron-manager.php:22 inc/ScreenRegisterer.php:47
+msgid "Advanced Cron Manager"
+msgstr "Advanced Cron Manager"
+
+#. Translators: schedule slug.
+#: inc/FormProvider.php:116
+msgid "Edit schedule"
+msgstr "Redigera schema"
+
+#: inc/Assets.php:83
+msgid "Pausing..."
+msgstr "Pausar …"
+
+#: inc/Assets.php:81 views/parts/events/tablenav.php:41
+msgid "events"
+msgstr "händelser"
+
+#: views/elements/add-schedule-button.php:10
+msgid "Add new schedule"
+msgstr "Lägg till nytt schema"
+
+#: views/elements/add-event-button.php:10
+msgid "Add new event"
+msgstr "Lägg till ny händelse"
+
+#: views/parts/events/header-row.php:13
+msgid "Event"
+msgstr "Händelse"
+
+#: views/parts/events/tablenav.php:32
+msgid "All Schedules"
+msgstr "Alla scheman"
+
+#: views/parts/searchbox.php:11
+msgid "Search events..."
+msgstr "Sök händelser …"
+
+#: views/parts/schedules/section.php:14
+msgid "Schedules"
+msgstr "Scheman"
+
+#: views/parts/schedules/row.php:28
+msgid "Trash"
+msgstr "Kasta i papperskorgen"
+
+#: views/parts/events/tabs/logs.php:18
+msgid "Debugging tool"
+msgstr "Felsökningsverktyg"
+
+#: views/parts/events/tabs/logs.php:17
+msgid "Performance stats"
+msgstr "Prestandastatistik"
+
+#. Translators: schedule label.
+#: views/forms/event/add.php:32
+msgid "Don't repeat (%s)"
+msgstr "Repetera inte (%s)"
+
+#: inc/Misc.php:49 inc/ScreenRegisterer.php:48 views/wrapper.php:16
+msgid "Cron Manager"
+msgstr "Cronhanterare"
+
+#: inc/FormProvider.php:130
+msgid "New event"
+msgstr "Ny händelse"
+
+#: inc/Cron/Schedules.php:106
+msgid "Single event"
+msgstr "Enskild händelse"
+
+#: inc/AdminScreen.php:74
+msgid "Implementation"
+msgstr "Implementation"
+
+#: inc/Cron/EventsLibrary.php:87
+msgid "Please, provide a hook for your Event"
+msgstr "Ange en åtgärds-hook för din händelse"
+
+#: views/parts/schedules/row.php:24
+msgid "This schedule is protected and you cannot edit it"
+msgstr "Detta schema är skyddat och du kan inte redigera det"
+
+#: inc/Cron/SchedulesLibrary.php:151
+msgid "Interval cannot be shorter than 1 second"
+msgstr "Intervall kan inte vara kortare än en sekund"
+
+#: inc/Cron/SchedulesLibrary.php:147
+msgid "Please, provide a slug for your Schedule"
+msgstr "Ange en slug för ditt schema"
+
+#: views/forms/event/add.php:21
+msgid "First execution"
+msgstr "Första körningen"
+
+#. Description of the plugin
+msgid "View, pause, remove, edit and add WP Cron events."
+msgstr "Visa, pausa, ta bort, redigera och lägg till WP-cron-händelser."
+
+#: views/parts/schedules/row.php:27
+msgid "This schedule is protected and you cannot remove it"
+msgstr "Detta schema är skyddat och du kan inte ta bort det"
+
+#: views/parts/events/tabs/logs.php:12
+msgid "These includes:"
+msgstr "Dessa inkluderar:"
+
+#: views/parts/events/row.php:91
+msgid "In queue"
+msgstr "I kö"
+
+#. Translators: schedule slug.
+#: inc/Cron/SchedulesLibrary.php:163
+msgid "Schedule with slug \"%s\" doesn't exists"
+msgstr "Schema med slug ”%s” finns inte"
+
+#. Translators: schedule slug.
+#: inc/Cron/SchedulesLibrary.php:156
+msgid "Schedule with slug \"%s\" already exists"
+msgstr "Schema med slug ”%s” finns redan"
+
+#: inc/Cron/SchedulesLibrary.php:143
+msgid "Please, provide a name for your Schedule"
+msgstr "Ange ett namn för ditt schema"
+
+#. Translators: schedule slug.
+#: inc/FormProvider.php:116
+msgid "Edit \"%s\" schedule"
+msgstr "Redigera schemat ”%s”"
+
+#. Translators: schedule slug.
+#: inc/Cron/SchedulesActions.php:74
+msgid "Schedule \"%s\" has been added"
+msgstr "Schemat ”%s” har lagts till"
+
+#. Translators: schedule slug.
+#: inc/Cron/SchedulesActions.php:107
+msgid "Schedule \"%s\" has been edited"
+msgstr "Schemat ”%s” har redigerats"
+
+#. Translators: schedule slug.
+#: inc/Cron/SchedulesActions.php:140
+msgid "Schedule \"%s\" has been removed"
+msgstr "Schemat ”%s” har tagits bort"
+
+#. Translators: schedule slug.
+#: inc/Cron/SchedulesLibrary.php:168
+msgid "Schedule \"%s\" is protected and you cannot edit it"
+msgstr "Schema ”%s” är skyddat och du kan inte redigera det"
+
+#. Translators: event hook.
+#: inc/Cron/EventsActions.php:183
+msgid "Event \"%s\" has been removed"
+msgstr "Händelsen ”%s” har tagits bort"
+
+#: inc/Cron/EventsLibrary.php:164
+msgid "Event not found and cannot be paused"
+msgstr "Händelsen hittades inte och kan inte pausas"
+
+#. Translators: schedule slug.
+#: inc/Cron/EventsLibrary.php:94
+msgid "Schedule \"%s\" cannot be found"
+msgstr "Schemat ”%s” kan inte hittas"
+
+#. Translators: event hook.
+#: inc/Cron/EventsActions.php:176
+msgid "Event \"%s\" is protected and you cannot remove it"
+msgstr "Händelsen ”%s” är skyddad och du kan inte ta bort den"
+
+#. Translators: event hook.
+#: inc/Cron/EventsActions.php:216
+msgid "Event \"%s\" has been paused"
+msgstr "Händelsen ”%s” har pausats"
+
+#: views/parts/events/row.php:50
+msgid "Unpause"
+msgstr "Avbryt pausen"
+
+#: inc/Assets.php:80
+msgid "Event has been executed with errors"
+msgstr "Händelsen har körts med fel"
+
+#: inc/Cron/EventsLibrary.php:133
+msgid "Event not found and cannot be unscheduled"
+msgstr "Händelsen hittades inte och kan därför inte tas bort från schemat"
+
+#. Translators: event hook.
+#: inc/Cron/EventsActions.php:149
+msgid "Event \"%s\" has been executed"
+msgstr "Händelsen ”%s” har körts"
+
+#. Translators: event hook.
+#: inc/Cron/EventsActions.php:249
+msgid "Event \"%s\" has been unpaused"
+msgstr "Pausen för händelsen ”%s” har avbrutits"
+
+#: inc/Cron/EventsLibrary.php:202
+msgid "Event not found and cannot be unpaused"
+msgstr "Händelsen hittades inte och dess paus kan därmed inte avbrytas"
+
+#. Translators: schedule slug.
+#: inc/Cron/SchedulesLibrary.php:204
+msgid "Schedule with slug \"%s\" cannot be removed because it doesn't exists"
+msgstr "Schema med slug ”%s” kan inte tas bort eftersom det inte finns"
+
+#. Translators: event hook name, # of args, schedule name.
+#: inc/Cron/EventsActions.php:106
+msgid "Event \"%1$s\" with %2$d argument has been scheduled (%3$s)"
+msgid_plural "Event \"%1$s\" with %2$d arguments has been scheduled (%3$s)"
+msgstr[0] "Händelsen ”%1$s” med %2$d argument har schemalagts (%3$s)"
+msgstr[1] "Händelsen ”%1$s” med %2$d argument har schemalagts (%3$s)"
+
+#: views/parts/events/tabs/logs.php:14
+msgid "Logging executed tasks"
+msgstr "Loggar körda uppgifter"
+
+#: views/forms/event/add.php:27
+msgid "After first execution repeat:"
+msgstr "Efter första körningen repetera:"

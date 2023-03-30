@@ -1,0 +1,109 @@
+#TB_window {
+    top: 50% !important;
+    height: auto !important;
+    margin-top: 0 !important;	
+    transform: translateY(-50%) !important;
+}
+#TB_ajaxContent {
+    height: auto !important;
+    width: 100% !important;
+    box-sizing: border-box !important;	
+}
+
+
+.lcwpau_displaynone {
+    display: none;
+}
+
+.lcwpau_wizard_btn {
+	color: #fff;
+	padding: 1px 10px 3px;
+	border-radius: 2px;
+	opacity: 0.65;
+	transition: all .15s ease-in-out !important;
+	position: relative;
+	bottom: -1px;
+}
+.lcwpau_wizard_btn:hover,
+.lcwpau_wizard_btn:focus {
+    box-shadow: none;
+    opacity: 1;	
+    color: #fff;
+}
+
+.lcwpau_lb_heading {
+	font-size: 20px;
+	font-weight: normal;
+	margin: 15px 0 22px;
+}
+#lcwpau_logo {
+	width: 30px;
+	height: 30px;
+	float: left;
+	margin: -4px 7px 0 0;
+	filter: contrast(0.9);
+}
+.lcwpau_lb_heading small {
+    padding-left: 7px;
+    font-size: 12px;
+}
+.lcwpau_lb_heading small a {
+    color: #0073aa;
+    text-decoration: none;
+}
+.lcwpau_lb_table {
+    margin-bottom: 0px;
+    border-color: #d2d2d2 !important;
+}
+.lcwpau_lb_table input:not([type="checkbox"]),
+.lcwpau_lb_table button {
+    width: 100%;
+}
+.lcwpau_lb_table button img {
+	filter: brightness(1.9);
+	position: relative;
+	top: 3px;
+}
+.lcwpau_lb_username_td {
+    width: 15%;
+    min-width: 240px;
+}
+.lcwpau_lb_pc_td {
+    width: 15%;
+    min-width: 310px;
+}
+.lcwpau_lb_btn_td {
+    text-align: right;
+}
+.lcwpau_mess_wrap {
+    border-top: 1px solid #e9e9e9;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.lcwpau_mess_wrap span {
+    color: #d54e21;
+}
+.lcwpau_mess_wrap span {
+	color: firebrick;
+	display: inline-block;
+	width: calc(100% - 30px);
+}
+.lcwpau_mess_wrap input {
+	vertical-align: top;
+	margin-top: 2px !important;
+}
+.lcwpau_mess_wrap p:empty {
+    display: none;
+}
+.lcwpau_mess_wrap p {
+	margin: 20px 0 0 !important;
+	background: #f0f0f0;
+	padding: 6px 8px !important;
+	border-left: 5px solid #d54e21;
+	box-shadow: 0 0 1px rgba(0,0,0,0.2);
+}
+.lcwpau_validation_ok td {
+	padding: 8px 10px !important;
+	border-left: 5px solid #7ad03a;
+	font-weight: 600;
+}

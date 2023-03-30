@@ -1,0 +1,698 @@
+# Translation of Plugins - Content Views &#8211; Post Grid &amp; Filter for WordPress - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Content Views &#8211; Post Grid &amp; Filter for WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-23 16:02:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Content Views &#8211; Post Grid &amp; Filter for WordPress - Stable (latest release)\n"
+
+#: admin/views/view.php:241
+msgid "Leaving it empty might cause performance issues. You should enable pagination (on the next tab) in this case."
+msgstr "Laisser vide pourrait causer des problèmes de performance. Dans ce cas, vous devez activer la pagination (sur l’onglet suivant)."
+
+#: includes/settings.php:695
+msgid "If thumbnail looks blurry, check this option, and select a bigger size option above"
+msgstr "Si la miniature semble floue, cochez cette option, et sélectionnez une option de taille plus grande ci-dessus"
+
+#: includes/settings.php:386
+msgid "Balancing tag prevents unmatched elements. But it does not work for all cases.<br> Check this option to show original content"
+msgstr "La balise d’équilibrage permet d’éviter les éléments non concordants. Mais cela ne fonctionne pas pour tous les cas.<br>Cochez cette option pour afficher le contenu original"
+
+#: includes/settings.php:384
+msgid "Do not attempt to balance HTML tags in content"
+msgstr "Ne pas essayer d’équilibrer les balises HTML dans le contenu"
+
+#: admin/views/view.php:604
+msgid "It requires enough horizontal space. You might reduce <code>Items Per Row</code> above if available, or select smaller thumbnail size below"
+msgstr "Cela nécessite un espace horizontal suffisant. Vous pouvez réduire le nombre d’<code>éléments par ligne</code> ci-dessus si disponible, ou sélectionner une taille de miniatures plus petite ci-dessous"
+
+#: admin/content-views-admin.php:335
+msgctxt "Plugin name. Do not translate"
+msgid "Content Views"
+msgstr "Content Views"
+
+#: includes/settings.php:700
+msgid "In this lite version, thumbnail is only shown if the post has %s.<br>In the Pro version, you can show the first image in post as thumbnail, without having to set a featured image"
+msgstr "Dans cette version allégée, la miniature est affichée uniquement si l’article comprend des %s.<br> Dans la version Pro, vous pouvez afficher la première image de l’article sous forme de miniature, sans avoir à définir une image mise en avant"
+
+#: includes/settings.php:468
+msgid "To change color of this button, <a href=\"%s\" target=\"_blank\"> please check this document </a>"
+msgstr "Pour changer la couleur de ce bouton, <a href=\"%s\" target=\"_blank\">veuillez consulter ce document </a>"
+
+#: admin/views/view.php:622
+msgid "Do not wrap text around image"
+msgstr "Ne pas enrouler le texte autour de l'image"
+
+#: includes/settings.php:953
+msgid "HTML tag"
+msgstr "Balise HTML"
+
+#: includes/functions.php:728
+msgid "[Preview only] Pagination is disabled when there is only 1 page, because of"
+msgstr "[Aperçu uniquement] La pagination est désactivée lorsqu’il n’y a qu’une page, pour les raisons suivantes"
+
+#: includes/functions.php:727
+msgid "is less than or equal to (&le;) the <b>Items per page</b> value"
+msgstr "est inférieure ou égale à (≤) la valeur des articles <b>par page</b>"
+
+#: includes/functions.php:727
+msgid "the <b>Limit</b> value"
+msgstr "la valeur <b>limite</b>"
+
+#: includes/functions.php:727
+msgid "the number of results"
+msgstr "le nombre de résultats"
+
+#: public/content-views.php:246
+msgid "See View"
+msgstr "Voir la vue"
+
+#: includes/values.php:111
+msgid "AND - show posts which match ALL selected terms"
+msgstr "ET - Afficher les articles qui correspondent à TOUTES les conditions sélectionnées"
+
+#: includes/values.php:110
+msgid "NOT IN - show posts which DO NOT match ANY selected terms"
+msgstr "PAS DANS - Afficher les articles qui ne correspondent à aucun des termes sélectionnés"
+
+#: includes/values.php:109
+msgid "IN - show posts which match ANY selected terms"
+msgstr "DANS - Afficher les articles correspondants aux termes sélectionnés"
+
+#: includes/settings.php:461
+msgid "Read More text"
+msgstr "Texte « Lire la suite » "
+
+#: includes/settings.php:443
+msgid "Use manual excerpt (in the Excerpt field under the post edit box)"
+msgstr "Utilisez un extrait manuel (dans le champ Extrait sous la zone d’édition des articles)"
+
+#: admin/views/view.php:364
+msgid "The logical relationship between above taxonomies"
+msgstr "La relation logique entre les taxonomies ci-dessus"
+
+#: public/content-views.php:241
+msgctxt "add new on admin bar"
+msgid "Content View"
+msgstr "Content View"
+
+#: includes/values.php:358
+msgid "Show thumbnail on the left/right of text"
+msgstr "Afficher la miniature à gauche / à droite du texte"
+
+#: includes/values.php:357
+msgid "Show thumbnail & text vertically"
+msgstr "Afficher la miniature et le texte verticalement"
+
+#: admin/views/view.php:563 includes/hooks.php:78
+msgid "Format"
+msgstr "Format"
+
+#: admin/views/view.php:524
+msgid "Responsive"
+msgstr "Responsive"
+
+#: admin/views/view.php:494 includes/hooks.php:73 includes/hooks.php:97
+msgid "Layout"
+msgstr "Mise en page"
+
+#: admin/views/view.php:254
+msgid "Advance"
+msgstr "Avancé"
+
+#: admin/views/view.php:161
+msgid "Common"
+msgstr "Commun"
+
+#: includes/settings.php:290
+msgid "Show Custom Fields, show Title above Thumbnail..."
+msgstr "Afficher les champs personnalisés, afficher le titre ci-dessus la miniature…"
+
+#: includes/settings.php:104
+msgid "Sort by drag & drop, custom field, slug, random order, menu order"
+msgstr "Triez par glisser-déplacer, champ personnalisé, slug unique, ordre aléatoire, ordre de menu"
+
+#: admin/views/view.php:521
+msgid "More amazing layouts (Pinterest, Timeline...)"
+msgstr "Des mises en page plus incroyables (Pinterest, chronologie…)"
+
+#: includes/functions.php:630
+msgid "Error: View %s may not exist"
+msgstr "Erreur : la vue %s n’existe pas"
+
+#: admin/views/view.php:471
+msgid "It will search keyword in title, excerpt, content of posts"
+msgstr "Cela recherchera le mot-clé dans le titre, extrait, le contenu des articles"
+
+#: includes/settings.php:919
+msgid "get Pro version"
+msgstr "Obtenir la version Pro"
+
+#: admin/views/view.php:641
+msgid "Disable this format on small screens (less than 481 pixels)"
+msgstr "Désactiver ce format sur les petits écrans (moins de 481 pixels)"
+
+#: admin/content-views-admin.php:237
+msgid "If post excerpt contains shortcode of theme or another plugin, please save this View, paste its shortcode to a page, then view that page"
+msgstr "Si un extrait d’article contient un code court d’un thème ou d’une autre extension, enregistrez la vue, collez son code court sur une page, puis affichez cette page"
+
+#: includes/functions.php:314
+msgctxt "Word count type. Do not translate!"
+msgid "words"
+msgstr "words"
+
+#: includes/values.php:299
+msgid "Published date"
+msgstr "Date de publication"
+
+#: includes/html.php:122
+msgid "Loading..."
+msgstr "Chargement…"
+
+#: admin/views/view.php:545
+msgid "Mobile"
+msgstr "Mobile"
+
+#: admin/views/view.php:532
+msgid "Tablet"
+msgstr "Tablette"
+
+#: includes/values.php:421
+msgid "Full Size"
+msgstr "Taille originale"
+
+#: includes/values.php:296
+msgid "Select"
+msgstr "Sélectionnez"
+
+#: includes/settings.php:851
+msgid "Open the first item by default"
+msgstr "Ouvrir le premier élément par défaut"
+
+#: includes/settings.php:766 includes/values.php:242
+msgid "Tags"
+msgstr "Étiquettes"
+
+#: includes/settings.php:766 includes/values.php:242
+msgid "Categories"
+msgstr "Catégories"
+
+#: includes/settings.php:766
+msgid "Show Taxonomies (%s, %s...)"
+msgstr "Afficher les taxonomies (%s, %s…)"
+
+#: includes/settings.php:700
+msgid "Featured Image"
+msgstr "Image mise en avant"
+
+#: includes/settings.php:647
+msgid "Comment"
+msgstr "Commentaire"
+
+#: includes/settings.php:647
+msgid "Show Meta Fields"
+msgstr "Afficher les champs métas"
+
+#: includes/settings.php:486
+msgid "Meta fields"
+msgstr "Champs métas"
+
+#: includes/settings.php:336
+msgid "Content"
+msgstr "Contenu"
+
+#: includes/settings.php:317
+msgid "Thumbnail"
+msgstr "Miniature"
+
+#: includes/settings.php:171
+msgid "If value of the %s setting is not empty, this value should be smaller than that"
+msgstr "Si la valeur du réglage %s n’est pas vide, cette valeur doit être inférieure à"
+
+#: includes/html.php:877 includes/settings.php:467
+msgid "Read more..."
+msgstr "Lire la suite…"
+
+#: admin/views/view.php:689
+msgid "Others"
+msgstr "Autres"
+
+#: admin/views/view.php:449
+msgid "Select post status"
+msgstr "Sélectionner l’état de l’article"
+
+#: admin/views/view.php:415
+msgid "Not by author"
+msgstr "Pas par auteur"
+
+#: admin/views/view.php:399
+msgid "By author"
+msgstr "Par auteur"
+
+#: admin/views/view.php:373 admin/views/view.php:376 includes/settings.php:92
+#: includes/values.php:244
+msgid "Sort by"
+msgstr "Trier par "
+
+#: admin/views/view.php:312
+msgid "Select taxonomy"
+msgstr "Sélectionner la taxonomie"
+
+#: admin/views/view.php:308 includes/settings.php:647 includes/values.php:242
+msgid "Taxonomy"
+msgstr "Taxonomie"
+
+#: admin/views/view.php:308 admin/views/view.php:396 admin/views/view.php:431
+#: admin/views/view.php:456
+msgid "Filter by %s"
+msgstr "Filtrer par %s"
+
+#: admin/views/view.php:67
+msgid "To see live output, please click %s button"
+msgstr "Pour visualiser en direct, veuillez cliquer sur le bouton %s"
+
+#: admin/content-views-admin.php:343 admin/content-views-admin.php:401
+#: admin/content-views-admin.php:495 public/content-views.php:242
+msgctxt "post"
+msgid "Add New"
+msgstr "Ajouter"
+
+#: admin/views/view.php:213
+msgid "Enter ID of parent page to show its children"
+msgstr "Saisissez l’ID de la page parente pour afficher ses enfants"
+
+#: includes/settings.php:672
+msgid "Size"
+msgstr "Taille"
+
+#: includes/settings.php:207
+msgid "Style"
+msgstr "Style"
+
+#: includes/settings.php:179
+msgid "Type"
+msgstr "Type"
+
+#: admin/views/view.php:230
+msgid "Total number of posts to show. Leave empty to show all found posts"
+msgstr "Nombre total d’articles à afficher. Laissez vide pour afficher tous les articles trouvés"
+
+#: admin/views/view.php:183
+msgid "List of post IDs to show (comma-separated values, for example: 1,2,3)"
+msgstr "Liste des ID d’article à afficher (valeurs séparées par des virgules, par exemple : 1,2,3)"
+
+#: includes/settings.php:693
+msgid "Disable responsive image of WordPress"
+msgstr "Désactiver l’image responsive de WordPress"
+
+#: includes/values.php:217
+msgid "Descending"
+msgstr "Ordre décroissant"
+
+#: includes/values.php:216
+msgid "Ascending"
+msgstr "Ordre croissant"
+
+#: admin/views/view.php:330
+msgid "Filter by custom taxonomy"
+msgstr "Filtrer par taxonomie personnalisée"
+
+#: admin/views/view.php:176
+msgid "Include only"
+msgstr "Inclure uniquement"
+
+#: admin/views/view.php:156
+msgid "Filter custom post type (product, event...)"
+msgstr "Filtrer par type de contenu personnalisé (produit, évènement…)"
+
+#. Author URI of the plugin
+msgid "http://profiles.wordpress.org/pt-guy"
+msgstr "http://profiles.wordpress.org/pt-guy"
+
+#. Description of the plugin
+msgid "Query and display <strong>posts, pages</strong> in awesome layouts (<strong>grid, scrollable list, collapsible list</strong>) easier than ever, without coding!"
+msgstr "Interrogez et affichez des <strong>articles, pages</strong> dans de superbes mises en page (<strong>grille, liste défilante, rétractable</strong>) plus facilement que jamais, sans une seule ligne de code !"
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/plugins/content-views-query-and-display-post-page/"
+msgstr "http://wordpress.org/plugins/content-views-query-and-display-post-page/"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+msgid "Content Views"
+msgstr "Content Views"
+
+#: public/content-views.php:251
+msgid "No views found in Trash."
+msgstr "Aucune vue trouvée dans la corbeille."
+
+#: public/content-views.php:250
+msgid "No views found."
+msgstr "Aucune vue trouvée."
+
+#: public/content-views.php:249
+msgid "Parent Views:"
+msgstr "Vues parentes :"
+
+#: public/content-views.php:248
+msgid "Search Views"
+msgstr "Rechercher des vues"
+
+#: public/content-views.php:244
+msgid "New View"
+msgstr "Nouvelle vue"
+
+#: public/content-views.php:240
+msgctxt "admin menu"
+msgid "Views"
+msgstr "Vues"
+
+#: public/content-views.php:239
+msgctxt "post type singular name"
+msgid "View"
+msgstr "Vue"
+
+#: public/content-views.php:238
+msgctxt "post type general name"
+msgid "Views"
+msgstr "Vues"
+
+#: includes/values.php:445
+msgid "Right"
+msgstr "À droite"
+
+#: includes/values.php:444
+msgid "Left"
+msgstr "À gauche"
+
+#: includes/values.php:373
+msgid "New tab"
+msgstr "Nouvel onglet"
+
+#: includes/values.php:372
+msgid "Current tab"
+msgstr "Onglet actuel"
+
+#: includes/values.php:318
+msgid "Scrollable List"
+msgstr "Liste déroulante"
+
+#: includes/values.php:317
+msgid "Collapsible List"
+msgstr "Liste rétractable"
+
+#: includes/values.php:316
+msgid "Grid"
+msgstr "Grille"
+
+#: includes/values.php:300
+msgid "Modified date"
+msgstr "Date de modification"
+
+#: admin/views/view.php:100 includes/settings.php:295 includes/values.php:298
+msgid "Title"
+msgstr "Titre"
+
+#: includes/values.php:297
+msgid "ID"
+msgstr "ID"
+
+#: includes/values.php:201
+msgid "Numbered pagination"
+msgstr "Pagination numérotée"
+
+#: includes/values.php:186
+msgid "Normal"
+msgstr "Normal"
+
+#: includes/values.php:185
+msgid "Ajax"
+msgstr "AJAX"
+
+#: includes/values.php:169
+msgid "No"
+msgstr "Non"
+
+#: includes/values.php:168
+msgid "Yes"
+msgstr "Oui"
+
+#: includes/values.php:99
+msgid "OR"
+msgstr "OU"
+
+#: includes/values.php:98
+msgid "AND"
+msgstr "ET"
+
+#: includes/settings.php:785
+msgid "Show Comment Count"
+msgstr "Afficher le nombre de commentaires"
+
+#: includes/settings.php:747
+msgid "Show Author"
+msgstr "Afficher l’auteur"
+
+#: includes/settings.php:728
+msgid "Show Date"
+msgstr "Afficher la date"
+
+#: includes/settings.php:628
+msgid "Show Content"
+msgstr "Afficher le contenu"
+
+#: includes/settings.php:609
+msgid "Show Title"
+msgstr "Afficher le titre"
+
+#: includes/settings.php:590
+msgid "Show Thumbnail"
+msgstr "Afficher la miniature"
+
+#: includes/settings.php:558
+msgid "Thumbnail position"
+msgstr "Position de la miniature"
+
+#: includes/settings.php:453
+msgid "Allow HTML tags (a, br, strong, em, strike, i, ul, ol, li) in excerpt"
+msgstr "Autoriser les balises HTML (a, br, strong, em, strike, i, ul, ol, li) dans l’extrait"
+
+#: includes/settings.php:438
+msgid "Generate excerpt by selecting the first X words of post content"
+msgstr "Générer un extrait en sélectionnant les X premiers mots du contenu de l’article"
+
+#: includes/settings.php:429
+msgid "Excerpt settings"
+msgstr "Réglage des extraits"
+
+#: includes/settings.php:349
+msgid "Show Excerpt"
+msgstr "Afficher l’extrait"
+
+#: includes/settings.php:348
+msgid "Show Full Content"
+msgstr "Afficher la totalité du contenu"
+
+#: includes/settings.php:251
+msgid "How to open item when click on Title, Thumbnail, Read-more button"
+msgstr "Comment ouvrir un élément lorsque vous cliquez sur le titre, la miniature, ou le bouton Lire la suite"
+
+#: includes/settings.php:243
+msgid "Open item in"
+msgstr "Ouvrir l'élément dans"
+
+#: includes/settings.php:150
+msgid "Enable"
+msgstr "Activer"
+
+#: admin/views/view.php:672 includes/hooks.php:89
+msgid "Pagination"
+msgstr "Pagination"
+
+#: includes/settings.php:108
+msgid "Order"
+msgstr "Trier"
+
+#: includes/settings.php:62
+msgid "Operator"
+msgstr "Opérateur"
+
+#: includes/settings.php:46
+msgid "Select terms"
+msgstr "Sélectionner des termes"
+
+#: includes/html.php:773
+msgid "Go to page"
+msgstr "Aller à la page"
+
+#: includes/html.php:772
+msgid "Current page is"
+msgstr "La page actuelle est"
+
+#: includes/html.php:771
+msgid "Go to last page"
+msgstr "Aller à la dernière page"
+
+#: includes/html.php:770
+msgid "Go to next page"
+msgstr "Aller à la page suivante"
+
+#: includes/html.php:769
+msgid "Go to previous page"
+msgstr "Aller à la page précédente"
+
+#: includes/html.php:768
+msgid "Go to first page"
+msgstr "Aller à la première page"
+
+#: includes/html.php:873
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: admin/views/view.php:532 admin/views/view.php:545 includes/hooks.php:97
+#: includes/settings.php:811
+msgid "Items per row"
+msgstr "Éléments par ligne"
+
+#: includes/hooks.php:89 includes/settings.php:158
+msgid "Items per page"
+msgstr "﻿Eléments par page"
+
+#: includes/hooks.php:58
+msgid "Please set value in"
+msgstr "Veuillez définir la valeur dans"
+
+#: includes/hooks.php:57
+msgid "Please select an option in"
+msgstr "Veuillez sélectionner une option dans"
+
+#: includes/html.php:257
+msgid "No posts found."
+msgstr "Aucune publication trouvée."
+
+#: includes/functions.php:537 includes/html.php:402
+msgid "(no title)"
+msgstr "(sans titre)"
+
+#: admin/views/view.php:654 includes/hooks.php:83
+msgid "Fields settings"
+msgstr "Réglages des champs"
+
+#: admin/views/view.php:471
+msgid "Enter keyword to searching for posts"
+msgstr "Saisissez un mot-clé pour rechercher des articles"
+
+#: admin/views/view.php:456 includes/values.php:245
+msgid "Keyword"
+msgstr "Mot-clé"
+
+#: admin/views/view.php:431 includes/values.php:243
+msgid "Status"
+msgstr "État "
+
+#: admin/views/view.php:355
+msgid "Relation"
+msgstr "Relation"
+
+#: admin/views/view.php:222 includes/settings.php:171
+msgid "Limit"
+msgstr "Limite"
+
+#: admin/views/view.php:206
+msgid "Parent page"
+msgstr "Page parente"
+
+#: admin/views/view.php:198
+msgid "List of post IDs to exclude (comma-separated values, for example: 1,2,3)"
+msgstr "Liste des ID d’article à exclure (valeurs séparées par des virgules, par exemple : 1,2,3)"
+
+#: admin/views/view.php:191
+msgid "Exclude"
+msgstr "Exclure"
+
+#: admin/views/view.php:144 includes/hooks.php:68
+msgid "Content type"
+msgstr "Type contenu"
+
+#: admin/views/view.php:129 includes/hooks.php:62
+msgid "Display Settings"
+msgstr "Réglages de l’affichage"
+
+#: admin/views/view.php:125 includes/hooks.php:61
+msgid "Filter Settings"
+msgstr "Réglage des filtres"
+
+#: admin/views/view.php:118 admin/views/view.php:720
+msgid "Save"
+msgstr "Enregistrer"
+
+#: admin/views/view.php:107
+msgid "Enter a name to identify your views easily"
+msgstr "Saisissez un nom pour identifier facilement vos vues"
+
+#: admin/views/view.php:60
+msgid "Preview"
+msgstr "Prévisualiser"
+
+#: admin/views/view.php:39 public/content-views.php:245
+msgid "Edit View"
+msgstr "Modifier la vue"
+
+#: includes/settings.php:887
+msgid "There is no option"
+msgstr "Il n'y a pas d’option"
+
+#: admin/content-views-admin.php:455 includes/settings.php:647
+msgid "Date"
+msgstr "Date"
+
+#: admin/content-views-admin.php:454 admin/views/view.php:396
+#: includes/settings.php:647 includes/values.php:246
+msgid "Author"
+msgstr "Auteur"
+
+#: admin/content-views-admin.php:453
+msgid "Shortcode"
+msgstr "Code court"
+
+#: admin/content-views-admin.php:435 admin/content-views-admin.php:495
+msgid "Edit"
+msgstr "Modifier"
+
+#: admin/content-views-admin.php:347 admin/content-views-admin.php:400
+msgid "Settings"
+msgstr "Paramètres"
+
+#: admin/content-views-admin.php:343 public/content-views.php:243
+msgid "Add New View"
+msgstr "Ajouter une nouvelle vue"
+
+#: admin/content-views-admin.php:339 public/content-views.php:247
+msgid "All Views"
+msgstr "Toutes les vues"
+
+#: admin/content-views-admin.php:335 admin/content-views-admin.php:347
+msgid "Content Views Settings"
+msgstr "Réglages de Content Views"
+
+#: admin/content-views-admin.php:243
+msgid "Update Preview"
+msgstr "Mettre à jour l’aperçu"
+
+#: admin/content-views-admin.php:242
+msgid "Hide Preview"
+msgstr "Masquer l’aperçu"
+
+#: admin/content-views-admin.php:241 admin/views/view.php:67
+#: admin/views/view.php:77
+msgid "Show Preview"
+msgstr "Afficher l’aperçu"
+
+#: admin/content-views-admin.php:236
+msgid "There is no taxonomy for selected content type"
+msgstr "Il n’existe aucune taxonomie pour le type de contenu sélectionné"

@@ -1,0 +1,640 @@
+# Translation of Plugins - External Links &#8211; nofollow, noopener &amp; new window - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - External Links &#8211; nofollow, noopener &amp; new window - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-03-09 11:35:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - External Links &#8211; nofollow, noopener &amp; new window - Stable (latest release)\n"
+
+#. Plugin URI of the plugin
+msgid "https://getwplinks.com/"
+msgstr "https://getwplinks.com/"
+
+#: templates/partials/tab-contents/support.php:47
+msgid "Active Theme: "
+msgstr "Actief thema: "
+
+#: templates/partials/tab-contents/support.php:41
+msgid "WP URL: "
+msgstr "WP URL: "
+
+#: templates/partials/tab-contents/support.php:59
+msgid " - "
+msgstr " - "
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:232
+msgid "Text size of the Exit Confirmation popup button."
+msgstr "Verlaat bevestiging pop-up knop tekst grootte."
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:225
+msgid "Text of the button that will cancel leaving website."
+msgstr "Knoptekst dat voor annulatie verlaten site."
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:200
+msgid "Background color of the Exit Confirmation popup title."
+msgstr "Verlaat bevestiging pop-up titel achtergrondkleur."
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:193
+msgid "Background color of the Exit Confirmation popup."
+msgstr "Verlaat bevestiging pop-up achtergrondkleur."
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:183
+msgid "Show transparent overlay behind popup"
+msgstr "Transparante overlay tonen achter de pop-up"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:176
+msgid "Height of the Exit Confirmation popup. Leave empty for auto."
+msgstr "Verlaat bevestiging pop-up hoogte. Laat leeg voor automatisch."
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:169
+msgid "Width of the Exit Confirmation popup."
+msgstr "Verlaat bevestiging pop-up breedte."
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:162
+msgid "Text size of the Exit Confirmation popup text."
+msgstr "Verlaat bevestiging pop-up titel grootte."
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:155
+msgid "Text size of the Exit Confirmation popup title."
+msgstr "Verlaat bevestiging pop-up tekst grootte."
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:148
+msgid "Color of the Exit Confirmation popup title."
+msgstr "Verlaat bevestiging pop-up titel kleur."
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:141
+msgid "Color of the Exit Confirmation popup text."
+msgstr "Verlaat bevestiging pop-up tekst kleur."
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:134
+msgid "Text of the Exit Confirmation popup. Leave empty for no text."
+msgstr "Verlaat bevestiging pop-up tekst. Laat leeg voor geen tekst."
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:122
+msgid "Title of the Exit Confirmation popup. Leave empty for no title."
+msgstr "Verlaat bevestiging pop-up titel. Laat leeg voor geen titel."
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:97
+msgid "Button Background:"
+msgstr "Knop achtergrond:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:93
+msgid "Button Text Color:"
+msgstr "Knop tekstkleur:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:89
+msgid "Button Text Size:"
+msgstr "Knop tekstgrootte:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:85
+msgid "Button Text:"
+msgstr "Knoptekst:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:81
+msgid "Overlay Color:"
+msgstr "Overlay kleur:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:76
+msgid "Show overlay:"
+msgstr "Toon overlay:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:72
+msgid "Popup Height:"
+msgstr "Pop-up hoogte:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:68
+msgid "Popup Width:"
+msgstr "Pop-up breedte:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:64
+msgid "Text Size:"
+msgstr "Tekstgrootte:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:60
+msgid "Text Color:"
+msgstr "Tekstkleur:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:56
+msgid "Text:"
+msgstr "Tekst:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:52
+msgid "Title Size:"
+msgstr "Titel grootte:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:47
+msgid "Title Background Color:"
+msgstr "Titel achtergrond kleur:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:42
+msgid "Title Text Color:"
+msgstr "Titel tekst kleur:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:39
+msgid "You are leaving our website"
+msgstr "Je gaat deze site verlaten"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:38
+msgid "Title:"
+msgstr "Titel:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:33
+msgid "Popup Background Color:"
+msgstr "Pop-up achtergrondkleur:"
+
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:28
+msgid "Exit Confirmation Preview"
+msgstr "Verlaat bevestiging voorbeeld"
+
+#: includes/admin/class-wpel-settings-page.php:78
+msgid "PRO"
+msgstr "PRO"
+
+#: includes/admin/class-wpel-settings-page.php:69
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:25
+msgid "Exit Confirmation"
+msgstr "Verlaat bevestiging"
+
+#: includes/admin/class-wpel-settings-page.php:64
+msgid "Link Rules"
+msgstr "Link regels"
+
+#: includes/admin/class-wpel-settings-page.php:74
+msgid "Link Checker"
+msgstr "Link controle"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:188
+msgid "Add <code>\"ugc\"</code>"
+msgstr "Toevoegen <code>\"ugc\"</code>"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:178
+msgid "Add <code>\"sponsored\"</code>"
+msgstr "Toevoegen <code>\"sponsored\"</code>"
+
+#: templates/partials/tab-contents/support.php:34
+msgid "<br>Make sure you copy/paste the technical information displayed below. Without it we can't help you."
+msgstr "<br>Zorg ervoor dat je de onderstaande technische informatie kopieert/plakt. Zonder dit kunnen we je niet helpen."
+
+#: templates/partials/tab-contents/support.php:33
+msgid "If the issue wasn't reported yet then you should <a href=\"https://wordpress.org/support/plugin/wp-external-links#postform\" target=\"_blank\">post your problem</a>. <b>Our average response time is a few hours, and we reply to every message!</b>"
+msgstr "Als het probleem nog niet is gemeld, moet je op <a href=\"https://wordpress.org/support/plugin/wp-external-links#postform\" target=\"_blank\">je probleem melden</a>. <b>Onze gemiddelde reactietijd is een paar uur en we beantwoorden elk bericht!</b>"
+
+#: templates/requirements-notice.php:14
+msgid "The plugin <strong>WP External Links</strong> requires PHP version 5.3 or up and WordPress version 3.6 or up.<br>Please upgrade your PHP and/or WordPress. Deactivate the plugin to remove this message."
+msgstr "De plugin <strong>WP External Links</strong> vereist PHP versie 5.3 of hoger en WordPress versie 3.6 of hoger.<br> Update je PHP en/of WordPress naar een recentere versie. Deactiveer de plugin, waarna dit bericht verdwijnt."
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:172
+msgid "Separate url's by comma and/or a line break. Write the url's as specific as you want them to match."
+msgstr "Scheid url's door komma's en/of een regeleinde. Schrijf de url's zo specifiek als je wil dat ze overeenkomen."
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:166
+msgid ""
+"For example:\n"
+"somedomain.org, sub.domain.net/some-slug\n"
+"http://sub.moredomain.net, http://www.domain.com/other-slug"
+msgstr ""
+"Bijvoorbeeld:\n"
+"somedomain.org, sub.domain.net/some-slug\n"
+"http://sub.moredomain.net, http://www.domain.com/other-slug"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:201
+msgid "Use this <code>{title}</code> for the original title value and <code>{text}</code> for the link text (or <code>{text_clean}</code> for text stripped of HTML) as shown on the page"
+msgstr "Gebruik deze <code>{title}</code> voor de oorspronkelijke titelwaarde en <code>{text}</code> voor de linktekst (of <code>{text_clean}</code> voor tekst ontdaan van HTML) zoals getoond op de pagina"
+
+#. Author URI of the plugin
+msgid "https://www.webfactoryltd.com/"
+msgstr "https://www.webfactoryltd.com/"
+
+#. Author of the plugin
+msgid "WebFactory Ltd"
+msgstr "WebFactory Ltd"
+
+#. Description of the plugin
+msgid "Open external links in a new tab or window, control \"nofollow\" and \"noopener\", set font icon; SEO friendly."
+msgstr "Open externe links in een nieuw tabblad of venster, beheer \"nofollow\" en \"noopener\", kies lettertype pictogram; SEO-vriendelijk."
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:137
+msgid "Separate classes by comma."
+msgstr "Scheid klassen met een komma."
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:126
+msgid "Separate page- / post-id's by comma."
+msgstr "Scheid pagina-/bericht-id's door komma's."
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:47
+msgid "Ignore links by class:"
+msgstr "Negeer links op class:"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:44
+msgid "Skip pages or posts (id's):"
+msgstr "Sla pagina's of berichten over (id's):"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:117
+msgid "in the topmost frame (NOT recommended)"
+msgstr "in het bovenste frame (NIET aanbevolen)"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:116
+msgid "all in the same new window or tab (NOT recommended)"
+msgstr "alle in hetzelfde nieuwe venster of tabblad (NIET aanbevolen)"
+
+#: templates/settings-page/tab-contents/exceptions.php:21
+msgid "The data-attribute <a href=\"%s\"><code>data-wpel-link</code></a> can be set on individual links to treat them as internal, external or excluded, or to completely ignore links form being processed by this plugin."
+msgstr "Het data attribuut <a href=\"%s\"><code>data-wpel-link</code></a> kan worden ingesteld op individuele links om ze te behandelen als intern, extern of uitgesloten, of om links volledig te negeren als ze worden verwerkt door deze plugin."
+
+#: templates/partials/tab-contents/support.php:23
+#: templates/settings-page/help-tabs/data-attributes.php:20
+msgid "Links with <code>data-wpel-link=\"ignore\"</code> will be completely ignored by this plugin."
+msgstr "Deze plugin laat links met <code>data-wpel-link=\"ignore\"</code> volledig met rust."
+
+#: templates/partials/tab-contents/support.php:22
+#: templates/settings-page/help-tabs/data-attributes.php:19
+msgid "Links with <code>data-wpel-link=\"exclude\"</code> will be treated as excluded links (which have their own settings or will be treated as internal links)."
+msgstr "Links met <code>data-wpel-link=\"exclude\"</code> worden gezien als uitgesloten links (waarvoor eigen regels gelden of dezelfde als voor interne links)."
+
+#: templates/partials/tab-contents/support.php:21
+#: templates/settings-page/help-tabs/data-attributes.php:18
+msgid "Links with <code>data-wpel-link=\"external\"</code> will be treated as external links."
+msgstr "Links met <code>data-wpel-link=\"external\"</code> worden behandeld als externe links."
+
+#: templates/partials/tab-contents/support.php:20
+#: templates/settings-page/help-tabs/data-attributes.php:17
+msgid "Links with <code>data-wpel-link=\"internal\"</code> will be treated as internal links."
+msgstr "Links met <code>data-wpel-link=\"internal\"</code> worden gezien als interne links."
+
+#: templates/partials/tab-contents/support.php:17
+#: templates/settings-page/help-tabs/data-attributes.php:14
+msgid "The <code>data-wpel-link</code> attribute can be set on links and forces the plugin to treat those links that way."
+msgstr "Het kenmerk <code>data-wpel-link</code> kan op links worden ingesteld en dwingt de plugin om die links op die manier te behandelen."
+
+#: templates/partials/tab-contents/support.php:15
+#: templates/settings-page/help-tabs/data-attributes.php:12
+msgid "Exclude or include by data-attribute"
+msgstr "Uitsluiten of opnemen op data-attribute"
+
+#: templates/partials/tab-contents/support.php:63
+msgid "WPEL Settings:"
+msgstr "Instellingen WPEL:"
+
+#: templates/partials/tab-contents/support.php:49
+msgid "Active Plugins:"
+msgstr "Actieve Plugins:"
+
+#: templates/partials/tab-contents/support.php:45
+msgid "PHP version: "
+msgstr "PHP versie: "
+
+#: templates/partials/tab-contents/support.php:43
+msgid "WP version: "
+msgstr "WP versie: "
+
+#: templates/partials/tab-contents/support.php:37
+msgid "Copy Technical Info"
+msgstr "Technische gegevens kopiëren"
+
+#: templates/partials/tab-contents/support.php:32
+msgid "Send your issue"
+msgstr "Stuur je probleem"
+
+#: templates/partials/tab-contents/support.php:30
+msgid "When you experience problems using this plugin please look if your problem was <a href=\"https://wordpress.org/support/plugin/wp-external-links\" target=\"_blank\">already reported</a>."
+msgstr "Als zich een probleem voordoet met deze plugin, kijk dan eerst of het <a href=\"https://wordpress.org/support/plugin/wp-external-links\" target=\"_blank\">al (eerder) is gemeld</a>."
+
+#: templates/partials/tab-contents/support.php:29
+msgid "Reported issues"
+msgstr "Gerapporteerde problemen"
+
+#: templates/partials/tab-contents/support.php:27
+msgid "On the <a href=\"https://wordpress.org/plugins/wp-external-links/faq/\" target=\"_blank\">FAQ page</a> you can find some additional tips & tricks."
+msgstr "In onze <a href=\"https://wordpress.org/plugins/wp-external-links/faq/\" target=\"_blank\">FAQ pagina</a> vind je nog meer tips & truken."
+
+#: templates/partials/tab-contents/support.php:26
+msgid "FAQ"
+msgstr "FAQ"
+
+#: templates/network-page/help-tabs/under-construction.php:14
+#: templates/settings-page/help-tabs/under-construction.php:14
+msgid "Still working on the documentation..."
+msgstr "Nog bezig documentatie af te ronden ..."
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:295
+msgid "No icon for links already containing an <code>&lt;img&gt;</code>-tag."
+msgstr "Geen pictogram bij links die al een <code>&lt;img&gt;</code> tag bevatten."
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:286
+msgid "Right side of the link"
+msgstr "Rechterkant van de link"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:285
+msgid "Left side of the link"
+msgstr "Linkerkant van de link"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:221
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:220
+msgid "Dashicon"
+msgstr "Dashicon"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:219
+msgid "Image"
+msgstr "Afbeelding"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:218
+msgid "- no icon -"
+msgstr "- geen icon -"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:168
+msgid "Add <code>\"noreferrer\"</code>"
+msgstr "Voeg <code>\"noreferrer\"</code> toe"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:158
+msgid "Add <code>\"noopener\"</code>"
+msgstr "Voeg <code>\"noopener\"</code> toe"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:139
+msgid "nofollow"
+msgstr "nofollow"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:138
+msgid "follow"
+msgstr "follow"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:126
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:148
+msgid "Overwrite existing values."
+msgstr "Originele waarden overschrijven."
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:115
+msgid "each in a separate new window or tab"
+msgstr "elk in een apart nieuw venster of tabblad"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:114
+msgid "in the same window, tab or frame"
+msgstr "in hetzelfde venster, tabblad of frame"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:113
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:137
+msgid "- keep as is -"
+msgstr "- originele waarde behouden -"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:102
+msgid "Apply these settings"
+msgstr "Deze instellingen toepassen"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:85
+msgid "Skip icon with <code>&lt;img&gt;</code>:"
+msgstr "Pictogram met <code>&lt;img&gt;</code> overslaan:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:80
+msgid "Icon position:"
+msgstr "Icon positie:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:76
+msgid "Choose FA icon:"
+msgstr "Kies FA pictogram:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:72
+msgid "Choose dashicon:"
+msgstr "Kies dashpictogram:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:67
+msgid "Choose icon image:"
+msgstr "Kies pictogramafbeelding:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:63
+msgid "Choose icon type:"
+msgstr "Kies pictogramtype:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:59
+msgid "Add CSS class(es):"
+msgstr "Toevoegen CSS klasse(n):"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:54
+msgid "Set <code>title</code>:"
+msgstr "Stel <code>title</code> in:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:35
+msgid "Set <code>follow</code> or <code>nofollow</code>:"
+msgstr "Stel <code>follow</code> of <code>nofollow</code> in:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:26
+msgid "Open links:"
+msgstr "Links openen:"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:22
+msgid "Settings for links:"
+msgstr "Instellingen voor links:"
+
+#: includes/admin/settings-fields/class-wpel-internal-link-fields.php:24
+msgid "Open internal links:"
+msgstr "Interne links openen:"
+
+#: includes/admin/settings-fields/class-wpel-internal-link-fields.php:23
+msgid "Settings for internal links:"
+msgstr "Instellingen interne links:"
+
+#: includes/admin/settings-fields/class-wpel-external-link-fields.php:25
+msgid "Open external links:"
+msgstr "Externe links openen:"
+
+#: includes/admin/settings-fields/class-wpel-external-link-fields.php:23
+msgid "Settings for external links:"
+msgstr "Instellingen externe links:"
+
+#: includes/admin/settings-fields/class-wpel-excluded-link-fields.php:24
+msgid "Open excluded links:"
+msgstr "Open uitgesloten links:"
+
+#: includes/admin/settings-fields/class-wpel-excluded-link-fields.php:23
+msgid "Settings for excluded links:"
+msgstr "Instellingen uitgesloten links:"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:212
+msgid "Ignore all <code>mailto</code> links"
+msgstr "Negeer alle <code>mailto</code> links"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:202
+msgid "Ignore all links in <code>&lt;script&gt;</code> blocks"
+msgstr "Negeer alle links in <code>&lt;script&gt;</code> blokken"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:191
+msgid "Own settings for excluded links <span class=\"description\">(extra tab)</span>"
+msgstr "Eigen instellingen voor uitgesloten links <span class=\"description\">(extra tabblad)</span>"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:183
+msgid "Treat excluded links as internal links"
+msgstr "Behandel uitgesloten links als interne links"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:83
+msgid "All contents (the whole page)"
+msgstr "Alle inhouden (de hele pagina)"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:66
+msgid "Skip <code>mailto</code> links:"
+msgstr "Sla <code>mailto</code> links over:"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:62
+msgid "Skip <code>&lt;script&gt;</code>:"
+msgstr "Sla <code>&lt;script&gt;</code> over:"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:59
+msgid "Own settings for excluded links:"
+msgstr "Eigen instellingen voor uitgesloten links:"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:56
+msgid "Exclude external links by URL:"
+msgstr "Externe links uitsluiten op basis van URL:"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:53
+msgid "Include external links by URL:"
+msgstr "Externe links opnemen op basis van URL:"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:27
+msgid "Apply settings on:"
+msgstr "Instellingen toepassen op:"
+
+#: includes/admin/settings-fields/class-wpel-admin-fields.php:44
+msgid "Create own admin menu for this plugin"
+msgstr "Maak een eigen beheerder menu voor deze plugin"
+
+#: includes/admin/settings-fields/class-wpel-admin-fields.php:27
+msgid "Main Admin Menu:"
+msgstr "Hoofd beheerder menu:"
+
+#: includes/admin/network-fields/class-wpel-network-fields.php:100
+msgid "- none -"
+msgstr "- geen -"
+
+#: includes/admin/network-fields/class-wpel-network-fields.php:90
+msgid "Only Super Admins"
+msgstr "Alleen superbeheerders"
+
+#: includes/admin/network-fields/class-wpel-network-fields.php:89
+msgid "Site Admins and Super Admins"
+msgstr "Site- en superbeheerders"
+
+#: includes/admin/network-fields/class-wpel-network-fields.php:31
+msgid "Use the settings of this site as default for new sites:"
+msgstr "Instellingen voor deze site standaard gebruiken op nieuwe sites:"
+
+#: includes/admin/network-fields/class-wpel-network-fields.php:27
+msgid "Capability for individual sites:"
+msgstr "Mogelijkheid voor individuele sites:"
+
+#: includes/admin/network-fields/class-wpel-network-admin-fields.php:105
+#: includes/admin/settings-fields/class-wpel-admin-fields.php:69
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:240
+#: includes/admin/settings-fields/class-wpel-exit-confirmation-fields.php:249
+#: includes/admin/settings-fields/class-wpel-external-link-fields.php:95
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:321
+msgid "Something went wrong. One or more values were invalid."
+msgstr "Er ging iets mis. Een of meer waardes ongeldig."
+
+#: includes/admin/network-fields/class-wpel-network-admin-fields.php:86
+#: includes/admin/settings-fields/class-wpel-admin-fields.php:50
+msgid "Or else it will be added to the \"Settings\" menu"
+msgstr "Anders wordt het toegevoegd aan het \"Instellingen\" menu"
+
+#: includes/admin/network-fields/class-wpel-network-admin-fields.php:80
+msgid "Create own network admin menu for this plugin"
+msgstr "Maak een eigen netwerk admin-menu voor deze plugin"
+
+#: includes/admin/network-fields/class-wpel-network-admin-fields.php:27
+msgid "Main Network Admin Menu:"
+msgstr "Hoofd netwerk beheerder menu:"
+
+#: includes/admin/network-fields/class-wpel-network-admin-fields.php:24
+msgid "Network Admin Settings"
+msgstr "Netwerk beheer instellingen"
+
+#: includes/admin/class-wpel-settings-page.php:305
+msgid "Data Attributes"
+msgstr "Gegevens attributen"
+
+#: includes/admin/class-wpel-settings-page.php:59
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:24
+msgid "Exceptions"
+msgstr "Uitzonderingen"
+
+#: includes/admin/class-wpel-settings-page.php:54
+#: includes/admin/settings-fields/class-wpel-excluded-link-fields.php:31
+msgid "Excluded Links"
+msgstr "Uitgesloten links"
+
+#: includes/admin/class-wpel-settings-page.php:49
+#: includes/admin/settings-fields/class-wpel-internal-link-fields.php:31
+msgid "Internal Links"
+msgstr "Interne links"
+
+#: includes/admin/class-wpel-network-page.php:170
+#: includes/admin/class-wpel-settings-page.php:300
+#: templates/network-page/help-tabs/under-construction.php:12
+#: templates/settings-page/help-tabs/under-construction.php:12
+msgid "Under Construction"
+msgstr "Werk in uitvoering"
+
+#: includes/admin/class-wpel-network-page.php:46
+#: includes/admin/class-wpel-settings-page.php:82
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: includes/admin/class-wpel-network-page.php:36
+#: includes/admin/network-fields/class-wpel-network-fields.php:24
+msgid "Multi Site Settings"
+msgstr "Instellingen multi-sites"
+
+#: includes/admin/settings-fields/class-wpel-external-link-fields.php:75
+msgid "Add <code>\"external\"</code>"
+msgstr "Toevoegen <code>\"external\"</code>"
+
+#: includes/admin/settings-fields/class-wpel-link-fields-base.php:44
+msgid "Also add to <code>rel</code> attribute:"
+msgstr "Ook aan <code>rel</code> attribuut toevoegen:"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:145
+msgid "Treat all links to the site's domain and subdomains as internal links"
+msgstr "Behandel alle links naar het domein en de subdomeinen van de site als interne links"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:50
+msgid "Make subdomains internal:"
+msgstr "Maak subdomeinen intern:"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:113
+msgid "All widgets"
+msgstr "Alle widgets"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:103
+msgid "Comments"
+msgstr "Reacties"
+
+#: includes/admin/settings-fields/class-wpel-exceptions-fields.php:93
+msgid "Post content"
+msgstr "Berichtinhoud"
+
+#: includes/admin/class-wpel-network-page.php:41
+#: includes/admin/settings-fields/class-wpel-admin-fields.php:24
+msgid "Admin Settings"
+msgstr "Instellingen beheer"
+
+#: includes/admin/class-wpel-settings-page.php:44
+#: includes/admin/settings-fields/class-wpel-external-link-fields.php:60
+msgid "External Links"
+msgstr "Externe links"
+
+#. Plugin Name of the plugin
+#: includes/admin/class-wpel-network-page.php:103
+#: includes/admin/class-wpel-network-page.php:104
+#: includes/admin/class-wpel-network-page.php:114
+#: includes/admin/class-wpel-network-page.php:115
+#: includes/admin/class-wpel-settings-page.php:191
+#: includes/admin/class-wpel-settings-page.php:193
+#: includes/admin/class-wpel-settings-page.php:207
+#: includes/admin/class-wpel-settings-page.php:209
+msgid "WP External Links"
+msgstr "WP External Links"

@@ -1,0 +1,715 @@
+# Translation of Plugins - Yasr &#8211; Yet Another Stars Rating - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Yasr &#8211; Yet Another Stars Rating - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-12-31 18:54:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Yasr &#8211; Yet Another Stars Rating - Stable (latest release)\n"
+
+#: admin/editor/YasrMetaboxBelowEditor.php:325
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: admin/settings/classes/YasrSettingsRankings.php:269
+msgid "End Date"
+msgstr "Einddatum"
+
+#: admin/settings/classes/YasrSettingsRankings.php:259
+msgid "Start Date"
+msgstr "Startdatum"
+
+#: admin/settings/classes/YasrSettings.php:135
+msgid "Advanced Settings"
+msgstr "Geavanceerde instellingen"
+
+#: admin/settings/classes/YasrSettings.php:1224
+msgid "Archive Pages"
+msgstr "Archiefpagina's"
+
+#: admin/settings/classes/YasrSettings.php:1292
+msgid "More info here"
+msgstr "Meer info hier"
+
+#: includes/shortcodes/classes/YasrNoStarsRankings.php:128
+msgid "Account deleted"
+msgstr "Account verwijderd"
+
+#: admin/settings/classes/YasrSettingsRankings.php:157
+msgid "At least..."
+msgstr "Op zijn minst..."
+
+#: admin/editor/yasr-metabox-top-right.php:76
+#: admin/editor/YasrMetaboxBelowEditor.php:217
+#: admin/editor/YasrMetaboxBelowEditor.php:241
+#: admin/editor/YasrMetaboxBelowEditor.php:329
+#: admin/editor/YasrMetaboxBelowEditor.php:343
+#: admin/editor/YasrMetaboxBelowEditor.php:357
+#: admin/settings/yasr-settings-rankings.php:50
+msgid "Copy Shortcode"
+msgstr "Kopieer shortcode"
+
+#: admin/settings/classes/YasrSettingsRankings.php:133
+msgid "Default View"
+msgstr "Standaard weergave"
+
+#: admin/settings/classes/YasrSettingsRankings.php:80
+msgid "How many rows?"
+msgstr "Hoeveel rijen?"
+
+#: admin/editor/YasrEditorHooks.php:498
+msgid "Most Active Authors"
+msgstr "Meest actieve auteurs"
+
+#: admin/settings/classes/YasrSettings.php:1208
+msgid "Enable stars next to the title?"
+msgstr "Sterren naast de titel inschakelen?"
+
+#: admin/settings/classes/YasrSettings.php:386
+msgid "Only on single posts or pages"
+msgstr "Alleen op enkele berichten en pagina's"
+
+#: admin/settings/classes/YasrSettings.php:385
+msgid "Only on archive pages (categories, tags, etc.)"
+msgstr "Alleen op archiefpagina's (categorieën, tags, etc.)"
+
+#: admin/settings/classes/YasrSettings.php:383
+msgid "Where do you want show ratings?"
+msgstr "Waar wil je waarderingen laten zien?"
+
+#: admin/settings/classes/YasrSettings.php:1386
+msgid "No credit-card, risk free!"
+msgstr "Geen creditcard, geen risico!"
+
+#: admin/settings/classes/YasrSettings.php:1381
+msgid "Start Free Trial"
+msgstr "Gratis proefperiode starten"
+
+#: admin/settings/classes/YasrSettings.php:1367
+msgid "Upgrade Now"
+msgstr "Nu upgraden"
+
+#: includes/shortcodes/classes/YasrNoStarsRankings.php:119
+msgid "Anonymous"
+msgstr "Anoniem"
+
+#: includes/shortcodes/classes/YasrNoStarsRankings.php:87
+msgid "Number of votes"
+msgstr "Aantal stemmen"
+
+#: admin/settings/classes/YasrSettingsRankings.php:405
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: includes/shortcodes/classes/YasrNoStarsRankings.php:90
+msgid "Reviews"
+msgstr "Beoordelingen"
+
+#: admin/editor/YasrMetaboxSchemaFields.php:154
+msgid "The number of calories"
+msgstr "Het aantal calorieën"
+
+#: admin/editor/YasrMetaboxSchemaFields.php:164
+msgid "The region associated with your recipe. For example, \"Mediterranean\", or \"American\"."
+msgstr "De regio waar je recept bij hoort. Bijvoorbeeld \"Mediterraan\" of \"Amerikaans\"."
+
+#: admin/editor/YasrMetaboxSchemaFields.php:159
+msgid "The type of meal or course your recipe is about"
+msgstr "Het soort maaltijd of gerecht waar je recept over gaat"
+
+#: admin/editor/YasrMetaboxSchemaFields.php:144
+msgid "A short summary describing the dish."
+msgstr "Een korte samenvatting waarin het gerecht wordt beschreven."
+
+#: admin/editor/YasrMetaboxSchemaFields.php:201
+msgid "More info %s here %s and %s here %s"
+msgstr "Meer informatie %s hier %s en %s hier %s"
+
+#: admin/editor/YasrMetaboxSchemaFields.php:187
+msgid "A video depicting the steps to make the dish (URL)"
+msgstr "Een video met de stappen om het gerecht te maken (URL)"
+
+#: admin/editor/YasrMetaboxSchemaFields.php:139
+msgid "The length of time it takes to prepare the dish, in ISO 8601 format."
+msgstr "De tijd die nodig is om het gerecht te bereiden, in ISO 8601-indeling."
+
+#: admin/editor/YasrMetaboxBelowEditor.php:107
+msgid "Structured Data"
+msgstr "Gestructureerde gegevens"
+
+#: includes/rest/classes/YasrCustomEndpoint.php:213
+msgid "Invalid Post ID"
+msgstr "Ongeldig bericht ID"
+
+#: includes/rest/classes/YasrCustomEndpoint.php:222
+msgid "Post ID doesn't exists"
+msgstr "Bericht-ID bestaat niet"
+
+#: includes/yasr-widgets.php:462
+msgid "No recent ratings yet"
+msgstr "Nog geen recente waarderingen"
+
+#: admin/settings/classes/YasrStats.php:214
+msgid "Imported Data"
+msgstr "Geïmporteerde gegevens"
+
+#: admin/settings/classes/YasrStats.php:209
+msgid "Field doesn't exists"
+msgstr "Veld bestaat niet"
+
+#: includes/classes/YasrLastRatingsWidget.php:188
+msgid "No Recent votes yet"
+msgstr "Nog geen recente stemmen"
+
+#: admin/settings/yasr-stats-page.php:39
+msgid "Ratings Stats"
+msgstr "Waardering statistieken"
+
+#: admin/editor/yasr-metabox-schema.php:68
+msgid "Is this a review?"
+msgstr "Is dit een beoordeling?"
+
+#: includes/classes/YasrDefineOptions.php:158
+msgid "Save All Settings"
+msgstr "Alle instellingen opslaan"
+
+#: admin/settings/classes/YasrSettings.php:224
+msgid "Right"
+msgstr "Rechts"
+
+#: admin/settings/classes/YasrSettings.php:223
+msgid "Center"
+msgstr "Midden"
+
+#: admin/settings/classes/YasrSettings.php:222
+msgid "Left"
+msgstr "Links"
+
+#: admin/settings/classes/YasrSettings.php:220
+msgid "Align"
+msgstr "Uitlijnen"
+
+#: admin/settings/classes/YasrSettings.php:507
+msgid "Example"
+msgstr "Voorbeeld"
+
+#: admin/settings/classes/YasrSettings.php:203
+msgid "After the content"
+msgstr "Na de inhoud"
+
+#: admin/settings/classes/YasrSettings.php:202
+msgid "Before the content"
+msgstr "Voor de inhoud"
+
+#: includes/classes/YasrSettingsValues.php:81
+msgid "Our Score"
+msgstr "Onze score"
+
+#: admin/settings/classes/YasrImportRatingPlugins.php:967
+msgid "Import data"
+msgstr "Gegevens importeren"
+
+#: admin/settings/classes/YasrSettings.php:1431
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: admin/settings/classes/YasrSettings.php:1575
+msgid "Can I ask your help?"
+msgstr "Kan ik om je hulp vragen?"
+
+#: admin/settings/classes/YasrSettings.php:1355
+msgid "...And much more!!"
+msgstr "... en nog veel meer!"
+
+#. Author URI of the plugin
+msgid "https://dariocurvino.it/"
+msgstr "https://dariocurvino.it/"
+
+#: admin/settings/classes/YasrSettings.php:1334
+msgid "User Reviews"
+msgstr "Gebruiker beoordelingen"
+
+#: admin/settings/classes/YasrSettings.php:1349
+msgid "Dedicate support"
+msgstr "Toegewijde ondersteuning"
+
+#: admin/settings/classes/YasrSettings.php:1343
+msgid "Upload your own theme"
+msgstr "Upload je eigen thema"
+
+#: admin/settings/classes/YasrSettings.php:1337
+msgid "Custom Rankings"
+msgstr "Aangepaste rankingen"
+
+#: yet-another-stars-rating.php:182
+msgid "Buy Yasr Pro"
+msgstr "Koop Yasr Pro"
+
+#: includes/shortcodes/classes/YasrNoStarsRankings.php:89
+msgid "Author"
+msgstr "Auteur"
+
+#: includes/classes/YasrScriptsLoader.php:80
+msgid "out of 5 stars"
+msgstr "van 5 sterren"
+
+#: includes/yasr-widgets.php:489
+msgid "Recent Ratings"
+msgstr "Recente waarderingen"
+
+#: includes/yasr-widgets.php:262
+msgid "Rate This:"
+msgstr "Waardeer dit:"
+
+#: includes/yasr-widgets.php:123 includes/yasr-widgets.php:301
+msgid "Size:"
+msgstr "Grootte:"
+
+#: includes/yasr-widgets.php:113 includes/yasr-widgets.php:283
+#: includes/yasr-widgets.php:496
+msgid "Title:"
+msgstr "Titel:"
+
+#: includes/yasr-widgets.php:100
+msgid "Our Rating:"
+msgstr "Onze waardering:"
+
+#: includes/yasr-widgets.php:47
+msgid "Display Overall Rating"
+msgstr "Toon algemene waardering"
+
+#: includes/yasr-widgets.php:45
+msgid "Yasr Overall Rating"
+msgstr "Yasr algemene waardering"
+
+#: includes/yasr-widgets.php:202
+msgid "Yasr Visitor Votes"
+msgstr "Yasr bezoekersstemmen"
+
+#: includes/yasr-widgets.php:204
+msgid "Show Yasr Visitor Votes"
+msgstr "Toon Yasr bezoekersstemmen "
+
+#: admin/settings/aspect_style/yasr-settings-style-actions.php:117
+msgid "Save Settings"
+msgstr "Instellingen opslaan"
+
+#: admin/settings/classes/YasrSettingsMultiset.php:596
+msgid "Show average?"
+msgstr "Toon gemiddelde?"
+
+#: admin/settings/classes/YasrSettings.php:622
+msgid "Publisher name (e.g. Google)"
+msgstr "Naam uitgever (bv. Google)"
+
+#: admin/editor/YasrEditorHooks.php:397
+msgid "Hide Average?"
+msgstr "Gemiddelde verbergen?"
+
+#: admin/settings/aspect_style/yasr-settings-style-actions.php:31
+msgid "Choose Stars Set"
+msgstr "Kies sterrenset"
+
+#: admin/settings/classes/YasrSettings.php:1130
+msgid "Aspect & Styles"
+msgstr "Aspect & Stijlen"
+
+#: admin/editor/yasr-metabox-top-right.php:57
+#: admin/js/src/guten/blocks/deprecated/deprecated_blocks.js:111
+#: admin/js/src/guten/yasrGutenUtils.js:109
+msgid "Rate this article / item"
+msgstr "Stem op dit artikel of item"
+
+#: includes/classes/YasrScriptsLoader.php:79
+msgid "Loading, please wait"
+msgstr "Laden, even wachten svp."
+
+#: admin/classes/YasrAdmin.php:179 admin/settings/yasr-settings.php:33
+#: yet-another-stars-rating.php:160
+msgid "Settings"
+msgstr "Instellingen"
+
+#: admin/settings/yasr-settings-multiset.php:45
+msgid "Save"
+msgstr "Opslaan"
+
+#: admin/settings/classes/YasrSettingsMultiset.php:266
+msgid "Manage Multi Set"
+msgstr "Beheren Multi Set"
+
+#: includes/classes/YasrSettingsValues.php:91
+msgid "You must sign in to vote"
+msgstr "Je moet inloggen om te stemmen"
+
+#: admin/settings/classes/YasrSettingsRankings.php:135
+#: includes/classes/YasrScriptsLoader.php:82
+msgid "Most Rated"
+msgstr "Meeste op Gestemd"
+
+#: admin/settings/classes/YasrSettingsRankings.php:136
+#: includes/classes/YasrScriptsLoader.php:83
+msgid "Highest Rated"
+msgstr "Hoogste Stemming"
+
+#: includes/shortcodes/classes/YasrMultiSet.php:220
+msgid "Average"
+msgstr "Gemiddelde"
+
+#: admin/settings/classes/YasrSettingsMultiset.php:438
+msgid "Remove whole set?"
+msgstr "Verwijder hele set?"
+
+#: admin/settings/classes/YasrSettingsMultiset.php:483
+msgid "You can use up to 9 elements"
+msgstr "Je kunt tot 9 elementen gebruiken"
+
+#: admin/settings/classes/YasrSettingsMultiset.php:720
+#: admin/settings/classes/YasrSettingsMultiset.php:882
+msgid "Settings Saved"
+msgstr "Instellingen Opgeslagen"
+
+#: admin/settings/classes/YasrSettingsMultiset.php:709
+msgid "Something goes wrong trying insert set field name. Please report it"
+msgstr "Er ging iets mis tijdens het invoegen van de veldnaam. Graag aangeven bij de maker"
+
+#: admin/settings/classes/YasrSettingsMultiset.php:904
+msgid "Something goes wrong trying to delete a Multi Set . Please report it"
+msgstr "Er ging iets mis tijdens het verwijderen van een Multi Set. Graag aangeven bij de maker"
+
+#: admin/settings/classes/YasrSettingsMultiset.php:942
+msgid "Something goes wrong trying to delete a Multi Set's element. Please report it"
+msgstr "Er ging iets mis tijdens het verwijderen van een Multi Set element. Graag aangeven bij de maker"
+
+#: admin/settings/classes/YasrSettingsMultiset.php:999
+msgid "Something goes wrong trying to update a Multi Set's element. Please report it"
+msgstr "Er ging iets mis tijdens het bijwerken van een Multi Set element. Graag aangeven bij de maker"
+
+#: admin/settings/classes/YasrSettingsMultiset.php:1065
+msgid "Something goes wrong trying to insert set field name in edit form. Please report it"
+msgstr "Er ging iets mis tijdens het invoegen van een set-veldnaam in het bewerk-formulier. Graag aangeven bij de maker"
+
+#: admin/settings/aspect_style/yasr-settings-style-functions.php:44
+msgid "Style Options"
+msgstr "Opmaak Opties"
+
+#: admin/settings/aspect_style/yasr-settings-style-functions.php:62
+msgid "Custom CSS Styles"
+msgstr "Aangepaste CSS Opmaak"
+
+#: admin/settings/aspect_style/yasr-settings-style-functions.php:117
+msgid "Please use text area below to write your own CSS styles to override the default ones."
+msgstr "Gebruik het tekstveld hieronder om je eigen CSS opmaak te schrijven om de standaard opmaak te overschrijven. "
+
+#: admin/settings/classes/YasrSettings.php:1586
+msgid " It will require just 1 min but it's a HUGE help for me. Thank you."
+msgstr "Het duurt slechts 1 min maar het is een ENORME hulp voor mij. Bedankt."
+
+#: includes/shortcodes/classes/YasrVisitorMultiSet.php:62
+#: includes/shortcodes/classes/YasrVisitorMultiSet.php:70
+msgid "Submit!"
+msgstr "Stuur door!"
+
+#. Author of the plugin
+msgid "Dario Curvino"
+msgstr "Dario Curvino"
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/plugins/yet-another-stars-rating/"
+msgstr "http://wordpress.org/plugins/yet-another-stars-rating/"
+
+#. Plugin Name of the plugin
+msgid "Yet Another Stars Rating"
+msgstr "Yet Another Stars Rating"
+
+#: admin/settings/aspect_style/yasr-settings-style-functions.php:120
+msgid "Leave it blank if you don't know what you're doing."
+msgstr "Laat het leeg als je niet weet wat dit is."
+
+#: includes/shortcodes/classes/YasrNoStarsRankings.php:42
+msgid "Problem while retrieving the top 5 most active reviewers. Did you publish any review?"
+msgstr "Probleem tijdens het ophalen van de 5 meest actieve recensenten. Heb je wel een recensie gepubliceerd?"
+
+#: includes/shortcodes/classes/YasrNoStarsRankings.php:69
+msgid "Problem while retrieving the top 10 active users chart. Are you sure you have votes to show?"
+msgstr "Probleem tijdens het ophalen van de grafiek van de top 10 actieve gebruikers. Weet je zeker dat je wel stemmen hebt om te tonen?"
+
+#: includes/classes/YasrPhpFieldsHelper.php:359
+msgid "Choose which set you want to use"
+msgstr "Kies welke set je wilt gebruiken"
+
+#: includes/shortcodes/classes/YasrVisitorMultiSet.php:162
+msgid "Thank you for voting!"
+msgstr "Bedankt voor je stem."
+
+#: admin/settings/classes/YasrSettingsMultiset.php:477
+msgid "Save changes"
+msgstr "Wijzigingen opslaan"
+
+#: admin/settings/classes/YasrSettingsRankings.php:235
+msgid "Rating:"
+msgstr "Waardering:"
+
+#: includes/classes/YasrScriptsLoader.php:81
+msgid "Order by"
+msgstr "Sorteer op"
+
+#: admin/settings/classes/YasrSettingsMultiset.php:275
+msgid "No Multi Set were found"
+msgstr "Geen multi sets gevonden"
+
+#: admin/settings/classes/YasrSettings.php:1118
+msgid "General Settings"
+msgstr "Algemene instellingen"
+
+#: admin/classes/YasrAdmin.php:226 admin/classes/YasrAdmin.php:241
+#: admin/classes/YasrAdmin.php:256 admin/classes/YasrOnInstall.php:26
+#: admin/editor/YasrEditorHooks.php:597
+#: admin/settings/classes/YasrImportRatingPlugins.php:450
+#: admin/settings/classes/YasrImportRatingPlugins.php:524
+#: admin/settings/classes/YasrImportRatingPlugins.php:588
+#: admin/settings/classes/YasrImportRatingPlugins.php:644
+#: admin/settings/yasr-settings.php:27 admin/settings/yasr-stats-page.php:27
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Je hebt niet voldoende rechten om deze pagina te laden."
+
+#: admin/settings/classes/YasrSettings.php:73
+msgid "General settings"
+msgstr "Algemene instellingen"
+
+#: admin/settings/classes/YasrSettings.php:1193
+msgid "Auto Insert Options"
+msgstr "Auto invoegopties"
+
+#: admin/settings/classes/YasrSettings.php:161
+msgid "Use Auto Insert?"
+msgstr "Gebruik Auto Invoegen?"
+
+#: admin/settings/classes/YasrSettings.php:260
+#: admin/settings/classes/YasrSettings.php:282
+#: admin/settings/classes/YasrSettings.php:366
+#: admin/settings/classes/YasrSettingsRankings.php:296
+#: admin/settings/classes/YasrSettingsRankings.php:365
+msgid "Yes"
+msgstr "Ja"
+
+#: admin/settings/classes/YasrSettings.php:261
+#: admin/settings/classes/YasrSettings.php:283
+#: admin/settings/classes/YasrSettings.php:367
+#: admin/settings/classes/YasrSettingsRankings.php:215
+#: admin/settings/classes/YasrSettingsRankings.php:295
+#: admin/settings/classes/YasrSettingsRankings.php:364
+msgid "No"
+msgstr "Nee"
+
+#: admin/settings/classes/YasrSettings.php:180
+#: admin/settings/classes/YasrSettings.php:345
+msgid "What?"
+msgstr "Wat?"
+
+#: admin/settings/classes/YasrSettings.php:348
+msgid "Overall Rating / Author Rating"
+msgstr "Algemene Stemming / Auteur Stemming"
+
+#: admin/editor/YasrEditorHooks.php:335
+#: admin/settings/classes/YasrSettings.php:182
+#: admin/settings/classes/YasrSettings.php:347
+#: admin/settings/yasr-stats-page.php:46
+msgid "Visitor Votes"
+msgstr "Bezoekersstemmen"
+
+#: admin/settings/classes/YasrSettings.php:184
+#: admin/settings/classes/YasrSettings.php:204
+#: admin/settings/classes/YasrSettings.php:387
+msgid "Both"
+msgstr "Beide"
+
+#: admin/settings/classes/YasrSettings.php:200
+msgid "Where?"
+msgstr "Waar?"
+
+#: admin/settings/classes/YasrSettings.php:241
+#: admin/settings/classes/YasrSettingsRankings.php:111
+#: admin/js/src/guten/yasrGutenUtils.js:5
+msgid "Size"
+msgstr "Afmeting"
+
+#: includes/yasr-widgets.php:130 includes/yasr-widgets.php:306
+#: admin/js/src/guten/blocks/deprecated/deprecated_blocks.js:14
+#: admin/js/src/guten/yasrGutenUtils.js:8
+msgid "Small"
+msgstr "Klein"
+
+#: includes/yasr-widgets.php:138 includes/yasr-widgets.php:314
+#: admin/js/src/guten/blocks/deprecated/deprecated_blocks.js:15
+#: admin/js/src/guten/yasrGutenUtils.js:9
+msgid "Medium"
+msgstr "Gemiddeld"
+
+#: includes/yasr-widgets.php:146 includes/yasr-widgets.php:323
+#: admin/js/src/guten/blocks/deprecated/deprecated_blocks.js:16
+#: admin/js/src/guten/yasrGutenUtils.js:10
+msgid "Large"
+msgstr "Groot"
+
+#: admin/settings/classes/YasrSettings.php:258
+#: admin/settings/classes/YasrSettings.php:364
+msgid "Exclude Pages?"
+msgstr "Negeer Pagina's"
+
+#: admin/settings/classes/YasrSettings.php:280
+msgid "Use only in custom post types?"
+msgstr "Alleen gebruiken in custom post types?"
+
+#: admin/settings/classes/YasrSettings.php:678
+msgid "Custom text to display before Overall Rating"
+msgstr "Aangepaste tekst om te tonen voor Algemene Stemming"
+
+#: admin/settings/classes/YasrSettings.php:538
+msgid "Allow only logged-in users"
+msgstr "Alleen ingelogde gebruikers toestaan"
+
+#: admin/settings/classes/YasrSettings.php:539
+msgid "Allow everybody (logged in and anonymous)"
+msgstr "Sta iedereen toe (ingelogd en anoniem)"
+
+#: admin/settings/aspect_style/yasr-settings-style-functions.php:53
+msgid "Which color scheme do you want to use?"
+msgstr "Welk kleurenschema wil je gebruiken?"
+
+#: admin/settings/aspect_style/yasr-settings-style-functions.php:82
+msgid "Light"
+msgstr "Licht"
+
+#: admin/settings/aspect_style/yasr-settings-style-functions.php:83
+msgid "Dark"
+msgstr "Donker"
+
+#: admin/settings/aspect_style/yasr-settings-style-functions.php:96
+msgid "Preview"
+msgstr "Voorvertoning"
+
+#: admin/settings/aspect_style/yasr-settings-style-functions.php:101
+msgid "Light theme"
+msgstr "Licht Thema"
+
+#: admin/settings/aspect_style/yasr-settings-style-functions.php:106
+msgid "Dark theme"
+msgstr "Donker Thema"
+
+#: admin/settings/classes/YasrSettingsMultiset.php:162
+msgid "Element "
+msgstr "Element"
+
+#: admin/settings/classes/YasrSettingsMultiset.php:138
+msgid "Create New Set"
+msgstr "Aanmaken Nieuwe Set"
+
+#: admin/settings/classes/YasrStats.php:175
+#: includes/classes/YasrLastRatingsWidget.php:199 includes/yasr-widgets.php:428
+msgid "anonymous"
+msgstr "anoniem"
+
+#: includes/classes/YasrLastRatingsWidget.php:226
+msgid "Ip address"
+msgstr "Ipadres"
+
+#: includes/classes/YasrLastRatingsWidget.php:257
+msgid "Pages"
+msgstr "Pagina's"
+
+#: admin/editor/YasrEditorHooks.php:158
+msgid "You don't have enought privileges to insert Overall Rating"
+msgstr "Je hebt niet genoeg rechten om Algemene Stemming in te voegen"
+
+#: admin/editor/YasrEditorHooks.php:173
+msgid "You don't have enough privileges to insert a Multi Set"
+msgstr "Je hebt niet genoeg rechten om Multi Set in te voegen"
+
+#: admin/editor/YasrEditorHooks.php:269
+msgid "Main"
+msgstr "Hoofd"
+
+#: admin/editor/YasrEditorHooks.php:224
+msgid "Read the doc"
+msgstr "Lees de documentatie"
+
+#: admin/editor/YasrEditorHooks.php:313
+msgid "Insert Overall Rating"
+msgstr "Voeg Algemene Stemming in"
+
+#: admin/editor/YasrEditorHooks.php:322 admin/editor/YasrEditorHooks.php:351
+#: admin/js/src/guten/blocks/deprecated/deprecated_blocks.js:11
+msgid "Choose Size"
+msgstr "Kies Grootte"
+
+#: admin/editor/YasrEditorHooks.php:343
+msgid "Insert Visitor Votes"
+msgstr "Invoegen Bezoekersstemmen"
+
+#: admin/editor/YasrEditorHooks.php:378
+msgid "Choose wich set you want to insert."
+msgstr "Kies welke set je wilt invoegen."
+
+#: admin/editor/YasrEditorHooks.php:407
+msgid "Insert Multi Set"
+msgstr "Invoegen Multi Set"
+
+#: admin/editor/YasrEditorHooks.php:364
+msgid "Insert Multiset:"
+msgstr "Invoegen Multi Set:"
+
+#: admin/editor/YasrEditorHooks.php:518
+msgid "Most Active Users"
+msgstr "Meest Actieve Gebruikers"
+
+#: admin/editor/YasrMetaboxBelowEditor.php:238
+msgid "If, you want allow your visitor to vote on this multiset, use this shortcode"
+msgstr "Als je je bezoeker toelaat te stemmen op deze multiset, gebruik deze shortcode"
+
+#: admin/editor/YasrEditorHooks.php:384
+msgid "Readonly?"
+msgstr "Enkel lezen?"
+
+#: admin/editor/YasrEditorHooks.php:390
+msgid "If Readonly is checked, only you can insert the votes (in the box above the editor)"
+msgstr "Als Enkel lezen aangevinkt is kan jij alleen stemmen toevoegen (in de box boven de editor)"
+
+#: includes/classes/YasrLastRatingsWidget.php:209
+msgid "Vote %d from %s on"
+msgstr "Stem %d van %s op"
+
+#: admin/settings/classes/YasrSettings.php:447
+msgid "Show \"Visitor Votes\" in Archive Page?"
+msgstr "\"Bezoeker Stemmen\" tonen op Archiefpagina?"
+
+#: admin/editor/yasr-metabox-schema.php:66
+msgid "Rich snippet options"
+msgstr "Rijke snippet opties"
+
+#: admin/settings/classes/YasrSettings.php:690
+msgid "Custom text to display AFTER Visitor Rating"
+msgstr "Aangepaste tekst om te tonen NA Bezoekersstemming"
+
+#: includes/classes/YasrScriptsLoader.php:76
+msgid "stars"
+msgstr "sterren"
+
+#: includes/classes/YasrScriptsLoader.php:75
+msgid "star"
+msgstr "ster"
+
+#: admin/settings/classes/YasrSettings.php:684
+msgid "Custom text to display BEFORE Visitor Rating"
+msgstr "Aangepaste tekst om te tonen Voor Bezoekersstemming"
+
+#: admin/settings/yasr-settings-rankings.php:45
+msgid "Ranking preview"
+msgstr "Ranglijst voorbeeld"
+
+#: admin/settings/classes/YasrSettings.php:423
+msgid "Show \"Overall Rating\" in Archive Pages?"
+msgstr "Toon \"Algemene waardering\" op de archiefpagina's?"

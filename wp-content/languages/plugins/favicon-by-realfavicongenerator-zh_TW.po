@@ -1,0 +1,217 @@
+# Translation of Plugins - Favicon by RealFaviconGenerator - Development (trunk) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Favicon by RealFaviconGenerator - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-03-27 21:03:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Favicon by RealFaviconGenerator - Development (trunk)\n"
+
+#: admin/class-favicon-by-realfavicongenerator-api-response.php:209
+msgid "Apparently WordPress has no direct access to the file system (it uses another mean such as FTP). This may be the root cause of this issue."
+msgstr "WordPress 顯然無法直接存取檔案系統，必須使用其他如 FTP 方式存取檔案系統。這是這個問題的根本原因。"
+
+#: admin/views/keep_active_notice.php:18
+msgid "In any case, <a %s>the plugin is super lightweight</a> and will not affect the performance of your site."
+msgstr "無論如何，<a %s>這個外掛非常輕量化</a>，不會影響這個網站的網站效能。"
+
+#: admin/views/keep_active_notice.php:9
+msgid "You may wonder <a %s>why it works that way</a>."
+msgstr "如果想進一步了解相關資訊，請參考這份<a %s>線上說明</a>。"
+
+#: admin/views/keep_active_notice.php:3
+msgid "You should keep this plugin active. As soon as you deactive it, your favicon is disabled, too."
+msgstr "這個外掛必須保持啟用。一旦停用這個外掛，這個網站的網站圖示會一併停用。"
+
+#. Author URI of the plugin
+msgid "http://realfavicongenerator.net/"
+msgstr "https://realfavicongenerator.net/"
+
+#. Author of the plugin
+msgid "Philippe Bernard"
+msgstr "Philippe Bernard"
+
+#. Description of the plugin
+msgid "Create and install your favicon for all platforms: PC/Mac of course, but also iPhone/iPad, Android devices, Windows 8 tablets, etc."
+msgstr "為網站建立並安裝適用於全部平台的網站圖示。這個外掛不僅可建立適用於 PC/Mac 的網站圖示，也能建立適用於 iPhone/iPad、Android 裝置、Windows 平板等裝置的網站圖示。"
+
+#. Plugin URI of the plugin
+msgid "http://realfavicongenerator.net/extensions/wordpress"
+msgstr "https://realfavicongenerator.net/extensions/wordpress/"
+
+#. Plugin Name of the plugin
+msgid "Favicon by RealFaviconGenerator"
+msgstr "Favicon by RealFaviconGenerator"
+
+#: public/class-favicon-by-realfavicongenerator-common.php:192
+msgid "Visit the <a href=\"%s\">RFG's change log</a> to view the content of the update"
+msgstr "請參考 RealFaviconGenerator 的<a href=\"%s\">變更記錄</a>以檢視內容更新。"
+
+#: admin/views/settings.php:36
+msgid "Save changes"
+msgstr "儲存設定"
+
+#: admin/views/settings.php:27
+msgid "Get notifications when RealFaviconGenerator is updated. For example, when Apple releases a new version of iOS or a new platform is supported."
+msgstr "當 RealFaviconGenerator 有任何更新便進行通知。舉例來說，Apple 發佈新版本 iOS 或支援新平台，便會進行通知。"
+
+#: admin/views/settings.php:22
+msgid "Display update notifications"
+msgstr "顯示更新通知"
+
+#: admin/views/settings.php:11
+msgid "Do you want to setup your favicon? Go to <a href=\"%s\">Appearance &gt; Favicon</a>"
+msgstr "如需設定這個網站的網站圖示，請前往 <a href=\"%s\">[外觀]&rarr;[網站圖示]</a>。"
+
+#: admin/views/appearance.php:299
+msgid "An internal error occurred"
+msgstr "發生內部錯誤。"
+
+#: admin/views/appearance.php:288
+msgid "An error occured"
+msgstr "發生錯誤。"
+
+#: admin/views/appearance.php:231
+msgid "Preparing master picture..."
+msgstr "正在準備主要圖片..."
+
+#: admin/views/appearance.php:131 admin/views/appearance.php:251
+msgid "Generate favicon"
+msgstr "產生網站圖示"
+
+#: admin/views/appearance.php:122
+msgid "recommended"
+msgstr "建議使用"
+
+#: admin/views/appearance.php:121
+msgid "However, if this option is enabled, the plugin takes advantage of the permalink feature and the favicon files appear to be in the root directory"
+msgstr "但是如果啟用這項功能，外掛便會利用永久連結功能，讓網站圖示連結至網站根目錄。"
+
+#: admin/views/appearance.php:119
+msgid "The plugin always stores the favicon files in a dedicated directory."
+msgstr "這個外掛會將網站圖示檔案儲存於專屬目錄。"
+
+#: admin/views/appearance.php:114
+msgid "Favicon files in root directory"
+msgstr "位於根目錄的網站圖示檔案"
+
+#: admin/views/appearance.php:106
+msgid "If the picture is on your hard drive, you can leave this field blank and upload the picture from RealFaviconGenerator."
+msgstr "如果圖片儲存於其他裝置，這個欄位可以先留空，然後在 RealFaviconGenerator 網站上上傳圖片。"
+
+#: admin/views/appearance.php:104
+msgid "Submit a square picture, at least 70x70 (recommended: 260x260 or more)"
+msgstr "請傳送正方形圖片，最小尺寸為 70 x 70 px，建議尺寸為 260 x 260 px 或更大。"
+
+#: admin/views/appearance.php:100 admin/views/appearance.php:101
+msgid "Select from the Media Library"
+msgstr "從媒體庫中選取"
+
+#: admin/views/appearance.php:96
+msgid "Master picture URL"
+msgstr "主要圖片網址"
+
+#: admin/views/appearance.php:89
+msgid "You can replace the existing favicon."
+msgstr "網站管理員可以替換現有的網站圖示。"
+
+#: admin/views/appearance.php:87
+msgid "Favicon generation"
+msgstr "產生網站圖示"
+
+#: admin/views/appearance.php:60
+msgid "No favicon has been configured yet."
+msgstr "網站圖示目前尚未完成組態。"
+
+#: admin/views/appearance.php:47 admin/views/appearance.php:79
+msgid "This option works only if your site is accessible from the outside."
+msgstr "僅有這個網站開放網際網路存取時，才能使用這項功能。"
+
+#: admin/views/appearance.php:43 admin/views/appearance.php:74
+msgid "<a %s>Check your favicon</a> with RealFaviconGenerator's favicon checker."
+msgstr "使用 RealFaviconGenerator 的網站圖示檢查檢查程式<a %s target=\"_blank\">檢查這個網站的網站圖示</a>。"
+
+#: admin/views/appearance.php:37 admin/views/appearance.php:58
+msgid "The favicon is up and ready."
+msgstr "網站圖示為最新且已準備就緒。"
+
+#: admin/views/appearance.php:30 admin/views/appearance.php:51
+msgid "Current favicon"
+msgstr "目前的網站圖示"
+
+#: admin/views/appearance.php:20
+msgid "Do you like the result? If so, would you like to <a %s>rate the plugin</a>?"
+msgstr "如果喜歡這個網站圖示，請為這個外掛<a %s>進行評等</a>。"
+
+#: admin/views/appearance.php:16
+msgid "Favicon installed!"
+msgstr "網站圖示已安裝！"
+
+#: admin/views/appearance.php:11
+msgid "Favicon installation in progress. Please wait..."
+msgstr "正在安裝網站圖示，請稍候..."
+
+#: admin/class-favicon-by-realfavicongenerator-api-response.php:300
+msgid "Cannot store downloaded file locally"
+msgstr "無法在伺服器本機儲存已下載的檔案"
+
+#: admin/class-favicon-by-realfavicongenerator-api-response.php:296
+msgid "Cannot download file at %s"
+msgstr "無法下載位於 %s 的檔案"
+
+#: admin/class-favicon-by-realfavicongenerator-api-response.php:217
+msgid "Error while unziping the favicon package %1$s to directory %2$s"
+msgstr "將 %1$s 的網站圖示封裝解壓縮至目錄 %2$s 時發生錯誤"
+
+#: admin/class-favicon-by-realfavicongenerator-api-response.php:207
+msgid "Unknown reason"
+msgstr "未知的原因"
+
+#: admin/class-favicon-by-realfavicongenerator-api-response.php:160
+msgid "Cannot create directory %s to store the favicon package content"
+msgstr "無法建立目錄 %s 以儲存網站圖示封裝內容"
+
+#: admin/class-favicon-by-realfavicongenerator-admin.php:499
+msgid "Your favicon was updated automatically:"
+msgstr "這個網站的網站圖示已自動更新:"
+
+#: admin/class-favicon-by-realfavicongenerator-admin.php:487
+#: admin/class-favicon-by-realfavicongenerator-admin.php:509
+msgid "Do not warn me again in case of update"
+msgstr "更新時不要再通知"
+
+#: admin/class-favicon-by-realfavicongenerator-admin.php:483
+#: admin/class-favicon-by-realfavicongenerator-admin.php:505
+msgid "Hide this notice"
+msgstr "隱藏這項通知"
+
+#: admin/class-favicon-by-realfavicongenerator-admin.php:472
+msgid "You might want to <a href=\"%s\">generate your favicon again</a>"
+msgstr "網站管理員或許會想要<a href=\"%s\">再次產生這個網站的網站圖示</a>"
+
+#: admin/class-favicon-by-realfavicongenerator-admin.php:464
+msgid "An update is available on RealFaviconGenerator:"
+msgstr "RealFaviconGenerator 已有更新可供使用:"
+
+#: admin/class-favicon-by-realfavicongenerator-admin.php:209
+#: public/class-favicon-by-realfavicongenerator-common.php:456
+msgid "Cannot create directory %s to store the favicon package"
+msgstr "無法建立目錄 %s 以儲存網站圖示封裝"
+
+#: admin/class-favicon-by-realfavicongenerator-admin.php:202
+msgid "Nonce was not recognized. This case is supposed to happen only in case of XSS attack. If you feel like something is wrong, please <a href=\\\"mailto:contact@realfavicongenerator.net\\\">contact us</a>."
+msgstr "單次有效隨機碼無法辨識。通常只有發生 XSS 攻擊時才會產生這個狀況。如果網站管理員認為這是執行時發生錯誤，請<a href=\\\"mailto:contact@realfavicongenerator.net\\\">聯絡我們</a>。"
+
+#: admin/class-favicon-by-realfavicongenerator-admin.php:93
+msgid "Favicon Settings"
+msgstr "網站圖示設定"
+
+#: admin/class-favicon-by-realfavicongenerator-admin.php:85
+#: admin/class-favicon-by-realfavicongenerator-admin.php:86
+#: admin/class-favicon-by-realfavicongenerator-admin.php:94
+msgid "Favicon"
+msgstr "網站圖示"

@@ -1,0 +1,4729 @@
+# Translation of Plugins - Comments &#8211; wpDiscuz - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Comments &#8211; wpDiscuz - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-03-28 20:00:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Comments &#8211; wpDiscuz - Stable (latest release)\n"
+
+#: options/class.WpdiscuzOptions.php:3793
+msgid "Allows to set minimum and maximum number of chars can be inserted in reply textarea. Leave the max value empty to remove the limit."
+msgstr "Permet de définir le nombre minimum et maximum de caractères pouvant être insérés dans la zone texte de commentaire. Laissez la valeur maximale vide pour retirer la limite."
+
+#: options/class.WpdiscuzOptions.php:3791
+msgid "Reply Text Length"
+msgstr "Longueur de texte de la réponse"
+
+#: options/class.WpdiscuzAddons.php:333
+msgid "Go to the addon page"
+msgstr "Aller à la page de module"
+
+#: options/class.WpdiscuzOptions.php:2083
+msgid "Please rebuild ratings for the best performance and fastest experience"
+msgstr "Veuillez reconstruire les notes pour de meilleure performance et une expérience plus rapide."
+
+#: forms/wpdFormAttr/Form.php:1148
+msgid "If you disable this option, it'll hide the entire section of comments. Neither the comment form nor the comment list will be visible for guests."
+msgstr "Si vous désactivez cette option, toute la section de commentaires sera invisible. Ni le formulaire de commentaire, ni la liste des commentaires ne sera visible pour les visiteurs."
+
+#: forms/wpdFormAttr/Form.php:1147
+msgid "Allow guests to view comments"
+msgstr "Autoriser les invités à voir les commentaires"
+
+#: options/class.WpdiscuzOptions.php:3247
+msgid "Aggregate rating schema is a code integrated with post rating HTML. This enables Google to feature your post ratings and attract customers with it. When searching the internet, people will see your posts search results with star ratings. Even though those results are not at the top of search engine results page, those sites caught people attention first. If your website does not sell Products, we do not recommend activating this option. For more details, please %s."
+msgstr "Le schéma de notation agrégée est un code HTML intégré à la notation des articles. Cela permet à Google de présenter vos évaluations postales et d’attirer des clients avec elle. Lors de la recherche sur Internet, les gens verront vos résultats de recherche de messages avec des cotes d’étoiles. Même si ces résultats ne sont pas en haut de la page des résultats des moteurs de recherche, ces sites attirent l’attention des gens en premier. Si votre site web ne vend pas de produits, nous ne recommandons pas d’activer cette option. Pour plus de détails, veuillez %s."
+
+#: forms/wpdFormAttr/Field/DefaultField/Captcha.php:108
+msgid "reCaptcha validation fails. "
+msgstr "La validation reCaptcha a échoué."
+
+#: options/class.WpdiscuzOptions.php:3346
+msgid "Newest and oldest comment ordering by"
+msgstr "Commentaire le plus récent et le plus ancien trié par"
+
+#: options/class.WpdiscuzOptions.php:2818
+msgid "Login URL"
+msgstr "URL de connexion"
+
+#: options/class.WpdiscuzOptions.php:4003
+msgid "Minify JS and CSS Files to Optimize Page Loading Speed"
+msgstr "Minifier les fichiers JS et CSS pour optimiser la vitesse de chargement des pages"
+
+#: options/class.WpdiscuzOptions.php:3996
+msgid "Combine JS and CSS Files to Optimize Page Loading Speed"
+msgstr "Combinez les fichiers JS et CSS pour optimiser la vitesse de chargement des pages"
+
+#: options/class.WpdiscuzOptions.php:3471
+msgid "General Colors"
+msgstr "Couleurs générales"
+
+#: options/class.WpdiscuzOptions.php:3466
+msgid "These options allows you manage comment section colors individaly for the Default and Dark Styles"
+msgstr "Ces options vous permettent de gérer individuellement les couleurs de la section des commentaires pour les styles par défaut et sombre."
+
+#: options/class.WpdiscuzOptions.php:3464
+msgid "Style Specific Colors"
+msgstr "Couleurs spécifiques au style"
+
+#: options/class.WpdiscuzOptions.php:3339
+msgid "Scroll to the comment after posting"
+msgstr "Faites défiler le commentaire après l’affichage"
+
+#: options/class.WpdiscuzAddons.php:129
+msgid "Syntax highlighting for comments, automatic language detection and multi-language code highlighting."
+msgstr "Mise en évidence de la syntaxe pour les commentaires, détection automatique de la langue et mise en évidence du code multilingue."
+
+#: options/class.WpdiscuzAddons.php:120
+msgid "Allows to embed lots of video, social network, audio and photo content providers URLs in comment content."
+msgstr "Permet d’intégrer beaucoup de vidéos, de réseaux sociaux, de fournisseurs de contenu audio et photo URL dans le contenu des commentaires."
+
+#: options/tools-layouts/tool-options.php:14
+msgid "Using this tool you can backup wpDiscuz options or migrate them from one WordPress to another."
+msgstr "En utilisant cet outil, vous pouvez sauvegarder les options wpDiscuz ou les migrer d’un site WordPress à l’autre."
+
+#: options/tools-layouts/tool-regenerate.php:87
+msgid "Using this tool you can synchronize comment author data."
+msgstr "En utilisant cet outil, vous pouvez synchroniser les données des auteurs de commentaires."
+
+#: options/tools-layouts/tool-regenerate.php:69
+msgid "Using this tool you can regenerate comment vote metas."
+msgstr "En utilisant cet outil, vous pouvez régénérer les métas de vote de commentaires."
+
+#: options/tools-layouts/tool-regenerate.php:51
+msgid "Using this tool you can regenerate comment vote data."
+msgstr "En utilisant cet outil, vous pouvez régénérer les données des votes de commentaires."
+
+#: options/tools-layouts/tool-regenerate.php:33
+msgid "Using this tool you can regenerate closed comments."
+msgstr "En utilisant cet outil, vous pouvez régénérer les commentaires fermés."
+
+#: options/tools-layouts/tool-regenerate.php:27
+msgid "Regenerate Comments' Data"
+msgstr "Régénérer les données des commentaires"
+
+#: options/tools-layouts/tool-phrases.php:15
+msgid "Using this tool you can backup wpDiscuz phrases or migrate them from one WordPress to another."
+msgstr "En utilisant cet outil, vous pouvez sauvegarder des phrases wpDiscuz ou les migrer d’un site WordPress à l’autre."
+
+#: options/tools-layouts/tool-subscriptions.php:15
+msgid "Import Subscriptions"
+msgstr "Importer les abonnements"
+
+#: options/tools-layouts/tool-images.php:53
+msgid "Import Comment Images"
+msgstr "Importer images des commentaires"
+
+#: options/tools-layouts/tool-ratings.php:17
+msgid "Using this tool you can rebuild ratings."
+msgstr "En utilisant cet outil, vous pouvez reconstruire les évaluations."
+
+#: options/tools-layouts/tool-database.php:16
+msgid "Using this tool you can fix database tables."
+msgstr "En utilisant cet outil, vous pouvez corriger les tables de base de données."
+
+#: options/tools-layouts/tool-database.php:9
+msgid "Database Operations"
+msgstr "Opérations sur la base de données"
+
+#: options/options-layouts/html-thread_styles.php:143
+msgid "Comment Rating Colors"
+msgstr "Couleurs des étoiles d’évaluation"
+
+#: options/options-layouts/html-thread_styles.php:70
+msgid "Dark Style"
+msgstr "Style Sombre"
+
+#: options/options-layouts/html-thread_styles.php:66
+#: options/options-layouts/html-thread_styles.php:93
+msgid "Comment Fields Placeholder"
+msgstr "Espace réservé des champs du commentaire"
+
+#: options/options-layouts/html-thread_styles.php:62
+#: options/options-layouts/html-thread_styles.php:89
+msgid "Comment Fields Text"
+msgstr "Texte des champs du commentaire"
+
+#: options/options-layouts/html-thread_styles.php:58
+#: options/options-layouts/html-thread_styles.php:85
+msgid "Comment Fields Border"
+msgstr "Bords des champs du commentaire"
+
+#: options/options-layouts/html-thread_styles.php:54
+#: options/options-layouts/html-thread_styles.php:81
+msgid "Comment Fields Background"
+msgstr "Arrière-plan des champs du commentaire"
+
+#: options/options-layouts/html-thread_styles.php:50
+#: options/options-layouts/html-thread_styles.php:77
+msgid "Comment Text"
+msgstr "Texte de commentaire"
+
+#: options/options-layouts/html-thread_styles.php:46
+#: options/options-layouts/html-thread_styles.php:73
+msgid "Comment Area Background"
+msgstr "Arrière-plan de la zone de commentaire"
+
+#: options/options-layouts/html-thread_styles.php:45
+#: options/options-layouts/html-thread_styles.php:49
+#: options/options-layouts/html-thread_styles.php:53
+#: options/options-layouts/html-thread_styles.php:57
+#: options/options-layouts/html-thread_styles.php:61
+#: options/options-layouts/html-thread_styles.php:65
+#: options/options-layouts/html-thread_styles.php:72
+#: options/options-layouts/html-thread_styles.php:76
+#: options/options-layouts/html-thread_styles.php:80
+#: options/options-layouts/html-thread_styles.php:84
+#: options/options-layouts/html-thread_styles.php:88
+#: options/options-layouts/html-thread_styles.php:92
+msgid "default"
+msgstr "défaut"
+
+#: options/options-layouts/html-thread_styles.php:43
+msgid "Default Style"
+msgstr "Style par défaut"
+
+#: options/options-layouts/html-thread_styles.php:26
+msgid "Off"
+msgstr "Déconnecté"
+
+#: options/tools-layouts/tool-images.php:69
+#: options/tools-layouts/tool-images.php:85
+msgid "Import images"
+msgstr "Importer images"
+
+#: forms/wpDiscuzForm.php:111
+msgid "Not whitelisted value detected"
+msgstr "Valeur non détectée sur liste blanche"
+
+#: options/class.WpdiscuzOptions.php:3805
+msgid "Enable WordPress Shortcodes in Comment Content"
+msgstr "Activer les codes abrégés de WordPress dans le contenu des commentaires"
+
+#: options/phrases-layouts/phrases-general.php:79
+msgid "We are sorry, you are not allowed to reply more than %d time(s)"
+msgstr "Nous sommes désolés, vous ne pouvez pas répondre plus de %d fois"
+
+#: options/phrases-layouts/phrases-general.php:71
+msgid "We are sorry, you are not allowed to comment more than %d time(s)"
+msgstr "Nous sommes désolés, vous ne pouvez pas commenter plus de %d fois."
+
+#: options/options-layouts/html-social.php:587
+msgid "To start using Yandex Login Button you should get Client ID and Client Secret. Please follow to this "
+msgstr "Pour commencer à utiliser le bouton de connexion Yandex, vous devez obtenir l’ID client et le code secret du client. Veuillez suivre les instructions suivantes "
+
+#: options/options-layouts/html-social.php:283
+msgid "To start using Google Login Button you should get Client ID and  Client Secret for your website. Please follow to this"
+msgstr "Pour commencer à utiliser le bouton de connexion Google, vous devez récupérer le Client ID et le Client Secret pour votre site web. Merci de suivre ce lien"
+
+#: options/options-layouts/html-form.php:29
+msgid "expanded"
+msgstr "développé"
+
+#: options/options-layouts/html-form.php:27
+msgid "collapsed"
+msgstr "réduit"
+
+#: options/class.WpdiscuzOptions.php:2856
+msgid "Display Social Network Icon on User Avatars"
+msgstr "Afficher les icônes de Réseaux Sociaux sur les avatars des utilisateurs"
+
+#: options/class.WpdiscuzOptions.php:2666
+msgid "By default, only the comment text field is visible. When you click on the comment text field it opens all other fields (Name, Email, Website, etc...). If you want to keep all fields open, please set this option \"expended\"."
+msgstr "Par défaut, seul le champ de texte de commentaire est visible. Lorsque vous cliquez sur le champ texte commentaire, il ouvre tous les autres champs (Nom, Email, Site Web, etc...). Si vous voulez garder tous les champs ouverts, s’il vous plaît définir cette option « dépensé »."
+
+#: options/class.WpdiscuzOptions.php:2664
+msgid "Comment Form View"
+msgstr "Vue du formulaire de commentaire"
+
+#: options/class.WpdiscuzOptions.php:555
+#: options/phrases-layouts/phrases-general.php:99
+msgid "COMMENT"
+msgstr "COMMENTER"
+
+#: options/class.WpdiscuzOptions.php:548 options/class.WpdiscuzOptions.php:549
+msgid "We are sorry, you are not allowed to comment more than %d time(s)!"
+msgstr "Nous sommes désolés, vous ne pouvez pas répondre plus de %d fois !"
+
+#: options/class.WpdiscuzOptions.php:4073
+msgid "Purge Expired Avatar Caches"
+msgstr "Purger le cache des avatars expirés"
+
+#: options/class.WpdiscuzOptions.php:4066
+msgid "Remove Vote Data"
+msgstr "Retirer les données de vote"
+
+#: options/class.WpdiscuzOptions.php:4031
+msgid "Structure of Human Readable Date Format"
+msgstr "Structure des formats de date lisible par les humains"
+
+#: options/class.WpdiscuzOptions.php:3965
+msgid "Animation for \"Leave a Feedback\" button in article content"
+msgstr "Animation pour le bouton \"Laisser un commentaire\" dans le contenu de la publication"
+
+#: options/class.WpdiscuzOptions.php:3958
+msgid "Display filter button to load inline feedbacks"
+msgstr "Afficher le bouton du filtre pour charger les commentaires en ligne"
+
+#: options/class.WpdiscuzOptions.php:3950
+msgid "Inline Commenting"
+msgstr "Commentaire en ligne"
+
+#: options/class.WpdiscuzOptions.php:3920
+msgid "Bubble - Hide the invitation message in X seconds"
+msgstr "Bubble - Masquer le message d’invitation en X secondes"
+
+#: options/class.WpdiscuzOptions.php:3913
+msgid "Bubble - Invite to comment in X seconds"
+msgstr "Bubble - Invite à commenter en X secondes"
+
+#: options/class.WpdiscuzOptions.php:3908
+msgid "If the Bubble live update is enabled, it shows new comments excerpts as a pop-up information to article reads in real-time. This keeps website visitors up to date and engages them join to the discussion."
+msgstr "Si la mise à jour en direct de la bulle est activée, elle affiche de nouveaux extraits de commentaires comme une information pop-up à l’article lu en temps réel. Cela permet aux visiteurs du site Web de se tenir au courant et de les inciter à participer à la discussion."
+
+#: options/class.WpdiscuzOptions.php:3906
+msgid "Bubble - Notify on New Comments"
+msgstr "Bubble - Notifier sur les nouveaux commentaires"
+
+#: options/class.WpdiscuzOptions.php:3892
+msgid "Comment Bubble Live Update"
+msgstr "Mise à jour en temps réel de la bulle de commentaire"
+
+#: options/class.WpdiscuzOptions.php:3887
+msgid "Comment Bubble is a real-time updating sticky comment icon on your web pages. It invites people to comment, displays current comments information and notifies current page viewers about new comments."
+msgstr "Comment Bubble est une bulle de commentaire autocollante de mise à jour en temps réel sur vos pages Web. Invite les utilisateurs à commenter, affiche les informations des commentaires actuels et informe les utilisateurs de la page actuelle des nouveaux commentaires."
+
+#: options/class.WpdiscuzOptions.php:3877
+msgid "Live Commenting and Notifications"
+msgstr "Commentaires et notifications en direct"
+
+#: options/class.WpdiscuzOptions.php:3868
+msgid "Generate Thumbnail Sizes"
+msgstr "Générer la taille des vignettes"
+
+#: options/class.WpdiscuzOptions.php:3861
+msgid "Single Image Sizes in Comments"
+msgstr "Taille d’images uniques dans les commentaires"
+
+#: options/class.WpdiscuzOptions.php:3854
+msgid "Show Comments Media in Dashboard"
+msgstr "Afficher les commentaires des médias sur le tableau de bord"
+
+#: options/class.WpdiscuzOptions.php:3847
+msgid "Max Uploaded Size"
+msgstr "Taille maximum des fichiers uploadés"
+
+#: options/class.WpdiscuzOptions.php:3840
+msgid "Allowed File Types"
+msgstr "Types de fichiers autorisés"
+
+#: options/class.WpdiscuzOptions.php:3833
+msgid "Enable Lightbox for Attached Images"
+msgstr "Activez une Lightbox pour les images jointes"
+
+#: options/class.WpdiscuzOptions.php:3826
+msgid "Allow Media Uploading for Guests"
+msgstr "Autoriser la téléversement de médias pour les invités"
+
+#: options/class.WpdiscuzOptions.php:3821
+msgid "This option allows commenters to attach an image with comments."
+msgstr "Cette option permet aux commentateurs d’attacher une image aux commentaires."
+
+#: options/class.WpdiscuzOptions.php:3819
+msgid "Enable Media Uploading"
+msgstr "Activer le téléversement de médias"
+
+#: options/class.WpdiscuzOptions.php:3812
+msgid "The number of words before breaking comment text (Read more)"
+msgstr "Nombre de mots avant de césurer le texte de commentaire (Lire la suite)"
+
+#: options/class.WpdiscuzOptions.php:3776
+msgid "Comment Content and Media"
+msgstr "Contenu des commentaires et médias"
+
+#: options/class.WpdiscuzOptions.php:3769
+msgid "This option allows control commenting activity per user. You can set maximum number of comments users can leave per post or sitewide. It also allow to set restriction for comments or for replies only."
+msgstr "Cette option permet de contrôler l’activité de commentateur par utilisateur. Vous pouvez définir le nombre maximum de commentaires que les utilisateurs peuvent laisser par poste ou à l’échelle du site. Permet également de définir la restriction pour les commentaires ou pour les réponses seulement."
+
+#: options/class.WpdiscuzOptions.php:3767
+msgid "Limit Comments per User"
+msgstr "Limiter les commentaires par utilisateur"
+
+#: options/class.WpdiscuzOptions.php:3746
+msgid "Display comment editing Information"
+msgstr "Afficher l’information d’édition de commentaires"
+
+#: options/class.WpdiscuzOptions.php:3739
+msgid "Enable editing for replied comments"
+msgstr "Activer l’édition pour les commentaires répondus"
+
+#: options/class.WpdiscuzOptions.php:3724
+msgid "Comment Moderation"
+msgstr "Modération commentaire"
+
+#: options/class.WpdiscuzOptions.php:3708
+msgid "Display Comment Author Labels"
+msgstr "Afficher les étiquettes des auteurs de commentaires"
+
+#: options/class.WpdiscuzOptions.php:3700
+msgid "User Labels and Badges"
+msgstr "Titres et badges utilisateurs"
+
+#: options/class.WpdiscuzOptions.php:3516
+msgid "Send E-Mail Notification to Mentioned Users"
+msgstr "Envoyer une notification courriel aux utilisateurs mentionnés"
+
+#: options/class.WpdiscuzOptions.php:3509
+msgid "Enable User Mentioning"
+msgstr "Activer la mention des utilisateurs"
+
+#: options/class.WpdiscuzOptions.php:3501
+msgid "Subscription and User Following"
+msgstr "Abonnement et suivi de l’utilisateur"
+
+#: options/class.WpdiscuzOptions.php:3485
+msgid "Load Font Awesome css lib"
+msgstr "Charger la librairie de polices Awesome CSS"
+
+#: options/class.WpdiscuzOptions.php:3478
+msgid "Comment Text Size"
+msgstr "Taille du texte des commentaires"
+
+#: options/class.WpdiscuzOptions.php:3459
+msgid "Starting from wpDiscuz 7 you can choose the [ Off ] option of comment style. It'll remove most of wpDiscuz CSS code and allow you write your own CSS for custom comment styling."
+msgstr "À partir de wpDiscuz 7, vous pouvez choisir l’option [Off] de style de commentaire. Il supprimera la plupart du code CSS de wpDiscuz et vous permettra d’écrire votre propre CSS pour un style de commentaire personnalisé."
+
+#: options/class.WpdiscuzOptions.php:3449
+msgid "Styles and Colors"
+msgstr "Styles et couleurs"
+
+#: options/class.WpdiscuzOptions.php:3440
+msgid "Enable Sitewide Usage of Default Avatars"
+msgstr "Activer l’utilisation à l’échelle du site des avatars par défaut"
+
+#: options/class.WpdiscuzOptions.php:3421
+msgid "This option only related to avatars in comment system. For sitewide avatar control, please use WordPress native avatar settings in Dashboard > Settings > Discussions admin page."
+msgstr "Cette option ne concernait que les avatars dans le système de commentaires. Pour le contrôle d’avatar à l’échelle du site, veuillez utiliser les paramètres d’avatar natifs WordPress dans la page d’administration du Dashboard et Discussions."
+
+#: options/class.WpdiscuzOptions.php:3419
+msgid "Display Avatars"
+msgstr "Afficher les avatars"
+
+#: options/class.WpdiscuzOptions.php:3414
+msgid "This allows users to see own voted comments."
+msgstr "Cela permet aux utilisateurs de voir leurs propres commentaires votés."
+
+#: options/class.WpdiscuzOptions.php:3412
+msgid "Highlight Voting Buttons for Voters"
+msgstr "Mettre en évidence les boutons de vote les votants"
+
+#: options/class.WpdiscuzOptions.php:3391
+msgid "Comment Voting Result Mode"
+msgstr "Mode de résultat du vote des commentaires"
+
+#: options/class.WpdiscuzOptions.php:3384
+msgid "Voting Buttons Icon"
+msgstr "Icône des boutons de vote"
+
+#: options/class.WpdiscuzOptions.php:3370
+msgid "Show Comment Date"
+msgstr "Afficher la date du commentaire"
+
+#: options/class.WpdiscuzOptions.php:3363
+msgid "Show Comment Link"
+msgstr "Afficher le lien du commentaire"
+
+#: options/class.WpdiscuzOptions.php:3355
+msgid "Comment Thread Features"
+msgstr "Fonctionnalités du fil de commentaires"
+
+#: options/class.WpdiscuzOptions.php:3325
+msgid "Comments Pagination Type"
+msgstr "Type de pagination des commentaires"
+
+#: options/class.WpdiscuzOptions.php:3304
+msgid "Display Comment Sorting Options"
+msgstr "Afficher les options de tri des commentaires"
+
+#: options/class.WpdiscuzOptions.php:3297
+msgid "Display \"Hottest Comment Threads\" filter button"
+msgstr "Afficher le bouton de filtre \"Fils de commentaires les plus chauds\""
+
+#: options/class.WpdiscuzOptions.php:3290
+msgid "Display \"Most Reacted Comments\" filter button"
+msgstr "Afficher le bouton de filtre \"Commentaires ayant reçu le plus de réactions\""
+
+#: options/class.WpdiscuzOptions.php:3276
+msgid "Comment List Loading Type"
+msgstr "Type de chargement de liste de commentaires"
+
+#: options/class.WpdiscuzOptions.php:3268
+msgid "Comment Thread Displaying"
+msgstr "Affichage du fil de commentaires"
+
+#: options/class.WpdiscuzOptions.php:3236
+msgid "Article and Comment Rating"
+msgstr "Evaluation Article et Commentaire"
+
+#: options/class.WpdiscuzOptions.php:3227
+msgid "OK Application Secret"
+msgstr "Application Secret OK"
+
+#: options/class.WpdiscuzOptions.php:3220
+msgid "OK Application Key"
+msgstr "Application Key OK"
+
+#: options/class.WpdiscuzOptions.php:3213
+msgid "OK Application ID"
+msgstr "Application ID OK"
+
+#: options/class.WpdiscuzOptions.php:3206
+msgid "OK Share Button"
+msgstr "Bouton de partage OK"
+
+#: options/class.WpdiscuzOptions.php:3199
+msgid "OK Login Button"
+msgstr "Bouton de connexion OK"
+
+#: options/class.WpdiscuzOptions.php:3192
+msgid "VK Secure Key"
+msgstr "Clé sécurisée VK"
+
+#: options/class.WpdiscuzOptions.php:3185
+msgid "VK Application ID"
+msgstr "Application ID VK"
+
+#: options/class.WpdiscuzOptions.php:3178
+msgid "VK Share Button"
+msgstr "Bouton de partage VK"
+
+#: options/class.WpdiscuzOptions.php:3171
+msgid "VK Login Button"
+msgstr "Bouton de connexion VK"
+
+#: options/class.WpdiscuzOptions.php:3164
+msgid "Baidu Client Secret"
+msgstr "Client Secret Baidu"
+
+#: options/class.WpdiscuzOptions.php:3157
+msgid "Baidu Client ID"
+msgstr "ID Client Baidu"
+
+#: options/class.WpdiscuzOptions.php:3150
+msgid "Baidu Login Button"
+msgstr "Bouton de connexion Baidu"
+
+#: options/class.WpdiscuzOptions.php:3143
+msgid "QQ AppKey"
+msgstr "AppKey QQ"
+
+#: options/class.WpdiscuzOptions.php:3136
+msgid "QQ AppID"
+msgstr "AppID QQ"
+
+#: options/class.WpdiscuzOptions.php:3129
+msgid "QQ Login Button"
+msgstr "Bouton de connexion QQ"
+
+#: options/class.WpdiscuzOptions.php:3122
+msgid "WeChat Secret"
+msgstr "Secret WeChat"
+
+#: options/class.WpdiscuzOptions.php:3115
+msgid "WeChat App ID"
+msgstr "App ID WeChat"
+
+#: options/class.WpdiscuzOptions.php:3108
+msgid "WeChat Login Button"
+msgstr "Bouton de connexion WeChat"
+
+#: options/class.WpdiscuzOptions.php:3101
+msgid "Weibo App Secret"
+msgstr "App Secret Weibo "
+
+#: options/class.WpdiscuzOptions.php:3094
+msgid "Weibo App Key"
+msgstr "App Key Weibo"
+
+#: options/class.WpdiscuzOptions.php:3087
+msgid "Weibo Login Button"
+msgstr "Bouton de connexion Leibo"
+
+#: options/class.WpdiscuzOptions.php:3080
+msgid "Mail.ru Client Secret"
+msgstr "Mail.ru Client Secret"
+
+#: options/class.WpdiscuzOptions.php:3073
+msgid "Mail.ru Client ID"
+msgstr "ID Client Mail.ru"
+
+#: options/class.WpdiscuzOptions.php:3066
+msgid "Mail.ru Login Button"
+msgstr "Bouton de connexion Mail.ru"
+
+#: options/class.WpdiscuzOptions.php:3059
+msgid "Yandex Password"
+msgstr "Mot de passe Yandex"
+
+#: options/class.WpdiscuzOptions.php:3052
+msgid "Yandex ID"
+msgstr "ID Yandex"
+
+#: options/class.WpdiscuzOptions.php:3045
+msgid "Yandex Login Button"
+msgstr "Bouton de connexion Yandex"
+
+#: options/class.WpdiscuzOptions.php:3038
+msgid "WhatsApp Share Button"
+msgstr "Bouton de partage WhatsApp"
+
+#: options/class.WpdiscuzOptions.php:3031
+msgid "LinkedIn Client Secret"
+msgstr "LinkedIn Client Secret"
+
+#: options/class.WpdiscuzOptions.php:3024
+msgid "LinkedIn Client ID"
+msgstr "ID Client LinkedIn"
+
+#: options/class.WpdiscuzOptions.php:3017
+msgid "LinkedIn Login Button"
+msgstr "Bouton de connexion LinkedIn"
+
+#: options/class.WpdiscuzOptions.php:3010
+msgid "Instagram App Secret"
+msgstr "App Secret Instagram"
+
+#: options/class.WpdiscuzOptions.php:3003
+msgid "Instagram App ID"
+msgstr "App ID Instagram"
+
+#: options/class.WpdiscuzOptions.php:2996
+msgid "Instagram Login Button"
+msgstr "Bouton de connexion Instagram"
+
+#: options/class.WpdiscuzOptions.php:2989
+msgid "WordPress Client Secret"
+msgstr "Client Secret WordPress"
+
+#: options/class.WpdiscuzOptions.php:2982
+msgid "WordPress Client ID"
+msgstr "ID Client WordPress"
+
+#: options/class.WpdiscuzOptions.php:2975
+msgid "WordPress Login Button"
+msgstr "Bouton de connexion WordPress"
+
+#: options/class.WpdiscuzOptions.php:2968
+msgid "Disqus Secret Key"
+msgstr "Clé privée Disqus"
+
+#: options/class.WpdiscuzOptions.php:2961
+msgid "Disqus Public Key"
+msgstr "Clé publique Disqus"
+
+#: options/class.WpdiscuzOptions.php:2954
+msgid "Disqus Login Button"
+msgstr "Bouton de connexion Disqus"
+
+#: options/class.WpdiscuzOptions.php:2947
+msgid "Google Client Secret"
+msgstr "Google Client Secret"
+
+#: options/class.WpdiscuzOptions.php:2940
+msgid "Google Client ID"
+msgstr "Google Client ID"
+
+#: options/class.WpdiscuzOptions.php:2926
+msgid "Twitter - Consumer Secret (API Secret)"
+msgstr "Twitter - Consumer Secret (API Secret)"
+
+#: options/class.WpdiscuzOptions.php:2919
+msgid "Twitter - Consumer Key (API Key)"
+msgstr "Twitter - Consumer Key (API Key)"
+
+#: options/class.WpdiscuzOptions.php:2912
+msgid "Twitter Share Button"
+msgstr "Bouton de partage Twitter"
+
+#: options/class.WpdiscuzOptions.php:2905
+msgid "Twitter Login Button"
+msgstr "Bouton de connexion Twitter"
+
+#: options/class.WpdiscuzOptions.php:2898
+msgid "Facebook Application Secret"
+msgstr "Facebook Application Secret"
+
+#: options/class.WpdiscuzOptions.php:2884
+msgid "Facebook Share Button"
+msgstr "Bouton de partage Facebook"
+
+#: options/class.WpdiscuzOptions.php:2870
+msgid "Facebook Login Button"
+msgstr "Bouton de connexion Facebook"
+
+#: options/class.WpdiscuzOptions.php:2804
+msgid "Use Website URL as Profile URL"
+msgstr "Utiliser l’URL du site Web comme URL de profil"
+
+#: options/class.WpdiscuzOptions.php:2792
+msgid "The \"My Content & Settings\" button is located in comment filter panel on top of all comments, right after the [X Comments] phrase. This button opens a pop-up window allowing commenters manage their content and settings."
+msgstr "Le bouton \"Mon contenu et mes paramètres\" se trouve dans le panneau de filtrage des commentaires au-dessus de tous les commentaires, juste après la phrase [X Commentaires]. Ce bouton ouvre une fenêtre contextuelle permettant aux commentateurs de gérer leur contenu et leurs paramètres."
+
+#: options/class.WpdiscuzOptions.php:2783
+msgid "Show \"Login\" link on comment form"
+msgstr "Afficher le lien \"Connexion\" sur le formulaire de commentaire"
+
+#: options/class.WpdiscuzOptions.php:2768
+msgid "User Authorization and Profile Data"
+msgstr "Autorisation utilisateur et données de profil"
+
+#: options/class.WpdiscuzOptions.php:2758
+msgid "Display on Subscription Form"
+msgstr "Afficher sur le formulaire d’abonnement"
+
+#: options/class.WpdiscuzOptions.php:2751
+msgid "Enable for Logged-in Users"
+msgstr "Activer pour les utilisateurs connectés"
+
+#: options/class.WpdiscuzOptions.php:2744
+msgid "Enable for Guests"
+msgstr "Activer pour les invités"
+
+#: options/class.WpdiscuzOptions.php:2737
+msgid "Request Method"
+msgstr "Méthode de demande"
+
+#: options/class.WpdiscuzOptions.php:2730
+msgid "reCAPTCHA Language"
+msgstr "langue reCAPTCHA"
+
+#: options/class.WpdiscuzOptions.php:2723
+msgid "reCAPTCHA Theme"
+msgstr "thème reCAPTCHA"
+
+#: options/class.WpdiscuzOptions.php:2709
+msgid "Site Key"
+msgstr "Clé du site"
+
+#: options/class.WpdiscuzOptions.php:2678
+msgid "Load Rich Editor"
+msgstr "Chargez l’éditeur riche"
+
+#: options/class.WpdiscuzOptions.php:2060
+msgid "Comments votes data need to be regenerated"
+msgstr "Les données des votes de commentaires doivent être régénérées"
+
+#: options/class.WpdiscuzOptions.php:2049
+msgid "Closed Comments data need be regenerated"
+msgstr "Les données des commentaires fermés doivent être régénérées"
+
+#: options/class.WpdiscuzOptions.php:2038
+msgid "Comment votes meta data need to be regenerated"
+msgstr "Les métadonnées des votes de commentaires doivent être régénérées"
+
+#: options/class.WpdiscuzOptions.php:2029
+msgid "Jetpack Comments are active."
+msgstr "Commentaires Jetpack actifs."
+
+#: options/class.WpdiscuzOptions.php:2018
+msgid "Please complete required steps to start using wpDiscuz 7"
+msgstr "Veuillez compléter les étapes requises pour commencer à utiliser wpDiscuz 7"
+
+#: options/class.WpdiscuzOptions.php:1985
+msgid "Phrases Imported Successfully!"
+msgstr "Phrases importées avec succès !"
+
+#: options/class.WpdiscuzOptions.php:1260
+msgid "You do not have sufficient permissions to perform this action"
+msgstr "Vous n’avez pas les droits suffisants pour effectuer cette action"
+
+#: options/class.WpdiscuzOptions.php:1258
+msgid "Post ID not exists"
+msgstr "ID de publication inexistante"
+
+#: options/class.WpdiscuzOptions.php:579
+msgid "Maximum post size is"
+msgstr "La taille maximale de la publication est"
+
+#: options/class.WpdiscuzOptions.php:578
+msgid "Maximum upload file size is"
+msgstr "La taille maximale du fichier qui peut être uploadé est"
+
+#: options/class.WpdiscuzOptions.php:577
+msgid "Maximum number of uploaded files is"
+msgstr "Le nombre maximum de fichiers qui peuvent être uploadés est"
+
+#: options/class.WpdiscuzOptions.php:576
+msgid "Not allowed file type"
+msgstr "Type de fichier non autorisé"
+
+#: options/class.WpdiscuzOptions.php:544
+msgid "Would love your thoughts, please comment."
+msgstr "Nous aimerions avoir votre avis, veuillez laisser un commentaire."
+
+#: options/class.WpdiscuzOptions.php:542
+msgid "Commenting is closed!"
+msgstr "Les commentaires sont fermés !"
+
+#: options/class.WpdiscuzOptions.php:534 options/class.WpdiscuzOptions.php:1066
+msgid "You have been mentioned in comment"
+msgstr "Vous avez été mentionné dans un commentaire"
+
+#: options/html-addons.php:25
+msgid "All wpDiscuz addons are being developed by wpDiscuz developers at gVectors Team. These addons help us to keep top level development of the free wpDiscuz plugin. All essential and even dozens of extra-cool features are already available for free in the core wpDiscuz plugin. There are not any limits, any pro and paid versions of wpDiscuz. We have another dozens of awesome features in our to-do list which will be added for free in the future releases."
+msgstr "Tous les modules wpDiscuz sont développés par les développeurs wpDiscuz de l’équipe gVectors. Ces modules nous aident à maintenir le développement de haut niveau de l’extension gratuite wpDiscuz. Toutes les fonctionnalités essentielles et même des dizaines de fonctionnalités extra-cool sont déjà disponibles gratuitement dans l’extension principale wpDiscuz. Il n’y a aucune limite, aucune version PRO et payante de wpDiscuz. Nous avons des dizaines de fonctionnalités impressionnantes dans notre liste de tâches qui seront ajoutées gratuitement dans les futures versions."
+
+#: options/html-options.php:503
+msgid "Reset All Options"
+msgstr "Réinitialiser toutes les options"
+
+#: options/html-options.php:482
+msgid "Back"
+msgstr "Retour"
+
+#: options/html-options.php:445 options/html-options.php:527
+msgid "Addons Settings"
+msgstr "Paramètres des extensions"
+
+#: options/html-options.php:421 options/html-options.php:427
+#: options/html-options.php:430
+msgid "Open Settings"
+msgstr "Ouvrir les paramètres"
+
+#: options/html-options.php:401
+msgid "Find an option..."
+msgstr "Trouvez une option..."
+
+#: options/html-options.php:386
+msgid "Start Using wpDiscuz"
+msgstr "Commencez à utiliser wpDiscuz"
+
+#: options/html-options.php:372
+msgid "Next Step &raquo;"
+msgstr "Etape Suivante &raquo;"
+
+#: options/html-options.php:372
+msgid "Finish Update"
+msgstr "Terminer la mise à jour"
+
+#: options/html-options.php:346
+msgid "Enable Article Rating"
+msgstr "Activer l’évaluation des articles"
+
+#: options/html-options.php:342
+msgid "Article Rating vs Comment Rating"
+msgstr "Évaluation de l’article vs Évaluation des commentaires"
+
+#: options/html-options.php:324
+msgid "More News"
+msgstr "Plus d’actus"
+
+#: options/class.WpdiscuzOptions.php:3899 options/html-options.php:289
+msgid "Comment Bubble Location"
+msgstr "Emplacement de la bulle de commentaire"
+
+#: options/html-options.php:276
+msgid "Bubble Live Update"
+msgstr "Mise à jour en temps réel de la bulle"
+
+#: options/class.WpdiscuzOptions.php:3885 options/html-options.php:254
+#: options/html-options.php:263
+msgid "Comment Bubble"
+msgstr "Bulle de commentaire"
+
+#: options/html-options.php:246
+msgid "Comments Layout #3"
+msgstr "Mise en page des commentaires #3"
+
+#: options/html-options.php:241
+msgid "Comments Layout #2"
+msgstr "Mise en page des commentaires #2"
+
+#: options/html-options.php:236
+msgid "Comments Layout #1"
+msgstr "Mise en page des commentaires #1"
+
+#: options/html-options.php:227
+msgid "Layout #3"
+msgstr "Mise en page #3"
+
+#: options/html-options.php:226
+msgid "Layout #2"
+msgstr "Mise en page #2"
+
+#: options/html-options.php:225
+msgid "Layout #1"
+msgstr "Mise en page #1"
+
+#: options/html-options.php:220
+msgid "Choose Your Comments Layout"
+msgstr "Choisissez votre mise en page de commentaires"
+
+#: options/html-options.php:204
+msgid "Comments Style"
+msgstr "Style des commentaires"
+
+#: options/html-options.php:198
+msgid "Comments Style & Layout"
+msgstr "Style et mise en page des commentaires"
+
+#: options/html-options.php:173
+msgid "Use the \"Deactivate\" button located next to the \"Learn More\" button. Just click on this button and Jetpack Comments will be deactivated. Once it's disabled, please delete all caches."
+msgstr "Utilisez le bouton \"Désactiver\" situé à côté du bouton \"En savoir plus\". Il suffit de cliquer sur ce bouton et les commentaires Jetpack seront désactivés. Une fois désactivé, veuillez supprimer tous les caches."
+
+#: options/html-options.php:172
+msgid "Please disable Jetpack Comments."
+msgstr "Veuillez désactiver les commentaires Jetpack."
+
+#: options/html-options.php:168
+msgid "Jetpack Comments doesn't allow wpDiscuz comment form to be loaded on your posts and pages. It overwrites wpDiscuz Comment form."
+msgstr "Les commentaires Jetpack ne permettent pas de charger le formulaire de commentaire wpDiscuz sur vos publications et pages. Il écrase le formulaire de commentaire wpDiscuz."
+
+#: options/html-options.php:156
+msgid "Ok, I understood"
+msgstr "Ok, j’ai compris"
+
+#: options/html-options.php:154
+msgid "Prior to the wpDiscuz 7 release, we've released new versions of all wpDiscuz addons. If you've already using the latest versions, just activate those back. If your license key is expired and you cannot update, please renew those addons at gVectors Store with 30% discount applied automatically at checkout page. Just make sure you're logged-in in the store with your customer account."
+msgstr "Avant la sortie de wpDiscuz 7, nous avons publié de nouvelles versions de tous les modules wpDiscuz. Si vous utilisé déjà les dernières versions, il vous suffit de les réactiver. Si votre clé de licence est expirée et que vous ne pouvez pas la mettre à jour, veuillez renouveler ces modules dans le store gVectors avec une remise de 30% appliquée automatiquement à la page de paiement. Assurez-vous simplement que vous êtes connecté au store avec votre compte client."
+
+#: options/html-options.php:153
+msgid "Please update wpDiscuz addons in Dashboard > Plugins admin page, then activate those back."
+msgstr "Veuillez mettre à jour ajouts wpDiscuz via le Tableau de bord > Extensions, puis activez-les."
+
+#: options/html-options.php:149
+msgid "All old versions of addons are not compatible with wpDiscuz 7, because of new comment layouts and template functions. In order to avoid errors wpDiscuz deactivates those during the update process."
+msgstr "Toutes les anciennes versions de modules ne sont plus compatibles avec wpDiscuz 7, en raison de nouvelles mises en page de commentaires et des modèles de fonctions. Afin d’éviter les erreurs, wpDiscuz désactive ceux-ci pendant le processus de mise à jour."
+
+#: options/html-options.php:136 options/html-options.php:175
+msgid "Mark as solved"
+msgstr "Marqué comme résolu"
+
+#: options/html-options.php:129
+msgid "Your customized wpDiscuz template files are no longer compatible with wpDiscuz 7.  This is a doable major version update (from 5.x to 7.x) with totally redesigned comment system and template files. You can do the same customization on the new wpDiscuz 7 template files with the same upgrade-safe way in case the new comment layouts don't fit your needs. Please find those below."
+msgstr "Vos fichiers wpDiscuz personnalisés ne sont plus compatibles avec wpDiscuz 7. Il s’agit d’une mise à jour majeure (de 5.x à 7.x) avec un système de commentaires entièrement redessiné et des modèles adaptés. Vous pouvez faire la même personnalisation sur les nouveaux modèles wpDiscuz 7 de la même manière et de façon sûre au cas où les nouvelles mises en page de commentaires ne correspondent pas à vos besoins. Veuillez les trouver ci-dessous."
+
+#: options/html-options.php:101
+msgid "Step 3"
+msgstr "Étape 3"
+
+#: options/html-options.php:93
+msgid "Step 2"
+msgstr "Étape 2"
+
+#: options/html-options.php:85
+msgid "Step 1"
+msgstr "Étape 1"
+
+#: options/tools-layouts/tool-phrases.php:20
+msgid "Backup Phrases"
+msgstr "Sauvegarder les phrases"
+
+#: options/class.WpdiscuzOptions.php:2086
+#: options/tools-layouts/tool-ratings.php:11
+#: options/tools-layouts/tool-ratings.php:22
+msgid "Rebuild Ratings"
+msgstr "Reconstruire les évaluations"
+
+#: options/tools-layouts/tool-ratings.php:21
+msgid "Start Rebuild"
+msgstr "Démarrer la reconstruction"
+
+#: options/tools-layouts/tool-database.php:20
+#: options/tools-layouts/tool-database.php:21
+msgid "Fix Tables"
+msgstr "Corriger les tables"
+
+#: options/class.WpdiscuzOptions.php:2062
+#: options/tools-layouts/tool-regenerate.php:56
+msgid "Regenerate Vote Data"
+msgstr "Régénérer les données des votes"
+
+#: options/class.WpdiscuzOptions.php:2051
+#: options/tools-layouts/tool-regenerate.php:38
+msgid "Regenerate Closed Comments"
+msgstr "Régénérer les commentaires fermés"
+
+#: options/tools-layouts/tool-phrases.php:37
+msgid "Import Phrases"
+msgstr "Importer les phrases"
+
+#: options/tools-layouts/tool-phrases.php:29
+msgid "Here you can import and restore wpDiscuz phrases. You just need to choose backup file and click import phrases."
+msgstr "Ici vous pouvez importer et restaurer des phrases wpDiscuz. Vous avez juste besoin de choisir le fichier de sauvegarde et cliquez sur les phrases à importer."
+
+#: options/tools-layouts/tool-regenerate.php:91
+msgid "Start Sync"
+msgstr "Démarrer la synchronisation"
+
+#: options/class.WpdiscuzOptions.php:2074
+#: options/tools-layouts/tool-regenerate.php:92
+msgid "Synchronize Commenters Data"
+msgstr "Synchroniser les données des commentateurs"
+
+#: options/tools-layouts/tool-regenerate.php:37
+#: options/tools-layouts/tool-regenerate.php:55
+#: options/tools-layouts/tool-regenerate.php:73
+msgid "Start Regenerate"
+msgstr "Démarrer la régénération"
+
+#: options/class.WpdiscuzOptions.php:2040
+#: options/tools-layouts/tool-regenerate.php:74
+msgid "Regenerate Vote Metas"
+msgstr "Régénérer les métadonnées des votes"
+
+#: options/html-dashboard.php:258
+msgid "We love your reviews. This is the best way to say thank you to developers and support team."
+msgstr "Nous apprécions vos commentaires. C’est la meilleure façon de remercier les développeurs et l’équipe de support."
+
+#: options/html-dashboard.php:255
+msgid "Leave a Good Review"
+msgstr "Laissez un bon avis"
+
+#: options/html-dashboard.php:253
+msgid "Just log in to the translation platform with your WordPress.org account, and suggest translations."
+msgstr "Connectez-vous à la plate-forme de traduction avec votre compte WordPress.org et proposez des traductions."
+
+#: options/html-dashboard.php:253
+msgid "We'd really appreciate if you could help translating wpDiscuz to your language."
+msgstr "Nous vous serions vraiment reconnaissants si vous pouviez nous aider à traduire wpDiscuz dans votre langue."
+
+#: options/html-dashboard.php:252
+msgid "Help to Translate wpDiscuz"
+msgstr "Aider pour traduire wpDiscuz"
+
+#: options/html-dashboard.php:250
+msgid "Contribute"
+msgstr "Contribuer"
+
+#: options/html-dashboard.php:237
+msgid "wpDiscuz Addons Support"
+msgstr "Modules wpDiscuz"
+
+#: options/html-dashboard.php:236
+msgid "wpDiscuz Support"
+msgstr "Support wpDiscuz"
+
+#: options/html-dashboard.php:235
+msgid "wpDiscuz Demo"
+msgstr "Démo wpDiscuz"
+
+#: options/html-dashboard.php:232
+msgid "Support & Community"
+msgstr "Support et communauté"
+
+#: options/html-dashboard.php:227
+msgid "Privacy and GDPR"
+msgstr "Vie privée et RGPD"
+
+#: options/html-dashboard.php:226
+msgid "Translation"
+msgstr "Traduction"
+
+#: options/html-dashboard.php:224
+msgid "Manage Comment Layout"
+msgstr "Gérer la mise en page des commentaires"
+
+#: options/html-dashboard.php:223
+msgid "Manage Comment Forms"
+msgstr "Gérer les formulaires de commentaires"
+
+#: options/html-dashboard.php:222
+msgid "Getting Started"
+msgstr "Pour commencer"
+
+#: options/html-dashboard.php:213
+msgid "Credits"
+msgstr "Crédits"
+
+#: options/html-dashboard.php:184
+msgid "Active Users and Guests"
+msgstr "Utilisateurs actifs et invités"
+
+#: options/html-dashboard.php:171
+msgid "All Time"
+msgstr "Tout le temps"
+
+#: options/html-dashboard.php:170
+msgid "Last Year"
+msgstr "L’année dernière"
+
+#: options/html-dashboard.php:169
+msgid "Last 6 Months"
+msgstr "Les 6 derniers mois"
+
+#: options/html-dashboard.php:168
+msgid "Last Month"
+msgstr "Le mois dernier"
+
+#: options/html-dashboard.php:167
+msgid "Last Week"
+msgstr "La semaine dernière"
+
+#: options/html-dashboard.php:160
+msgid "Inline feedbacks"
+msgstr "Commentaires en ligne"
+
+#: options/html-dashboard.php:158
+msgid "All comments"
+msgstr "Tous les commentaires"
+
+#: options/html-dashboard.php:156
+msgid "Comment Statistic"
+msgstr "Statistique commentaire"
+
+#: options/html-dashboard.php:145
+msgid "Guest Commenters"
+msgstr "Commentaires des invités"
+
+#: options/html-dashboard.php:141
+msgid "User Commenters"
+msgstr "Commentaires des utilisateurs"
+
+#: options/html-dashboard.php:123
+msgid "All Comments"
+msgstr "Tous les commentaires"
+
+#: options/html-dashboard.php:86
+msgid "The &laquo;Layout #1&raquo; is the simplest and cleanest layout. The &laquo;Layout #2&raquo; is designed for narrow comment sections. It displays comment content in wider area. The &laquo;Layout #3&raquo; layout is designed to accent comment thread hierarchy by colored vertical lines and indents."
+msgstr "La mise en page #1&raquo; est la mise en page la plus simple et la plus propre. La mise en page #2&raquo; est conçue pour les sections de commentaires étroits. Elle affiche le contenu des commentaires dans une zone plus large. La mise en page #3&laquo; est conçue pour accentuer la hiérarchie des fils par des lignes verticales colorées et des retraits."
+
+#: options/html-dashboard.php:83
+msgid "Comment Layout #3"
+msgstr "Disposition des commentaires #3"
+
+#: options/html-dashboard.php:78
+msgid "Comment Layout #2"
+msgstr "Disposition des commentaires #2"
+
+#: options/html-dashboard.php:73
+msgid "Comment Layout #1"
+msgstr "Disposition des commentaires #1"
+
+#: options/html-dashboard.php:68
+msgid "wpDiscuz comment system design is totally changed. It comes with three nice layouts. You can even choose different layout for different pages. Three attractive, modern and clean layouts are ready to use. You can choose your proffered layout in wpDiscuz > Forms > Edit Comment Forms screen. Once the layout is changed, don't forget to delete all caches. Comment layouts are called simply &laquo;Layout #1&raquo;, &laquo;Layout #2&raquo;, &laquo;Layout #3&raquo;."
+msgstr "la conception du module de commentaires wpDiscuz est totalement modifiée. Le module est livré avec trois belles mises en page. Vous pouvez même choisir une mise en page différente pour différentes pages. Trois mises en page attrayantes, modernes et propres sont prêtes à l’emploi. Vous pouvez choisir votre propre mise en page offerte dans l’écran wpDiscuz et Formulaires d’édition. Une fois la mise en page modifiée, n’oubliez pas de supprimer tous les caches. Les mises en page de commentaires sont appelées simplement &laquo;Mise en page #1&raquo;, &laquo;Mise en page #2&raquo;, &laquo;Mise en page #3&raquo;."
+
+#: options/html-dashboard.php:63
+msgid "If there is no new comments while visitor read the article, in most cases they don't even think about leaving some comment. The Bubble helps here too, it calls article readers to join to the discussion displaying them invite message. This message attracting readers attention and allows them fast and easy jump to comment area. Once page is loaded and visitor has read some content, it reminds about comments and calls to leave a reply."
+msgstr "S’il n’y a pas de nouveaux commentaires pendant que le visiteur lisait l’article, dans la plupart des cas, ils ne pensent même pas à laisser un commentaire. La bulle vient en aide ici également, elle invite le lecteur à se joindre à la discussion en affichant une invite à réagir. Ce message attire l’attention des lecteurs et leur permet de sauter rapidement et facilement pour commenter la zone. Une fois que la page est chargée et que le visiteur a lu du contenu, elle rappelle les commentaires et les appels à laisser une réponse."
+
+#: options/html-dashboard.php:61
+msgid "Once new comment is posted, Bubble shows pop-up message with the new comment excerpt as it's shown on screenshot. The small &laquo;Reply&raquo; button allows to reply that comment immediately or readers can click on the pop-up notification and jump to that comment thread below the article. Just make sure the Bubble Live Update is enabled in wpDiscuz > Settings > Live Commenting and Notifications options."
+msgstr "Une fois le nouveau commentaire posté, Bubble affiche un message pop-up avec le nouvel extrait de commentaire comme il est montré sur la capture d’écran. Le petit bouton &laquo;Reply&raquo; permet de répondre immédiatement à ce commentaire ou les lecteurs peuvent cliquer sur la notification pop-up et sauter sur ce fil de commentaire en-dessous de l’article. Assurez-vous que la mise à jour Bubble Live est activée dans les paramètres de wpDiscuz ainsi que les options de commentaires et notifications en direct."
+
+#: options/html-dashboard.php:58
+msgid " In wpDiscuz 7 the real-time commenting becomes more live and attractive. It's based on REST API and doesn't overload your server. A specific sticky comment icon on your web pages, called &laquo;Bubble&raquo; keeps article readers and commenters up to date. It can display new comments as pop-up notification or as number in an orange circle."
+msgstr " Dans wpDiscuz 7, le commentaire en temps réel devient plus vivant et attrayant. Il est basé sur REST API et ne surcharge pas votre serveur. Une icône de commentaire autocollant spécifique sur vos pages Web, appelée &laquo;Bubble&raquo; et qui maintient les lecteurs et les commentateurs de publication à jour. Il peut afficher de nouveaux commentaires sous forme de notification pop-up ou en tant que numéro dans un cercle orange."
+
+#: options/html-dashboard.php:48
+msgid "Article Inline Feedback"
+msgstr "Commentaires en ligne sur la publication"
+
+#: options/html-dashboard.php:42 options/html-dashboard.php:90
+msgid "Social Login and Commenting"
+msgstr "Connexion et Commentaires Réseaux Sociaux"
+
+#: options/html-dashboard.php:41 options/html-dashboard.php:67
+msgid "Comment Layouts"
+msgstr "Disposition des commentaires"
+
+#: options/html-dashboard.php:39
+msgid "Inline Feedback"
+msgstr "Commentaires en ligne"
+
+#: options/html-dashboard.php:30
+msgid "What's New"
+msgstr "Quoi de neuf"
+
+#: options/html-dashboard.php:18
+msgid "It's totally improved with brand new innovative features bringing live to your website and discussions."
+msgstr "Il est totalement amélioré avec de toutes nouvelles fonctionnalités innovantes qui mettent en ligne votre site Web et vos discussions."
+
+#: options/html-dashboard.php:17
+msgid "This version is mostly focused on website visitors engagement,"
+msgstr "Cette version est principalement axée sur l’engagement des visiteurs du site Web,"
+
+#: options/html-dashboard.php:15
+msgid "Thank you for installing wpDiscuz!"
+msgstr "Merci d’avoir installé wpDiscuz !"
+
+#: options/html-dashboard.php:13
+msgid "Built to Engage"
+msgstr "Construit pour s’engager"
+
+#: options/html-dashboard.php:12
+msgid "Welcome to wpDiscuz 7"
+msgstr "Bienvenue sur wpDiscuz 7"
+
+#: options/class.WpdiscuzOptions.php:582
+#: options/phrases-layouts/phrases-media.php:39
+msgid "Change the attached image"
+msgstr "Modifier l’image attachée"
+
+#: options/class.WpdiscuzOptions.php:581
+#: options/phrases-layouts/phrases-media.php:35
+msgid "Attach an image to this comment"
+msgstr "Attacher une image à ce commentaire"
+
+#: options/phrases-layouts/phrases-media.php:27
+msgid "Message if post size is bigger than allowed"
+msgstr "Message si la taille de la publication est plus grande que permis"
+
+#: options/phrases-layouts/phrases-media.php:19
+msgid "Message if attached more files than allowed"
+msgstr "Message si plus de fichiers sont joints que cela est permis"
+
+#: options/phrases-layouts/phrases-media.php:15
+msgid "Message if one or more file types are not allowed"
+msgstr "Message si un ou plusieurs types de fichiers ne sont pas autorisés"
+
+#: options/phrases-layouts/phrases-media.php:11
+msgid "Alert message before deleting attached file"
+msgstr "Message d’alerte avant de supprimer le fichier joint"
+
+#: options/class.WpdiscuzOptions.php:460
+#: options/phrases-layouts/phrases-notification.php:66
+msgid "Awaiting for approval"
+msgstr "En attente de modération"
+
+#: options/class.WpdiscuzOptions.php:387
+#: options/phrases-layouts/phrases-form.php:27
+msgid "Inline Comments"
+msgstr "Commentaires en ligne"
+
+#: options/class.WpdiscuzOptions.php:573
+#: options/phrases-layouts/phrases-general.php:171
+msgid "You're not allowed to rate here"
+msgstr "Vous n’êtes pas autorisé à voter ici"
+
+#: options/class.WpdiscuzOptions.php:572
+#: options/phrases-layouts/phrases-general.php:167
+msgid "You cannot rate again"
+msgstr "Vous ne pouvez pas évaluer à nouveau"
+
+#: options/class.WpdiscuzOptions.php:571
+#: options/phrases-layouts/phrases-general.php:163
+msgid "Spoiler Title"
+msgstr "Titre spoiler"
+
+#: options/class.WpdiscuzOptions.php:570
+#: options/phrases-layouts/phrases-general.php:159
+msgid "Manage Comment"
+msgstr "Gérer le commentaire"
+
+#: options/class.WpdiscuzOptions.php:569
+#: options/phrases-layouts/phrases-general.php:155
+msgid "Reply to"
+msgstr "Répondre à"
+
+#: options/class.WpdiscuzOptions.php:568
+#: options/phrases-layouts/phrases-general.php:151
+msgid "Last edited %1$s by %2$s"
+msgstr "Dernière modification le %1$s par %2$s"
+
+#: options/class.WpdiscuzOptions.php:565
+#: options/phrases-layouts/phrases-general.php:139
+msgid "Please login to comment"
+msgstr "Veuillez vous connecter pour commenter"
+
+#: options/class.WpdiscuzOptions.php:557 options/html-dashboard.php:127
+#: options/phrases-layouts/phrases-general.php:107
+msgid "Inline Feedbacks"
+msgstr "Commentaires en ligne"
+
+#: options/class.WpdiscuzOptions.php:556
+#: options/phrases-layouts/phrases-general.php:103
+msgid "View all comments"
+msgstr "Afficher tous les commentaires"
+
+#: options/class.WpdiscuzOptions.php:554
+#: options/phrases-layouts/phrases-general.php:95
+msgid "Your Email"
+msgstr "Votre Email"
+
+#: options/class.WpdiscuzOptions.php:553
+#: options/phrases-layouts/phrases-general.php:91
+msgid "Your Name*"
+msgstr "Votre Nom*"
+
+#: options/class.WpdiscuzOptions.php:552
+#: options/phrases-layouts/phrases-general.php:87
+msgid "Notify me via email when a new reply is posted"
+msgstr "Informez-moi par courriel quand une nouvelle réponse sera publiée"
+
+#: options/class.WpdiscuzOptions.php:551
+#: options/phrases-layouts/phrases-general.php:83
+msgid "Your comment here..."
+msgstr "Votre commentaire ici..."
+
+#: options/phrases-layouts/phrases-general.php:75
+msgid "We are sorry, you are not allowed to create a new comment thread more than %d time(s)"
+msgstr "Nous sommes désolés, vous n’êtes pas autorisé à créer un nouveau fil de commentaires plus de %d fois"
+
+#: options/class.WpdiscuzOptions.php:546
+#: options/phrases-layouts/phrases-general.php:63
+msgid "votes"
+msgstr "votes"
+
+#: options/class.WpdiscuzOptions.php:545
+#: options/phrases-layouts/phrases-general.php:59
+msgid "vote"
+msgstr "vote"
+
+#: options/phrases-layouts/phrases-general.php:55
+msgid "Would love your thoughts, please comment"
+msgstr "Nous aimerions avoir votre avis, veuillez laisser un commentaire"
+
+#: options/phrases-layouts/phrases-general.php:47
+msgid "Commenting is closed"
+msgstr "Les commentaires sont fermés"
+
+#: options/phrases-layouts/phrases-general.php:43
+msgid "Thank you for your feedback"
+msgstr "Merci pour votre retour"
+
+#: options/phrases-layouts/phrases-general.php:39
+msgid "Feedback on post content"
+msgstr "Commentaire sur le contenu de votre article"
+
+#: options/class.WpdiscuzOptions.php:539
+#: options/phrases-layouts/phrases-general.php:35
+msgid "Please leave a feedback on this"
+msgstr "Veuilez laisser un commentaire à ce sujet"
+
+#: options/class.WpdiscuzOptions.php:538
+#: options/phrases-layouts/phrases-general.php:31
+msgid "Ask for Feedback"
+msgstr "Demander pour une réaction"
+
+#: options/class.WpdiscuzOptions.php:537
+#: options/phrases-layouts/phrases-general.php:27
+msgid "Select a part of text and ask readers for feedback (inline commenting)"
+msgstr "Sélectionnez une partie du texte et demandez aux lecteurs leurs commentaires (en ligne)"
+
+#: options/class.WpdiscuzOptions.php:404
+#: options/phrases-layouts/phrases-comment.php:31
+msgid "Share On WhatsApp"
+msgstr "Partager sur WhatsApp"
+
+#: options/options-layouts/html-general.php:240
+msgid "Maintenance"
+msgstr "Maintenance"
+
+#: options/options-layouts/html-thread_display.php:38
+msgid "Display [View Comments] button"
+msgstr "Afficher le bouton [Voir les commentaires]"
+
+#: options/options-layouts/html-thread_display.php:38
+msgid "Display [View Comments] button to load comments manually"
+msgstr "Afficher le bouton [Voir les commentaires] pour charger manuellement les commentaires"
+
+#: options/options-layouts/html-thread_display.php:33
+msgid "Initiate AJAX loading after page"
+msgstr "Initier le chargement AJAX après la page"
+
+#: options/options-layouts/html-thread_display.php:33
+msgid "Initiates AJAX loading once page loading is complete"
+msgstr "Initie le chargement AJAX une fois le chargement de la page terminé"
+
+#: options/options-layouts/html-thread_display.php:28
+msgid "Load with page"
+msgstr "Charger avec la page"
+
+#: options/options-layouts/html-inline.php:65
+msgid "Open the Feedback Form on scroll"
+msgstr "Ouvrir le formulaire de commentaires sur défilement"
+
+#: options/options-layouts/html-inline.php:60
+msgid "Animate (blink and wiggle)"
+msgstr "Animer (cligner des yeux et bouger)"
+
+#: options/options-layouts/html-inline.php:11
+msgid "You can add Inline Feedback button in post content using &laquo;Comment&raquo; button on post editor toolbar."
+msgstr "Vous pouvez ajouter le bouton Commentaire dans le contenu de la publication à l’aide du bouton &laquo;Commentaire&raquo; sur la barre d’outils de l’éditeur de publication."
+
+#: options/options-layouts/html-inline.php:10
+msgid "Article Inline Feedback feature is an interactive article reading option with author's questions and readers feedback (comments). Now article authors can add some questions for readers on certain part of article content and ask for feedback while visitors read it."
+msgstr "La fonctionnalité de rétroaction en ligne sur les articles est une option de lecture interactive des articles avec les questions des auteurs et les commentaires des lecteurs. Les auteurs d’articles peuvent désormais ajouter des questions aux lecteurs sur certaines parties du contenu de l’article et demander un retour d'information pendant que les visiteurs le lisent."
+
+#: options/html-options.php:298 options/html-options.php:316
+#: options/options-layouts/html-live.php:53
+msgid "Right Corner"
+msgstr "Coin droit"
+
+#: options/html-options.php:296 options/html-options.php:311
+#: options/options-layouts/html-live.php:51
+msgid "Left Corner"
+msgstr "Coin gauche"
+
+#: options/html-options.php:294 options/html-options.php:306
+#: options/options-layouts/html-live.php:49
+msgid "Content Left"
+msgstr "Contenu de gauche"
+
+#: options/options-layouts/html-live.php:12
+msgid "You can enabled comments live update without the Bubble too. There is a separate live update option to keep comment list real-time updating."
+msgstr "Vous pouvez également activer la mise à jour des commentaires en direct sans la bulle. Il existe une option de mise à jour en direct distincte pour garder la liste de commentaires actualisée en temps réel."
+
+#: options/options-layouts/html-thread_layouts.php:228
+msgid "Layout Components"
+msgstr "Composants de mise en page"
+
+#: options/options-layouts/html-thread_layouts.php:109
+msgid "Comment Voting Buttons"
+msgstr "Boutons de vote des commentaires"
+
+#: options/options-layouts/html-thread_layouts.php:29
+msgid "You can select different comment thread layout for different comment forms in %s"
+msgstr "Vous pouvez sélectionner la mise en page de différents fils de commentaires pour différents formulaires de commentaires dans %s"
+
+#: options/options-layouts/html-thread_layouts.php:26
+msgid "Comment Thread Layout #3"
+msgstr "Mise en page du fil des commentaires #3"
+
+#: options/options-layouts/html-thread_layouts.php:21
+msgid "Comment Thread Layout #2"
+msgstr "Mise en page du fil des commentaires #2"
+
+#: options/options-layouts/html-thread_layouts.php:16
+msgid "Comment Thread Layout #1"
+msgstr "Mise en page du fil des commentaires #1"
+
+#: options/options-layouts/html-thread_layouts.php:11
+msgid "wpDiscuz 7 comes with three modern and totally different comment thread layouts. They are called Layout #1, Layout #2 and Layout #3."
+msgstr "wpDiscuz 7 est livré avec trois mises en page de fil de commentaires modernes et totalement différentes. Elles sont appelées Disposition #1, Disposition #2 et Disposition #3."
+
+#: options/options-layouts/html-thread_layouts.php:10
+msgid "Here you can manage comment layout components. You can display/hide certain button or information on comment threads, as well as commenters' avatars and comment voting options."
+msgstr "Ici, vous pouvez gérer les composants de mise en page des commentaires. Vous pouvez afficher/masquer certains boutons ou informations sur les fils de commentaires, ainsi que les avatars des commentateurs et les options de vote."
+
+#: options/options-layouts/html-moderation.php:139
+msgid "Max number of comments"
+msgstr "Nombre maximum de commentaires"
+
+#: options/options-layouts/html-moderation.php:126
+msgid "Sitewide"
+msgstr "Tout le site"
+
+#: options/options-layouts/html-moderation.php:124
+msgid "Per Post"
+msgstr "Par page"
+
+#: options/html-options.php:270 options/html-options.php:283
+#: options/html-options.php:353 options/options-layouts/html-inline.php:55
+#: options/options-layouts/html-live.php:31
+#: options/options-layouts/html-live.php:73
+#: options/options-layouts/html-live.php:94
+#: options/options-layouts/html-live.php:145
+#: options/options-layouts/html-moderation.php:122
+msgid "Disable"
+msgstr "Désactiver"
+
+#: options/options-layouts/html-login.php:109
+msgid "Show Follows Tab"
+msgstr "Afficher l’onglet Followers"
+
+#: options/options-layouts/html-login.php:100
+msgid "Show Subscriptions Tab"
+msgstr "Afficher l’onglet Abonnements"
+
+#: options/options-layouts/html-login.php:91
+msgid "Show Activity Tab"
+msgstr "Afficher l’onglet Activité"
+
+#: options/options-layouts/html-login.php:82
+msgid "Enable button"
+msgstr "Activer le bouton"
+
+#: options/options-layouts/html-recaptcha.php:157
+msgid "Language codes"
+msgstr "Codes de langage"
+
+#: options/options-layouts/html-recaptcha.php:156
+msgid "Example en"
+msgstr "Exemple en"
+
+#: options/html-options.php:209 options/options-layouts/html-recaptcha.php:139
+msgid "Light"
+msgstr "Clair"
+
+#: options/options-layouts/html-recaptcha.php:123
+msgid "reCAPTCHA V2 Secret Key"
+msgstr "reCAPTCHA V2 Clé Secrète"
+
+#: options/options-layouts/html-recaptcha.php:108
+msgid "reCAPTCHA V2 Site Key"
+msgstr "reCAPTCHA V2 Clé Publique"
+
+#: options/options-layouts/html-recaptcha.php:98
+msgid "reCAPTCHA v2"
+msgstr "reCAPTCHA V2"
+
+#: options/options-layouts/html-recaptcha.php:34
+msgid "Post"
+msgstr "Article"
+
+#: options/options-layouts/html-recaptcha.php:31
+msgid "Auto"
+msgstr "Auto"
+
+#: options/options-layouts/html-recaptcha.php:10
+msgid "reCAPTCHA Version 2"
+msgstr "reCAPTCHA version 2"
+
+#: options/options-layouts/html-recaptcha.php:10
+msgid "register your domain"
+msgstr "enregistrez votre domaine"
+
+#: options/options-layouts/html-recaptcha.php:10
+msgid "Please %s with Google to obtain the Site Key and Secret Key for %s. Then insert those keys in according fields below."
+msgstr "Veuillez %s avec Google pour obtenir la clé publique et la clé privée pour %s. Puis insérer ces clés selon les champs ci-dessous."
+
+#: options/options-layouts/html-social.php:1032
+msgid "To start using Baidu Login Button you should get Client Id and Client Secret. Please follow to this "
+msgstr "Pour commencer à utiliser le bouton de connexion de Baidu, vous devez obtenir l’ID du client et le code secret du client. Veuillez suivre les instructions suivantes "
+
+#: options/options-layouts/html-social.php:949
+msgid "Key"
+msgstr "Clé"
+
+#: options/options-layouts/html-social.php:908
+#: options/options-layouts/html-social.php:964
+#: options/options-layouts/html-social.php:1020
+#: options/options-layouts/html-social.php:1076
+msgid "Secret"
+msgstr "Secret"
+
+#: options/options-layouts/html-social.php:864
+msgid "To start using WeChat Login Button you should get AppID and Secret. Please follow to this "
+msgstr "Pour commencer à utiliser le bouton de connexion VK, vous devez obtenir un ID d’application et un code secret. Veuillez suivre les instructions suivantes "
+
+#: options/class.WpdiscuzOptions.php:2716
+#: options/options-layouts/html-social.php:762
+msgid "Secret Key"
+msgstr "Clé secrète"
+
+#: options/options-layouts/html-social.php:631
+msgid "Password"
+msgstr "Mot de Passe"
+
+#: options/options-layouts/html-social.php:616
+#: options/options-layouts/html-social.php:747
+#: options/options-layouts/html-thread_display.php:236
+msgid "ID"
+msgstr "ID"
+
+#: options/options-layouts/html-social.php:509
+msgid "To start using Linkedin Login Button you should get Client ID and Client Secret. Please follow to this "
+msgstr "Pour commencer à utiliser le bouton de connexion Linkedin, vous devez obtenir l’ID client et le code secret. Veuillez suivre les instructions suivantes "
+
+#: options/options-layouts/html-social.php:453
+msgid "To start using Instagram Login Button you should get Client ID and Client Secret. Please follow to this "
+msgstr "Pour commencer à utiliser le bouton de connexion Instagram, vous devez obtenir l’iD client et le secret du client. Veuillez suivre les instructions suivantes "
+
+#: options/options-layouts/html-social.php:398
+msgid "To start using Wordpress.com Login Button you should get Client ID and Client Secret. Please follow to this "
+msgstr "Pour commencer à utiliser le bouton de connexion WordPress.com, vous devez obtenir l’ID du client et la clé secrète. Veuillez suivre les instructions suivantes "
+
+#: options/options-layouts/html-social.php:370
+msgid "Public Key"
+msgstr "Clé publique"
+
+#: options/options-layouts/html-social.php:341
+msgid "To start using Disqus Login Button you should get Public Key and Secret Key. Please follow to this "
+msgstr "Pour commencer à utiliser le bouton de connexion Disqus, vous devez obtenir La clé publique et la clé privée. Veuillez suivre les instructions suivantes "
+
+#: options/options-layouts/html-social.php:327
+#: options/options-layouts/html-social.php:442
+#: options/options-layouts/html-social.php:553
+msgid "Client Secret"
+msgstr "Secret client"
+
+#: options/options-layouts/html-social.php:284
+msgid "Permitted URI redirects"
+msgstr "Redirections URI autorisées"
+
+#: options/options-layouts/html-social.php:10
+msgid "wpDiscuz comes with built-in social login and share buttons. It includes Facebook, Twitter, Google, Disqus, WordPress.com, VK and OK Social Networks. Here you can configure App IDs and Keys to enable those. Once IDs and Keys are configured you'll see social login buttons on top of the main comment form. Social Login buttons are only available for guests, so make sure you're logged-out before checking those."
+msgstr "wpDiscuz est livré avec la connexion intégrée aux Réseaux Sociaux et les boutons de partage. Cela comprend Facebook, Twitter, Google, Disqus, WordPress.com, VK et OK. Ici, vous pouvez configurer les ID et Clés d’application pour les activer. Une fois que les identifiants et les clés sont configurés, vous verrez des boutons de connexion aux Réseaux Sociaux sur le dessus du formulaire de commentaire principal. Ils ne sont disponibles que pour les invités, alors assurez-vous que vous êtes déconnecté avant de les vérifier."
+
+#: options/options-layouts/html-thread_styles.php:132
+msgid "Inline Feedback Icon Colors"
+msgstr "Couleurs d’icône de commentaire en ligne"
+
+#: options/options-layouts/html-thread_styles.php:128
+msgid "Comment Bubble Colors"
+msgstr "Couleurs de la bulle de commentaire"
+
+#: options/options-layouts/html-content.php:246
+msgid "Height (px)"
+msgstr "Hauteur (px)"
+
+#: options/options-layouts/html-content.php:245
+msgid "Width (px)"
+msgstr "Largeur (px)"
+
+#: options/options-layouts/html-content.php:187
+msgid "Invert Selection"
+msgstr "Inverser Sélection"
+
+#: options/options-layouts/html-content.php:186
+msgid "Unselect All"
+msgstr "Tout désélectionner"
+
+#: options/options-layouts/html-content.php:185
+msgid "Select All"
+msgstr "Tout sélectionner"
+
+#: options/options-layouts/html-content.php:102
+msgid "File Attachment Settings"
+msgstr "Paramètres des fichiers joints"
+
+#: options/options-layouts/html-rating.php:45
+msgid "Before Comment Form"
+msgstr "Avant le formulaire de commentaire"
+
+#: options/options-layouts/html-rating.php:10
+#: options/options-layouts/html-thread_layouts.php:29
+msgid "Comment Form Manager &raquo;"
+msgstr "Gestionnaire de formulaire de commentaire &raquo;"
+
+#: options/options-layouts/html-form.php:115
+msgid "Enable formatting toolbar"
+msgstr "Activer la barre d’outils de mise en forme"
+
+#: options/options-layouts/html-form.php:114
+msgid "Disable formatting toolbar"
+msgstr "Désactiver la barre de mise en forme"
+
+#: forms/wpdFormAttr/Form.php:922 options/options-layouts/html-form.php:109
+msgid "Source Code"
+msgstr "Code source"
+
+#: forms/wpdFormAttr/Form.php:919 options/options-layouts/html-form.php:107
+msgid "Link"
+msgstr "Lien"
+
+#: forms/wpdFormAttr/Form.php:916 options/options-layouts/html-form.php:105
+msgid "Code Block"
+msgstr "Bloc de code"
+
+#: forms/wpdFormAttr/Form.php:913 options/options-layouts/html-form.php:103
+msgid "Blockquote"
+msgstr "Bloc de citation"
+
+#: forms/wpdFormAttr/Form.php:910 options/options-layouts/html-form.php:101
+msgid "Unordered List"
+msgstr "Liste non ordonnée"
+
+#: forms/wpdFormAttr/Form.php:907 options/options-layouts/html-form.php:99
+msgid "Ordered List"
+msgstr "Liste ordonnée"
+
+#: forms/wpdFormAttr/Form.php:904 options/options-layouts/html-form.php:97
+msgid "Strike"
+msgstr "Barré"
+
+#: forms/wpdFormAttr/Form.php:901 options/options-layouts/html-form.php:95
+msgid "Underline"
+msgstr "Souligné"
+
+#: forms/wpdFormAttr/Form.php:898 options/options-layouts/html-form.php:93
+msgid "Italic"
+msgstr "Italique"
+
+#: forms/wpdFormAttr/Form.php:895 options/options-layouts/html-form.php:91
+msgid "Bold"
+msgstr "En gras"
+
+#: options/options-layouts/html-form.php:71
+msgid "Only Desktop"
+msgstr "Ordinateur uniquement"
+
+#: options/options-layouts/html-form.php:66
+msgid "Mobile and Desktop"
+msgstr "Mobile et Ordinateur"
+
+#: options/options-layouts/html-form.php:10
+msgid "Comment Form Manager"
+msgstr "Gestionnaire de formulaire de commentaire"
+
+#: options/options-layouts/html-form.php:10
+msgid "wpDiscuz allows you to customize comment form layout and fields. You can create as much comment forms as you want and attach those to certain post type or page. Please navigate to %s page to manage comment form specific settings."
+msgstr "wpDiscuz vous permet de personnaliser la mise en page des formulaires et les champs de commentaires. Vous pouvez créer autant de formulaires de commentaires que vous le souhaitez et les joindre à certains types ou page de publication. Veuillez vous rendre à la page %s pour gérer les paramètres spécifiques de formulaire des commentaires."
+
+#: options/html-phrases.php:29
+msgid "Media"
+msgstr "Média"
+
+#: forms/wpdFormAttr/Form.php:1405
+msgid "Allow Guests to Rate"
+msgstr "Autoriser les invités à noter"
+
+#: forms/wpdFormAttr/Form.php:1391
+msgid "Post Rating Title"
+msgstr "Titre de l’évaluation des publications"
+
+#: forms/wpdFormAttr/Form.php:1351
+msgid "Layout"
+msgstr "Disposition"
+
+#: forms/wpdFormAttr/Form.php:1331
+msgid "Comment List Layout"
+msgstr "Disposition de la liste de commentaires"
+
+#: forms/wpdFormAttr/Form.php:1308
+msgid "Theme"
+msgstr "Thème"
+
+#: forms/wpdFormAttr/Form.php:592
+msgid "Average Rating"
+msgstr "Note moyenne"
+
+#: forms/wpdFormAttr/Field/DefaultField/Captcha.php:103
+msgid "The request is invalid or malformed."
+msgstr "La demande est non valide ou mal formulée."
+
+#: forms/wpdFormAttr/Field/DefaultField/Captcha.php:102
+msgid "The response parameter is invalid or malformed."
+msgstr "Le paramètre de réponse n’est pas valide ou malformé."
+
+#: forms/wpdFormAttr/Field/DefaultField/Captcha.php:101
+msgid "The response parameter is missing."
+msgstr "Le paramètre de réponse est manquant."
+
+#: forms/wpdFormAttr/Field/DefaultField/Captcha.php:100
+msgid "The secret parameter is invalid or malformed."
+msgstr "Le paramètre secret est invalide ou malformé."
+
+#: forms/wpdFormAttr/Field/DefaultField/Captcha.php:99
+msgid "The secret parameter is missing."
+msgstr "Le paramètre secret est manquant."
+
+#: forms/wpdFormAttr/Field/DefaultField/Captcha.php:94
+msgid "reCAPTCHA  verification failed."
+msgstr "la vérification de reCAPTCHA a échoué."
+
+#: forms/wpdFormAttr/Field/DefaultField/Captcha.php:19
+msgid "reCAPTCHA Settings"
+msgstr "Réglages reCAPTCHA"
+
+#: forms/wpdFormAttr/Field/RatingField.php:19
+msgid "Name For Total"
+msgstr "Nom pour total"
+
+#: forms/wpdFormAttr/Field/Field.php:66 options/class.WpdiscuzOptions.php:2701
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:1373
+msgid "Baidu authentication failed (code does not exist)."
+msgstr "L’authentification Baidu a échoué (le code n’existe pas)."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:1370
+msgid "Baidu authentication failed (OAuth state does not exist)."
+msgstr "L’authentification Baidu a échoué (l’état OAuth n’existe pas)."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:1336
+msgid "Baidu Client ID and Client Secret  required."
+msgstr "Le Client ID et le Client Secret de Baidu sont requis."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:1284
+msgid "Weibo authentication failed (code does not exist)."
+msgstr "L’authentification Weibo a échoué (le code n’existe pas)."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:1281
+msgid "Weibo authentication failed (OAuth state does not exist)."
+msgstr "L’authentification Weibo a échoué (l’état OAuth n’existe pas)."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:1178
+msgid "QQ authentication failed (code does not exist)."
+msgstr "L’authentification QQ a échoué (le code OAuth n’existe pas)."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:1175
+msgid "QQ authentication failed (OAuth state does not exist)."
+msgstr "L’authentification QQ a échoué (l’état OAuth n’existe pas)."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:1093
+msgid "WeChat authentication failed (code does not exist)."
+msgstr "L’authentification WeChat a échoué (le code n’existe pas)."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:1090
+msgid "WeChat authentication failed (OAuth state does not exist)."
+msgstr "L’authentification WeChat a échoué (l’état OAuth n’existe pas)."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:1004
+msgid "Mail.ru authentication failed (code does not exist)."
+msgstr "L’authentification Mail.ru a échoué (le code n’existe pas)."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:1001
+msgid "Mail.ru authentication failed (OAuth state does not exist)."
+msgstr "L’authentification Mail.ru a échoué (l’état OAuth n’existe pas)."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:914
+msgid "Yandex authentication failed (code does not exist)."
+msgstr "L’authentification Yandex a échoué (le code n’existe pas)."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:911
+msgid "Yandex authentication failed (OAuth state does not exist)."
+msgstr "L’authentification Yandex a échoué (l’état OAuth n’existe pas)."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:832
+msgid "OK authentication failed (code does not exist)."
+msgstr "L’authentification OK a échoué (le code OAuth n’existe pas)."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:829
+msgid "OK authentication failed (OAuth state does not exist)."
+msgstr "L’authentification OK a échoué (l’état OAuth n’existe pas)."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:755
+msgid "VK authentication failed (OAuth code does not exist)."
+msgstr "L’authentification VK a échoué (l’OAuth code n’existe pas)."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:752
+msgid "VK authentication failed (OAuth state does not exist)."
+msgstr "L’authentification VK a échoué (l’état OAuth n’existe pas)."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:615
+msgid "Wordpress.com authentication failed (OAuth code does not exist)."
+msgstr "L’authentification WordPress.com a échoué (le code OAuth n’existe pas)."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:612
+msgid "Wordpress.com authentication failed (OAuth state does not exist)."
+msgstr "L’authentification WordPress.com a échoué (l’état OAuth n’existe pas)."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:584
+msgid "Wordpress Client ID and Client Secret required."
+msgstr "Le WordPress Client ID et le Client Secret de WordPress sont requis."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:529
+msgid "Disqus authentication failed (OAuth code does not exist)."
+msgstr "L’authentification Disqus a échoué (le code OAuth n’existe pas)."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:526
+msgid "Disqus authentication failed (OAuth state does not exist)."
+msgstr "L’authentification Disqus a échoué (l’état OAuth n’existe pas)."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:498
+msgid "Disqus Public Key and Secret Key  required."
+msgstr "La clé publique et la clé secrète de Disqus sont requis."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:420
+msgid "Linkedin authentication failed (OAuth code does not exist)."
+msgstr "L’authentification LinkedIn a échoué (le code OAuth n’existe pas)."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:417
+msgid "Linkedin authentication failed (OAuth state does not exist)."
+msgstr "L’authentification LinkedIn a échoué (l’état OAuth n’existe pas)."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:388
+msgid "Linkedin Client ID and Client Secret  required."
+msgstr "Le Client ID et le Client Secret de LinkedIn sont requis."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:350
+msgid "Google authentication failed (OAuth code does not exist)."
+msgstr "L’authentification Google a échoué (le code OAuth n’existe pas)."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:347
+msgid "Google authentication failed (OAuth state does not exist)."
+msgstr "L’authentification Google a échoué (l’état OAuth n’existe pas)."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:318
+msgid "Google Client ID and Client Secret  required."
+msgstr "Le Client ID et le Client Secret de Google sont requis."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:273
+msgid "Instagram authentication failed (OAuth code does not exist)."
+msgstr "L’authentification Facebook a échoué (le code OAuth n’existe pas)."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:270
+msgid "Instagram authentication failed (OAuth state does not exist)."
+msgstr "L’authentification Instagram a échoué (l’état OAuth n’existe pas)."
+
+#: forms/wpdFormAttr/Form.php:182 forms/wpdFormAttr/Form.php:615
+#: forms/wpdFormAttr/Form.php:1397 forms/wpdFormAttr/Form.php:1398
+#: forms/wpDiscuzForm.php:444
+msgid "Article Rating"
+msgstr "Évaluation de l'article"
+
+#: class.WpdiscuzCore.php:2213
+msgid "Add Inline Feedback Button"
+msgstr "Ajouter un bouton de retour d’expérience en ligne"
+
+#: class.WpdiscuzCore.php:2202
+msgid "OPENED"
+msgstr "OUVERT"
+
+#: class.WpdiscuzCore.php:2192
+msgid "CLOSED"
+msgstr "FERMÉ"
+
+#: class.WpdiscuzCore.php:2169
+msgid "Your Question to Readers"
+msgstr "Votre question aux lecteurs"
+
+#: class.WpdiscuzCore.php:2162
+msgid "Selected Text"
+msgstr "Texte selectionné"
+
+#: class.WpdiscuzCore.php:1195 class.WpdiscuzCore.php:2164
+msgid "No text is selected. Please select a part of text from post content."
+msgstr "Aucun texte sélectionné. Veuillez sélectionner une partie du texte."
+
+#: class.WpdiscuzCore.php:1069 class.WpdiscuzCore.php:2427
+#: class.WpdiscuzCore.php:2430
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: options/class.WpdiscuzOptions.php:531 options/class.WpdiscuzOptions.php:533
+#: utils/class.WpdiscuzHelperEmail.php:444
+msgid "Unfollow"
+msgstr "Ne Plus Suivre"
+
+#: utils/class.WpdiscuzHelperAjax.php:1062
+msgid "Something is wrong"
+msgstr "Une erreur sʼest produite"
+
+#: utils/class.WpdiscuzHelperAjax.php:1028
+msgid "Last Activity"
+msgstr "Dernière activité"
+
+#: utils/class.WpdiscuzHelperAjax.php:963
+#: utils/class.WpdiscuzHelperAjax.php:1020
+msgid "Following"
+msgstr "Suivre"
+
+#: utils/class.WpdiscuzHelperAjax.php:961
+msgid "Subscription - comment"
+msgstr "Abonnement - Commentaire"
+
+#: utils/class.WpdiscuzHelperAjax.php:960
+msgid "Subscription - all comments"
+msgstr "Abonnement - Tous les commentaires"
+
+#: utils/class.WpdiscuzHelperAjax.php:959
+msgid "Subscription - posts"
+msgstr "Abonnement - Publications"
+
+#: utils/class.WpdiscuzHelperAjax.php:958
+msgid "Subscribers"
+msgstr "Abonnés"
+
+#: utils/class.WpdiscuzHelperAjax.php:845
+msgid "Read More"
+msgstr "Lire plus"
+
+#: utils/deactivation-reason-modal.php:34
+#: utils/deactivation-reason-modal.php:56
+#: utils/deactivation-reason-modal.php:74
+#: utils/deactivation-reason-modal.php:92
+#: utils/deactivation-reason-modal.php:110
+#: utils/deactivation-reason-modal.php:128
+#: utils/deactivation-reason-modal.php:146
+msgid "email for feedback"
+msgstr "email pour les commentaires"
+
+#: utils/deactivation-reason-modal.php:29
+#: utils/deactivation-reason-modal.php:51
+#: utils/deactivation-reason-modal.php:69
+#: utils/deactivation-reason-modal.php:87
+#: utils/deactivation-reason-modal.php:105
+#: utils/deactivation-reason-modal.php:123
+#: utils/deactivation-reason-modal.php:141
+msgid "I agree to receive email"
+msgstr "J'accepte de recevoir un e-mail"
+
+#: utils/class.WpdiscuzHelper.php:1308
+msgid "Reset Fields Ratings"
+msgstr "Réinitialiser les notes des champs"
+
+#: utils/class.WpdiscuzHelper.php:1271 utils/class.WpdiscuzHelper.php:1310
+msgid "Done"
+msgstr "Terminé"
+
+#: utils/class.WpdiscuzHelper.php:1270 utils/class.WpdiscuzHelper.php:1309
+msgid "Working..."
+msgstr "En cours..."
+
+#: utils/class.WpdiscuzHelper.php:1269
+msgid "Reset Post Rating"
+msgstr "Réinitialiser la note de la publication"
+
+#: utils/class.WpdiscuzHelper.php:1229
+msgid "Reset Ratings"
+msgstr "Réinitialiser les évaluations"
+
+#: utils/class.WpdiscuzHelperUpload.php:823
+msgid "Attached Images"
+msgstr "Images jointes"
+
+#. Author of the plugin
+msgid "gVectors Team"
+msgstr "Equipe gVectors"
+
+#. Description of the plugin
+msgid "#1 WordPress Comment Plugin. Innovative, modern and feature-rich comment system to supercharge your website comment section."
+msgstr "Plugin WordPress de Commentaires #1. Système de commentaires innovant, moderne et riche en fonctionnalités pour agrémenter la section commentaires de votre site Web."
+
+#: class.WpdiscuzCore.php:1791 options/phrases-layouts/phrases-comment.php:60
+msgid "Editor"
+msgstr "Éditeur"
+
+#: options/class.WpdiscuzOptions.php:533
+msgid "Hi [FOLLOWER_NAME],<br/><br/> new comment has been posted by the <em><strong>[COMMENT_AUTHOR]</em></strong> you are following<br/><br/><a href=\"[COMMENT_URL]\">[COMMENT_URL]</a><br/><br/>[COMMENT_CONTENT]<br/><br/><a href=\"[CANCEL_URL]\">"
+msgstr "Bonjour [SUBSCRIBER_NAME],<br/><br/>un nouveau commentaire a été publiée par <em><strong> [COMMENT_AUTHOR] </em></strong> dans la discussion qui vous intéresse <br/><br/><a href='[COMMENT_URL]'> [COMMENT_URL]</a><br/><br/>[COMMENT_CONTENT]<br/><br/><a href='[UNSUBSCRIBE_URL]'>Se désabonner</a>"
+
+#: options/class.WpdiscuzOptions.php:531
+msgid "Hi, <br/> You just started following a new user. You'll get email notification once new comment is posted by this user. <br/> Please click on \"user following confirmation\" link to confirm your request. If you believe this is an error, ignore this message and we'll never bother you again. <br/><br/><a href=\"[POST_URL]\">[POST_TITLE]</a><br/><br/><a href=\"[CONFIRM_URL]\">"
+msgstr "Bonjour, <br/> Vous venez de commencer à suivre un nouvel utilisateur. Vous recevrez une notification par mail dès qu'un nouveau commentaire sera publié par cet utilisateur. <br/> Merci de cliquer sur le lien de \"confirmation de suivi de l'utilisateur\" afin de confirmer votre demande. Si vous pensez qu'il s'agit d'une erreur, il vous suffit d'ignorer ce message. <br/> <br/><a href=\"[POST_URL]\">[POST_TITLE]</a><br/><br/><a href=\"[CONFIRM_URL]\">"
+
+#: options/class.WpdiscuzOptions.php:531
+msgid "Confirm Follow"
+msgstr "Confirmer le Suivi"
+
+#: options/class.WpdiscuzOptions.php:3332
+msgid "Highlight Unread Comments"
+msgstr "Surligner les commentaires non lus"
+
+#: options/class.WpdiscuzOptions.php:3991
+msgid "By disabling this option you're automatically enabling wpDiscuz custom AJAX functions, which are many times faster that the default WordPress functions. Just make sure it doesn't conflict with your plugins."
+msgstr "En désactivant cette option, vous activez automatiquement les fonctions AJAX personnalisées de wpDiscuz qui sont bien plus rapides que les fonctions WordPress par défaut. Assurez-vous simplement que cela n’entre pas en conflit avec vos extensions."
+
+#: options/class.WpdiscuzOptions.php:3989
+msgid "Use WordPress native AJAX functions"
+msgstr "Utiliser les fonctions AJAX natives de WordPress"
+
+#: options/html-addons.php:58
+msgid "More Info &raquo;"
+msgstr "Plus d’infos &raquo;"
+
+#: options/html-addons.php:79
+msgid "wpDiscuz Addons Bundle"
+msgstr "Paquet de modules wpDiscuz"
+
+#: options/html-addons.php:79
+msgid "View wpDiscuz Addons Bundle"
+msgstr "Voir le paquet de modules wpDiscuz"
+
+#: options/class.WpdiscuzAddons.php:57
+msgid "All 16 addons in one bundle. Save 90% and get Unlimited Site License with one year premium support."
+msgstr "Tous les 16 modules dans un paquet. Économisez 90% et obtenez une licence illimitée avec un support premium d’un an."
+
+#: options/class.WpdiscuzOptions.php:425 options/class.WpdiscuzOptions.php:1063
+msgid "Hi, <br/> You just subscribed for new comments on our website. This means you will receive an email when new comments are posted according to subscription option you've chosen. <br/> To activate, click confirm below. If you believe this is an error, ignore this message and we'll never bother you again. <br/><br/><a href='[POST_URL]'>[POST_TITLE]</a><br/><br/><a href='[CONFIRM_URL]'>Confirm Your Subscription</a><br/><br/><a href='[CANCEL_URL]'>Cancel Subscription</a>"
+msgstr "Salut <br/> Vous venez de vous abonner pour de nouveaux commentaires sur notre site. Cela signifie que vous recevrez un e-mail lorsque de nouveaux commentaires sont affichés selon l’option d’abonnement que vous avez choisie. <br/> Pour activer, cliquez sur confirmer ci-dessous. Si vous croyez qu’il s’agit d’une erreur, ignorez ce message et nous ne vous dérangerons plus jamais. <br/><br/><a href='[POST_URL]'>[POST_TITLE]</a><br/><br/><a href='[CONFIRM_URL]'>Confirmez votre abonnement</a><br/><br/><a href='[CANCEL_URL]'>Annuler l’abonnement</a>"
+
+#: options/class.WpdiscuzOptions.php:412 options/class.WpdiscuzOptions.php:414
+#: options/class.WpdiscuzOptions.php:1059
+#: options/class.WpdiscuzOptions.php:1061
+msgid "Hi [SUBSCRIBER_NAME],<br/><br/> new reply has been posted by the <em><strong>[COMMENT_AUTHOR]</em></strong> on the discussion section you've been interested in<br/><br/><a href='[COMMENT_URL]'>[COMMENT_URL]</a><br/><br/>[COMMENT_CONTENT]<br/><br/><a href='[UNSUBSCRIBE_URL]'>Unsubscribe</a>"
+msgstr "Bonjour [SUBSCRIBER_NAME],<br/><br/>une nouvelle réponse a été publiée par <em><strong> [COMMENT_AUTHOR] </em></strong> dans la discussion qui vous intéresse <br/><br/><a href='[COMMENT_URL]'> [COMMENT_URL]</a><br/><br/>[COMMENT_CONTENT]<br/><br/><a href='[UNSUBSCRIBE_URL]'>Se désabonner</a>"
+
+#: options/class.WpdiscuzOptions.php:410 options/class.WpdiscuzOptions.php:1057
+msgid "Hi [SUBSCRIBER_NAME],<br/><br/> new comment has been posted by the <em><strong>[COMMENT_AUTHOR]</em></strong> on the discussion section you've been interested in<br/><br/><a href='[COMMENT_URL]'>[COMMENT_URL]</a><br/><br/>[COMMENT_CONTENT]<br/><br/><a href='[UNSUBSCRIBE_URL]'>Unsubscribe</a>"
+msgstr "Bonjour [SUBSCRIBER_NAME],<br/><br/>un nouveau commentaire a été publiée par <em><strong> [COMMENT_AUTHOR] </em></strong> dans la discussion qui vous intéresse <br/><br/><a href='[COMMENT_URL]'> [COMMENT_URL]</a><br/><br/>[COMMENT_CONTENT]<br/><br/><a href='[UNSUBSCRIBE_URL]'>Se désabonner</a>"
+
+#: options/class.WpdiscuzOptions.php:2671
+msgid "Enable drop animation for comment form and subscription bar"
+msgstr "Activer l’animation de dépôt pour le formulaire de commentaire et la barre d’abonnement"
+
+#: options/class.WpdiscuzOptions.php:3760
+msgid "Close Button - Close a comment thread"
+msgstr "Bouton fermer - Ferme un fil de commentaire"
+
+#: options/class.WpdiscuzOptions.php:3753
+msgid "Stick Button - Stick a comment thread"
+msgstr "Bouton épingler - Épingler un fil de commentaire"
+
+#: options/class.WpdiscuzOptions.php:3732
+msgid "Edit Button - Allow comment editing for"
+msgstr "Bouton modifier - Autoriser l’édition de commentaires pour"
+
+#: options/class.WpdiscuzOptions.php:515
+#: options/phrases-layouts/phrases-user-settings.php:162
+msgid "Cancel this follow"
+msgstr "Annuler ce suivi"
+
+#: options/class.WpdiscuzOptions.php:564
+#: options/phrases-layouts/phrases-general.php:135
+msgid "Follow has been canceled successfully"
+msgstr "Le suivi a bien été annulé"
+
+#: options/class.WpdiscuzOptions.php:563
+#: options/phrases-layouts/phrases-general.php:131
+msgid "Follow has been confirmed successfully"
+msgstr "Le suivi a bien été confirmé"
+
+#: options/class.WpdiscuzOptions.php:562
+#: options/phrases-layouts/phrases-general.php:127
+msgid "You cancel all your follows successfully"
+msgstr "Vous avez bien annulé tous vos suivis"
+
+#: options/phrases-layouts/phrases-user-settings.php:122
+msgid "Delete all follows email text"
+msgstr "Supprimer tout suivi texte d’e-mail"
+
+#: options/phrases-layouts/phrases-follow.php:95
+msgid "Follow email content"
+msgstr "Contenu de l’email de suivi utilisateur"
+
+#: options/phrases-layouts/phrases-follow.php:83
+msgid "Following email subject"
+msgstr "Objet de l’email de suivi utilisateur"
+
+#: options/phrases-layouts/phrases-follow.php:67
+msgid "Follow confirmation email content"
+msgstr "Suivre le contenu de l’e-mail de confirmation"
+
+#: options/phrases-layouts/phrases-follow.php:56
+msgid "Follow confirmation email subject"
+msgstr "Suivre l'objet de l’e-mail de confirmation"
+
+#: options/phrases-layouts/phrases-follow.php:51
+msgid "Cancel following link text"
+msgstr "Annuler le texte du lien suivant"
+
+#: options/phrases-layouts/phrases-follow.php:47
+msgid "Confirm following link text"
+msgstr "Texte du lien de confirmation du suivi utilisateur"
+
+#: options/phrases-layouts/phrases-follow.php:43
+msgid "We are sorry, following failed. Please try again later."
+msgstr "Nous sommes désolés, le suivi a échoué. Veuillez réessayer plus tard."
+
+#: options/phrases-layouts/phrases-follow.php:39
+msgid "We are sorry, following this user is impossible"
+msgstr "Nous sommes désolés, il est impossible de suivre cet utilisateur"
+
+#: options/phrases-layouts/phrases-follow.php:35
+msgid "Please login to follow users"
+msgstr "Veuillez vous connecter pour suivre les utilisateurs"
+
+#: options/phrases-layouts/phrases-follow.php:31
+msgid "Sorry, we couldn't send confirmation email"
+msgstr "Désolé, impossible d’envoyer l’email de confirmation"
+
+#: options/phrases-layouts/phrases-follow.php:27
+msgid "Please check your email and confirm the follow"
+msgstr "Veuillez vérifier vos e-mails et confirmer le suivi"
+
+#: options/phrases-layouts/phrases-follow.php:23
+msgid "You stopped following this comment author"
+msgstr "Vous avez arrêté de suivre cet auteur de commentaires"
+
+#: options/phrases-layouts/phrases-follow.php:7
+msgid "Follow Users Phrases"
+msgstr "Phrases de suivi des utilisateurs"
+
+#: options/phrases-layouts/phrases-comment.php:115
+msgid "Close button title"
+msgstr "Titre du bouton Fermer"
+
+#: options/phrases-layouts/phrases-comment.php:99
+msgid "Stick button title"
+msgstr "Titre du bouton épingler"
+
+#: options/class.WpdiscuzOptions.php:3579
+msgid "Follow users without email confirmation"
+msgstr "Suivre les utilisateurs sans confirmation par e-mail"
+
+#: options/class.WpdiscuzOptions.php:3572
+msgid "Enable User Following Feature"
+msgstr "Activer la fonction de suivi des utilisateurs"
+
+#: options/options-layouts/html-social.php:342
+#: options/options-layouts/html-social.php:399
+#: options/options-layouts/html-social.php:454
+#: options/options-layouts/html-social.php:510
+#: options/options-layouts/html-social.php:588
+#: options/options-layouts/html-social.php:644
+#: options/options-layouts/html-social.php:719
+#: options/options-layouts/html-social.php:776
+#: options/options-layouts/html-social.php:865
+#: options/options-layouts/html-social.php:921
+#: options/options-layouts/html-social.php:977
+#: options/options-layouts/html-social.php:1033
+msgid "Redirect URI"
+msgstr "URI de redirection"
+
+#: options/class.WpdiscuzOptions.php:2879
+msgid "If you enable this option, please make sure you've inserted the Valid OAuth Redirect URI in according field when you create Facebook Login App. Your website OAuth Redirect URI is displayed above."
+msgstr "Si vous activez cette option, assurez-vous d’avoir inséré l’URI de redirection OAuth valide dans le champ correspondant lorsque vous créez l’application de connexion Facebook. Votre site Web OAuth Redirect URI est affiché ci-dessus."
+
+#: options/class.WpdiscuzOptions.php:2877
+msgid "Use Facebook OAuth2"
+msgstr "Utiliser Facebook OAuth2"
+
+#: options/options-layouts/html-social.php:113
+msgid "Valid OAuth Redirect URI"
+msgstr "URI de redirection OAuth valide"
+
+#: options/html-phrases.php:25
+msgid "Follow"
+msgstr "Suivre"
+
+#: options/class.WpdiscuzOptions.php:530 options/class.WpdiscuzOptions.php:1068
+msgid "User Following Confirmation"
+msgstr "Confirmation de suivi d’utilisateur"
+
+#: options/class.WpdiscuzOptions.php:529
+msgid "Cancel user following request"
+msgstr "Annuler la demande de suivi utilisateur"
+
+#: options/class.WpdiscuzOptions.php:528
+msgid "Confirm user following request"
+msgstr "Confirmer la demande de suivi utilisateur"
+
+#: options/class.WpdiscuzOptions.php:527
+msgid "Following failed. Please try again later."
+msgstr "Le suivi a échoué. Veuillez réessayer plus tard."
+
+#: options/class.WpdiscuzOptions.php:526
+msgid "We are sorry, but you can't follow this user."
+msgstr "Nous sommes désolés, mais vous ne pouvez pas suivre cet utilisateur."
+
+#: options/class.WpdiscuzOptions.php:525
+msgid "Please login to follow users."
+msgstr "Veuillez vous connecter pour suivre les utilisateurs."
+
+#: options/class.WpdiscuzOptions.php:524
+msgid "Sorry, we couldn't send confirmation email."
+msgstr "Désolé, nous n’avons pas pu envoyer l’e-mail de confirmation."
+
+#: options/class.WpdiscuzOptions.php:523
+msgid "Please check your email and confirm the user following request."
+msgstr "Veuillez vérifier vos e-mail et confirmer la demande de l’utilisateur."
+
+#: options/class.WpdiscuzOptions.php:522
+msgid "You stopped following this comment author."
+msgstr "Vous avez cessé de suivre cet auteur de commentaire."
+
+#: options/class.WpdiscuzOptions.php:521
+#: options/phrases-layouts/phrases-follow.php:19
+msgid "You started following this comment author"
+msgstr "Vous avez commencé à suivre cet auteur de commentaires"
+
+#: options/class.WpdiscuzOptions.php:520
+#: options/phrases-layouts/phrases-follow.php:15
+msgid "Unfollow this user"
+msgstr "Ne plus suivre cet utilisateur"
+
+#: options/class.WpdiscuzOptions.php:519
+#: options/phrases-layouts/phrases-follow.php:11
+msgid "Follow this user"
+msgstr "Suivre cet utilisateur"
+
+#: options/class.WpdiscuzOptions.php:518
+#: options/phrases-layouts/phrases-user-settings.php:174
+msgid "Are you sure you want to cancel this follow?"
+msgstr "Confirmez-vous vouloir annuler ce suivi ?"
+
+#: options/class.WpdiscuzOptions.php:507
+msgid "Please use this link to cancel all follows for new comments. Please note, that this action cannot be undone.<br/><br/><a href=\"[DELETE_FOLLOWS_URL]\" target=\"_blank\">Delete all my follows</a><br/><br/>"
+msgstr "Veuillez utiliser ce lien pour annuler le suivi des nouveaux commentaires. Veuillez noter que cette action ne peut être annulée.<br/><br/><a href=\"[DELETE_FOLLOWS_URL]\" target=\"_blank\">Supprimer tous mes suivis</a><br/><br/>"
+
+#: options/class.WpdiscuzOptions.php:506
+#: options/phrases-layouts/phrases-user-settings.php:110
+msgid "Delete all my follows"
+msgstr "Supprimer tous mes suivis"
+
+#: options/class.WpdiscuzOptions.php:505
+msgid "Please use this link to cancel all subscriptions for new comments. Please note, that this action cannot be undone.<br/><br/><a href=\"[DELETE_SUBSCRIPTIONS_URL]\" target=\"_blank\">Delete all my subscriptions</a><br/><br/>"
+msgstr "Veuillez utiliser ce lien pour annuler tous les abonnements aux nouveaux commentaires. Veuillez noter que cette action ne peut pas être annulée.<br/><br/><a href=\"[DELETE_SUBSCRIPTIONS_URL]\" target=\"_blank\">Supprimer tous mes abonnements</a><br/><br/>"
+
+#: options/class.WpdiscuzOptions.php:503
+msgid "Please use this link to delete all your comments. Please note, that this action cannot be undone.<br/><br/><a href=\"[DELETE_COMMENTS_URL]\" target=\"_blank\">Delete all my comments</a><br/><br/>"
+msgstr "Veuillez utiliser ce lien pour supprimer tous vos commentaires. Veuillez noter que cette action ne peut être annulée.<br/><br/><a href=\"[DELETE_COMMENTS_URL]\" target=\"_blank\">Supprimer tous mes commentaires</a>.<br/><br/>"
+
+#: options/class.WpdiscuzOptions.php:493
+#: options/phrases-layouts/phrases-user-settings.php:23
+msgid "Follows"
+msgstr "Suivis"
+
+#: options/class.WpdiscuzOptions.php:482
+msgid "Close this thread"
+msgstr "Fermer ce fil"
+
+#: options/class.WpdiscuzOptions.php:478
+msgid "Stick this comment"
+msgstr "Épingler ce commentaire"
+
+#: forms/wpdFormAttr/Tools/PersonalDataExporter.php:36
+msgid "wpDiscuz Fields Data"
+msgstr "Données des champs wpDiscuz"
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:198
+msgid "Facebook authentication failed (OAuth code does not exist)."
+msgstr "L’authentification Facebook a échoué (le code OAuth n’existe pas)."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:195
+msgid "Facebook authentication failed (OAuth state does not exist)."
+msgstr "L’authentification Facebook a échoué (l’état OAuth n’existe pas)."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:168
+msgid "Facebook Application ID and Application Secret  required."
+msgstr "Identifiant d’application Facebook et la clé secrète sont obligatoires."
+
+#: forms/wpdFormAttr/Form.php:1207
+msgid "Comment Subscription Bar agreement checkbox label"
+msgstr "Libellé de la case à cocher de la barre d’accord d’abonnement aux commentaires"
+
+#: forms/wpdFormAttr/Form.php:1185
+msgid "Display agreement checkbox in comment Subscription Bar"
+msgstr "Afficher la case à cocher d’accord dans la barre d’abonnement aux commentaires"
+
+#: forms/wpdFormAttr/Form.php:1067 forms/wpdFormAttr/Form.php:1095
+#: forms/wpdFormAttr/Form.php:1115 forms/wpdFormAttr/Form.php:1179
+#: forms/wpdFormAttr/Form.php:1201 forms/wpdFormAttr/Form.php:1229
+#: forms/wpdFormAttr/Form.php:1246 forms/wpdFormAttr/Form.php:1281
+#: forms/wpdFormAttr/Form.php:1297 forms/wpdFormAttr/Form.php:1359
+#: forms/wpdFormAttr/Form.php:1385 forms/wpdFormAttr/Form.php:1421
+#: forms/wpdFormAttr/Form.php:1431 options/options-layouts/html-content.php:13
+#: options/options-layouts/html-form.php:13
+#: options/options-layouts/html-inline.php:21
+#: options/options-layouts/html-labels.php:13
+#: options/options-layouts/html-live.php:15
+#: options/options-layouts/html-login.php:13
+#: options/options-layouts/html-moderation.php:13
+#: options/options-layouts/html-rating.php:13
+#: options/options-layouts/html-recaptcha.php:14
+#: options/options-layouts/html-social.php:13
+#: options/options-layouts/html-subscription.php:13
+#: options/options-layouts/html-thread_display.php:13
+#: options/options-layouts/html-thread_layouts.php:32
+#: options/options-layouts/html-thread_styles.php:13
+msgid "Read the documentation"
+msgstr "Lire la documentation"
+
+#: forms/wpdFormAttr/Form.php:215 forms/wpdFormAttr/Form.php:611
+#: forms/wpdFormAttr/Form.php:1210
+msgid "I allow to use my email address and send notification about new comments and replies (you can unsubscribe at any time)."
+msgstr "J’autorise l’utilisation de mon adresse e-mail et l’envoi d’une notification à propos des nouveaux commentaires et réponses (vous pouvez vous désabonner à tout moment)."
+
+#: forms/wpdFormAttr/Field/HTMLField.php:17
+msgid "HTML Code"
+msgstr "Code HTML"
+
+#: options/class.WpdiscuzOptions.php:550
+msgid "We are sorry, you are not allowed to reply more than %d time(s)!"
+msgstr "Nous sommes désolés, vous n’êtes pas autorisé à répondre plus de %d fois !"
+
+#: options/phrases-layouts/phrases-user-settings.php:35
+msgid "\"Bulk management via email\" description"
+msgstr "Description « Gestion de masse par e-mail »"
+
+#: forms/wpdFormAttr/Field/CookiesConsent.php:95
+msgid "Save my data for the next time I comment"
+msgstr "Enregistrer mes données pour la prochaine fois que je commente"
+
+#: options/class.WpdiscuzOptions.php:514
+#: options/phrases-layouts/phrases-user-settings.php:158
+msgid "Cancel this subscription"
+msgstr "Annuler cet abonnement"
+
+#: utils/layouts/pagination.php:50
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: utils/layouts/pagination.php:28
+msgid "&lsaquo;"
+msgstr "&lsaquo;"
+
+#: utils/layouts/pagination.php:23
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: options/class.WpdiscuzOptions.php:513
+#: options/phrases-layouts/phrases-user-settings.php:154
+msgid "Delete this comment"
+msgstr "Supprimer ce commentaire"
+
+#: options/class.WpdiscuzOptions.php:496
+msgid "Click the button above to get an email with bulk delete and unsubscribe links."
+msgstr "Cliquez sur le bouton ci-dessus pour recevoir un e-mail contenant des liens de suppression et de désabonnement en masse."
+
+#: options/class.WpdiscuzOptions.php:446
+#: options/phrases-layouts/phrases-notification.php:33
+msgid "Please %s to comment"
+msgstr "Veuillez %s pour commenter"
+
+#: options/class.WpdiscuzOptions.php:445
+#: options/phrases-layouts/phrases-notification.php:29
+msgid "Login"
+msgstr "Connexion"
+
+#: options/class.WpdiscuzOptions.php:561
+#: options/phrases-layouts/phrases-general.php:123
+msgid "You cancel all your subscriptions successfully"
+msgstr "Vous avez bien annulé tous vos abonnements"
+
+#: options/class.WpdiscuzOptions.php:560
+#: options/phrases-layouts/phrases-general.php:119
+msgid "Your comments have been deleted from database"
+msgstr "Vos commentaires ont été supprimés de la base de données"
+
+#: options/phrases-layouts/phrases-user-settings.php:97
+msgid "Delete all subscriptions email text"
+msgstr "Supprimer tous les abonnements par e-mail"
+
+#: options/phrases-layouts/phrases-user-settings.php:72
+msgid "Delete all comments email text"
+msgstr "Supprimer tous les commentaires par e-mail"
+
+#: options/phrases-layouts/phrases-user-settings.php:7
+msgid "User Settings Phrases"
+msgstr "Phrases des réglages utilisateur"
+
+#: options/phrases-layouts/phrases-social-login.php:19
+msgid "Social login agreement  description"
+msgstr "Description de l’accord de connexion aux Réseaux Sociaux"
+
+#: options/phrases-layouts/phrases-social-login.php:15
+msgid "Social login agreement label"
+msgstr "Libellé d’accord de connexion sociale"
+
+#: options/phrases-layouts/phrases-email.php:88
+msgid "Subscription type: Single comment"
+msgstr "Type d’abonnement : commentaire unique"
+
+#: options/phrases-layouts/phrases-email.php:68
+#: options/phrases-layouts/phrases-email.php:101
+msgid "New Reply notification content"
+msgstr "Contenu notification nouvelle réponse"
+
+#: options/phrases-layouts/phrases-email.php:56
+#: options/phrases-layouts/phrases-email.php:89
+msgid "New reply notification subject"
+msgstr "Objet notification nouvelle réponse"
+
+#: options/phrases-layouts/phrases-email.php:55
+msgid "Subscription type: All my comments"
+msgstr "Type d’abonnement : tous mes commentaires"
+
+#: options/phrases-layouts/phrases-email.php:43
+#: options/phrases-layouts/phrases-email.php:76
+msgid "Shortcode above will work for registered users only"
+msgstr "Le code abrégé ci-dessus fonctionnera uniquement pour les utilisateurs enregistrés"
+
+#: options/phrases-layouts/phrases-email.php:35
+msgid "Post comment notification content"
+msgstr "Contenu de la notification de commentaire"
+
+#: options/phrases-layouts/phrases-email.php:23
+msgid "Post comment notification subject"
+msgstr "Objet de la notification de commentaire"
+
+#: options/phrases-layouts/phrases-email.php:22
+msgid "Subscription type: Post comments"
+msgstr "Type d’abonnement : publier des commentaires"
+
+#: options/options-layouts/html-subscription.php:123
+msgid "Subscribe to all replies to my comments"
+msgstr "S’abonner à toutes les réponses à mes commentaires"
+
+#: options/options-layouts/html-subscription.php:118
+msgid "Subscribe to all comments of this post"
+msgstr "Abonnez-vous à tous les commentaires de cet article"
+
+#: options/class.WpdiscuzOptions.php:3715
+msgid "Comment Author Label Colors by User Role"
+msgstr "Couleur du libellé des commentateurs par rôle utilisateur"
+
+#: options/class.WpdiscuzOptions.php:3259
+msgid "Rating Star Colors"
+msgstr "Couleurs des étoiles d’évaluation"
+
+#: options/options-layouts/html-thread_styles.php:124
+msgid "Primary buttons background"
+msgstr "Arrière-plan des boutons principaux"
+
+#: options/options-layouts/html-thread_styles.php:120
+msgid "Primary buttons text"
+msgstr "Texte des boutons principaux"
+
+#: options/options-layouts/html-thread_styles.php:116
+msgid "Unread comments background"
+msgstr "Arrière-plan des commentaires non lus"
+
+#: options/class.WpdiscuzOptions.php:3457
+msgid "Comment Form and Comment List Style"
+msgstr "Formulaire de commentaire et style de liste de commentaires"
+
+#: options/options-layouts/html-social.php:838
+msgid "Application Key"
+msgstr "Clé d’application"
+
+#: options/options-layouts/html-social.php:775
+msgid "To get the Application ID, Key and Secret, you should create an app using one of the supported types (external, Android, iOS), use this"
+msgstr "Pour obtenir l’ID d’application, la clé et le secret, vous devez créer une application en utilisant un des types supportés (externe, Android, iOS), utilisez ceci"
+
+#: options/options-layouts/html-social.php:774
+msgid "Getting started with"
+msgstr "Commencer avec"
+
+#: options/options-layouts/html-social.php:385
+#: options/options-layouts/html-social.php:706
+msgid "Secure Key"
+msgstr "Clé sécurisée"
+
+#: options/options-layouts/html-social.php:179
+#: options/options-layouts/html-social.php:691
+#: options/options-layouts/html-social.php:823
+msgid "Application ID"
+msgstr "ID application"
+
+#: options/options-layouts/html-social.php:643
+msgid "To start using VK Login Button you should get Application ID and Secure Key. Please follow to this "
+msgstr "Pour commencer à utiliser le bouton de connexion VK, vous devez obtenir un ID d’application et une clé sécurisée. Veuillez suivre les instructions suivantes "
+
+#: options/options-layouts/html-social.php:312
+#: options/options-layouts/html-social.php:427
+#: options/options-layouts/html-social.php:538
+msgid "Client ID"
+msgstr "ID client"
+
+#: options/options-layouts/html-social.php:718
+msgid "To start using Mail.ru Login Button you should get Client ID and Client Secret. Please follow to this "
+msgstr "Pour commencer à utiliser le bouton de connexion de Mail.ru, vous devez obtenir le numéro d'identification du client et le secret du client. Veuillez suivre les instructions suivantes "
+
+#: options/options-layouts/html-social.php:270
+msgid "Consumer Secret (API Secret)"
+msgstr "Secret consommateur (API Secret)"
+
+#: options/options-layouts/html-social.php:255
+msgid "Consumer Key (API Key)"
+msgstr "Clé consommateur (API Key)"
+
+#: options/options-layouts/html-social.php:207
+msgid "To start using Twitter Login Button you should get Consumer Key and Secret for your website. Please follow to this"
+msgstr "Pour commencer à utiliser le bouton de connexion Twitter, vous devez obtenir la clé de consommateur et le secret de votre site Web. Veuillez suivre les instructions suivantes "
+
+#: options/options-layouts/html-social.php:194
+#: options/options-layouts/html-social.php:853
+msgid "Application Secret"
+msgstr "Secret d’application"
+
+#: options/class.WpdiscuzOptions.php:2933
+msgid "Google Login Button"
+msgstr "Bouton de connexion à Google"
+
+#: options/options-layouts/html-social.php:112
+#: options/options-layouts/html-social.php:207
+#: options/options-layouts/html-social.php:283
+#: options/options-layouts/html-social.php:341
+#: options/options-layouts/html-social.php:398
+#: options/options-layouts/html-social.php:453
+#: options/options-layouts/html-social.php:509
+#: options/options-layouts/html-social.php:587
+#: options/options-layouts/html-social.php:643
+#: options/options-layouts/html-social.php:718
+#: options/options-layouts/html-social.php:775
+#: options/options-layouts/html-social.php:864
+#: options/options-layouts/html-social.php:920
+#: options/options-layouts/html-social.php:976
+#: options/options-layouts/html-social.php:1032
+msgid "instruction &raquo;"
+msgstr "instruction &raquo;"
+
+#: options/options-layouts/html-social.php:112
+msgid "To start using Facebook Login and Share Buttons you should get Facebook Application Key and Secret for your website. Please follow to this"
+msgstr "Pour commencer à utiliser les boutons de connexion et de partage de Facebook, vous devez obtenir la clé d’application et le secret d’application Facebook pour votre site Web. Veuillez suivre les instructions suivantes "
+
+#: options/class.WpdiscuzOptions.php:2842
+msgid "Display social login buttons on reply forms"
+msgstr "Afficher les boutons de connexion aux Réseaux Sociaux sur les formulaires de réponse"
+
+#: options/class.WpdiscuzOptions.php:2837
+msgid "The note text and the label of this checkbox can be managed in Comments > Phrases > Social Login tab."
+msgstr "La note et le libellé de cette case à cocher peuvent être gérés dans l’onglet Commentaires > Phrases > Connexion Réseaux Sociaux."
+
+#: options/class.WpdiscuzOptions.php:2837
+msgid "If this option is enabled, all Social Login buttons become not-clickable until user accept automatic account creation process based on his/her Social Network Account shared information (email, name). This checkbox and appropriate information will be displayed when user click on a social login button, prior to the login process. This extra step is added to comply with the GDPR"
+msgstr "Si cette option est activée, tous les boutons de connexion aux réseaux sociaux deviennent cliquables tant que l’utilisateur n’a pas accepté le processus de création automatique de compte sur la base des informations partagées de son compte de réseaux sociaux (email, nom). Cette case à cocher et les informations appropriées seront affichées lorsque l’utilisateur cliquera sur un bouton et avant le processus de connexion. Cette étape supplémentaire est ajoutée pour se conformer au RGPD"
+
+#: options/class.WpdiscuzOptions.php:2835
+msgid "User agreement prior to a social login action"
+msgstr "Accord utilisateur préalable à la connexion via un réseau social"
+
+#: options/class.WpdiscuzOptions.php:2790
+msgid "\"My Content and Settings\" button"
+msgstr "Masquer le bouton « Mon contenu et mes réglages »"
+
+#: options/html-phrases.php:75
+msgid "Reset Phrases"
+msgstr "Réinitialiser les phrases"
+
+#: options/html-phrases.php:27
+msgid "User Settings"
+msgstr "Réglages utilisateur"
+
+#: options/class.WpdiscuzOptions.php:2827
+msgid "Social Login and Share"
+msgstr "Connexion réseaux sociaux &amp; partage"
+
+#: options/class.WpdiscuzOptions.php:517
+#: options/phrases-layouts/phrases-user-settings.php:170
+msgid "Are you sure you want to cancel this subscription?"
+msgstr "Êtes-vous sûr de vouloir annuler cet abonnement ?"
+
+#: options/class.WpdiscuzOptions.php:516
+#: options/phrases-layouts/phrases-user-settings.php:166
+msgid "Are you sure you want to delete this comment?"
+msgstr "Êtes-vous sûr de vouloir supprimer ce commentaire ?"
+
+#: options/class.WpdiscuzOptions.php:512
+#: options/phrases-layouts/phrases-user-settings.php:150
+msgid "Error : Can't send email."
+msgstr "Erreur : impossible d’envoyer un e-mail."
+
+#: options/class.WpdiscuzOptions.php:511
+#: options/phrases-layouts/phrases-user-settings.php:146
+msgid "Please check your email."
+msgstr "Veuillez consulter vos e-mails."
+
+#: options/class.WpdiscuzOptions.php:510
+#: options/phrases-layouts/phrases-user-settings.php:142
+msgid "subscribed to all follow-up comments of this post"
+msgstr "abonné à tous les commentaires de suivi de ce article"
+
+#: options/class.WpdiscuzOptions.php:509
+#: options/phrases-layouts/phrases-user-settings.php:138
+msgid "subscribed to my comments"
+msgstr "abonné à mes commentaires"
+
+#: options/class.WpdiscuzOptions.php:508
+#: options/phrases-layouts/phrases-user-settings.php:134
+msgid "subscribed to this comment"
+msgstr "abonné à ce commentaire"
+
+#: options/class.WpdiscuzOptions.php:504
+#: options/phrases-layouts/phrases-user-settings.php:85
+msgid "Delete all my subscriptions"
+msgstr "Supprimer tous mes abonnements"
+
+#: options/class.WpdiscuzOptions.php:500
+#: options/phrases-layouts/phrases-user-settings.php:51
+msgid "Clear cookies with my personal data"
+msgstr "Effacer les cookies avec mes données personnelles"
+
+#: options/class.WpdiscuzOptions.php:499
+#: options/phrases-layouts/phrases-user-settings.php:47
+msgid "Cancel all comment subscriptions"
+msgstr "Annuler tous les abonnements aux commentaires"
+
+#: options/class.WpdiscuzOptions.php:498 options/class.WpdiscuzOptions.php:502
+#: options/phrases-layouts/phrases-user-settings.php:43
+#: options/phrases-layouts/phrases-user-settings.php:60
+msgid "Delete all my comments"
+msgstr "Supprimer tous mes commentaires"
+
+#: options/class.WpdiscuzOptions.php:497
+#: options/phrases-layouts/phrases-user-settings.php:39
+msgid "No data found!"
+msgstr "Aucune donnée disponible !"
+
+#: options/class.WpdiscuzOptions.php:495 options/class.WpdiscuzOptions.php:501
+#: options/phrases-layouts/phrases-user-settings.php:31
+#: options/phrases-layouts/phrases-user-settings.php:55
+msgid "Bulk management via email"
+msgstr "Gestion en masse par e-mail"
+
+#: options/class.WpdiscuzOptions.php:494
+#: options/phrases-layouts/phrases-user-settings.php:27
+msgid "In response to:"
+msgstr "En réponse à :"
+
+#: options/class.WpdiscuzOptions.php:492 options/html-dashboard.php:201
+#: options/phrases-layouts/phrases-user-settings.php:19
+#: utils/class.WpdiscuzHelperAjax.php:1016
+msgid "Subscriptions"
+msgstr "Abonnements"
+
+#: options/class.WpdiscuzOptions.php:491
+#: options/phrases-layouts/phrases-user-settings.php:15
+msgid "Activity"
+msgstr "Activité"
+
+#: options/class.WpdiscuzOptions.php:490
+#: options/phrases-layouts/phrases-user-settings.php:11
+msgid "My content and settings"
+msgstr "Mon contenu et mes réglages"
+
+#: options/class.WpdiscuzOptions.php:489
+#: options/phrases-layouts/phrases-social-login.php:27
+msgid "Agree"
+msgstr "Approuver"
+
+#: options/class.WpdiscuzOptions.php:488
+#: options/phrases-layouts/phrases-social-login.php:23
+msgid "Disagree"
+msgstr "Désapprouver"
+
+#: options/class.WpdiscuzOptions.php:487
+msgid "When you login first time using a Social Login button, we collect your account public profile information shared by Social Login provider, based on your privacy settings. We also get your email address to automatically create an account for you in our website. Once your account is created, you'll be logged-in to this account."
+msgstr "Lorsque vous vous connectez pour la première fois à l’aide d’un bouton de connexion sociale, nous recueillons les informations de profil public de votre compte partagées par le fournisseur de connexion sociale, en fonction de vos réglages de confidentialité. Nous recevons également votre adresse e-mail pour créer automatiquement un compte pour vous sur notre site Web. Une fois votre compte créé, vous serez connecté à ce compte."
+
+#: options/class.WpdiscuzOptions.php:486
+msgid "I allow to create an account"
+msgstr "J’autorise à créer un compte"
+
+#: options/class.WpdiscuzOptions.php:475 options/class.WpdiscuzOptions.php:1064
+msgid "Your comment is approved!"
+msgstr "Votre commentaire est approuvé !"
+
+#: options/class.WpdiscuzOptions.php:424 options/class.WpdiscuzOptions.php:1062
+msgid "Subscription Confirmation"
+msgstr "Confirmation d’abonnement"
+
+#: options/class.WpdiscuzOptions.php:386
+#: options/phrases-layouts/phrases-form.php:23
+msgid "Hottest comment thread"
+msgstr "Fil de commentaire le plus chaud"
+
+#: options/class.WpdiscuzOptions.php:385
+#: options/phrases-layouts/phrases-form.php:19
+msgid "Most reacted comment"
+msgstr "Commentaire avec le plus de réactions"
+
+#: utils/class.WpdiscuzHelperAjax.php:962
+#: utils/class.WpdiscuzHelperAjax.php:1024
+msgid "Followers"
+msgstr "Abonnés"
+
+#: options/html-dashboard.php:135
+msgid "Thread Replies"
+msgstr "Réponses du fil"
+
+#: options/html-dashboard.php:131
+msgid "Comment Threads"
+msgstr "Fils de commentaires"
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:803
+msgid "OK Application ID, Application Key  and Application Secret  required."
+msgstr "OK ID d’application, clé d’application et secret d’application obligatoires."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:724
+msgid "VK Client ID and Client Secret  required."
+msgstr "Le Client ID et le Client Secret de QQ sont requis."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:714
+msgid "Twitter connection failed."
+msgstr "La connexion Twitter a échoué."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:699
+msgid "Twitter authentication failed (OAuth secret does not exist)."
+msgstr "L’authentification Twitter a échoué (le secret OAuth n’existe pas)."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:687
+msgid "Twitter Consumer Key and Consumer Secret  required."
+msgstr "La Consumer Key et le Consumer Secret de Twitter sont requis."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:134
+msgid "Facebook App Secret is required."
+msgstr "Facebook Secret App est nécessaire."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:130
+msgid "Facebook access token or user ID invalid."
+msgstr "Jeton d’accès ou ID d’utilisateur de Facebook invalide."
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:45
+msgid "Authentication failed."
+msgstr "Authentification échouée."
+
+#: forms/wpdFormAttr/Field/AgreementCheckbox.php:44
+msgid "Don't show again if the agreement is accepted once"
+msgstr "Ne plus afficher si l’accord est accepté une fois"
+
+#: forms/wpdFormAttr/Field/AgreementCheckbox.php:40
+#: forms/wpdFormAttr/Field/CheckboxField.php:49
+#: forms/wpdFormAttr/Field/ColorField.php:47
+#: forms/wpdFormAttr/Field/DateField.php:47
+#: forms/wpdFormAttr/Field/HTMLField.php:29
+#: forms/wpdFormAttr/Field/NumberField.php:57
+#: forms/wpdFormAttr/Field/RadioField.php:51
+#: forms/wpdFormAttr/Field/RatingField.php:47
+#: forms/wpdFormAttr/Field/SelectField.php:51
+#: forms/wpdFormAttr/Field/TextAreaField.php:40
+#: forms/wpdFormAttr/Field/TextField.php:47
+#: forms/wpdFormAttr/Field/UrlField.php:47
+msgid "Display for Registered Users"
+msgstr "Affichage pour les utilisateurs enregistrés"
+
+#: forms/wpdFormAttr/Field/AgreementCheckbox.php:36
+#: forms/wpdFormAttr/Field/CheckboxField.php:45
+#: forms/wpdFormAttr/Field/ColorField.php:43
+#: forms/wpdFormAttr/Field/DateField.php:43
+#: forms/wpdFormAttr/Field/HTMLField.php:25
+#: forms/wpdFormAttr/Field/NumberField.php:53
+#: forms/wpdFormAttr/Field/RadioField.php:47
+#: forms/wpdFormAttr/Field/RatingField.php:43
+#: forms/wpdFormAttr/Field/SelectField.php:47
+#: forms/wpdFormAttr/Field/TextAreaField.php:36
+#: forms/wpdFormAttr/Field/TextField.php:43
+#: forms/wpdFormAttr/Field/UrlField.php:43
+msgid "Display for Guests"
+msgstr "Affichage pour les invités"
+
+#: forms/wpdFormAttr/Field/AgreementCheckbox.php:22
+msgid "You can use HTML tags to add links to website Terms and Privacy Policy pages. For example: "
+msgstr "Vous pouvez utiliser des Balises HTML pour ajouter des liens vers les pages des termes du site Web et de politique de confidentialité. Par exemple :"
+
+#: forms/wpdFormAttr/Field/AgreementCheckbox.php:21
+#: forms/wpdFormAttr/Field/CookiesConsent.php:25
+msgid "Checkbox Label"
+msgstr "Libellé de case à cocher"
+
+#: class.WpdiscuzCore.php:1112
+msgid "Do you really want to reset phrases?"
+msgstr "Voulez-vous vraiment réinitialiser les phrases ?"
+
+#: options/tools-layouts/tool-options.php:36
+msgid "Import Options"
+msgstr "Options d’importation"
+
+#: options/tools-layouts/tool-options.php:28
+msgid "Here you can import and restore wpDiscuz options. You just need to choose backup file and click import options."
+msgstr "Ici vous pouvez importer et restaurer les options de wpDiscuz. Il vous suffit de choisir le fichier de sauvegarde et de cliquer sur les options d’importation."
+
+#: options/tools-layouts/tool-options.php:19
+msgid "Backup Options"
+msgstr "Options de sauvegarde"
+
+#: options/tools-layouts/tool-subscriptions.php:26
+#: options/tools-layouts/tool-subscriptions.php:42
+msgid "Import subscriptions"
+msgstr "Importer les abonnements"
+
+#: options/class.WpdiscuzOptions.php:1975
+#: options/class.WpdiscuzOptions.php:1993
+msgid "Error occured! Please choose file!"
+msgstr "Une erreur est survenue ! Veuillez choisir le fichier !"
+
+#: options/class.WpdiscuzOptions.php:1972
+#: options/class.WpdiscuzOptions.php:1990
+msgid "Error occured! Can not get file content!"
+msgstr "Une erreur est survenue ! Impossible d’obtenir le contenu du fichier !"
+
+#: options/class.WpdiscuzOptions.php:1969
+#: options/class.WpdiscuzOptions.php:1987
+msgid "Error occured! File content is empty or data is not valid!"
+msgstr "Une erreur est survenue ! Le contenu du fichier est vide ou les données sont invalides !"
+
+#: options/class.WpdiscuzOptions.php:1967
+msgid "Options Imported Successfully!"
+msgstr "Options bien importées !"
+
+#: options/options-layouts/html-subscription.php:248
+#: options/options-layouts/html-subscription.php:269
+#: options/options-layouts/html-subscription.php:307
+#: options/options-layouts/html-subscription.php:328
+#: options/options-layouts/html-subscription.php:366
+#: options/options-layouts/html-subscription.php:387
+#: options/options-layouts/html-subscription.php:425
+#: options/options-layouts/html-subscription.php:445
+#: options/options-layouts/html-subscription.php:491
+#: options/options-layouts/html-subscription.php:511
+#: options/options-layouts/html-subscription.php:557
+#: options/options-layouts/html-subscription.php:577
+#: options/options-layouts/html-subscription.php:623
+#: options/options-layouts/html-subscription.php:643
+#: options/options-layouts/html-subscription.php:677
+#: options/options-layouts/html-subscription.php:698
+#: options/phrases-layouts/phrases-email.php:24
+#: options/phrases-layouts/phrases-email.php:36
+#: options/phrases-layouts/phrases-email.php:57
+#: options/phrases-layouts/phrases-email.php:69
+#: options/phrases-layouts/phrases-email.php:90
+#: options/phrases-layouts/phrases-email.php:102
+#: options/phrases-layouts/phrases-email.php:121
+#: options/phrases-layouts/phrases-email.php:132
+#: options/phrases-layouts/phrases-email.php:148
+#: options/phrases-layouts/phrases-email.php:161
+#: options/phrases-layouts/phrases-email.php:200
+#: options/phrases-layouts/phrases-follow.php:57
+#: options/phrases-layouts/phrases-follow.php:68
+#: options/phrases-layouts/phrases-follow.php:84
+#: options/phrases-layouts/phrases-follow.php:96
+#: options/phrases-layouts/phrases-user-settings.php:61
+#: options/phrases-layouts/phrases-user-settings.php:73
+#: options/phrases-layouts/phrases-user-settings.php:86
+#: options/phrases-layouts/phrases-user-settings.php:98
+#: options/phrases-layouts/phrases-user-settings.php:111
+#: options/phrases-layouts/phrases-user-settings.php:123
+msgid "Available shortcodes"
+msgstr "Codes abrégés disponibles"
+
+#: options/class.WpdiscuzOptions.php:3318
+msgid "Reverse Child Comments Order"
+msgstr "Inverser l’ordre des commentaires enfants"
+
+#: options/class.WpdiscuzOptions.php:476
+msgid "Hi [COMMENT_AUTHOR],<br/><br/>your comment was approved.<br/><br/><a href=\"[COMMENT_URL]\">[COMMENT_URL]</a><br/><br/>[COMMENT_CONTENT]"
+msgstr "Bonjour [COMMENT_AUTHOR],<br/><br/>Votre commentaire a été approuvé.<br/><br/><a href=\"[COMMENT_URL]\">[COMMENT_URL]</a><br/><br/>[COMMENT_CONTENT]"
+
+#: utils/deactivation-reason-modal.php:119
+msgid "Please provide a plugin name or URL"
+msgstr "Veuillez fournir un nom d’extension ou une URL"
+
+#: utils/deactivation-reason-modal.php:101
+msgid "Could you please describe which features of the plugin slows down your website?"
+msgstr "Veuillez décrire quelles fonctionnalités de l’extension ralentissent votre site Web ?"
+
+#: utils/deactivation-reason-modal.php:83
+msgid "What part of design you don't like or want to change?"
+msgstr "Quelle partie du design n’aimez-vous pas ou voulez-vous changer?"
+
+#: utils/deactivation-reason-modal.php:47
+#: utils/deactivation-reason-modal.php:65
+msgid "What type of features you want to be in the plugin?"
+msgstr "Quel type de fonctionnalités voulez-vous dans l’extension ?"
+
+#: utils/deactivation-reason-modal.php:25
+msgid "What kind of problems do you have?"
+msgstr "Quel problèmes avez-vous ?"
+
+#: options/phrases-layouts/phrases-comment.php:127
+msgid "Closed comment icon title"
+msgstr "Titre de l’icône de commentaire fermé"
+
+#: options/class.WpdiscuzOptions.php:485
+msgid "Closed Comment Thread"
+msgstr "Fil de commentaire fermé"
+
+#: options/class.WpdiscuzOptions.php:484
+#: options/phrases-layouts/phrases-comment.php:123
+msgid "Open"
+msgstr "Ouvrir"
+
+#: options/class.WpdiscuzOptions.php:483 options/html-dashboard.php:34
+#: options/phrases-layouts/phrases-comment.php:119
+msgid "Close"
+msgstr "Fermer"
+
+#: class.WpdiscuzCore.php:1173 utils/deactivation-reason-modal.php:137
+msgid "Please provide more information"
+msgstr "Veuillez fournir plus d’information"
+
+#: options/class.WpdiscuzOptions.php:543
+#: options/phrases-layouts/phrases-general.php:51
+msgid "This is closed comment thread"
+msgstr "Ceci est un fil de commentaire fermé"
+
+#: options/phrases-layouts/phrases-form.php:51
+msgid "Notify on new replies to this comment"
+msgstr "Notifier lors de nouvelles réponses à ce commentaire"
+
+#: options/class.WpdiscuzOptions.php:541
+#: utils/deactivation-reason-modal.php:157
+msgid "Thank you for your feedback!"
+msgstr "Merci pour votre retour !"
+
+#: utils/deactivation-reason-modal.php:154
+msgid "Submit &amp; Deactivate"
+msgstr "Envoyer &amp; Désactiver"
+
+#: utils/deactivation-reason-modal.php:153
+msgid "Dismiss and never show again"
+msgstr "Ignorer et ne plus jamais afficher"
+
+#: utils/deactivation-reason-modal.php:135
+msgid "Other"
+msgstr "Autre"
+
+#: utils/deactivation-reason-modal.php:117
+msgid "I found a better plugin"
+msgstr "J’ai trouvé une meilleure extension"
+
+#: utils/deactivation-reason-modal.php:99
+msgid "The plugin works very slow"
+msgstr "L’extension est trop lente"
+
+#: utils/deactivation-reason-modal.php:81
+msgid "I didn't like plugin design"
+msgstr "Je n’ai pas aimé pas le design de l’extension"
+
+#: utils/deactivation-reason-modal.php:63
+msgid "The plugin is great, but I need specific features"
+msgstr "L’extension est super, mais j’ai besoin d’une fonctionnalité particulière"
+
+#: utils/deactivation-reason-modal.php:45
+msgid "I couldn't understand how to make it work"
+msgstr "Je ne comprends pas comment la faire fonctionner"
+
+#: utils/deactivation-reason-modal.php:41
+msgid "It's not what I was looking for"
+msgstr "Ce n’est pas ce que je cherchais"
+
+#: utils/deactivation-reason-modal.php:23
+msgid "The plugin is not working"
+msgstr "L’extension ne fonctionne pas"
+
+#: utils/deactivation-reason-modal.php:19
+msgid "I'll reactivate it later"
+msgstr "Je la réactiverai plus tard"
+
+#: utils/deactivation-reason-modal.php:13
+msgid "Please let us know why you are deactivating. Choosing one of the options below you will help us make it better for you and for other users."
+msgstr "Veuillez nous faire savoir pourquoi vous la désactivez. En choisissant l’une des options ci-dessous, vous nous aiderez à l’améliorer pour vous et pour les autres utilisateurs."
+
+#: utils/deactivation-reason-modal.php:10
+msgid "Plugin Usage Feedback"
+msgstr "Commentaires sur l’utilisation de l’extension"
+
+#: utils/class.WpdiscuzHelper.php:428
+msgid "Sticky"
+msgstr "Épinglé"
+
+#: options/class.WpdiscuzOptions.php:559
+#: options/phrases-layouts/phrases-general.php:115
+msgid "Subscription Fault"
+msgstr "Défaut d’abonnement"
+
+#: options/phrases-layouts/phrases-comment.php:111
+msgid "Sticky comment icon title"
+msgstr "Titre d’icône du commentaire épinglé"
+
+#: options/options-layouts/html-thread_styles.php:123
+msgid "Background Color"
+msgstr "Couleur arrière-plan"
+
+#: options/html-options.php:210 options/options-layouts/html-recaptcha.php:140
+#: options/options-layouts/html-thread_styles.php:28
+msgid "Dark"
+msgstr "Sombre"
+
+#: options/options-layouts/html-thread_styles.php:27
+msgid "Default"
+msgstr "Par défaut"
+
+#: options/class.WpdiscuzOptions.php:3306
+msgid "This option enables comment sorting buttons (newest | oldest | most voted). Sorting buttons are not available for the default comments pagination type [1][2][3]... It's only active for [Load more] and other AJAX pagination types."
+msgstr "Cette option active les boutons de tri des commentaires (le plus récent | le plus ancien | les plus votés). Les boutons de tri ne sont pas disponibles pour le type de pagination des commentaires par défaut [1] [2] [3] ... Actif uniquement pour [Charger plus] et les autres types de pagination AJAX."
+
+#: options/class.WpdiscuzOptions.php:2694
+msgid "Quicktag is a on-click button that inserts HTML in to comment textarea. For example the \"b\" Quicktag will insert the HTML bold tags < b > < /b >."
+msgstr "Quicktag est un bouton sur lequel vous insérez du code HTML dans la zone de texte du commentaire. Par exemple, la balise rapide « b » insère les balises HTML en gras <b> </b>."
+
+#: options/class.WpdiscuzOptions.php:3786
+msgid "Allows to set minimum and maximum number of chars can be inserted in comment textarea. Leave the max value empty to remove the limit."
+msgstr "Permet de définir le nombre minimum et maximum de caractères pouvant être insérés dans la zone texte de commentaire. Laissez la valeur maximale vide pour retirer la limite."
+
+#: options/class.WpdiscuzOptions.php:2642
+msgid "Comment Form Settings"
+msgstr "Réglages du formulaire de commentaire"
+
+#: options/class.WpdiscuzOptions.php:547
+#: options/phrases-layouts/phrases-general.php:67
+msgid "Comment Link"
+msgstr "Lien de commentaire"
+
+#: options/class.WpdiscuzOptions.php:481
+msgid "Sticky Comment Thread"
+msgstr "Fil de commentaire épinglé"
+
+#: options/class.WpdiscuzOptions.php:480
+#: options/phrases-layouts/phrases-comment.php:107
+msgid "Unstick"
+msgstr "Ne plus épingler"
+
+#: options/class.WpdiscuzOptions.php:479
+#: options/phrases-layouts/phrases-comment.php:103
+msgid "Stick"
+msgstr "Épingler"
+
+#: options/class.WpdiscuzOptions.php:389
+#: options/phrases-layouts/phrases-form.php:35
+msgid "Subscribe"
+msgstr "S’abonner"
+
+#: options/class.WpdiscuzAddons.php:192
+msgid "Allows to create private comment threads. Rich management options in dashboard by user roles."
+msgstr "Permet de créer des fils de commentaires privés. Options de gestion riches dans le tableau de bord par rôles d'utilisateur."
+
+#: options/addons/ucm/title.php:7
+msgid "Mentioning"
+msgstr "Citation"
+
+#: options/addons/more/title.php:6
+msgid "More Addons..."
+msgstr "Plus de modules..."
+
+#: options/addons/fem/title.php:7
+msgid "Frontend Moderation"
+msgstr "Page de modération"
+
+#: options/addons/cai/title.php:7 utils/class.WpdiscuzHelperAjax.php:1009
+msgid "Comment Author"
+msgstr "Auteur du commentaire"
+
+#: class.WpdiscuzCore.php:1172
+msgid "Please check one of reasons before sending feedback!"
+msgstr "Veuillez vérifier l'une des raisons avant d'envoyer un retour !"
+
+#: class.WpdiscuzCore.php:2480 class.WpdiscuzCore.php:2483
+#: class.WpdiscuzCore.php:2494
+msgid "Purge All Caches"
+msgstr "Purger tous les caches"
+
+#: class.WpdiscuzCore.php:246
+msgid "Every 48 hours"
+msgstr "Toutes les 48 heures"
+
+#: options/class.WpdiscuzOptions.php:408
+#: options/phrases-layouts/phrases-comment.php:47
+msgid "View Replies"
+msgstr "Voir les réponses"
+
+#: options/phrases-layouts/phrases-notification.php:70
+msgid "Message if commenting disabled by user role"
+msgstr "Message si commentaire désactivé par rôle d'utilisateur"
+
+#: options/options-layouts/html-thread_display.php:68
+msgid "Load all comments"
+msgstr "Charger tous les commentaires"
+
+#: options/class.WpdiscuzOptions.php:3285
+msgid "If this option is enabled only parent comments will be displayed. This increases page load speed and keeps pages light. If visitor wants to read replies he/she just need to click on [view replies (12)] button located on all parent comments which have replies."
+msgstr "Si cette option est activée, seul le commentaire parent sera affiché. Cela augmente la vitesse de chargement des pages et conserve leur légèreté. Si le visiteur veut lire les réponses, il lui suffit de cliquer sur le bouton [Voir les réponses (12)] situé sur tous les commentaires parents qui ont des réponses."
+
+#: options/class.WpdiscuzOptions.php:3283
+msgid "Display only parent comments and <u>view replies &or;</u> button"
+msgstr "Afficher uniquement les commentaires parent et le bouton « <u>Voir les réponses</u> »"
+
+#: options/class.WpdiscuzOptions.php:477
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: options/class.WpdiscuzAddons.php:183
+msgid "Real-time online user checking, pop-up notification of new online users and online/offline badges."
+msgstr "Vérification en temps réel des utilisateurs en ligne, notification contextuelle des nouveaux utilisateurs en ligne et des badges en ligne / hors ligne."
+
+#: forms/wpdFormAttr/Form.php:1073
+msgid "Disable commenting for roles"
+msgstr "Désactiver les commentaires pour les rôles"
+
+#: options/options-layouts/html-rating.php:57
+msgid "Display ratings on non-singular pages"
+msgstr "Afficher les évaluations sur les pages non singulières"
+
+#: forms/wpdFormAttr/Form.php:1517
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr "Uniquement les clients connectés ayant acheté ce produit peuvent laisser un avis."
+
+#: options/phrases-layouts/phrases-form.php:79
+msgid "Form subscription button"
+msgstr "Bouton formulaire d’abonnement"
+
+#: options/phrases-layouts/phrases-email.php:159
+msgid "Comment approved message"
+msgstr "Message du commentaire approuvé"
+
+#: options/phrases-layouts/phrases-email.php:147
+msgid "Comment approved subject"
+msgstr "Objet du commentaire approuvé"
+
+#: options/class.WpdiscuzOptions.php:3523
+msgid "Notify comment author once comment is approved"
+msgstr "Notifier l’auteur du commentaire une fois que le commentaire est approuvé"
+
+#: options/class.WpdiscuzOptions.php:474 utils/layouts/pagination.php:45
+msgid "&rsaquo;"
+msgstr "&rsaquo;"
+
+#: options/class.WpdiscuzOptions.php:1917
+msgid "Phrases updated"
+msgstr "Phrases mises à jour"
+
+#: options/class.WpdiscuzOptions.php:1910
+msgid "Settings updated"
+msgstr "Réglages mis à jour"
+
+#: class.WpdiscuzCore.php:1111
+msgid "Do you really want to remove voting data?"
+msgstr "Voulez-vous vraiment retirer les données de vote ?"
+
+#: class.WpdiscuzCore.php:1109
+msgid "Do you really want to reset all options?"
+msgstr "Voulez-vous vraiment réinitialiser toutes les options ?"
+
+#: options/options-layouts/html-rating.php:53
+msgid "After Content"
+msgstr "Après le contenu"
+
+#: options/options-layouts/html-rating.php:49
+msgid "Before Content"
+msgstr "Avant le contenu"
+
+#: options/class.WpdiscuzOptions.php:3252
+msgid "Display Ratings"
+msgstr "Afficher les évaluations"
+
+#: options/class.WpdiscuzAddons.php:165
+msgid "Extended information about comment author with Profile, Activity, Votes and Subscriptions Tabs on pop-up window."
+msgstr "Informations complémentaires sur l’auteur de commentaires avec les onglets Profil, Activité, Votes et Abonnements dans la fenêtre contextuelle."
+
+#: forms/wpdFormAttr/Field/CheckboxField.php:60
+#: forms/wpdFormAttr/Field/ColorField.php:58
+#: forms/wpdFormAttr/Field/DateField.php:58
+#: forms/wpdFormAttr/Field/NumberField.php:68
+#: forms/wpdFormAttr/Field/RadioField.php:62
+#: forms/wpdFormAttr/Field/RatingField.php:58
+#: forms/wpdFormAttr/Field/SelectField.php:62
+#: forms/wpdFormAttr/Field/TextAreaField.php:51
+#: forms/wpdFormAttr/Field/TextField.php:58
+#: forms/wpdFormAttr/Field/UrlField.php:58
+msgid "Replace old meta key"
+msgstr "Remplacer la veille clé méta"
+
+#: forms/wpdFormAttr/Field/CheckboxField.php:56
+#: forms/wpdFormAttr/Field/ColorField.php:54
+#: forms/wpdFormAttr/Field/DateField.php:54
+#: forms/wpdFormAttr/Field/NumberField.php:64
+#: forms/wpdFormAttr/Field/RadioField.php:58
+#: forms/wpdFormAttr/Field/RatingField.php:54
+#: forms/wpdFormAttr/Field/SelectField.php:58
+#: forms/wpdFormAttr/Field/TextAreaField.php:47
+#: forms/wpdFormAttr/Field/TextField.php:54
+#: forms/wpdFormAttr/Field/UrlField.php:54
+msgid "Meta Key"
+msgstr "Clé méta"
+
+#: forms/wpdFormAttr/Field/CheckboxField.php:53
+#: forms/wpdFormAttr/Field/ColorField.php:51
+#: forms/wpdFormAttr/Field/DateField.php:51
+#: forms/wpdFormAttr/Field/NumberField.php:61
+#: forms/wpdFormAttr/Field/RadioField.php:55
+#: forms/wpdFormAttr/Field/RatingField.php:51
+#: forms/wpdFormAttr/Field/SelectField.php:55
+#: forms/wpdFormAttr/Field/TextAreaField.php:44
+#: forms/wpdFormAttr/Field/TextField.php:51
+#: forms/wpdFormAttr/Field/UrlField.php:51
+msgid "Advanced Options"
+msgstr "Options avancées"
+
+#: forms/wpdFormAttr/Form.php:925 options/class.WpdiscuzOptions.php:567
+#: options/options-layouts/html-form.php:111
+#: options/phrases-layouts/phrases-general.php:147
+msgid "Spoiler"
+msgstr "Spoiler"
+
+#: options/options-layouts/html-general.php:97
+msgid "Ignore non-https content"
+msgstr "Ignorer le contenu non-https"
+
+#: options/options-layouts/html-general.php:92
+msgid "Just replace http protocols to https (https may not be supported by content provider)"
+msgstr "Remplacer juste les protocoles http par https (https peut ne pas être supporté par votre hébergeur/serveur)"
+
+#: options/options-layouts/html-general.php:87
+msgid "Replace non-https content to simple link URLs"
+msgstr "Remplacer le contenu non-https par des URL de lien simples"
+
+#: options/class.WpdiscuzOptions.php:4012
+msgid "This option detects images and other contents with non-https source URLs and fix according to your selected logic."
+msgstr "Cette option détecte les images et autres contenus avec des URL sources non-https et les corrige en fonction de la logique sélectionnée."
+
+#: options/class.WpdiscuzOptions.php:4010
+msgid "Secure comment content in HTTPS protocol."
+msgstr "Sécuriser le contenu des commentaires avec le protocole HTTPS."
+
+#: options/class.WpdiscuzOptions.php:2797
+msgid "Enable Profiles URL"
+msgstr "Active l’URL des profils"
+
+#: options/class.WpdiscuzAddons.php:201
+msgid "Total control over comment subscriptions. Full list, monitor, manage, filter, unsubscribe, confirm..."
+msgstr "Contrôle total sur les abonnements aux commentaires. Liste complète, surveiller, gérer, filtrer, vous désabonner, confirmer..."
+
+#: options/class.WpdiscuzOptions.php:3982
+msgid "Enable wpDiscuz on Home Page"
+msgstr "Activer wpDiscuz sur la page d’accueil"
+
+#: options/class.WpdiscuzAddons.php:436
+msgid "Advanced spam protection with wpDiscuz Google reCAPTCHA addon. This addon adds No-CAPTCHA reCAPTCHA on all comment forms. Stops spam and bot comments."
+msgstr "Protection contre les indésirables avancée avec le complément wpDiscuz Google reCAPTCHA. Ce module ajoute No-CAPTCHA reCAPTCHA sur tous les formulaires de commentaires. Stoppe les indésirables et les commentaires de robots."
+
+#: options/class.WpdiscuzAddons.php:435
+msgid "Google ReCaptcha"
+msgstr "ReCAPTCHA Google"
+
+#: options/class.WpdiscuzAddons.php:430
+msgid "You can let website visitors attach images and files to comments and embed video/audio content using wpDiscuz Media Uploader addon."
+msgstr "Vous pouvez permettre aux visiteurs du site Web de joindre des images et des fichiers aux commentaires et d’intégrer du contenu audio / vidéo à l’aide de l’outil de téléversement des médias de wpDiscuz."
+
+#: options/addons/mu/title.php:7 options/class.WpdiscuzAddons.php:429
+msgid "Media Uploader"
+msgstr "Outil de téléversement des médias"
+
+#: options/class.WpdiscuzAddons.php:424
+msgid "You can moderate comments on front-end using all in one powerful yet simple wpDiscuz Frontend Moderation addon."
+msgstr "Vous pouvez modérer les commentaires sur le portail en utilisant le module de modération tout-en-un puissant et simple de wpDiscuz."
+
+#: options/class.WpdiscuzAddons.php:423
+msgid "Front-end Moderation"
+msgstr "Portail de modération"
+
+#: options/class.WpdiscuzAddons.php:418
+msgid "More Comment Widgets! Most voted comments, Active comment threads, Most commented posts, Active comment authors widgets are available in wpDiscuz Widgets Addon"
+msgstr "Plus de Widgets de commentaires ! Les commentaires les plus votés, les commentaires actifs, les articles les plus commentés, les widgets auteurs de commentaires actifs sont disponibles dans le module wpDiscuz Widgets"
+
+#: options/class.WpdiscuzAddons.php:417
+msgid "wpDiscuz Widgets"
+msgstr "Widgets wpDiscuz"
+
+#: options/class.WpdiscuzAddons.php:412
+msgid "You can let website visitor search in comments. It's always more attractive to find a comment about something that interest you. Using wpDiscuz Comment Search addon you'll get a nice, AJAX powered front-end comment search form above comment list."
+msgstr "Vous pouvez laisser le visiteur du site Web rechercher dans les commentaires. Il est toujours plus intéressant de trouver un commentaire sur quelque chose qui vous intéresse. En utilisant le module de recherche de commentaire wpDiscuz, vous obtiendrez un joli formulaire de recherche de commentaires utilisant AJAX au-dessus de la liste de commentaires."
+
+#: options/class.WpdiscuzAddons.php:411
+msgid "Comment Search"
+msgstr "Recherche de commentaires"
+
+#: options/class.WpdiscuzAddons.php:406
+msgid "In most cases the big part of your visitors are not a native speakers of your language. Make your comments comprehensible for all visitors using wpDiscuz Comment Translation addon. It adds smart and intuitive AJAX 'Translate' button with 60 language translation options. Uses free translation API."
+msgstr "Dans la plupart des cas, la plupart de vos visiteurs ne sont pas des locuteurs natifs de votre langue. Rendez vos commentaires compréhensibles pour tous les visiteurs en utilisant le module de traduction de commentaire de wpDiscuz. Il ajoute un bouton AJAX « Traduire » intelligent et intuitif avec 60 options de traduction. Utilise une API de traduction gratuite."
+
+#: options/class.WpdiscuzAddons.php:405
+msgid "Comment Translate"
+msgstr "Traduction de commentaire"
+
+#: options/class.WpdiscuzAddons.php:400
+msgid "Let your commenters help you to determine and remove spam comments. wpDiscuz Report and Flagging addon comes with comment reporting tools. Automaticaly auto-moderates comments based on number of flags and dislikes."
+msgstr "Laissez vos commentateurs vous aider à déterminer et à retirer les commentaires indésirables. Le module wpDiscuz Report and Flagging est livré avec des outils de génération de commentaires. Modère automatiquement les commentaires en fonction du nombre de drapeaux et de « j’aime pas »."
+
+#: options/addons/raf/title.php:7 options/class.WpdiscuzAddons.php:399
+msgid "Report and Flagging"
+msgstr "Rapport et marquage"
+
+#: options/class.WpdiscuzAddons.php:394
+msgid "wpDiscuz Advanced Likers addon displays likers and voters of each comment. Adds user reputation and badges based on received likes."
+msgstr "Le module wpDiscuz Advanced Likers affiche les sympathisants et les votants de chaque commentaire. Ajoute la réputation de l’utilisateur et les badges en fonction des « j’aime » reçus."
+
+#: options/addons/al/title.php:7 options/class.WpdiscuzAddons.php:393
+msgid "Advanced Likers"
+msgstr "Fans avancés"
+
+#: options/class.WpdiscuzAddons.php:388
+msgid "Using wpDiscuz User &amp; Comment Mentioning addon you can allow commenters mention comments and users in comment text using #comment-id and @username tags."
+msgstr "En utilisant le module de wpDiscuz User &amp; Comment Mentioning, vous pouvez autoriser les commentateurs à mentionner des commentaires et des utilisateurs dans un texte de commentaire à l'aide des balises #id-commentaire et @identifiant."
+
+#: options/class.WpdiscuzAddons.php:387
+msgid "User and Comment Mentioning"
+msgstr "Mention d’utilisateur et de commentaire"
+
+#: options/class.WpdiscuzAddons.php:382
+msgid "Increase your income using ad banners. Comment area is the most active sections for advertising. wpDiscuz Ads Manager addon is designed to help you add banners and control ads in this section."
+msgstr "Augmentez vos revenus en utilisant des bannières publicitaires. La zone de commentaires est la section la plus active pour la publicité. Le module wpDiscuz Ads Manager est conçu pour vous aider à ajouter des bannières et à contrôler les publicités dans cette section."
+
+#: options/class.WpdiscuzAddons.php:381
+msgid "Ads Manager"
+msgstr "Gestionnaire de publicité"
+
+#: options/class.WpdiscuzAddons.php:376
+msgid "You can add more emotions to your comments using wpDiscuz Emoticons addon."
+msgstr "Vous pouvez ajouter plus d’émotions à vos commentaires en utilisant le module wpDiscuz Emoticons."
+
+#: options/class.WpdiscuzAddons.php:375
+msgid "Emoticons"
+msgstr "Émoticônes"
+
+#: options/class.WpdiscuzAddons.php:370
+msgid "You can create custom comment forms with wpDiscuz. wpDiscuz 4 comes with custom comment forms and fields. You can create custom comment forms for each post type, each form can beceated with different form fields, for eaxample: text, dropdown, rating, checkboxes, etc..."
+msgstr "Vous pouvez créer des formulaires de commentaires personnalisés avec wpDiscuz. wpDiscuz 4 est livré avec des champs de commentaires personnalisés. Vous pouvez créer des formulaires de commentaires personnalisés pour chaque type de publication, chaque formulaire pouvant être créé avec différents champs de formulaire, par exemple : texte, liste déroulante, classement, cases à cocher, etc."
+
+#: options/class.WpdiscuzAddons.php:369
+msgid "Custom Comment Forms"
+msgstr "Formulaires de commentaires personnalisés"
+
+#: options/html-options.php:25
+msgid "Support"
+msgstr "Support"
+
+#: options/html-dashboard.php:219 options/html-options.php:24
+msgid "Documentation"
+msgstr "Documentation"
+
+#: options/html-addons.php:68
+msgid "More information about"
+msgstr "Plus d’information sur ce sujet"
+
+#: options/html-addons.php:55
+msgid "at least"
+msgstr "au moins"
+
+#: options/html-addons.php:28
+msgid " Thank you!<br/> Sincerely yours,<br/> gVectors Team&nbsp;"
+msgstr "Merci !<br/>Cordialement,<br/>L’équipe gVectors&nbsp;"
+
+#: options/html-addons.php:20
+msgid "Addons Support Forum"
+msgstr "Forum de support des modules"
+
+#: options/html-addons.php:19
+msgid "wpDiscuz Add-ons"
+msgstr "Modules wpDiscuz"
+
+#: class.WpdiscuzCore.php:1083 class.WpdiscuzCore.php:2459
+#: class.WpdiscuzCore.php:2462
+msgid "Tools"
+msgstr "Outils"
+
+#: options/options-layouts/html-rating.php:82
+msgid "Rating Stars Active Color"
+msgstr "Couleur des étoiles d’évaluation active"
+
+#: options/options-layouts/html-rating.php:78
+msgid "Rating Stars Inactive Color"
+msgstr "Couleur des étoiles d’évaluation inactive"
+
+#: options/options-layouts/html-rating.php:74
+msgid "Rating Stars Hover Color"
+msgstr "Couleur des étoiles d’évaluation au survol"
+
+#: options/options-layouts/html-thread_styles.php:119
+msgid "Text Color"
+msgstr "Couleur du texte"
+
+#: options/class.WpdiscuzOptions.php:2891
+msgid "Facebook Application ID"
+msgstr "Identifiant d'application Facebook"
+
+#: options/class.WpdiscuzAddons.php:228
+msgid "See comment likers and voters of each comment. Adds user reputation and badges based on received likes."
+msgstr "Voir les sympathisants et les votants de chaque commentaire. Ajoute la réputation de l’utilisateur et les badges en fonction des « j’aime » reçus."
+
+#: options/class.WpdiscuzAddons.php:219
+msgid "Allows to mention comments and users in comment text using #comment-id and @username tags."
+msgstr "Permet de mentionner les commentaires et les utilisateurs dans le texte des commentaires en utilisant les balises #comment-id @username."
+
+#: options/class.WpdiscuzAddons.php:210
+msgid "A full-fledged tool-kit for advertising in comment section of your website. Separate banner and ad managment."
+msgstr "Une boîte à outils complète pour la publicité dans la section commentaires de votre site Web. Bannière séparée et une gestion des publicités."
+
+#: forms/wpdFormAttr/html/admin-form-fields-list.php:7
+msgid "Comment Form Fields"
+msgstr "Champs de formulaire de commentaire"
+
+#: forms/wpdFormAttr/Form.php:1454
+msgid "ADD ROW"
+msgstr "AJOUTER UNE RANGÉE"
+
+#: forms/wpdFormAttr/Form.php:1436
+msgid "Comment Text Field"
+msgstr "Champ de texte du commentaire"
+
+#: forms/wpdFormAttr/Form.php:1288
+msgid "You can use this form for certain posts/pages specified by comma separated IDs."
+msgstr "Vous pouvez utiliser ce champ pour des publications / pages spécifiés par leur identifiant séparés par des virgules."
+
+#: forms/wpdFormAttr/Form.php:1287
+msgid "Display comment form for post IDs"
+msgstr "Afficher le formulaire de commentaire pour les publications avec l’ID"
+
+#: forms/wpdFormAttr/Form.php:1258
+msgid "The red marked post types are already attached to other comment form. If you set this form too, the old forms will not be used for them."
+msgstr "Les types de publication marqués en rouge sont déjà attachés à un autre formulaire de commentaire. Si vous définissez également ce formulaire, les anciens formulaires ne leur seront plus utilisés."
+
+#: forms/wpdFormAttr/Form.php:1165
+msgid "Enable subscription bar"
+msgstr "Activer la barre d’abonnement"
+
+#: forms/wpdFormAttr/Form.php:1101
+msgid "Allow guests to comment"
+msgstr "Autoriser les invités à commenter"
+
+#: forms/wpdFormAttr/Field/RadioField.php:32
+#: forms/wpdFormAttr/Field/SelectField.php:32
+msgid "New value new line"
+msgstr "Nouvelle valeur nouvelle ligne"
+
+#: forms/wpdFormAttr/Field/NumberField.php:140
+msgid "value can not be more than"
+msgstr "la valeur ne peut être supérieure à"
+
+#: forms/wpdFormAttr/Field/NumberField.php:137
+msgid "value can not be less than"
+msgstr "la valeur ne peut être inférieure à"
+
+#: forms/wpdFormAttr/Field/NumberField.php:29
+msgid "Max Value"
+msgstr "Valeur max"
+
+#: forms/wpdFormAttr/Field/NumberField.php:24
+msgid "Min Value"
+msgstr "Valeur min"
+
+#: forms/wpdFormAttr/Field/Field.php:99
+msgid "Add To Form"
+msgstr "Ajouter au formulaire"
+
+#: forms/wpdFormAttr/Field/Field.php:64
+msgid " (Submit Button)"
+msgstr " (Bouton envoyer)"
+
+#: forms/wpdFormAttr/Field/DefaultField/Website.php:85
+#: forms/wpdFormAttr/Form.php:1546
+msgid "Website"
+msgstr "Site web"
+
+#: forms/wpdFormAttr/Field/DefaultField/Website.php:36
+#: options/html-options.php:268 options/html-options.php:281
+#: options/html-options.php:351 options/options-layouts/html-live.php:29
+#: options/options-layouts/html-live.php:71
+#: options/options-layouts/html-live.php:92
+#: options/options-layouts/html-live.php:143
+msgid "Enable"
+msgstr "Activer"
+
+#: forms/wpdFormAttr/Field/DefaultField/Submit.php:20
+msgid "Button Text"
+msgstr "Texte du bouton"
+
+#: forms/wpdFormAttr/Field/ColorField.php:28
+#: forms/wpdFormAttr/Field/DateField.php:28
+#: forms/wpdFormAttr/Field/DefaultField/Email.php:33
+#: forms/wpdFormAttr/Field/DefaultField/Name.php:32
+#: forms/wpdFormAttr/Field/DefaultField/Website.php:33
+#: forms/wpdFormAttr/Field/NumberField.php:38
+#: forms/wpdFormAttr/Field/RatingField.php:32
+#: forms/wpdFormAttr/Field/TextField.php:28
+#: forms/wpdFormAttr/Field/UrlField.php:28
+msgid "Font-awesome icon library."
+msgstr "Bibliothèque d’icônes Font Awesome."
+
+#: forms/wpdFormAttr/Field/ColorField.php:25
+#: forms/wpdFormAttr/Field/DateField.php:25
+#: forms/wpdFormAttr/Field/DefaultField/Email.php:30
+#: forms/wpdFormAttr/Field/DefaultField/Name.php:29
+#: forms/wpdFormAttr/Field/DefaultField/Website.php:30
+#: forms/wpdFormAttr/Field/NumberField.php:35
+#: forms/wpdFormAttr/Field/RatingField.php:29
+#: forms/wpdFormAttr/Field/TextField.php:25
+#: forms/wpdFormAttr/Field/UrlField.php:25
+msgid "Field icon"
+msgstr "Icône de champ"
+
+#: forms/wpdFormAttr/Field/AgreementCheckbox.php:102
+#: forms/wpdFormAttr/Field/CheckboxField.php:158
+#: forms/wpdFormAttr/Field/ColorField.php:123
+#: forms/wpdFormAttr/Field/DateField.php:123
+#: forms/wpdFormAttr/Field/NumberField.php:133
+#: forms/wpdFormAttr/Field/RadioField.php:139
+#: forms/wpdFormAttr/Field/RatingField.php:139
+#: forms/wpdFormAttr/Field/SelectField.php:132
+#: forms/wpdFormAttr/Field/TextAreaField.php:105
+#: forms/wpdFormAttr/Field/TextField.php:118
+#: forms/wpdFormAttr/Field/UrlField.php:127
+msgid "field is required!"
+msgstr "champ obligatoire !"
+
+#: forms/wpdFormAttr/Field/CheckboxField.php:41
+#: forms/wpdFormAttr/Field/ColorField.php:39
+#: forms/wpdFormAttr/Field/DateField.php:39
+#: forms/wpdFormAttr/Field/NumberField.php:49
+#: forms/wpdFormAttr/Field/RadioField.php:43
+#: forms/wpdFormAttr/Field/RatingField.php:39
+#: forms/wpdFormAttr/Field/SelectField.php:43
+#: forms/wpdFormAttr/Field/TextAreaField.php:32
+#: forms/wpdFormAttr/Field/TextField.php:39
+#: forms/wpdFormAttr/Field/UrlField.php:39
+msgid "Display on comment"
+msgstr "Afficher dans les commentaires"
+
+#: forms/wpdFormAttr/Field/AgreementCheckbox.php:32
+#: forms/wpdFormAttr/Field/CheckboxField.php:37
+#: forms/wpdFormAttr/Field/ColorField.php:35
+#: forms/wpdFormAttr/Field/DateField.php:35
+#: forms/wpdFormAttr/Field/HTMLField.php:21
+#: forms/wpdFormAttr/Field/NumberField.php:45
+#: forms/wpdFormAttr/Field/RadioField.php:39
+#: forms/wpdFormAttr/Field/SelectField.php:39
+#: forms/wpdFormAttr/Field/TextAreaField.php:28
+#: forms/wpdFormAttr/Field/TextField.php:35
+#: forms/wpdFormAttr/Field/UrlField.php:35
+msgid "Display on reply form"
+msgstr "Afficher dans le formulaire de réponse"
+
+#: forms/wpdFormAttr/Field/AgreementCheckbox.php:28
+#: forms/wpdFormAttr/Field/CheckboxField.php:33
+#: forms/wpdFormAttr/Field/ColorField.php:31
+#: forms/wpdFormAttr/Field/DateField.php:31
+#: forms/wpdFormAttr/Field/DefaultField/Email.php:36
+#: forms/wpdFormAttr/Field/DefaultField/Name.php:35
+#: forms/wpdFormAttr/Field/NumberField.php:41
+#: forms/wpdFormAttr/Field/RadioField.php:35
+#: forms/wpdFormAttr/Field/RatingField.php:35
+#: forms/wpdFormAttr/Field/SelectField.php:35
+#: forms/wpdFormAttr/Field/TextAreaField.php:24
+#: forms/wpdFormAttr/Field/TextField.php:31
+#: forms/wpdFormAttr/Field/UrlField.php:31
+msgid "Field is required"
+msgstr "Ce champ est obligatoire"
+
+#: forms/wpdFormAttr/Field/CheckboxField.php:30
+msgid "Please insert one value per line"
+msgstr "Veuillez insérer une valeur par ligne"
+
+#: forms/wpdFormAttr/Field/CheckboxField.php:28
+#: forms/wpdFormAttr/Field/RadioField.php:30
+#: forms/wpdFormAttr/Field/SelectField.php:30
+msgid "Values"
+msgstr "Valeurs"
+
+#: forms/wpdFormAttr/Field/AgreementCheckbox.php:18
+#: forms/wpdFormAttr/Field/CheckboxField.php:19
+#: forms/wpdFormAttr/Field/ColorField.php:21
+#: forms/wpdFormAttr/Field/CookiesConsent.php:22
+#: forms/wpdFormAttr/Field/DateField.php:21
+#: forms/wpdFormAttr/Field/DefaultField/Email.php:26
+#: forms/wpdFormAttr/Field/DefaultField/Name.php:25
+#: forms/wpdFormAttr/Field/DefaultField/Website.php:26
+#: forms/wpdFormAttr/Field/NumberField.php:21
+#: forms/wpdFormAttr/Field/NumberField.php:26
+#: forms/wpdFormAttr/Field/NumberField.php:31
+#: forms/wpdFormAttr/Field/RadioField.php:21
+#: forms/wpdFormAttr/Field/RatingField.php:25
+#: forms/wpdFormAttr/Field/SelectField.php:21
+#: forms/wpdFormAttr/Field/TextAreaField.php:21
+#: forms/wpdFormAttr/Field/TextField.php:21
+#: forms/wpdFormAttr/Field/UrlField.php:21
+msgid "Field specific short description or some rule related to inserted information."
+msgstr "Brève description spécifique à un champ ou à quelque règle relative aux informations insérées."
+
+#: forms/wpdFormAttr/Field/AgreementCheckbox.php:16
+#: forms/wpdFormAttr/Field/CheckboxField.php:17
+#: forms/wpdFormAttr/Field/ColorField.php:19
+#: forms/wpdFormAttr/Field/CookiesConsent.php:20
+#: forms/wpdFormAttr/Field/DateField.php:19
+#: forms/wpdFormAttr/Field/DefaultField/Email.php:24
+#: forms/wpdFormAttr/Field/DefaultField/Name.php:23
+#: forms/wpdFormAttr/Field/DefaultField/Website.php:24
+#: forms/wpdFormAttr/Field/NumberField.php:19
+#: forms/wpdFormAttr/Field/RadioField.php:19
+#: forms/wpdFormAttr/Field/RatingField.php:23
+#: forms/wpdFormAttr/Field/SelectField.php:19
+#: forms/wpdFormAttr/Field/TextAreaField.php:19
+#: forms/wpdFormAttr/Field/TextField.php:19
+#: forms/wpdFormAttr/Field/UrlField.php:19
+msgid "Description"
+msgstr "Description"
+
+#: forms/wpdFormAttr/Field/CheckboxField.php:14
+#: forms/wpdFormAttr/Field/ColorField.php:16
+#: forms/wpdFormAttr/Field/DateField.php:16
+#: forms/wpdFormAttr/Field/DefaultField/Email.php:21
+#: forms/wpdFormAttr/Field/DefaultField/Name.php:20
+#: forms/wpdFormAttr/Field/DefaultField/Website.php:21
+#: forms/wpdFormAttr/Field/NumberField.php:16
+#: forms/wpdFormAttr/Field/RadioField.php:16
+#: forms/wpdFormAttr/Field/SelectField.php:16
+#: forms/wpdFormAttr/Field/TextAreaField.php:16
+#: forms/wpdFormAttr/Field/TextField.php:16
+#: forms/wpdFormAttr/Field/UrlField.php:16
+msgid "Also used for field placeholder"
+msgstr "Également utilisé pour le texte inactif de champ"
+
+#: forms/wpDiscuzForm.php:533
+msgid "Add Comment Form"
+msgstr "Ajouter un formulaire de commentaire"
+
+#: forms/wpDiscuzForm.php:531
+msgid "Comment Form is not detected, please navigate to form manager page to create it. "
+msgstr "Le formulaire de commentaire n’est pas détecté. Veuillez vous rendre sur la page du gestionnaire de formulaire pour le créer. "
+
+#: forms/wpDiscuzForm.php:495
+msgid "Clone"
+msgstr "Cloner"
+
+#: forms/wpDiscuzForm.php:482
+msgid "Clone Form"
+msgstr "Formulaire de clonage"
+
+#: forms/wpDiscuzForm.php:401
+msgid "Default Form"
+msgstr "Formulaire par défaut"
+
+#: forms/wpDiscuzForm.php:342
+msgid "Custom CSS"
+msgstr "CSS personnalisé"
+
+#: forms/wpdFormAttr/Form.php:987
+#: forms/wpdFormAttr/html/admin-form-fields-list.php:18
+#: forms/wpDiscuzForm.php:278
+msgid "Custom Fields"
+msgstr "Champs personnalisés"
+
+#: forms/wpDiscuzForm.php:257
+msgid "Permission Denied !!!"
+msgstr "Autorisation refusée !"
+
+#: forms/wpDiscuzForm.php:250
+msgid "You really want to delete this item ?"
+msgstr "Voulez-vous vraiment supprimer cet élément ?"
+
+#: forms/wpDiscuzForm.php:249
+msgid "You can not delete default field."
+msgstr "Vous ne pouvez supprimer le champ par défaut."
+
+#: forms/wpdFormAttr/Row.php:73 forms/wpDiscuzForm.php:247
+msgid "Add Field"
+msgstr "Ajouter un champ"
+
+#: forms/wpdFormAttr/Row.php:25 forms/wpDiscuzForm.php:246
+msgid "Move"
+msgstr "Déplacer"
+
+#: forms/wpdFormAttr/Field/Field.php:76 forms/wpdFormAttr/Row.php:24
+#: forms/wpDiscuzForm.php:245 utils/class.WpdiscuzHelperUpload.php:763
+msgid "Delete"
+msgstr "Supprimer"
+
+#: forms/wpdFormAttr/Row.php:23 forms/wpDiscuzForm.php:244
+msgid "Two column"
+msgstr "Deux colonnes"
+
+#: forms/wpDiscuzForm.php:243
+msgid "Field Types"
+msgstr "Types de champ"
+
+#: forms/wpDiscuzForm.php:198
+#: options/options-layouts/html-thread_display.php:238
+msgid "Date"
+msgstr "Date"
+
+#: forms/wpdFormAttr/Form.php:1059 forms/wpDiscuzForm.php:197
+msgid "Language"
+msgstr "Langage"
+
+#: forms/wpDiscuzForm.php:196
+msgid "Post IDs"
+msgstr "IDs de publication"
+
+#: forms/wpDiscuzForm.php:195
+msgid "Post Types"
+msgstr "Types de publication"
+
+#: forms/wpDiscuzForm.php:194
+msgid "Title"
+msgstr "Titre"
+
+#: forms/wpDiscuzForm.php:131
+msgid "Search Forms"
+msgstr "Formulaires de recherche"
+
+#: forms/wpDiscuzForm.php:130
+msgid "Nothing found in Trash"
+msgstr "Rien trouvé dans la corbeille"
+
+#: forms/wpDiscuzForm.php:129
+msgid "You did not create any forms yet"
+msgstr "Vous n’avez pas encore créé de formulaire"
+
+#: forms/wpDiscuzForm.php:128
+msgid "Edit Form"
+msgstr "Modifier le formulaire"
+
+#: forms/wpDiscuzForm.php:127
+msgid "Add New Form"
+msgstr "Ajouter un nouveau formulaire"
+
+#: forms/wpDiscuzForm.php:126
+msgid "Add New"
+msgstr "Ajouter un nouveau"
+
+#: forms/wpDiscuzForm.php:124 forms/wpDiscuzForm.php:176
+msgid "Forms"
+msgstr "Formulaires"
+
+#: forms/wpDiscuzForm.php:116
+msgid "Invalid Data !!!"
+msgstr "Donnée non valide !"
+
+#: options/class.WpdiscuzOptions.php:3537
+msgid "Enable subscription confirmation for guests"
+msgstr "Activer la confirmation d’abonnement pour les invités"
+
+#: options/options-layouts/html-thread_layouts.php:163
+msgid "separate count"
+msgstr "compte séparé"
+
+#: options/options-layouts/html-thread_layouts.php:162
+msgid "total count"
+msgstr "compte total"
+
+#: options/html-tools.php:21
+msgid "wpDiscuz Tools"
+msgstr "Outils wpDiscuz"
+
+#: options/html-addons.php:60
+msgid "Live Preview | Buy"
+msgstr "Aperçu en direct | Acheter"
+
+#: options/class.WpdiscuzAddons.php:174
+msgid "Comment reporting tools. Auto-moderates comments based on number of flags and dislikes."
+msgstr "Commenter les outils de reporting. Auto-modère les commentaires en fonction du nombre de drapeaux et de « j’aime pas »."
+
+#: options/phrases-layouts/phrases-comment.php:95
+msgid "Anonymous commenter name"
+msgstr "Nom du commentateur anonyme"
+
+#: options/class.WpdiscuzOptions.php:2692
+msgid "Enable Quicktags"
+msgstr "Activer les Quicktags"
+
+#: options/class.WpdiscuzAddons.php:237
+msgid "AJAX powered front-end comment search. It starts searching while you type search words. "
+msgstr "Recherche de commentaires front-end avec AJAX. Il commence à chercher pendant que vous tapez."
+
+#: options/class.WpdiscuzAddons.php:138
+msgid "All in one powerful yet simple admin toolkit to moderate comments on front-end."
+msgstr "Tout dans une puissante et simple boîte à outils pour modérer les commentaires sur le portail."
+
+#: options/class.WpdiscuzAddons.php:246
+msgid "Most voted comments, Active comment threads, Most commented posts, Active comment authors"
+msgstr "Les commentaires les plus votés, Sujets de commentaires actifs, Articles les plus commentés, Auteurs de commentaires actifs"
+
+#: options/options-layouts/html-moderation.php:131
+#: options/options-layouts/html-subscription.php:128
+msgid "Both"
+msgstr "Tous les deux"
+
+#: options/options-layouts/html-general.php:251
+msgid "Remove vote data"
+msgstr "Retirer les données de vote"
+
+#: options/html-addons.php:11 options/html-dashboard.php:243
+#: options/html-dashboard.php:245
+msgid "wpDiscuz Addons"
+msgstr "Modules wpDiscuz"
+
+#: options/class.WpdiscuzAddons.php:111
+msgid "Extended comment attachment system. Allows to upload images, videos, audios and other file types."
+msgstr "Système étendu de pièce jointe aux commentaires. Permet de téléverser des images, vidéos, audios et autres types de fichiers."
+
+#: options/class.WpdiscuzAddons.php:147
+msgid "Brings an ocean of emotions to your comments. It comes with an awesome smile package."
+msgstr "Apporte un océan d’émotions à vos commentaires. Fourni avec un paquet de jolis sourires."
+
+#. Plugin URI of the plugin
+msgid "https://wpdiscuz.com/"
+msgstr "https://wpdiscuz.com/"
+
+#: options/class.WpdiscuzAddons.php:357
+msgid "Go to wpDiscuz Addons subMenu"
+msgstr "Aller au sous-menu des modules de wpDiscuz"
+
+#: options/phrases-layouts/phrases-error.php:51
+msgid "Message if input text length is too long"
+msgstr "Message si la longueur du texte saisi est trop longue"
+
+#: options/phrases-layouts/phrases-error.php:47
+msgid "Message if input text length is too short"
+msgstr "Message si la longueur du texte saisi est trop courte"
+
+#: options/class.WpdiscuzOptions.php:3327
+msgid "You can manage the number of comments for [Load more] option in Settings > Discussion page, using \"Break comments into pages with [X] top level comments per page\" option. To show the default Wordpress comment pagination you should enable the checkbox on beginning of the same option."
+msgstr "Vous pouvez gérer le nombre de commentaires pour l’option [Charger plus] dans Réglages > Page de discussion, à l’aide de l’option « Scinder les commentaires en pages avec [X] commentaires de niveau supérieur par page ». Pour afficher la pagination de commentaire WordPress par défaut, vous devez activer la case à cocher lors de la modification de la même option."
+
+#: options/class.WpdiscuzOptions.php:3814
+msgid "Set this option value 0, to turn off comment text breaking function."
+msgstr "Définissez cette option à 0 pour désactiver la fonction de césure de commentaire."
+
+#: options/options-layouts/html-content.php:26
+#: options/options-layouts/html-content.php:42
+#: options/options-layouts/html-form.php:153
+msgid "Max"
+msgstr "Max"
+
+#: options/options-layouts/html-content.php:25
+#: options/options-layouts/html-content.php:41
+#: options/options-layouts/html-form.php:152
+msgid "Min"
+msgstr "Min"
+
+#: options/class.WpdiscuzOptions.php:2657
+msgid "Comment author name length (for guests only)"
+msgstr "Longueur du nom de l’auteur du commentaire (pour les invités uniquement)"
+
+#: options/class.WpdiscuzOptions.php:2813
+msgid "Sometimes registered users comment as guest using the same email address. wpDiscuz can detect the account role using guest email and display commenter label correctly."
+msgstr "Parfois, les utilisateurs enregistrés commentent en tant qu’invité en utilisant la même adresse électronique. wpDiscuz peut détecter le rôle du compte à l’aide de l’e-mail de l’invité et afficher correctement l’étiquette du commentateur."
+
+#: options/class.WpdiscuzOptions.php:2811
+msgid "Use guest email to detect registered account"
+msgstr "Utiliser l’e-mail de l’invité pour détecter le compte enregistré"
+
+#: class.WpdiscuzCore.php:2469 class.WpdiscuzCore.php:2472
+#: options/class.WpdiscuzAddons.php:37 options/class.WpdiscuzAddons.php:38
+#: options/html-options.php:26
+msgid "Addons"
+msgstr "Modules"
+
+#: options/html-addons.php:50
+msgid "Installed"
+msgstr "Installés"
+
+#: options/class.WpdiscuzOptions.php:467
+msgid "Input is too long"
+msgstr "L’entrée est trop longue"
+
+#: options/class.WpdiscuzOptions.php:466
+msgid "Input is too short"
+msgstr "L’entrée est trop courte"
+
+#: options/class.WpdiscuzAddons.php:255
+msgid "Integrates myCRED Badges and Ranks. Converts wpDiscuz comment votes/likes to myCRED points. "
+msgstr "Intègre les badges et les Ranks myCRED. Convertit wpDiscuz commentaire votes / aime en points myCRED. "
+
+#: options/class.WpdiscuzOptions.php:2650
+msgid "Keep guest commenter credentials in browser cookies for X days"
+msgstr "Conserver les informations d’identification de l’intervenant invité dans les cookies du navigateur pendant x jours"
+
+#. Plugin Name of the plugin
+#: options/html-options.php:21
+msgid "wpDiscuz"
+msgstr "wpDiscuz"
+
+#: options/phrases-layouts/phrases-notification.php:24
+msgid "Postmatic subscription label"
+msgstr "Libellé d’abonnement Postmatic"
+
+#: options/phrases-layouts/phrases-comment.php:91
+msgid "Comment read more link text"
+msgstr "Texte du lien « Lire plus de commentaires »"
+
+#: options/options-layouts/html-moderation.php:26
+msgid "Do not allow"
+msgstr "Ne pas autoriser"
+
+#: options/class.WpdiscuzOptions.php:468
+msgid "Read more &raquo;"
+msgstr "Lire la suite &raquo;"
+
+#: options/html-phrases.php:28
+msgid "Errors"
+msgstr "Erreur"
+
+#: options/class.WpdiscuzOptions.php:3311
+msgid "Set comments order to \"Most voted\" by default"
+msgstr "Définir le classement par défaut des commentaires sur \"Le plus voté\""
+
+#: options/options-layouts/html-thread_display.php:73
+msgid "Lazy load comments on scrolling"
+msgstr "Chargement paresseux des commentaires lors du défilement"
+
+#: options/options-layouts/html-thread_display.php:63
+msgid "[Load rest of all comments] Button"
+msgstr "Bouton [Charger le reste des commentaires]"
+
+#: options/options-layouts/html-thread_display.php:58
+msgid "[Load more] Button"
+msgstr "Bouton [Afficher plus]"
+
+#: options/class.WpdiscuzOptions.php:558
+#: options/phrases-layouts/phrases-general.php:111
+msgid "Unable to send an email"
+msgstr "Impossible d’envoyer un e-mail"
+
+#: options/phrases-layouts/phrases-form.php:47
+msgid "Notify on all new replies"
+msgstr "Notifier sur toutes les nouvelles réponses"
+
+#: options/phrases-layouts/phrases-form.php:43
+msgid "Notify on new comments"
+msgstr "Notifier sur les nouveaux commentaires"
+
+#: options/class.WpdiscuzOptions.php:3553
+msgid "wpDiscuz is the only comment plugin which allows you to subscribe to certain comment replies. This option is located above [Post Comment] button in comment form. You can disable this subscription way by unchecking this option."
+msgstr "wpDiscuz est la seule extension de commentaire qui vous permet de souscrire à certaines réponses de commentaire. Cette option est située au dessus du bouton [Poster un Commentaire] dans le formulaire de commentaire. Vous pouvez désactiver ce moyen d’abonnement en décochant cette option."
+
+#: options/class.WpdiscuzOptions.php:3530
+msgid "Enable subscription confirmation for registered users"
+msgstr "Activer la confirmation d’abonnement pour les utilisateurs enregistrés"
+
+#: options/options-layouts/html-labels.php:54
+msgid "label color"
+msgstr "couleur du libellé"
+
+#: options/options-layouts/html-thread_styles.php:112
+msgid "Primary Color"
+msgstr "Couleur principale"
+
+#: options/class.WpdiscuzOptions.php:3377
+msgid "Show Voting Buttons"
+msgstr "Afficher les boutons de vote"
+
+#: options/class.WpdiscuzOptions.php:3934
+msgid "Enable Live Update for Guests"
+msgstr "Activez la mise à jour en direct pour les invités"
+
+#: options/options-layouts/html-moderation.php:32
+msgid "Unlimit"
+msgstr "Illimité"
+
+#: options/class.WpdiscuzOptions.php:472
+#: options/phrases-layouts/phrases-notification.php:11
+msgid "You're subscribed to"
+msgstr "Vous êtes abonné à"
+
+#: options/class.WpdiscuzOptions.php:470
+#: options/phrases-layouts/phrases-error.php:67
+msgid "Please fill out required fields"
+msgstr "Veuillez remplir les champs obligatoires"
+
+#: options/class.WpdiscuzOptions.php:421
+#: options/phrases-layouts/phrases-notification.php:15
+msgid "You've successfully subscribed."
+msgstr "Vous êtes bien abonné."
+
+#: options/class.WpdiscuzOptions.php:419
+msgid "Cancel subscription"
+msgstr "Annuler l’abonnement"
+
+#: options/class.WpdiscuzOptions.php:396
+#: options/phrases-layouts/phrases-form.php:63
+msgid "Most Voted"
+msgstr "Le plus populaire"
+
+#: options/class.WpdiscuzOptions.php:395
+#: options/phrases-layouts/phrases-form.php:59
+msgid "Oldest"
+msgstr "Le plus ancien"
+
+#: options/class.WpdiscuzOptions.php:394
+#: options/phrases-layouts/phrases-form.php:55
+msgid "Newest"
+msgstr "Le plus récent"
+
+#: options/class.WpdiscuzOptions.php:392
+msgid "new replies to my comments"
+msgstr "nouvelles réponses à mes commentaires"
+
+#: options/class.WpdiscuzOptions.php:391
+msgid "new follow-up comments"
+msgstr "nouveaux commentaires de suivi"
+
+#: options/class.WpdiscuzOptions.php:390
+#: options/phrases-layouts/phrases-form.php:39
+msgid "Notify of"
+msgstr "Notification pour"
+
+#. Author URI of the plugin
+msgid "https://gvectors.com/"
+msgstr "https://gvectors.com/"
+
+#: class.WpdiscuzCore.php:1078 class.WpdiscuzCore.php:2448
+#: class.WpdiscuzCore.php:2451
+msgid "Phrases"
+msgstr "Phrases"
+
+#: options/html-phrases.php:24
+msgid "Notification"
+msgstr "Notification"
+
+#: options/html-phrases.php:22
+msgid "Date/Time"
+msgstr "Date / Heure"
+
+#: forms/wpDiscuzForm.php:125 options/html-phrases.php:20
+msgid "Form"
+msgstr "Formulaire"
+
+#: options/html-phrases.php:19 options/options-layouts/html-recaptcha.php:20
+msgid "General"
+msgstr "Général"
+
+#: options/html-phrases.php:10
+msgid "wpDiscuz Front-end Phrases"
+msgstr "Phrases du portail de WpDiscuz"
+
+#: options/html-options.php:505 options/html-phrases.php:76
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: options/class.WpdiscuzOptions.php:1345
+#: options/class.WpdiscuzOptions.php:1628
+#: options/class.WpdiscuzOptions.php:1998
+msgid "Hacker?"
+msgstr "Pirate ?"
+
+#: options/class.WpdiscuzOptions.php:463
+msgid "You've not made any changes"
+msgstr "Vous n’avez fait aucune modification"
+
+#: options/class.WpdiscuzOptions.php:457
+msgid "You are not allowed to vote for this comment"
+msgstr "Vous n’êtes pas autorisé à voter pour ce commentaire"
+
+#: options/class.WpdiscuzOptions.php:456
+msgid "You cannot vote for your comment"
+msgstr "Vous ne pouvez pas voter sur vos propres commentaires"
+
+#: options/class.WpdiscuzOptions.php:455
+msgid "You Must Be Logged In To Vote"
+msgstr "Vous devez être connecté pour voter"
+
+#: options/class.WpdiscuzOptions.php:453
+msgid "You've already voted for this comment"
+msgstr "Vous avez déjà voté pour ce commentaire"
+
+#: options/class.WpdiscuzOptions.php:449
+msgid "to post a comment."
+msgstr "pour publier un commentaire."
+
+#: options/class.WpdiscuzOptions.php:448
+msgid "logged in"
+msgstr "connecté"
+
+#: options/class.WpdiscuzOptions.php:444
+msgid "You are logged in as"
+msgstr "Vous êtes connecté en tant que"
+
+#: options/class.WpdiscuzOptions.php:442
+msgid "ago"
+msgstr "il y a"
+
+#: options/class.WpdiscuzOptions.php:441
+msgid "right now"
+msgstr "à l’instant"
+
+#: options/class.WpdiscuzOptions.php:440
+#: options/options-layouts/html-live.php:111
+#: options/options-layouts/html-live.php:126
+msgid "seconds"
+msgstr "secondes"
+
+#: options/class.WpdiscuzOptions.php:439
+msgid "second"
+msgstr "seconde"
+
+#: options/class.WpdiscuzOptions.php:438
+msgid "minutes"
+msgstr "minutes"
+
+#: options/class.WpdiscuzOptions.php:437
+msgid "minute"
+msgstr "minute"
+
+#: options/class.WpdiscuzOptions.php:436
+msgid "hours"
+msgstr "heures"
+
+#: options/class.WpdiscuzOptions.php:435
+msgid "hour"
+msgstr "heure"
+
+#: options/class.WpdiscuzOptions.php:434
+#: options/options-layouts/html-general.php:231
+msgid "days"
+msgstr "jours"
+
+#: options/class.WpdiscuzOptions.php:433
+msgid "day"
+msgstr "jour"
+
+#: options/class.WpdiscuzOptions.php:432
+msgid "months"
+msgstr "mois"
+
+#: options/class.WpdiscuzOptions.php:431
+msgid "month"
+msgstr "mois"
+
+#: options/class.WpdiscuzOptions.php:430
+msgid "years"
+msgstr "années"
+
+#: options/class.WpdiscuzOptions.php:429
+msgid "year"
+msgstr "année"
+
+#: options/class.WpdiscuzOptions.php:428
+msgid "url is invalid"
+msgstr "URL invalide"
+
+#: options/class.WpdiscuzOptions.php:427
+msgid "email address is invalid"
+msgstr "Adresse email invalide"
+
+#: options/class.WpdiscuzOptions.php:426
+msgid "please fill out this field to comment"
+msgstr "merci de compléter ce champ pour commenter"
+
+#: options/class.WpdiscuzOptions.php:417
+msgid "You're subscribed for new follow-up comments on this post"
+msgstr "Vous êtes abonné à tous les commentaires de cet article"
+
+#: options/class.WpdiscuzOptions.php:416
+msgid "You're subscribed for new replies on all your comments"
+msgstr "Vous êtes abonné aux nouvelles réponses à tous vos commentaires"
+
+#: options/class.WpdiscuzOptions.php:415
+msgid "You're subscribed for new replies on this comment"
+msgstr "Vous êtes abonné aux nouvelles réponses sur ce commentaire"
+
+#: class.WpdiscuzCore.php:1785 options/phrases-layouts/phrases-comment.php:56
+msgid "Admin"
+msgstr "Administrateur"
+
+#: class.WpdiscuzCore.php:1788 class.WpdiscuzCore.php:1801
+#: options/phrases-layouts/phrases-comment.php:58
+msgid "Author"
+msgstr "Auteur"
+
+#: class.WpdiscuzCore.php:1794 options/phrases-layouts/phrases-comment.php:64
+msgid "Member"
+msgstr "Membre"
+
+#: class.WpdiscuzCore.php:1802 options/phrases-layouts/phrases-comment.php:62
+msgid "Guest"
+msgstr "Invité"
+
+#: options/class.WpdiscuzOptions.php:397
+msgid "Load More Comments"
+msgstr "Afficher plus de commentaires"
+
+#: forms/wpdFormAttr/Field/DefaultField/Submit.php:121
+#: forms/wpdFormAttr/Form.php:1562 forms/wpDiscuzForm.php:472
+msgid "Post Comment"
+msgstr "Publier le commentaire"
+
+#: forms/wpDiscuzForm.php:469
+msgid "WebSite URL"
+msgstr "URL du site Web"
+
+#: forms/wpdFormAttr/Field/AgreementCheckbox.php:12
+#: forms/wpdFormAttr/Field/CheckboxField.php:12
+#: forms/wpdFormAttr/Field/ColorField.php:14
+#: forms/wpdFormAttr/Field/CookiesConsent.php:16
+#: forms/wpdFormAttr/Field/DateField.php:14
+#: forms/wpdFormAttr/Field/DefaultField/Email.php:19
+#: forms/wpdFormAttr/Field/DefaultField/Name.php:18
+#: forms/wpdFormAttr/Field/DefaultField/Name.php:67
+#: forms/wpdFormAttr/Field/DefaultField/Submit.php:18
+#: forms/wpdFormAttr/Field/DefaultField/Website.php:19
+#: forms/wpdFormAttr/Field/HTMLField.php:12
+#: forms/wpdFormAttr/Field/NumberField.php:14
+#: forms/wpdFormAttr/Field/RadioField.php:14
+#: forms/wpdFormAttr/Field/RatingField.php:14
+#: forms/wpdFormAttr/Field/SelectField.php:14
+#: forms/wpdFormAttr/Field/TextAreaField.php:14
+#: forms/wpdFormAttr/Field/TextField.php:14
+#: forms/wpdFormAttr/Field/UrlField.php:14 forms/wpdFormAttr/Form.php:1532
+#: forms/wpDiscuzForm.php:465
+msgid "Name"
+msgstr "Nom"
+
+#: forms/wpdFormAttr/Field/DefaultField/Email.php:67
+#: forms/wpdFormAttr/Form.php:1539 forms/wpDiscuzForm.php:467
+#: options/class.WpdiscuzOptions.php:388 options/html-phrases.php:23
+msgid "Email"
+msgstr "E-mail"
+
+#: options/class.WpdiscuzOptions.php:384
+msgid "Join the discussion"
+msgstr "Rejoindre la discussion"
+
+#: options/class.WpdiscuzOptions.php:383
+msgid "Start the discussion"
+msgstr "Démarrer la discussion"
+
+#: forms/wpdFormAttr/Form.php:130 forms/wpdFormAttr/Form.php:1241
+#: forms/wpdFormAttr/Form.php:1242
+#: forms/wpdFormAttr/Tools/PersonalDataExporter.php:82
+#: forms/wpDiscuzForm.php:437 utils/class.WpdiscuzHelperAjax.php:1012
+msgid "Comments"
+msgstr "Commentaires"
+
+#: options/class.WpdiscuzOptions.php:382
+msgid "Be the First to Comment!"
+msgstr "Soyez le premier à commenter !"
+
+#: options/phrases-layouts/phrases-error.php:63
+msgid "Message if comment text not changed"
+msgstr "Message si le texte du commentaire est inchangé"
+
+#: options/class.WpdiscuzOptions.php:462
+msgid "Sorry, this comment is no longer possible to edit"
+msgstr "Désolé, il n’est plus possible de modifier ce commentaire"
+
+#: options/phrases-layouts/phrases-error.php:59
+msgid "Message if comment no longer possible to edit"
+msgstr "Message s’il n’est plus possible d’éditer le commentaire"
+
+#: options/class.WpdiscuzOptions.php:461
+msgid "Sorry, the comment was not updated"
+msgstr "Désolé, le commentaire n’a pas été mis à jour"
+
+#: options/phrases-layouts/phrases-error.php:55
+msgid "Message if comment was not updated"
+msgstr "Message si le commentaire n’a pas été mis à jour"
+
+#: options/class.WpdiscuzOptions.php:459
+#: options/phrases-layouts/phrases-error.php:43
+msgid "Some of field value is invalid"
+msgstr "Une partie du champ est invalide"
+
+#: options/class.WpdiscuzOptions.php:458
+#: options/phrases-layouts/phrases-error.php:39
+msgid "Invalid Captcha Code"
+msgstr "Code Captcha invalide"
+
+#: options/phrases-layouts/phrases-error.php:35
+msgid "You are not allowed to vote for this comment (Voting from same IP)"
+msgstr "Vous n’êtes pas autorisé à voter pour ce commentaire (Vote depuis même IP)"
+
+#: options/phrases-layouts/phrases-error.php:31
+msgid "You Cannot Vote On Your Comment"
+msgstr "Vous ne pouvez pas voter sur votre commentaire"
+
+#: options/phrases-layouts/phrases-notification.php:62
+msgid "Login To Vote"
+msgstr "Se connecter pour voter"
+
+#: options/class.WpdiscuzOptions.php:454
+#: options/phrases-layouts/phrases-error.php:27
+msgid "Voting Error"
+msgstr "Erreur sur vote"
+
+#: options/phrases-layouts/phrases-error.php:23
+msgid "You can vote only 1 time"
+msgstr "Vous ne pouvez voter qu’une seule fois"
+
+#: options/class.WpdiscuzOptions.php:452
+#: options/phrases-layouts/phrases-notification.php:58
+msgid "Vote Counted"
+msgstr "Vote comptabilisé"
+
+#: options/phrases-layouts/phrases-notification.php:46
+msgid "To post a comment"
+msgstr "Pour publier un commentaire"
+
+#: options/phrases-layouts/phrases-notification.php:42
+msgid "Logged In"
+msgstr "Connecté"
+
+#: options/class.WpdiscuzOptions.php:447
+#: options/phrases-layouts/phrases-notification.php:54
+msgid "Log out"
+msgstr "Se déconnecter"
+
+#: options/phrases-layouts/phrases-notification.php:50
+msgid "Logged in as"
+msgstr "Connecté en tant que"
+
+#: options/class.WpdiscuzOptions.php:443
+#: options/phrases-layouts/phrases-notification.php:38
+msgid "You must be"
+msgstr "Vous devez être"
+
+#: options/phrases-layouts/phrases-error.php:19
+msgid "Error message for invalid website url field"
+msgstr "Message d’erreur pour champ URL site Web invalide"
+
+#: options/phrases-layouts/phrases-error.php:15
+msgid "Error message for invalid email field"
+msgstr "Message d’erreur pour champ email invalide"
+
+#: options/phrases-layouts/phrases-error.php:11
+msgid "Error message for empty field"
+msgstr "Message d’erreur pour champ vide"
+
+#: options/class.WpdiscuzOptions.php:420
+#: options/phrases-layouts/phrases-notification.php:19
+msgid "You've successfully unsubscribed."
+msgstr "Vous vous êtes désabonné avec succès."
+
+#: options/phrases-layouts/phrases-error.php:7
+#: options/phrases-layouts/phrases-notification.php:7
+msgid "Notification Phrases"
+msgstr "Phrases de notification"
+
+#: options/class.WpdiscuzOptions.php:566
+#: options/phrases-layouts/phrases-general.php:143
+msgid "View Comments"
+msgstr "Voir les commentaires"
+
+#: options/class.WpdiscuzOptions.php:409 options/class.WpdiscuzOptions.php:532
+#: options/class.WpdiscuzOptions.php:1056
+#: options/class.WpdiscuzOptions.php:1070
+msgid "New Comment"
+msgstr "Nouveau Commentaire"
+
+#: options/class.WpdiscuzOptions.php:398
+#: options/phrases-layouts/phrases-general.php:19
+msgid "Load Rest of Comments"
+msgstr "Afficher le reste des commentaires"
+
+#: options/phrases-layouts/phrases-general.php:15
+msgid "Load More Button"
+msgstr "Bouton Afficher plus"
+
+#: forms/wpdFormAttr/Form.php:122 forms/wpdFormAttr/Form.php:1224
+#: forms/wpdFormAttr/Form.php:1225 forms/wpDiscuzForm.php:436
+#: options/html-phrases.php:21 options/options-layouts/html-moderation.php:133
+msgid "Comment"
+msgstr "Commentaire"
+
+#: options/phrases-layouts/phrases-general.php:11
+msgid "Be the first to comment"
+msgstr "Soyez le premier à commenter"
+
+#: options/phrases-layouts/phrases-general.php:7
+msgid "General Phrases"
+msgstr "Phrases générales"
+
+#: options/phrases-layouts/phrases-form.php:75
+msgid "Subscribed on this post"
+msgstr "Abonné à cet article"
+
+#: options/phrases-layouts/phrases-form.php:71
+msgid "Subscribed on all your comments replies"
+msgstr "Abonné aux réponses à tous vos commentaires"
+
+#: options/phrases-layouts/phrases-form.php:67
+msgid "Subscribed on this comment replies"
+msgstr "Abonné aux réponses de ce commentaire"
+
+#: options/class.WpdiscuzOptions.php:393
+msgid "Notify of new replies to this comment"
+msgstr "Notifier des nouvelles réponses à tous mes commentaires"
+
+#: options/options-layouts/html-form.php:76
+msgid "None"
+msgstr "Aucun"
+
+#: options/phrases-layouts/phrases-form.php:31
+msgid "Email Field"
+msgstr "Champ e-mail"
+
+#: options/phrases-layouts/phrases-form.php:15
+msgid "Comment Field Join"
+msgstr "Champ joindre du commentaire"
+
+#: options/phrases-layouts/phrases-form.php:11
+msgid "Comment Field Start"
+msgstr "Champ démarrer du commentaire"
+
+#: options/phrases-layouts/phrases-form.php:7
+msgid "Form Template Phrases"
+msgstr "Modèles de phrases du formulaire"
+
+#: options/phrases-layouts/phrases-email.php:131
+msgid "Subscription confirmation email content"
+msgstr "Contenu de l’email de confirmation d’abonnement"
+
+#: options/phrases-layouts/phrases-email.php:120
+msgid "Subscription confirmation email subject"
+msgstr "Objet de l’email de confirmation d’abonnement"
+
+#: options/class.WpdiscuzOptions.php:423
+#: options/phrases-layouts/phrases-email.php:188
+msgid "You've successfully confirmed your subscription."
+msgstr "Vous avez confirmé votre abonnement avec succès."
+
+#: options/class.WpdiscuzOptions.php:422
+#: options/phrases-layouts/phrases-email.php:184
+msgid "Confirm your subscription"
+msgstr "Confirmer votre abonnement"
+
+#: options/phrases-layouts/phrases-email.php:180
+msgid "Ignore subscription"
+msgstr "Ignorer votre abonnement"
+
+#: options/class.WpdiscuzOptions.php:418
+#: options/phrases-layouts/phrases-email.php:176
+msgid "Unsubscribe"
+msgstr "Désabonner"
+
+#: options/class.WpdiscuzOptions.php:411 options/class.WpdiscuzOptions.php:413
+msgid "New Reply"
+msgstr "Nouvelle réponse"
+
+#: options/phrases-layouts/phrases-email.php:17
+msgid "Email Template Phrases"
+msgstr "Phrases modèle d’email"
+
+#: options/html-dashboard.php:166
+msgid "Today"
+msgstr "Aujourd'hui"
+
+#: options/phrases-layouts/phrases-datetime.php:63
+msgid "Ago text"
+msgstr "Texte Il y a"
+
+#: options/phrases-layouts/phrases-datetime.php:59
+msgid "Commented \"right now\" text"
+msgstr "Texte commenté « A l’instant »"
+
+#: options/phrases-layouts/phrases-datetime.php:55
+msgid "Seconds (Plural Form)"
+msgstr "Secondes (au pluriel)"
+
+#: options/phrases-layouts/phrases-datetime.php:51
+msgid "Second"
+msgstr "Seconde"
+
+#: options/phrases-layouts/phrases-datetime.php:47
+msgid "Minutes (Plural Form)"
+msgstr "Minutes (au pluriel)"
+
+#: options/phrases-layouts/phrases-datetime.php:39
+msgid "Hours (Plural Form)"
+msgstr "Heures (au pluriel)"
+
+#: options/phrases-layouts/phrases-datetime.php:31
+msgid "Days (Plural Form)"
+msgstr "Jours (au pluriel)"
+
+#: options/phrases-layouts/phrases-datetime.php:27
+msgid "Day"
+msgstr "Jour"
+
+#: options/phrases-layouts/phrases-datetime.php:23
+msgid "Months (Plural Form)"
+msgstr "Mois (au pluriel)"
+
+#: options/phrases-layouts/phrases-datetime.php:19
+msgid "Month"
+msgstr "Mois"
+
+#: options/phrases-layouts/phrases-datetime.php:15
+msgid "Years (Plural Form)"
+msgstr "Années (au pluriel)"
+
+#: options/phrases-layouts/phrases-datetime.php:11
+msgid "Year"
+msgstr "Année"
+
+#: options/phrases-layouts/phrases-datetime.php:7
+msgid "Date/Time Phrases"
+msgstr "Phrases Date/Heure"
+
+#: options/class.WpdiscuzOptions.php:465
+msgid "Cancel"
+msgstr "Annuler"
+
+#: options/phrases-layouts/phrases-comment.php:87
+msgid "Cancel comment editing button text"
+msgstr "Texte du bouton Annuler du commentaire édité"
+
+#: options/class.WpdiscuzOptions.php:464 utils/class.WpdiscuzHelper.php:1452
+msgid "Save"
+msgstr "Enregistrer"
+
+#: options/phrases-layouts/phrases-comment.php:83
+msgid "Save edited comment button text"
+msgstr "Texte du bouton Enregistrer du commentaire édité"
+
+#: options/class.WpdiscuzOptions.php:451
+#: options/phrases-layouts/phrases-comment.php:79
+msgid "Vote Down"
+msgstr "Vote Contre"
+
+#: options/class.WpdiscuzOptions.php:450
+#: options/phrases-layouts/phrases-comment.php:75
+msgid "Vote Up"
+msgstr "Vote Pour"
+
+#: options/class.WpdiscuzOptions.php:407
+#: options/phrases-layouts/phrases-comment.php:43
+msgid "Hide Replies"
+msgstr "Masquer les réponses"
+
+#: options/class.WpdiscuzOptions.php:406
+#: options/phrases-layouts/phrases-comment.php:39
+msgid "Share On Odnoklassniki"
+msgstr "Partager sur Odnoklassniki"
+
+#: options/class.WpdiscuzOptions.php:405
+#: options/phrases-layouts/phrases-comment.php:35
+msgid "Share On VKontakte"
+msgstr "Partager sur VKontakte"
+
+#: options/class.WpdiscuzOptions.php:403
+#: options/phrases-layouts/phrases-comment.php:27
+msgid "Share On Twitter"
+msgstr "Partager sur Twitter"
+
+#: options/class.WpdiscuzOptions.php:402
+#: options/phrases-layouts/phrases-comment.php:23
+msgid "Share On Facebook"
+msgstr "Partager sur Facebook"
+
+#: options/class.WpdiscuzOptions.php:400
+#: options/phrases-layouts/phrases-comment.php:15
+msgid "Share"
+msgstr "Partager"
+
+#: options/class.WpdiscuzOptions.php:399
+#: options/options-layouts/html-moderation.php:135
+#: options/phrases-layouts/phrases-comment.php:11
+msgid "Reply"
+msgstr "Répondre"
+
+#: options/phrases-layouts/phrases-comment.php:7
+msgid "Comment Template Phrases"
+msgstr "Modèles de Phrases des Commentaires"
+
+#: options/class.WpdiscuzOptions.php:3567
+msgid "Postmatic allows your users subscribe to comments. Instead of just being notified, they add a reply right from their inbox."
+msgstr "Postmatic permet à vos utilisateurs de s’abonner à des commentaires. Au lieu d’être simplement informés, ils ajoutent une réponse directement depuis leur boîte de réception."
+
+#: options/class.WpdiscuzOptions.php:3565
+msgid "Use Postmatic for subscriptions and commenting by email"
+msgstr "Utiliser Postmatic pour les abonnements et commentaires par e-mail"
+
+#: options/class.WpdiscuzOptions.php:3492
+msgid "Custom CSS Code"
+msgstr "Code CSS personnalisé"
+
+#: options/options-layouts/html-labels.php:54
+#: options/options-layouts/html-rating.php:73
+#: options/options-layouts/html-rating.php:77
+#: options/options-layouts/html-rating.php:81
+#: options/options-layouts/html-thread_styles.php:111
+#: options/options-layouts/html-thread_styles.php:115
+#: options/options-layouts/html-thread_styles.php:127
+#: options/options-layouts/html-thread_styles.php:131
+msgid "Example: #00FF00"
+msgstr "Exemple : #00FF00"
+
+#: options/html-phrases.php:26
+#: options/phrases-layouts/phrases-social-login.php:7
+msgid "Social Login"
+msgstr "Connexion Réseaux Sociaux"
+
+#: class.WpdiscuzCore.php:1073 class.WpdiscuzCore.php:1652
+#: class.WpdiscuzCore.php:2437 class.WpdiscuzCore.php:2440
+#: options/html-options.php:399 options/html-options.php:514
+msgid "Settings"
+msgstr "Réglages"
+
+#: options/options-layouts/html-live.php:181
+#: options/phrases-layouts/phrases-datetime.php:43
+msgid "Minute"
+msgstr "Minutes"
+
+#: options/options-layouts/html-live.php:180
+msgid "Seconds"
+msgstr "Secondes"
+
+#: options/class.WpdiscuzOptions.php:3941
+msgid "Update Comment List Every"
+msgstr "Mettre à jour la liste des commentaires tous les"
+
+#: options/class.WpdiscuzOptions.php:3927
+msgid "Live Update"
+msgstr "Mise à jour en temps réel"
+
+#: options/options-layouts/html-general.php:192
+msgid "Thank you!"
+msgstr "Merci !"
+
+#: options/class.WpdiscuzOptions.php:4047
+msgid "Please check this option on to help wpDiscuz get more popularity as your thank to the hard work we do for you totally free. This option adds a very small (16x16px) icon under the comment section which will allow your site visitors recognize the name of comment solution you use."
+msgstr "Veuillez cocher cette option pour aider wpDiscuz à gagner en popularité, en remerciement du travail acharné que nous accomplissons pour vous totalement gratuitement. Cette option ajoute une très petite icône (16x16 pixels) sous la section des commentaires, ce qui permettra aux visiteurs de votre site de reconnaître le nom de la solution de commentaire que vous utilisez."
+
+#: options/class.WpdiscuzOptions.php:4045
+msgid "Help wpDiscuz to grow allowing people to recognize which comment plugin you use"
+msgstr "Aidez wpDiscuz à se développer en permettant aux utilisateurs de reconnaître l’extension de commentaires que vous utilisez"
+
+#: options/class.WpdiscuzOptions.php:4040
+msgid "wpDiscuz phrase system allows you to translate all front-end phrases. However if you have a multi-language website it'll not allow you to add more than one language translation. The only way to get it is the plugin translation files (.PO / .MO). If wpDiscuz has the languages you need you should check this option to disable phrase system and it'll automatically translate all phrases based on language files according to current language."
+msgstr "Le système de phrases wpDiscuz vous permet de traduire toutes les phrases du front-end. Toutefois, si vous avez un site Web multilingue, cela ne vous permettra pas d’ajouter une traduction d’une langue à l’autre. Le seul moyen de l’obtenir est d'utiliser les fichiers de traduction de l’extension (.po / .mo). Si wpDiscuz a les langues dont vous avez besoin, vous devez cocher cette option pour désactiver le système de phrases et il traduira automatiquement toutes les phrases basées sur les fichiers de langue en fonction de la langue actuelle."
+
+#: options/class.WpdiscuzOptions.php:4038
+msgid "Use Plugin .PO/.MO Files"
+msgstr "Utiliser une extension pour les fichiers .PO/.MO"
+
+#: options/options-layouts/html-general.php:141
+msgid "Current Wordpress date/time format"
+msgstr "Format date / heure actuel de WordPress"
+
+#: options/class.WpdiscuzOptions.php:4026
+msgid "wpDiscuz shows Human Readable date format. If you check this option it'll show the date/time format set in WordPress General Settings."
+msgstr "wpDiscuz affiche le format de date lisible par un humain. Si vous cochez cette option, le format de date / heure défini dans les réglages généraux de WordPress sera affiché."
+
+#: options/class.WpdiscuzOptions.php:4024
+msgid "Use WordPress Date/Time Format"
+msgstr "Utiliser le format date/heure de WordPress"
+
+#: options/class.WpdiscuzOptions.php:3405
+msgid "Allow Guests to Vote for Comments"
+msgstr "Autoriser les invités à voter pour des commentaires"
+
+#: options/options-layouts/html-general.php:117
+msgid "Do not redirect"
+msgstr "Ne pas rediriger"
+
+#: options/class.WpdiscuzOptions.php:4017
+msgid "Redirect First Comment to"
+msgstr "Rediriger le premier commentaire vers"
+
+#: options/options-layouts/html-moderation.php:30
+#: options/options-layouts/html-moderation.php:31
+msgid "Hours"
+msgstr "Heures"
+
+#: options/options-layouts/html-moderation.php:29
+#: options/phrases-layouts/phrases-datetime.php:35
+msgid "Hour"
+msgstr "Heure"
+
+#: options/options-layouts/html-live.php:182
+#: options/options-layouts/html-live.php:183
+#: options/options-layouts/html-live.php:184
+#: options/options-layouts/html-moderation.php:27
+#: options/options-layouts/html-moderation.php:28
+msgid "Minutes"
+msgstr "Minutes"
+
+#: options/class.WpdiscuzOptions.php:3784
+msgid "Comment Text Length"
+msgstr "Longueur du texte des commentaires"
+
+#: forms/wpdFormAttr/Form.php:1113 forms/wpdFormAttr/Form.php:1160
+#: forms/wpdFormAttr/Form.php:1177 forms/wpdFormAttr/Form.php:1199
+#: forms/wpdFormAttr/Form.php:1383 forms/wpdFormAttr/Form.php:1419
+msgid "No"
+msgstr "Non"
+
+#: forms/wpdFormAttr/Form.php:1108 forms/wpdFormAttr/Form.php:1155
+#: forms/wpdFormAttr/Form.php:1172 forms/wpdFormAttr/Form.php:1193
+#: forms/wpdFormAttr/Form.php:1377 forms/wpdFormAttr/Form.php:1413
+msgid "Yes"
+msgstr "Oui"
+
+#: forms/wpdFormAttr/Form.php:1251
+msgid "Display comment form for post types"
+msgstr "Afficher le formulaire de commentaires pour ces types de publication"
+
+#: options/class.WpdiscuzOptions.php:3974
+msgid "General Settings"
+msgstr "Réglages généraux"
+
+#: options/class.WpdiscuzOptions.php:469
+msgid "Anonymous"
+msgstr "Anonyme"
+
+#: forms/wpdFormAttr/Field/Field.php:73 forms/wpDiscuzForm.php:248
+#: options/class.WpdiscuzOptions.php:401
+#: options/phrases-layouts/phrases-comment.php:19
+msgid "Edit"
+msgstr "Modifier"
+
+#: options/class.WpdiscuzOptions.php:471
+#: options/phrases-layouts/phrases-social-login.php:11
+msgid "Connect with"
+msgstr "Se connecter avec"
+
+#: options/class.WpdiscuzOptions.php:473
+msgid "Participate in this discussion via email"
+msgstr "Participer à cette discussion par e-mail"

@@ -1,0 +1,116 @@
+# Translation of Plugins - WP Add Custom CSS - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - WP Add Custom CSS - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-17 11:28:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - WP Add Custom CSS - Stable (latest release)\n"
+
+#: wordpress-add-custom-css.php:141
+msgid "Donations"
+msgstr "Donationer"
+
+#: wordpress-add-custom-css.php:143
+msgid "paypal.me (it has lower fees):"
+msgstr "paypal.me (det har lägre avgifter):"
+
+#: wordpress-add-custom-css.php:143
+msgid "If you have a PayPal account use"
+msgstr "Om du har ett PayPal-konto använd"
+
+#: wordpress-add-custom-css.php:146
+msgid "If you don't have a PayPal account use this PayPal donate button:"
+msgstr "Om du inte har ett PayPal-konto använder du denna PayPal-donationsknapp:"
+
+#: wordpress-add-custom-css.php:142
+msgid "Help me mantaining WP Add Custom CSS by making a donation:"
+msgstr "Hjälp mig att underhålla ”WP Add Custom CSS” genom att ge en donation:"
+
+#: wordpress-add-custom-css.php:259
+msgid "Enable"
+msgstr "Aktivera"
+
+#: wordpress-add-custom-css.php:208
+msgid "Light"
+msgstr "Ljus"
+
+#: wordpress-add-custom-css.php:156
+msgid "thank you!"
+msgstr "tack!"
+
+#: wordpress-add-custom-css.php:208
+msgid "Dark"
+msgstr "Mörk"
+
+#: wordpress-add-custom-css.php:253
+msgid "Advanced editor"
+msgstr "Avancerad redigerare"
+
+#: wordpress-add-custom-css.php:156
+msgid "If you like \"WP Add Custom CSS\" leave a"
+msgstr "Om du gillar ”WP Add Custom CSS” lämna en"
+
+#: wordpress-add-custom-css.php:156
+msgid "5 star review,"
+msgstr "5-stjärnig recension,"
+
+#: wordpress-add-custom-css.php:266
+msgid "Advanced editor layout"
+msgstr "Avancerad redigeringslayout"
+
+#: wordpress-add-custom-css.php:246
+msgid "Available post types"
+msgstr "Tillgängliga inläggstyper"
+
+#: wordpress-add-custom-css.php:240
+msgid "Post types"
+msgstr "Inläggstyper"
+
+#: wordpress-add-custom-css.php:178
+msgid "Enable page specific CSS for the post types below."
+msgstr "Aktivera sidspecifik CSS för inläggstyperna nedan."
+
+#: wordpress-add-custom-css.php:331
+msgid "Settings"
+msgstr "Inställningar"
+
+#: wordpress-add-custom-css.php:139
+msgid "Save"
+msgstr "Spara"
+
+#: wordpress-add-custom-css.php:128
+msgid "Add Custom CSS"
+msgstr "Lägg till anpassad CSS"
+
+#: wordpress-add-custom-css.php:91
+msgid "Custom CSS"
+msgstr "Anpassad CSS"
+
+#: wordpress-add-custom-css.php:233
+msgid "CSS rules"
+msgstr "CSS-regler"
+
+#: wordpress-add-custom-css.php:154
+msgid "Credits"
+msgstr "Erkännanden"
+
+#: wordpress-add-custom-css.php:157
+msgid "\"WP Add Custom CSS\" is a plugin by"
+msgstr "”WP Add Custom CSS” är ett tillägg av"
+
+#: wordpress-add-custom-css.php:119
+msgid "Add custom CSS rules for this %s"
+msgstr "Lägg till anpassade CSS-regler för denna %s"
+
+#: wordpress-add-custom-css.php:227
+msgid "Main CSS"
+msgstr "Huvud CSS"
+
+#: wordpress-add-custom-css.php:164
+msgid "Write here the CSS rules you want to apply to the whole website."
+msgstr "Skriv CSS-reglerna här som du vill tillämpa på hela webbplatsen."

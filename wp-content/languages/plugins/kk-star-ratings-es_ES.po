@@ -1,0 +1,342 @@
+# Translation of Plugins - kk Star Ratings - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - kk Star Ratings - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-12-18 11:51:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - kk Star Ratings - Stable (latest release)\n"
+
+#: src/core/filters/validate.php:39
+msgid "Not allowed at the moment."
+msgstr "No permitido en este momento."
+
+#: src/core/wp/actions/wp_ajax_kk-star-ratings.php:50
+msgid "The rating value must be between %1$d and %2$d."
+msgstr "El valor de la puntuación debe estar entre %1$d y %2$d."
+
+#: src/core/wp/actions/wp_ajax_kk-star-ratings.php:44
+msgid "A rating is required to cast a vote."
+msgstr "Es obligatorio puntuar para emitir un voto."
+
+#: src/core/wp/actions/wp_ajax_kk-star-ratings.php:40
+msgid "A rating can not be accepted at the moment."
+msgstr "No se puede aceptar la puntuación de momento."
+
+#: src/core/views/metabox/content.php:36
+msgctxt "label"
+msgid "Disable"
+msgstr "Desactivar"
+
+#: src/core/views/metabox/content.php:32
+msgctxt "label"
+msgid "Enable"
+msgstr "Activar"
+
+#: src/core/views/metabox/content.php:28
+msgctxt "label"
+msgid "Global"
+msgstr "Global"
+
+#: src/core/views/metabox/content.php:22
+msgctxt "label"
+msgid "Auto Embed"
+msgstr "Incrustar automáticamente"
+
+#: src/core/views/metabox/content.php:15
+msgctxt "label"
+msgid "Reset Ratings"
+msgstr "Restablecer puntuaciones"
+
+#: src/core/views/admin/tabs/rich-snippets.php:51
+msgctxt "Label"
+msgid "%s Total amount of stars"
+msgstr "Cantidad total de estrellas %s"
+
+#: src/core/views/admin/tabs/rich-snippets.php:49
+msgctxt "Label"
+msgid "%s Number of votes casted"
+msgstr "Número de votos emitidos %s"
+
+#: src/core/views/admin/tabs/rich-snippets.php:47
+msgctxt "Label"
+msgid "%s Average ratings"
+msgstr "Puntuación promedio %s"
+
+#: src/core/views/admin/tabs/rich-snippets.php:45
+msgctxt "Label"
+msgid "%s Post title"
+msgstr "Título de la entrada %s"
+
+#: src/core/views/admin/tabs/rich-snippets.php:41
+msgid "Provide the ld+json structure."
+msgstr "Proporciona la estructura ld+json"
+
+#: src/core/views/admin/tabs/rich-snippets.php:33
+msgctxt "Label"
+msgid "Content"
+msgstr "Contenido"
+
+#: src/core/views/admin/tabs/rich-snippets.php:22
+msgctxt "Label"
+msgid "Enable"
+msgstr "Activar"
+
+#: src/core/views/admin/tabs/general.php:121
+msgid "The posts belonging to the selected categories will not auto-embed the star ratings. You may still manually show the star ratings. E.g. Using %s in your theme/template file(s)."
+msgstr "A las entradas que pertenecen a las categorías seleccionadas no se añadirán automáticamente las puntuaciones de estrellas. Todavía podrías mostrar manualmente las puntuaciones de estrellas. Ej.: Usando %s en el archivo(s) de tu tema/plantilla."
+
+#: src/core/views/admin/tabs/general.php:109
+msgctxt "Label"
+msgid "Exclude Categories"
+msgstr "Excluir categorías"
+
+#: src/core/views/admin/tabs/general.php:101
+msgid "Star ratings will be auto-embedded for the selected locations. You may still manually allow star ratings for unselected/other locations. E.g. Using %s in your theme/template file(s)."
+msgstr "Las valoraciones con estrellas se incrustarán automáticamente para las ubicaciones seleccionadas. Todavía puedes permitir manualmente las valoraciones con estrellas para las ubicaciones no seleccionadas u otras. Por ejemplo, usando %s en tu(s) archivo(s) del tema/plantilla."
+
+#: src/core/views/admin/tabs/general.php:89
+msgctxt "Label"
+msgid "Locations"
+msgstr "Ubicaciones"
+
+#: src/core/views/admin/tabs/general.php:69
+msgctxt "Label"
+msgid "Strategies"
+msgstr "Estrategias"
+
+#: src/core/views/admin/tabs/general.php:58
+msgctxt "Label"
+msgid "Active"
+msgstr "Activo"
+
+#: src/core/views/admin/tabs/general.php:53
+#: src/core/views/admin/tabs/rich-snippets.php:17
+msgctxt "Label"
+msgid "Status"
+msgstr "Estado"
+
+#: src/core/views/admin/tabs/general.php:42
+msgctxt "Label"
+msgid "Allow guests to vote"
+msgstr "Permitir votar a los invitados"
+
+#: src/core/views/admin/tabs/general.php:41
+msgctxt "Label"
+msgid "Allow voting in archives"
+msgstr "Permitir votar en archivos"
+
+#: src/core/views/admin/tabs/general.php:37
+msgctxt "Label"
+msgid "Archives"
+msgstr "Archivos"
+
+#: src/core/views/admin/tabs/general.php:36
+msgctxt "Label"
+msgid "Home"
+msgstr "Inicio"
+
+#: src/core/views/admin/tabs/appearance.php:140
+msgid "Choose the default position for the auto-embedded star ratings."
+msgstr "Elige la posición por defecto para insertar automáticamente las puntuaciones de estrellas."
+
+#: src/core/views/admin/tabs/appearance.php:128
+msgctxt "Label"
+msgid "Default Position"
+msgstr "Posición por defecto"
+
+#: src/core/views/admin/tabs/appearance.php:112
+msgctxt "Label"
+msgid "Size"
+msgstr "Tamaño"
+
+#: src/core/views/admin/tabs/appearance.php:95
+msgctxt "Label"
+msgid "Gap"
+msgstr "Espacio"
+
+#: src/core/views/admin/tabs/appearance.php:78
+msgctxt "Label"
+msgid "Stars"
+msgstr "Estrellas"
+
+#: src/core/views/admin/tabs/appearance.php:69
+msgid "%s Votes"
+msgstr "%s votos"
+
+#: src/core/views/admin/tabs/appearance.php:63
+msgid "%s Average ratings"
+msgstr "Puntuación promedio %s"
+
+#: src/core/views/admin/tabs/appearance.php:59
+msgid "Text that will be displayed when votes have been casted."
+msgstr "El texto que se mostrará cuando se hayan emitido votos."
+
+#: src/core/views/admin/tabs/appearance.php:51
+msgctxt "Label"
+msgid "Legend"
+msgstr "Leyenda"
+
+#: src/core/views/admin/tabs/appearance.php:30
+msgctxt "Label"
+msgid "Greeting"
+msgstr "Saludo"
+
+#: src/core/views/admin/tabs/appearance.php:20
+msgctxt "Label"
+msgid "Bottom Right"
+msgstr "Abajo a la derecha"
+
+#: src/core/views/admin/tabs/appearance.php:19
+msgctxt "Label"
+msgid "Bottom Center"
+msgstr "Abajo en el centro"
+
+#: src/core/views/admin/tabs/appearance.php:18
+msgctxt "Label"
+msgid "Bottom Left"
+msgstr "Abajo a la izquierda"
+
+#: src/core/views/admin/tabs/appearance.php:17
+msgctxt "Label"
+msgid "Top Right"
+msgstr "Arriba a la derecha"
+
+#: src/core/views/admin/tabs/appearance.php:16
+msgctxt "Label"
+msgid "Top Center"
+msgstr "Arriba en el centro"
+
+#: src/core/views/admin/tabs/appearance.php:15
+msgctxt "Label"
+msgid "Top Left"
+msgstr "Arriba a la izquierda"
+
+#: src/core/views/admin/index.php:19
+msgid "Options saved."
+msgstr "Opciones guardadas."
+
+#: src/core/filters/validate.php:61
+msgid "You have already casted your vote."
+msgstr "Ya has emitido tu voto."
+
+#: src/core/filters/validate.php:53
+msgid "You need to be authenticated to cast a vote."
+msgstr "Tienes que identificarte para emitir un voto."
+
+#: src/core/filters/validate.php:47
+msgid "You can not cast a vote in archives."
+msgstr "No puedes emitir un voto en los archivos."
+
+#: src/core/filters/validate.php:31
+msgid "The ratings are readonly."
+msgstr "Las puntuaciones son de solo lectura."
+
+#: src/core/filters/admin/tabs.php:24
+msgctxt "Label"
+msgid "Rich Snippets"
+msgstr "Snippets enriquecidos"
+
+#: src/core/filters/admin/tabs.php:23
+msgctxt "Label"
+msgid "Appearance"
+msgstr "Apariencia"
+
+#: src/core/filters/admin/tabs.php:22
+msgctxt "Label"
+msgid "General"
+msgstr "General"
+
+#: src/core/actions/admin/index.php:88
+msgid "There were some errors while saving the options."
+msgstr "Ocurrieron algunos errores al guardar las opciones."
+
+#: src/core/actions/admin/index.php:57
+msgid "You can only save the options via the admin."
+msgstr "Solo puedes guardar opciones a través de la administración."
+
+#: src/core/views/admin/tabs/appearance.php:103
+msgid "Gap between the stars."
+msgstr "Espacio entre las estrellas."
+
+#: src/core/functions/response.php:47
+msgid "vote"
+msgid_plural "votes"
+msgstr[0] "voto"
+msgstr[1] "votos"
+
+#: src/core/views/admin/tabs/appearance.php:42
+msgid "%s Post Type"
+msgstr "Tipo de contenido %s"
+
+#: src/core/views/admin/tabs/appearance.php:38
+msgid "Text that will be displayed when no votes have been casted."
+msgstr "El texto que se mostrará cuando no se hayan emitido votos."
+
+#: src/core/views/admin/tabs/appearance.php:67
+msgid "%s Total amount of stars"
+msgstr "Cantidad total de estrellas %s"
+
+#: src/core/views/admin/tabs/appearance.php:65
+msgid "%s Number of votes casted"
+msgstr "Número de votos emitidos %s"
+
+#: src/core/views/admin/tabs/appearance.php:40
+#: src/core/views/admin/tabs/appearance.php:61
+#: src/core/views/admin/tabs/rich-snippets.php:43
+msgid "The following variables are available:"
+msgstr "Están disponibles las siguientes variables:"
+
+#: src/core/views/admin/tabs/rich-snippets.php:25
+msgid "Enable/disable rich snippets."
+msgstr "Activar/desactivar los snippets enriquecidos."
+
+#: src/core/wp/actions/wp_ajax_kk-star-ratings.php:30
+#: src/core/wp/actions/wp_ajax_kksr-migrations.php:28
+msgid "This action is forbidden."
+msgstr "Esta acción está prohibida."
+
+#: src/core/views/admin/tabs/appearance.php:120
+msgid "Size of a single star."
+msgstr "Tamaño de una sola estrella."
+
+#: src/core/views/admin/tabs/appearance.php:86
+msgid "Total number of stars."
+msgstr "Número total de estrellas."
+
+#: src/core/views/admin/tabs/general.php:43
+msgctxt "Label"
+msgid "Unique votes (based on IP Address)"
+msgstr "Votos únicos (basado en la dirección IP)"
+
+#: src/core/views/admin/tabs/general.php:81
+msgid "Select the voting strategies."
+msgstr "Selecciona las estrategias de votación."
+
+#: src/core/views/admin/tabs/general.php:61
+msgid "Globally activate/deactivate the star ratings."
+msgstr "Activar/desactivar globalmente las valoraciones de estrellas."
+
+#. Author URI of the plugin
+msgid "http://bhittani.com"
+msgstr "http://bhittani.com"
+
+#. Author of the plugin
+msgid "Kamal Khan"
+msgstr "Kamal Khan"
+
+#. Description of the plugin
+msgid "Allow blog visitors to involve and interact more effectively with your website by rating posts."
+msgstr "Permite que los visitantes del blog participen e interactúen de forma más efectiva con tu web puntuando las entradas."
+
+#. Plugin URI of the plugin
+msgid "https://github.com/kamalkhan/kk-star-ratings"
+msgstr "https://github.com/kamalkhan/kk-star-ratings"
+
+#. Plugin Name of the plugin
+msgid "kk Star Ratings"
+msgstr "kk Star Ratings"

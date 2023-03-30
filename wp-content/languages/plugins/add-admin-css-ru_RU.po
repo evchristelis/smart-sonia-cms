@@ -1,0 +1,134 @@
+# Translation of Plugins - Add Admin CSS - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Add Admin CSS - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-22 11:59:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Add Admin CSS - Stable (latest release)\n"
+
+#: add-admin-css.php:219
+msgid "More Plugin Help"
+msgstr "Дополнительная помощь по плагину"
+
+#. translators: %s: The setting configuration key name.
+#: add-admin-css.php:241
+msgid "The plugin configuration option '%s' must be supplied."
+msgstr "Опция конфигурации плагина '%s' должна быть настроена."
+
+#: add-admin-css.php:229
+msgid "Settings"
+msgstr "Настройки"
+
+#: add-admin-css.php:225
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: add-admin-css.php:260
+msgid "Add Admin CSS Settings"
+msgstr "Настройки Add Admin CSS"
+
+#. Plugin Name of the plugin
+#: add-admin-css.php:136
+msgid "Add Admin CSS"
+msgstr "Add Admin CSS"
+
+#: add-admin-css.php:137 add-admin-css.php:152
+msgid "Admin CSS"
+msgstr "CSS для админ-панели"
+
+#: add-admin-css.php:144
+msgid "Admin CSS Files"
+msgstr "Файлы CSS для админ-панели"
+
+#: add-admin-css.php:306 add-admin-css.php:328
+msgid "Advanced Tips"
+msgstr "Дополнительные советы"
+
+#: add-admin-css.php:217
+msgid "More Help"
+msgstr "Дополнительная помощь"
+
+#. translators: 1: plugin name 2: plugin version
+#: add-admin-css.php:215
+msgid "More information about %1$s %2$s"
+msgstr "Более подробная информация о %1$s %2$s"
+
+#: add-admin-css.php:199
+msgid "Click for more help on this plugin"
+msgstr "Нажмите для получения дополнительной помощи по этому плагину"
+
+#: add-admin-css.php:223
+msgid "Reset Settings"
+msgstr "Сбросить настройки"
+
+#: add-admin-css.php:205
+msgid "Did you find this plugin useful?"
+msgstr "Вы считаете этот плагин полезным?"
+
+#. Author of the plugin
+msgid "Scott Reilly"
+msgstr "Scott Reilly"
+
+#. translators: %s: Path to the plugin file.
+#: add-admin-css.php:212
+msgid "Invalid file specified for C2C_Plugin: %s"
+msgstr "Неверный файл, указанный для C2C_Plugin: %s"
+
+#. translators: %s: Link to plugin author's homepage.
+#: add-admin-css.php:244
+msgid "This plugin brought to you by %s."
+msgstr "Этот плагин предоставил вам %s."
+
+#. translators: %s: Label for setting.
+#: add-admin-css.php:197
+msgid "A value is required for: \"%s\""
+msgstr "Значение требуется для: \"%s\""
+
+#: add-admin-css.php:330
+msgid "You can also programmatically add to or customize any CSS defined in the \"Admin CSS\" field via the <code>c2c_add_admin_css</code> filter, like so:"
+msgstr "Вы также можете программно добавить или изменить любой CSS, указанный в поле \"CSS для админ-панели\" с помощью фильтра <code>c2c_add_admin_css</code>, вот так:"
+
+#: add-admin-css.php:265
+msgid "See the \"Advanced Tips\" tab in the \"Help\" section for info on how to use the plugin to programmatically customize CSS."
+msgstr "Смотрите вкладку \"Дополнительные советы\" в разделе \"Помощь\" для получения информации о том, как использовать плагин для программного изменения CSS."
+
+#: add-admin-css.php:262
+msgid "Add additional CSS to your admin pages, which allows you to tweak the appearance of the WordPress administration pages to your liking."
+msgstr "Добавляет дополнительные CSS-правила для страниц админ-панели, позволяющие настроить внешний вид страниц администрирования WordPress по своему вкусу."
+
+#: add-admin-css.php:153
+msgid "Note that the above CSS will be added to all admin pages and apply for all users able to view those pages."
+msgstr "Отметим, что приведенный выше CSS будет добавлен ко всем страницам админ-панели и применится для всех пользователей имеющих возможность просмотра этих страниц."
+
+#: add-admin-css.php:231
+msgid "Settings reset."
+msgstr "Настройки сброшены."
+
+#: add-admin-css.php:209
+msgid "Expected integer value for: %s"
+msgstr "Ожидалось целое значение для: %s"
+
+#: add-admin-css.php:227
+msgid "See the \"Help\" link to the top-right of the page for more help."
+msgstr "Нажмите на \"Помощь\" в правом верхнем углу страницы для получения дополнительной помощи."
+
+#: add-admin-css.php:201
+msgid " (especially check out the \"Other Notes\" tab, if present)"
+msgstr "(особенно ознакомьтесь с вкладкой \"Другие примечания\", если она присутствует)"
+
+#: add-admin-css.php:203
+msgid "Coffee fuels my coding."
+msgstr "Кофе — топливо для моего кода."
+
+#: add-admin-css.php:221
+msgid "Please consider a donation"
+msgstr "Пожалуйста, обратите внимание на пожертвование"
+
+#: add-admin-css.php:344
+msgid "You can also programmatically add to or customize any referenced CSS files defined in the \"Admin CSS Files\" field via the <code>c2c_add_admin_css_files</code> filter, like so:"
+msgstr "Вы также можете программно добавить или изменить ссылки на CSS-файлы, указанные в поле \"Файлы CSS для админ-панели\" с помощью фильтра <code>c2c_add_admin_css_files</code>, вот так:"

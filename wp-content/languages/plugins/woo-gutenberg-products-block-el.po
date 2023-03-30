@@ -1,0 +1,1457 @@
+# Translation of Plugins - WooCommerce Blocks - Stable (latest release) in Greek
+# This file is distributed under the same license as the Plugins - WooCommerce Blocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-02-19 17:10:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: el_GR\n"
+"Project-Id-Version: Plugins - WooCommerce Blocks - Stable (latest release)\n"
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-shipping-methods-block/block.json
+#: build/inner-blocks/checkout-shipping-methods-block/block.json
+msgctxt "block title"
+msgid "Shipping Options"
+msgstr "Επιλογές αποστολής"
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-terms-block/block.json
+#: build/inner-blocks/checkout-terms-block/block.json
+msgctxt "block title"
+msgid "Terms and Conditions"
+msgstr "Όροι και Προϋποθέσεις"
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-contact-information-block/block.json
+#: build/inner-blocks/checkout-contact-information-block/block.json
+msgctxt "block title"
+msgid "Contact Information"
+msgstr "Πληροφορίες Επικοινωνίας"
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-actions-block/block.json
+#: build/inner-blocks/checkout-actions-block/block.json
+msgctxt "block title"
+msgid "Actions"
+msgstr "Ενέργειες"
+
+#: assets/js/blocks/cart/inner-blocks/proceed-to-checkout-block/block.json
+#: build/inner-blocks/proceed-to-checkout-block/block.json
+msgctxt "block description"
+msgid "Allow customers proceed to Checkout."
+msgstr "Επιτρέψτε στους πελάτες να προχωρήσουν στη σελίδα Ταμείου."
+
+#: assets/js/blocks/cart/inner-blocks/empty-cart-block/block.json
+#: build/inner-blocks/empty-cart-block/block.json
+msgctxt "block title"
+msgid "Empty Cart"
+msgstr "Άδειο καλάθι"
+
+#: assets/js/blocks/cart/inner-blocks/cart-totals-block/block.json
+#: build/inner-blocks/cart-totals-block/block.json
+msgctxt "block description"
+msgid "Column containing the cart totals."
+msgstr "Στήλη που περιλαμβάνει τα σύνολα καλαθιού."
+
+#: assets/js/blocks/cart/inner-blocks/cart-totals-block/block.json
+#: build/inner-blocks/cart-totals-block/block.json
+msgctxt "block title"
+msgid "Cart Totals"
+msgstr "Σύνολα καλαθιού"
+
+#: assets/js/blocks/cart/inner-blocks/cart-order-summary-block/block.json
+#: assets/js/blocks/checkout/inner-blocks/checkout-order-summary-block/block.json
+#: build/inner-blocks/cart-order-summary-block/block.json
+#: build/inner-blocks/checkout-order-summary-block/block.json
+msgctxt "block title"
+msgid "Order Summary"
+msgstr "Σύνοψη παραγγελίας"
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-shipping-address-block/block.json
+#: build/inner-blocks/checkout-shipping-address-block/block.json
+msgctxt "block title"
+msgid "Shipping Address"
+msgstr "Διεύθυνση Αποστολής"
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-payment-block/block.json
+#: build/inner-blocks/checkout-payment-block/block.json
+msgctxt "block description"
+msgid "Payment options for your store."
+msgstr "Επιλογές πληρωμής για το κατάστημά σας."
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-billing-address-block/block.json
+#: build/inner-blocks/checkout-billing-address-block/block.json
+msgctxt "block title"
+msgid "Billing Address"
+msgstr "Διεύθυνση Χρέωσης"
+
+#: assets/js/blocks/cart/inner-blocks/proceed-to-checkout-block/block.json
+#: build/inner-blocks/proceed-to-checkout-block/block.json
+msgctxt "block title"
+msgid "Proceed to Checkout"
+msgstr "Συνέχεια στην ολοκλήρωση της παραγγελίας"
+
+#: src/StoreApi/Schemas/V1/ProductCollectionDataSchema.php:107
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: src/StoreApi/Routes/V1/CartExtensions.php:50
+msgid "Additional data to pass to the extension"
+msgstr "Πρόσθετα δεδομένα που θα διαβιβαστούν στην επέκταση"
+
+#: src/StoreApi/Routes/V1/CartExtensions.php:46
+msgid "Extension's name - this will be used to ensure the data in the request is routed appropriately."
+msgstr "Όνομα επέκτασης - αυτό θα χρησιμοποιηθεί για να διασφαλιστεί ότι τα δεδομένα στο αίτημα δρομολογηθούν κατάλληλα."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:291
+msgid "The rate at which tax is applied."
+msgstr "Ο συντελεστής με τον οποίο εφαρμόζεται ο φόρος."
+
+#. translators: %s: Integration name.
+#: src/Integrations/IntegrationRegistry.php:67
+msgid "\"%s\" is already registered."
+msgstr "Το \"%s\" είναι ήδη καταχωρημένο."
+
+#: src/BlockTypes/AbstractBlock.php:111
+msgid "Block name is required."
+msgstr "Απαιτείται όνομα μπλοκ."
+
+#. translators: %s: Integration name.
+#: src/Integrations/IntegrationRegistry.php:98
+msgid "Integration \"%s\" is not registered."
+msgstr "Η ενσωμάτωση \"%s\" δεν έχει καταχωρηθεί."
+
+#: src/Integrations/IntegrationRegistry.php:35
+msgid "Integration registry requires an identifier."
+msgstr "Integration registry requires an identifier."
+
+#: src/StoreApi/Utilities/CartController.php:394
+msgid "There was an error with an item in your cart."
+msgstr "Παρουσιάστηκε σφάλμα με κάποιο αντικείμενο στο καλάθι σας."
+
+#. translators: %s: product names.
+#: src/StoreApi/Utilities/CartController.php:380
+msgid "There are not enough %s in stock. Please reduce the quantities in your cart."
+msgstr "Δεν υπάρχει αρκετό απόθεμα από %s. Παρακαλούμε μειώστε την ποσότητα στο καλάθι σας."
+
+#. translators: %s: product names.
+#: src/StoreApi/Utilities/CartController.php:375
+msgid "There is not enough %s in stock. Please reduce the quantity in your cart."
+msgstr "Δεν υπάρχει αρκετό απόθεμα από %s. Παρακαλούμε μειώστε την ποσότητα στο καλάθι σας."
+
+#. translators: %s: product names.
+#: src/StoreApi/Utilities/CartController.php:368
+msgid "There are too many %s in the cart. Only 1 of each can be purchased. Please reduce the quantities in your cart."
+msgstr "Υπάρχουν πάρα πολλά από %s στο καλάθι. Μόνο 1 από το κάθε ένα μπορεί να αγορασθεί. Παρακαλούμε μειώστε τις ποσότητες στο καλάθι σας."
+
+#. translators: %s: product names.
+#: src/StoreApi/Utilities/CartController.php:344
+msgid "%s are out of stock and cannot be purchased. Please remove them from your cart."
+msgstr "Το %s είναι χωρίς απόθεμα και δεν μπορεί να αγορασθεί. Παρακαλούμε αφαιρέστε το από το καλάθι σας."
+
+#. translators: 1: The first n-1 items of a list 2: the last item in the list.
+#: src/StoreApi/Utilities/ArrayUtils.php:29
+msgid "%1$s and %2$s"
+msgstr "%1$s και %2$s"
+
+#. translators: %s: product names.
+#: src/StoreApi/Utilities/CartController.php:356
+msgid "%s cannot be purchased. Please remove them from your cart."
+msgstr "%s δεν είναι δυνατή η αγορά του. Παρακαλώ αφαιρέστε τα από το καλάθι σας."
+
+#. translators: %s: product name.
+#: src/StoreApi/Utilities/CartController.php:339
+msgid "%s is out of stock and cannot be purchased. Please remove it from your cart."
+msgstr "Το %s είναι χωρίς απόθεμα και δεν μπορεί να αγορασθεί. Παρακαλούμε αφαιρέστε το από το καλάθι σας."
+
+#. translators: %s: product names.
+#: src/StoreApi/Utilities/CartController.php:363
+msgid "There are too many %s in the cart. Only 1 can be purchased. Please reduce the quantity in your cart."
+msgstr "Υπάρχουν πάρα πολλά %s στο καρότσι. Μόνο 1 μπορεί να αγοραστεί. Μειώστε την ποσότητα στο καλάθι σας."
+
+#. translators: %s: product name.
+#: src/StoreApi/Utilities/CartController.php:351
+msgid "%s cannot be purchased. Please remove it from your cart."
+msgstr "Δεν είναι δυνατή η αγορά του %s.  Παρακαλώ αφαιρέστε το από το καλάθι σας."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:313
+msgid "List of required payment gateway features to process the order."
+msgstr "Λίστα απαιτούμενων δυνατοτήτων πύλης πληρωμής για την επεξεργασία της παραγγελίας."
+
+#: src/StoreApi/Schemas/V1/CartFeeSchema.php:36
+msgid "Fee name."
+msgstr "Όνομα τέλους."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:193
+msgid "List of cart fees."
+msgstr "Κατάλογος χρεώσεων καλαθιού."
+
+#: src/StoreApi/Schemas/V1/CartItemSchema.php:175
+msgid "Metadata related to the cart item"
+msgstr "Μεταδεδομένα που σχετίζονται με το στοιχείο καλαθιού"
+
+#: src/StoreApi/Schemas/V1/CartItemSchema.php:183
+msgid "Name of the metadata."
+msgstr "Όνομα των μεταδεδομένων."
+
+#: src/StoreApi/Schemas/V1/CartItemSchema.php:195
+msgid "Optionally, how the metadata value should be displayed to the user."
+msgstr "Προαιρετικά, πώς πρέπει να εμφανίζεται η τιμή μετα-δεδομένων στο χρήστη."
+
+#: src/StoreApi/Schemas/V1/CartItemSchema.php:189
+msgid "Value of the metadata."
+msgstr "Τιμή των μετα-δεδομένων."
+
+#: src/StoreApi/Schemas/V1/CartFeeSchema.php:50
+msgid "Total amount for this fee."
+msgstr "Συνολικό ποσό γι' αυτή τη χρέωση."
+
+#: src/StoreApi/Utilities/OrderController.php:300
+msgid "shipping address"
+msgstr "διεύθυνση αποστολής"
+
+#: src/StoreApi/Schemas/V1/AbstractAddressSchema.php:157
+msgid "The provided phone number is not valid"
+msgstr "Ο τηλεφωνικός αριθμός που εισάγατε δεν είναι έγκυρος"
+
+#: src/StoreApi/Schemas/V1/BillingAddressSchema.php:77
+msgid "The provided email address is not valid"
+msgstr "Η διεύθυνση ηλεκτρονικού ταχυδρομείου που εισάγατε δεν είναι έγκυρη"
+
+#. translators: %s Field label.
+#: src/StoreApi/Utilities/OrderController.php:387
+msgid "%s is required"
+msgstr "Το %s είναι υποχρεωτικό"
+
+#: src/StoreApi/Utilities/OrderController.php:218
+msgid "A valid email address is required"
+msgstr "Απαιτείται έγκυρη διεύθυνση email"
+
+#. translators: %s valid country codes
+#: src/StoreApi/Schemas/V1/AbstractAddressSchema.php:128
+msgid "Invalid country code provided. Must be one of: %s"
+msgstr "Παρέχεται μη έγκυρος κωδικός χώρας. Πρέπει να είναι ένα από τα: %s"
+
+#. translators: %s country code.
+#: src/StoreApi/Utilities/OrderController.php:268
+msgid "Sorry, we do not allow orders from the provided country (%s)"
+msgstr "Λυπούμαστε, δεν επιτρέπουμε παραγγελίες από την παρεχόμενη χώρα (%s)"
+
+#. translators: %s country code.
+#: src/StoreApi/Utilities/OrderController.php:253
+msgid "Sorry, we do not ship orders to the provided country (%s)"
+msgstr "Λυπούμαστε, δεν στέλνουμε παραγγελίες στην παρεχόμενη χώρα (%s)"
+
+#. translators: %s provided email.
+#: src/StoreApi/Utilities/OrderController.php:228
+msgid "The provided email address (%s) is not valid—please provide a valid email address"
+msgstr "Η παρεχόμενη διεύθυνση ηλεκτρονικού ταχυδρομείου (%s) δεν είναι έγκυρη— δώστε μια έγκυρη διεύθυνση ηλεκτρονικού ταχυδρομείου"
+
+#: src/StoreApi/Schemas/V1/AbstractAddressSchema.php:150
+msgid "The provided postcode / ZIP is not valid"
+msgstr "Ο παρεχόμενος ταχυδρομικός κώδικας / ZIP δεν είναι έγκυρος"
+
+#. translators: %s Address type.
+#: src/StoreApi/Utilities/OrderController.php:299
+msgid "There was a problem with the provided %s:"
+msgstr "Παρουσιάστηκε πρόβλημα με την παρεχόμενη %s:"
+
+#: src/StoreApi/Utilities/OrderController.php:300
+msgid "billing address"
+msgstr "διεύθυνση χρέωσης"
+
+#. translators: %1$s given state, %2$s valid states
+#: src/StoreApi/Schemas/V1/AbstractAddressSchema.php:140
+msgid "The provided state (%1$s) is not valid. Must be one of: %2$s"
+msgstr "Η παρεχόμενη κατάσταση (%1$s) δεν είναι έγκυρη. Πρέπει να είναι ένα από τα: %2$s"
+
+#: src/StoreApi/Routes/V1/Checkout.php:630
+msgid "An account is already registered with your email address. Please log in before proceeding."
+msgstr "Ένας λογαριασμός είναι ήδη εγγεγραμμένος στη διεύθυνση ηλεκτρονικού ταχυδρομείου σας. Συνδεθείτε πριν προχωρήσετε."
+
+#: src/StoreApi/Routes/V1/Checkout.php:359
+msgid "Unable to create order"
+msgstr "Αδυναμία δημιουργίας παραγγελίας"
+
+#: src/StoreApi/Schemas/V1/CartItemSchema.php:320
+msgid "Whether the product is visible in the catalog"
+msgstr "Αν το προϊόν είναι ορατό στον κατάλογο"
+
+#: src/StoreApi/Schemas/V1/CartCouponSchema.php:32
+msgid "The coupon's unique code."
+msgstr "Ο μοναδικός κωδικός του κουπονιού."
+
+#. translators: %s: Customer username
+#: templates/emails/plain/customer-new-account-blocks.php:19
+msgid "Hi %s,"
+msgstr "Γεια σου, %s,"
+
+#: templates/emails/customer-new-account-blocks.php:21
+msgid "Click here to set your new password."
+msgstr "Κάντε κλικ εδώ για να ορίσετε το νέο συνθηματικό σας."
+
+#. translators: %s: Customer username
+#: templates/emails/customer-new-account-blocks.php:17
+msgid "Hello %s,"
+msgstr "Γεια σας %s,"
+
+#: src/Domain/Services/Email/CustomerNewAccount.php:57
+msgid "New account"
+msgstr "Νέος λογαριασμός"
+
+#: src/StoreApi/Routes/V1/Checkout.php:624
+msgid "Please provide a valid email address."
+msgstr "Εισάγετε έγκυρη διεύθυνση email."
+
+#. translators: %1$s: Site title, %2$s: Username, %3$s: My account link
+#: templates/emails/customer-new-account-blocks.php:19
+#: templates/emails/plain/customer-new-account-blocks.php:21
+msgid "Thanks for creating an account on %1$s. Your username is %2$s. You can access your account area to view orders, change your password, and more at: %3$s"
+msgstr "Σας ευχαριστούμε που δημιουργήσατε λογαριασμό στο %1$s. Ως υπενθύμιση, το όνομα χρήστη που επιλέξατε είναι %2$s. Μπορείτε να αποκτήσετε πρόσβαση στην περιοχή του λογαριασμού σας για να προβάλετε παραγγελίες, να αλλάξετε τον κωδικό πρόσβασής σας και πολλά άλλα στο: %3$s"
+
+#: src/Domain/Services/Email/CustomerNewAccount.php:172
+msgid "We look forward to seeing you soon."
+msgstr "Ανυπομονούμε να σας δούμε σύντομα."
+
+#: src/Domain/Services/Email/CustomerNewAccount.php:84
+msgid "Welcome to {site_title}"
+msgstr "Καλώς ήλθατε στον ιστότοπο {site_title}"
+
+#: src/StoreApi/Schemas/V1/CheckoutSchema.php:118
+msgid "Whether to create a new user account as part of order processing."
+msgstr "Εάν θα δημιουργηθεί νέος λογαριασμός χρήστη κατά την επεξεργασία της παραγγελίας."
+
+#: src/Domain/Services/Email/CustomerNewAccount.php:74
+msgid "Your {site_title} account has been created!"
+msgstr "Ο λογαριασμός σας στο {site_title} δημιουργήθηκε!"
+
+#: templates/emails/plain/customer-new-account-blocks.php:24
+msgid "To set your password, visit the following address: "
+msgstr "Για να ορίσετε το συνθηματικό σας, επισκεφθείτε την ακόλουθη διεύθυνση: "
+
+#: src/BlockTypes/ProductStockIndicator.php:84 build/all-products.js:26
+#: build/cart-blocks/cart-line-items--mini-cart-contents-block/products-table-frontend.js:3
+#: build/cart.js:43
+#: build/checkout-blocks/order-summary-cart-items-frontend.js:3
+#: build/checkout.js:17 build/mini-cart-contents.js:17
+#: build/product-stock-indicator-frontend.js:3
+#: build/product-stock-indicator.js:3
+msgid "Available on backorder"
+msgstr "Διαθέσιμο σε λίστα αναμονής"
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:412
+msgid "Add to cart URL."
+msgstr "URL προσθήκης στο καλάθι."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:209
+msgid "Category link"
+msgstr "Σύνδεσμος κατηγορίας"
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:197
+msgid "Category name"
+msgstr "Όνομα κατηγορίας"
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:358
+msgid "Does the product have additional options before it can be added to the cart?"
+msgstr "Διαθέτει το προϊόν επιπρόσθετες επιλογές, απαραίτητες προκειμένου να μπορέσει να προστεθεί στο καλάθι;"
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:376
+msgid "Is the product stock backordered? This will also return false if backorder notifications are turned off."
+msgstr "Είναι το προϊόν σε λίστα αναμονής; Θα επιστρέψει επίσης λάθος (boolean false) σε περίπτωση που οι ειδοποιήσεις σχετικά με τη λίστα αναμονής είναι απενεργοποιημένες."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:283
+msgid "List of assigned attribute terms."
+msgstr "Λίστα των ανατεθειμένων όρων της ιδιότητας."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:184
+msgid "List of categories, if applicable."
+msgstr "Λίστα κατηγοριών, εάν υπάρχουν."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:218
+msgid "List of tags, if applicable."
+msgstr "Λίστα ετικετών, εάν υπάρχει."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:333
+msgid "List of variation attributes."
+msgstr "Λίστα των χαρακτηριστικών της παραλλαγής."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:243
+msgid "Tag link"
+msgstr "Σύνδεσμος ετικέτας"
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:346
+msgid "The assigned attribute."
+msgstr "Η ανατεθειμένη τιμή ιδιότητας."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:259
+#: src/StoreApi/Schemas/V1/ProductSchema.php:327
+msgid "The attribute ID, or 0 if the attribute is not taxonomy based."
+msgstr "Το ID της ιδιότητας, ή 0 εάν η ιδιότητα δεν είναι βασισμένη σε ταξινομία."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:265
+#: src/StoreApi/Schemas/V1/ProductSchema.php:340
+msgid "The attribute name."
+msgstr "Το όνομα χαρακτηριστικού."
+
+#: src/StoreApi/Schemas/V1/ProductAttributeSchema.php:42
+msgid "The attribute taxonomy name."
+msgstr "Το όνομα ταξινομίας του χαρακτηριστικού."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:271
+msgid "The attribute taxonomy, or null if the attribute is not taxonomy based."
+msgstr "Η ταξινομία της ιδιότητας, ή null εάν η ιδιότητα δεν είναι βασισμένη σε ταξινομία."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:290
+msgid "The term ID, or 0 if the attribute is not a global attribute."
+msgstr "Το ID του όρου, ή 0 εάν η ιδιότητα δεν είναι καθολική."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:296
+msgid "The term name."
+msgstr "Το όνομα όρου."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:302
+msgid "The term slug."
+msgstr "Το σύντομο όνομα του όρου."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:277
+msgid "True if this attribute is used by product variations."
+msgstr "Αληθές εάν αυτή η ιδιότητα χρησιμοποιείται στις παραλλαγές του προϊόντος."
+
+#: src/BlockTypes/MiniCart.php:531
+#: assets/js/blocks/checkout/empty-cart/index.js:23 build/cart.js:59
+#: build/checkout-frontend.js:3
+msgid "Your cart is currently empty!"
+msgstr "Το καλάθι αυτή τη στιγμή είναι άδειο!"
+
+#: src/Domain/Services/DraftOrders.php:79
+#: src/Domain/Services/DraftOrders.php:103
+msgctxt "Order status"
+msgid "Draft"
+msgstr "Προσχέδιο"
+
+#. translators: If your word count is based on single characters (e.g. East
+#. Asian characters), enter 'characters_excluding_spaces' or
+#. 'characters_including_spaces'. Otherwise, enter 'words'. Do not translate
+#. into your own language.
+#: src/BlockTypes/AbstractBlock.php:410
+msgctxt "Word count type. Do not translate!"
+msgid "words"
+msgstr "λέξεις"
+
+#: src/Shipping/PickupLocation.php:16 src/Shipping/PickupLocation.php:106
+#: build/cart-frontend.js:3 build/cart.js:51 build/checkout-frontend.js:3
+#: build/checkout.js:25 build/mini-cart-contents.js:19
+#: build/wc-blocks-data.js:13
+msgid "Local pickup"
+msgstr "Παραλαβή από το κατάστημα"
+
+#. translators: %d is number of items in stock for product
+#. translators: %d stock amount (number of items in stock for product)
+#: src/BlockTypes/ProductStockIndicator.php:80 build/all-products.js:26
+#: build/cart-blocks/cart-line-items--mini-cart-contents-block/products-table-frontend.js:5
+#: build/cart.js:45
+#: build/checkout-blocks/order-summary-cart-items-frontend.js:5
+#: build/checkout.js:19 build/mini-cart-contents.js:19
+#: build/product-stock-indicator-frontend.js:3
+#: build/product-stock-indicator.js:3
+msgid "%d left in stock"
+msgstr "%d απομένουν σε απόθεμα"
+
+#: src/StoreApi/Utilities/OrderController.php:366 build/wc-settings.js:1
+msgid "State/County"
+msgstr "Πολιτεία/Κομητεία"
+
+#: src/StoreApi/Utilities/OrderController.php:358 build/wc-settings.js:1
+msgid "Country/Region"
+msgstr "Χώρα/Περιοχή"
+
+#. translators: %s: number of orders
+#: src/Domain/Services/DraftOrders.php:109
+msgid "Drafts <span class=\"count\">(%s)</span>"
+msgid_plural "Drafts <span class=\"count\">(%s)</span>"
+msgstr[0] "Προσχέδια <span class=\"count\">(%s)</span>"
+msgstr[1] "Προσχέδια <span class=\"count\">(%s)</span>"
+
+#: src/BlockTypes/Checkout.php:424
+msgid "Credit card"
+msgstr "Πιστωτική κάρτα"
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:320
+msgid "List of variation IDs, if applicable."
+msgstr "Λίστα IDs των παραλλαγών, εάν υπάρχουν."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:157
+msgid "Price string formatted as HTML."
+msgstr "Αλφαριθμητικό (string) τιμής διαμορφωμένο ως HTML."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:63
+msgid "ID of the parent product, if applicable."
+msgstr "ID γονικού προϊόντος, εάν υπάρχει."
+
+#: src/StoreApi/Schemas/V1/CheckoutSchema.php:150
+msgid "A URL to redirect the customer after checkout. This could be, for example, a link to the payment processors website."
+msgstr "Ένα URL που να ανακατευθύνετε τον πελάτη μετά την ολοκλήρωση αγοράς. Αυτό θα μπορούσε να είναι, για παράδειγμα, ένας σύνδεσμος προς τον ιστότοπο του επεξεργαστή πληρωμής."
+
+#: src/StoreApi/Schemas/V1/CheckoutSchema.php:134
+msgid "An array of data being returned from the payment gateway."
+msgstr "Ένας πίνακας με δεδομένα που επιστρέφονται από την πύλη πληρωμών."
+
+#: src/StoreApi/Schemas/V1/CheckoutSchema.php:123
+msgid "Result of payment processing, or false if not yet processed."
+msgstr "Το αποτέλεσμα της επεξεργασμένης πληρωμής ή false αν δεν έχει ακόμη επεξεργαστεί."
+
+#: src/StoreApi/Schemas/V1/CheckoutSchema.php:112
+msgid "The ID of the payment method being used to process the payment."
+msgstr "Το ID της μεθόδου πληρωμής που χρησιμοποιείται για να επεξεργαστεί την πληρωμή."
+
+#: src/StoreApi/Routes/V1/CartUpdateCustomer.php:51
+#: src/StoreApi/Schemas/V1/CheckoutSchema.php:102
+msgid "Shipping address."
+msgstr "Διεύθυνση αποστολής."
+
+#: src/StoreApi/Routes/V1/CartUpdateCustomer.php:44
+#: src/StoreApi/Schemas/V1/CheckoutSchema.php:91
+msgid "Billing address."
+msgstr "Διεύθυνση χρέωσης."
+
+#: src/StoreApi/Schemas/V1/CheckoutSchema.php:85
+msgid "Customer ID if registered. Will return 0 for guests."
+msgstr "ID Πελάτη αν είναι εγγεγραμμένος. Επιστρέφει 0 για τους Επισκέπτες. "
+
+#: src/StoreApi/Schemas/V1/CheckoutSchema.php:80
+msgid "Note added to the order by the customer during checkout."
+msgstr "Προστέθηκε από τον πελάτη σημείωση στην παραγγελία κατά την ολοκλήρωση αγοράς. "
+
+#: src/StoreApi/Schemas/V1/CheckoutSchema.php:62
+msgid "The order ID to process during checkout."
+msgstr "Το ID της παραγγελίας προς επεξεργασία κατά την ολοκλήρωση αγοράς."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:174
+msgid "ID of the shipping method that provided the rate."
+msgstr "Το ID του τρόπου αποστολής που παρείχε τον συντελεστή."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:162
+msgid "Price of this shipping rate using the smallest unit of the currency."
+msgstr "Το κόστος των συγκεκριμένων εξόδων αποστολής χρησιμοποιώντας την μικρότερη μονάδα νομίσματος."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:156
+msgid "Delivery time estimate text, e.g. 3-5 business days."
+msgstr "Το κείμενο του εκτιμώμενου χρόνου παράδοσης, π.χ. 3-5 εργάσιμες ημέρες."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:150
+msgid "Description of the shipping rate, e.g. Dispatched via USPS."
+msgstr "Η περιγραφή των εξόδων μεταφοράς, π.χ. Αποστέλλεται μέσω Courier."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:144
+msgid "Name of the shipping rate, e.g. Express shipping."
+msgstr "Η ονομασία των εξόδων αποστολής π.χ. Αποστολή Express."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:138
+msgid "ID of the shipping rate."
+msgstr "ID των εξόδων μεταφοράς."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:117
+msgid "List of shipping rates."
+msgstr "Λίστα με τα έξοδα μεταφορικών."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:108
+msgid "Quantity of the item in the current package."
+msgstr "Η ποσότητα του στοιχείου στο ισχύον πακέτο."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:102
+msgid "Name of the item."
+msgstr "Η ονομασία του στοιχείου."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:88
+msgid "List of cart items the returned shipping rates apply to."
+msgstr "Λίστα προϊόντων καλαθιού στα οποία υπάρχουν χρεώσεις επιστροφής."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:44
+msgid "Shipping destination address."
+msgstr "Διεύθυνση προορισμού αποστολής."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:38
+msgid "Name of the package."
+msgstr "Όνομα του πακέτου."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:32
+msgid "The ID of the package the shipping rates belong to."
+msgstr "Το ID του πακέτου που ανήκουν τα έξοδα αποστολής."
+
+#: src/StoreApi/Schemas/V1/ProductCategorySchema.php:59
+msgid "Number of reviews for products in this category."
+msgstr "Αριθμός αξιολογήσεων για προϊόντα σε αυτήν την Κατηγορία."
+
+#: src/StoreApi/Schemas/V1/CartItemSchema.php:311
+msgid "Line total tax."
+msgstr "Γραμμή συνολικού φόρου."
+
+#: src/StoreApi/Schemas/V1/CartItemSchema.php:256
+msgid "Decimal precision of the returned prices."
+msgstr "Δεκαδική ακρίβεια για τις επιστρεφόμενες τιμές."
+
+#: src/StoreApi/Schemas/V1/CartItemSchema.php:99
+#: src/StoreApi/Schemas/V1/ProductSchema.php:92
+msgid "Product full description in HTML format."
+msgstr "Πλήρης περιγραφή προϊόντος σε μορφή HTML."
+
+#: src/StoreApi/Schemas/V1/CartItemSchema.php:93
+#: src/StoreApi/Schemas/V1/ProductSchema.php:87
+msgid "Product short description in HTML format."
+msgstr "Σύντομη περιγραφή προϊόντος σε μορφή HTML."
+
+#: src/StoreApi/Schemas/V1/ErrorSchema.php:36
+msgid "Error message"
+msgstr "Μήνυμα σφάλματος"
+
+#: src/StoreApi/Schemas/V1/ErrorSchema.php:30
+msgid "Error code"
+msgstr "Κωδικός σφάλματος"
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:303
+msgid "List of cart item errors, for example, items in the cart which are out of stock."
+msgstr "Λίστα σφαλμάτων των στοιχείων καλαθιού, για παράδειγμα, στοιχεία στο καλάθι που είναι εκτός αποθέματος. "
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:285
+msgid "The amount of tax charged."
+msgstr "Το ποσό του φόρου άλλαξε."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:279
+msgid "The name of the tax."
+msgstr "Η ονομασία του φόρου."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:265
+msgid "Total tax applied to items and shipping."
+msgstr "Συνολικός φόρος που εφαρμόζεται σε στοιχεία και μεταφορικά."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:259
+msgid "Total price the customer will pay."
+msgstr "Συνολικό κόστος που θα πληρώσει ο πελάτης."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:241
+msgid "Total tax removed due to discount from applied coupons."
+msgstr "Σύνολο φόρου που αφαιρέθηκε λόγω έκπτωσης από εφαρμοσμένα κουπόνια."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:235
+msgid "Total discount from applied coupons."
+msgstr "Σύνολο έκπτωσης από εφαρμοσμένα κουπόνια."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:229
+msgid "Total tax on fees."
+msgstr "Σύνολο φόρου επί των τελών."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:223
+msgid "Total price of any applied fees."
+msgstr "Συνολικό κόστος τυχόν εφαρμοσμένων τελών."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:217
+msgid "Total tax on items in the cart."
+msgstr "Συνολικός φόρος στα στοιχεία του καλαθιού."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:211
+msgid "Total price of items in the cart."
+msgstr "Συνολικό κόστος των στοιχείων στο καλάθι."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:129
+msgid "Current set shipping address for the customer."
+msgstr "Η ισχύουσα διεύθυνση αποστολής για τον πελάτη."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:119
+msgid "List of available shipping rates for the cart."
+msgstr "Λίστα διαθέσιμων χρεώσεων για το καλάθι."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:109
+msgid "List of applied cart coupons."
+msgstr "Λίστα με εφαρμοσμένα κουπόνια στο καλάθι."
+
+#: src/StoreApi/Schemas/V1/TermSchema.php:54
+msgid "Parent term ID, if applicable."
+msgstr "ID γονικού όρου, εάν υπάρχει."
+
+#: src/StoreApi/Schemas/V1/AbstractSchema.php:306
+msgid "Currency code (in ISO format) for returned prices."
+msgstr "Κωδικός νομίσματος (σε μορφή ISO) για τις επιστρεφόμενες τιμές."
+
+#: src/StoreApi/Schemas/V1/CartCouponSchema.php:63
+#: src/StoreApi/Schemas/V1/OrderCouponSchema.php:50
+msgid "Total tax removed due to discount applied by this coupon."
+msgstr "Συνολικός φόρος που αφαιρέθηκε από την έκπτωση που εφαρμόστηκε από αυτό το κουπόνι."
+
+#: src/StoreApi/Schemas/V1/CartCouponSchema.php:57
+#: src/StoreApi/Schemas/V1/OrderCouponSchema.php:44
+msgid "Total discount applied by this coupon."
+msgstr "Συνολική έκπτωση που εφαρμόζεται από αυτό το κουπόνι."
+
+#: src/StoreApi/Schemas/V1/OrderCouponSchema.php:30
+msgid "The coupons unique code."
+msgstr "Τα κουπόνια είναι μοναδικός κωδικός."
+
+#: src/StoreApi/Schemas/V1/AbstractAddressSchema.php:75
+#: build/checkout-blocks/billing-address--checkout-blocks/shipping-address-frontend.js:1
+#: build/checkout.js:31 build/checkout.js:49
+msgid "Phone"
+msgstr "Αριθμός τηλεφώνου"
+
+#: src/StoreApi/Schemas/V1/BillingAddressSchema.php:38
+msgid "Email"
+msgstr "Email"
+
+#: src/StoreApi/Schemas/V1/AbstractAddressSchema.php:69
+msgid "Country/Region code in ISO 3166-1 alpha-2 format."
+msgstr "Κωδικός Χώρας/Περιοχής σε μορφή ISO 3166-1 alpha-2."
+
+#: src/StoreApi/Schemas/V1/AbstractAddressSchema.php:63
+#: src/StoreApi/Utilities/OrderController.php:370 build/wc-settings.js:1
+msgid "Postal code"
+msgstr "Ταχυδρομικός Κώδικας"
+
+#: src/StoreApi/Schemas/V1/AbstractAddressSchema.php:57
+msgid "State/County code, or name of the state, county, province, or district."
+msgstr "Πολιτεία/Κωδικός χώρας, ή το όνομα της πολιτείας, χώρα, επαρχία, ή συνοικία."
+
+#: src/StoreApi/Schemas/V1/AbstractAddressSchema.php:51
+#: src/StoreApi/Utilities/OrderController.php:362 build/wc-settings.js:1
+#: build/wc-shipping-method-pickup-location.js:232
+msgid "City"
+msgstr "Πόλη"
+
+#: src/StoreApi/Schemas/V1/AbstractAddressSchema.php:45
+#: src/StoreApi/Utilities/OrderController.php:354 build/checkout.js:49
+#: build/wc-settings.js:1
+msgid "Apartment, suite, etc."
+msgstr "Διαμέρισμα, κατοικία, κλπ."
+
+#: src/StoreApi/Schemas/V1/AbstractAddressSchema.php:39
+#: src/StoreApi/Utilities/OrderController.php:350 build/wc-settings.js:1
+#: build/wc-shipping-method-pickup-location.js:232
+msgid "Address"
+msgstr "Διεύθυνση"
+
+#: src/StoreApi/Schemas/V1/AbstractAddressSchema.php:33
+#: src/StoreApi/Utilities/OrderController.php:346 build/checkout.js:49
+#: build/wc-settings.js:1
+msgid "Company"
+msgstr "Εταιρεία"
+
+#: src/StoreApi/Schemas/V1/AbstractAddressSchema.php:27
+#: src/StoreApi/Utilities/OrderController.php:342 build/wc-settings.js:1
+msgid "Last name"
+msgstr "Επώνυμο"
+
+#: src/StoreApi/Schemas/V1/AbstractAddressSchema.php:21
+#: src/StoreApi/Utilities/OrderController.php:338 build/wc-settings.js:1
+msgid "First name"
+msgstr "Όνομα"
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:80
+msgid "ISO code for the country of the address being shipped to."
+msgstr "Κωδικός ISO της χώρας της διεύθυνσης που θα γίνει η παράδοση."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:74
+msgid "Zip or Postcode of the address being shipped to."
+msgstr "Ο ταχυδρομικός κώδικας της διεύθυνσης που θα γίνει η παράδοση."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:62
+msgid "City of the address being shipped to."
+msgstr "Η πόλη της διεύθυνσης που θα γίνει η παράδοση."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:56
+msgid "Second line of the address being shipped to."
+msgstr "Δεύτερη γραμμή της διεύθυνσης που θα γίνει η παράδοση."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:50
+msgid "First line of the address being shipped to."
+msgstr "Πρώτη γραμμή της διεύθυνσης που θα γίνει η παράδοση."
+
+#: src/StoreApi/Routes/V1/CartCouponsByCode.php:73
+#: src/StoreApi/Routes/V1/CartCouponsByCode.php:88
+msgid "Coupon does not exist in the cart."
+msgstr "Το κουπόνι δεν υπάρχει στο καλάθι."
+
+#: src/StoreApi/Routes/V1/AbstractRoute.php:257
+msgid "Scope under which the request is made; determines fields present in response."
+msgstr "Το πεδίο εφαρμογής σύμφωνα με το οποίο γίνεται το αίτημα. Καθορίζει τα πεδία που υπάρχουν στην απάντηση."
+
+#: src/StoreApi/Routes/V1/AbstractRoute.php:166
+#: src/StoreApi/Routes/V1/AbstractRoute.php:178
+#: src/StoreApi/Routes/V1/AbstractRoute.php:190
+#: src/StoreApi/Routes/V1/AbstractRoute.php:202
+msgid "Method not implemented"
+msgstr "Η μέθοδος δεν έχει υλοποιηθεί"
+
+#: src/StoreApi/Routes/V1/CartUpdateItem.php:41
+msgid "New quantity of the item in the cart."
+msgstr "Νέα ποσότητα του στοιχείου στο καλάθι."
+
+#: src/StoreApi/Routes/V1/Checkout.php:553
+msgid "No payment method provided."
+msgstr "Δεν ορίστηκε μέθοδος πληρωμής."
+
+#: src/StoreApi/Routes/V1/Checkout.php:518
+msgid "Invalid payment result received from payment method."
+msgstr "Εσφαλμένο αποτέλεσμα πληρωμής λήφθηκε από την μέθοδο πληρωμής."
+
+#: src/StoreApi/Routes/V1/CartSelectShippingRate.php:64
+msgid "Shipping is disabled."
+msgstr "Η αποστολή είναι απενεργοποιημένη."
+
+#: src/StoreApi/Routes/V1/AbstractTermsRoute.php:94
+msgid "If true, empty terms will not be returned."
+msgstr "Αν είναι αληθές (true), δεν επιστρέφονται κενοί όροι."
+
+#: src/StoreApi/Routes/V1/AbstractTermsRoute.php:82
+msgid "Sort by term property."
+msgstr "Ταξινόμηση βάσει όρου ιδιότητας."
+
+#: src/StoreApi/Routes/V1/AbstractTermsRoute.php:74
+msgid "Sort ascending or descending."
+msgstr "Ταξινόμηση αύξουσα ή φθίνουσα."
+
+#: src/StoreApi/Routes/V1/ProductCategoriesById.php:73
+msgid "Invalid category ID."
+msgstr "Λανθασμένο ID Κατηγορίας."
+
+#: src/StoreApi/Routes/V1/CartRemoveCoupon.php:70
+msgid "Coupon cannot be removed because it is not already applied to the cart."
+msgstr "Το κουπόνι δεν μπορεί να αφαιρεθεί διότι δεν έχει εφαρμοσθεί στο καλάθι."
+
+#: src/StoreApi/Routes/V1/CartRemoveCoupon.php:66
+msgid "Invalid coupon code."
+msgstr "Λανθασμένος κωδικός κουπονιού."
+
+#: src/StoreApi/Routes/V1/CartApplyCoupon.php:58
+#: src/StoreApi/Routes/V1/CartCoupons.php:97
+#: src/StoreApi/Routes/V1/CartRemoveCoupon.php:58
+msgid "Coupons are disabled."
+msgstr "Τα κουπόνια έχουν απενεργοποιηθεί."
+
+#: src/StoreApi/Routes/V1/CartApplyCoupon.php:39
+#: src/StoreApi/Routes/V1/CartCouponsByCode.php:42
+#: src/StoreApi/Routes/V1/CartRemoveCoupon.php:39
+msgid "Unique identifier for the coupon within the cart."
+msgstr "Μοναδικό αναγνωριστικό για το κουπόνι μέσα στο καλάθι."
+
+#: src/StoreApi/Routes/V1/CartRemoveItem.php:64
+msgid "Cart item no longer exists or is invalid."
+msgstr "Το στοιχείο του καλαθιού δεν υπάρχει πλέον ή είναι λανθασμένο."
+
+#: src/StoreApi/Routes/V1/CartRemoveItem.php:42
+msgid "Unique identifier (key) for the cart item."
+msgstr "Μοναδικός αναγνωσριστής (κλειδί) για το στοιχείο καλαθιού."
+
+#: src/StoreApi/Routes/V1/ProductReviews.php:216
+msgid "Limit result set to reviews from specific category IDs."
+msgstr "Περιορίστε το σύνολο των αποτελεσμάτων σε αξιολογήσεις από κατηγορίες με συγκεκριμένα IDs."
+
+#. translators: %s: product name
+#: src/StoreApi/Utilities/CartController.php:1091
+msgid "&quot;%s&quot; is not available for purchase."
+msgstr "&quot;%s&quot; δεν είναι διαθέσιμο για αγορά."
+
+#. translators: %1$s coupon code, %2$s reason.
+#: src/StoreApi/Utilities/CartController.php:1001
+msgid "The \"%1$s\" coupon has been removed from your cart: %2$s"
+msgstr "Το κουπόνι \"%1$s\" έχει αφαιρεθεί από το καλάθι σας: %2$s"
+
+#. translators: %s: coupon code
+#: src/StoreApi/Utilities/CartController.php:944
+msgid "\"%s\" has already been applied and cannot be used in conjunction with other coupons."
+msgstr "\"%s\" έχει ήδη εφαρμοστεί και δεν γίνεται να χρησιμοποιηθεί συνδυαστικά με άλλα κουπόνια."
+
+#. translators: %s coupon code
+#: src/StoreApi/Utilities/CartController.php:902
+msgid "Coupon code \"%s\" has already been applied."
+msgstr "Ο κωδικός κουπονιού \"%s\" έχει ήδη εφαρμοσθεί."
+
+#. translators: %s coupon code
+#: src/StoreApi/Utilities/CartController.php:890
+msgid "\"%s\" is an invalid coupon code."
+msgstr "\"%s\" είναι μη έγκυρος κωδικός κουπονιού."
+
+#: src/StoreApi/Utilities/CartController.php:191
+msgid "Cart item is invalid."
+msgstr "Μη έγκυρο στοιχείο καλαθιού."
+
+#. translators: %s Coupon codes.
+#: src/StoreApi/Utilities/OrderController.php:195
+msgid "Invalid coupons were removed from the cart: \"%s\""
+msgstr "Μη έγκυρα κουπόνια αφαιρέθηκαν από το καλάθι: \"%s\""
+
+#: src/StoreApi/Utilities/OrderController.php:24
+msgid "Cannot create order from empty cart."
+msgstr "Αδυναμία δημιουργία παραγγελίας από άδειο καλάθι."
+
+#. Translators: %s Payment method ID.
+#: src/StoreApi/Routes/V1/Checkout.php:565
+msgid "The %s payment gateway is not available."
+msgstr "Η %s πύλη πληρωμών δεν είναι διαθέσιμη."
+
+#. Translators: %s amount.
+#: src/StoreApi/Utilities/QuantityLimits.php:113
+msgid "The maximum quantity that can be added to the cart is %s"
+msgstr "Η μέγιστη ποσότητα που μπορεί να προστεθεί με μια κίνηση στο καλάθι είναι %s"
+
+#. translators: %s number of products in cart.
+#. translators: %d is the count of products.
+#: src/BlockTypes/ProductCategories.php:379
+#: assets/js/editor-components/product-attribute-term-control/index.js:101
+#: assets/js/editor-components/product-category-control/index.js:89
+#: build/featured-category.js:17 build/featured-product.js:17
+#: build/product-best-sellers.js:16 build/product-category.js:16
+#: build/product-new.js:16 build/product-on-sale.js:16
+#: build/product-top-rated.js:16 build/products-by-attribute.js:14
+#: build/reviews-by-category.js:24
+msgid "%d product"
+msgid_plural "%d products"
+msgstr[0] "%d προϊόν"
+msgstr[1] "%d προϊόντα"
+
+#: src/BlockTypes/ProductCategories.php:219
+msgid "List of categories with their product counts"
+msgstr "Λίστα κατηγοριών με τον αριθμό προϊόντων τους"
+
+#: src/BlockTypes/AbstractProductGrid.php:619
+#: src/BlockTypes/ProductSaleBadge.php:116 build/all-products.js:14
+#: build/cart-blocks/cart-cross-sells-products-frontend.js:3 build/cart.js:5
+#: build/product-image-frontend.js:1 build/product-image.js:1
+#: build/product-sale-badge-frontend.js:1 build/product-sale-badge.js:1
+msgid "Product on sale"
+msgstr "Προϊόν σε προσφορά"
+
+#: src/StoreApi/Routes/V1/ProductCollectionData.php:190
+msgid "Taxonomy name."
+msgstr "Όνομα ταξινομίας."
+
+#: src/BlockTypes/AbstractProductGrid.php:618
+#: src/BlockTypes/ProductImage.php:110 src/BlockTypes/ProductSaleBadge.php:114
+#: build/all-products.js:14
+#: build/cart-blocks/cart-cross-sells-products-frontend.js:3 build/cart.js:5
+#: build/product-image-frontend.js:1 build/product-image.js:1
+#: build/product-sale-badge-frontend.js:1 build/product-sale-badge.js:1
+msgid "Sale"
+msgstr "Προσφορά"
+
+#: src/StoreApi/Schemas/V1/ImageAttachmentSchema.php:35
+msgid "Full size image URL."
+msgstr "Διεύθυνση URL εικόνας πλήρους μεγέθους."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:97
+msgid "Is the product on sale?"
+msgstr "Είναι το προϊόν προς πώληση;"
+
+#: src/StoreApi/Schemas/V1/CartItemSchema.php:47
+msgid "Quantity of this item in the cart."
+msgstr "Ποσότητα αυτού του στοιχείου στο καλάθι."
+
+#: src/StoreApi/Utilities/CartController.php:1051
+#: src/StoreApi/Utilities/CartController.php:1330
+msgid "This product cannot be added to the cart."
+msgstr "Αυτό το προϊόν δεν μπορεί να προστεθεί στο καλάθι."
+
+#: src/StoreApi/Schemas/V1/ImageAttachmentSchema.php:41
+msgid "Thumbnail URL."
+msgstr "Διεύθυνση URL μικρογραφίας."
+
+#: src/StoreApi/Schemas/V1/ImageAttachmentSchema.php:47
+msgid "Thumbnail srcset for responsive images."
+msgstr "Srcset μικρογραφιών για προσαρμοζόμενες στις κινητές συσκευές εικόνες."
+
+#. translators: %s: product name
+#: src/StoreApi/Utilities/CartController.php:222
+msgid "You cannot add &quot;%s&quot; to the cart because the product is out of stock."
+msgstr "Δεν είναι δυνατή η προσθήκη του προϊόντος &quot;%s&quot; στο καλάθι επειδή το προϊόν έχει εξαντληθεί."
+
+#. translators: 1: product name 2: quantity in stock
+#: src/StoreApi/Utilities/CartController.php:238
+msgid "You cannot add that amount of &quot;%1$s&quot; to the cart because there is not enough stock (%2$s remaining)."
+msgstr "Δεν είναι δυνατή η προσθήκη αυτής της ποσότητας του προϊόντος &quot;%1$s&quot; στο καλάθι επειδή δεν υπάρχει αρκετό απόθεμα (%2$s εναπομείναντα)."
+
+#: patterns/filters.php:22 build/filter-wrapper.js:1 build/price-filter.js:5
+msgid "Filter by price"
+msgstr "Φιλτράρισμα ανά τιμή"
+
+#: patterns/filters.php:12 build/active-filters.js:15 build/filter-wrapper.js:1
+msgid "Active filters"
+msgstr "Ενεργά Φίλτρα"
+
+#: patterns/filters.php:42 build/attribute-filter.js:28
+#: build/filter-wrapper.js:1
+msgid "Filter by attribute"
+msgstr "Φιλτράρισμα ανά χαρακτηριστικό"
+
+#: src/StoreApi/Routes/V1/CartAddItem.php:65
+#: src/StoreApi/Schemas/V1/CartItemSchema.php:166
+msgid "Variation attribute value."
+msgstr "Τιμή ιδιότητας παραλλαγής."
+
+#: src/StoreApi/Routes/V1/CartAddItem.php:60
+#: src/StoreApi/Schemas/V1/CartItemSchema.php:160
+msgid "Variation attribute name."
+msgstr "Όνομα ιδιότητας παραλλαγής."
+
+#: src/StoreApi/Routes/V1/CartAddItem.php:53
+#: src/StoreApi/Schemas/V1/CartItemSchema.php:152
+msgid "Chosen attributes (for variations)."
+msgstr "Επιλεγμένες ιδιότητες (για τις παραλλαγές)."
+
+#: src/StoreApi/Routes/V1/CartAddItem.php:39
+#: src/StoreApi/Schemas/V1/CartItemSchema.php:41
+msgid "The cart item product or variation ID."
+msgstr "Το ID του προϊόντος καλαθιού ή της παραλλαγής."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:159
+msgid "Total weight (in grams) of all products in the cart."
+msgstr "Συνολικό βάρος (σε γραμμάρια) όλων των προϊόντων στο καλάθι."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:181
+msgid "True if the cart needs shipping. False for carts with only digital goods or stores with no shipping methods set-up."
+msgstr "Αληθές εάν το καλάθι χρειάζεται αποστολή. Ψευδές για καλάθια που περιέχουν μόνο ψηφιακά προϊόντα ή καταστήματα χωρίς ρυθμισμένους τρόπους αποστολής."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:143
+msgid "List of cart items."
+msgstr "Κατάλογος αντικειμένων καλαθιού."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:153
+msgid "Number of items in the cart."
+msgstr "Αριθμός αντικειμένων στο καλάθι."
+
+#: src/StoreApi/Schemas/V1/ProductAttributeSchema.php:60
+msgid "If this attribute has term archive pages."
+msgstr "Αν αυτό το χαρακτηριστικό έχει σελίδες ιστορικού όρου."
+
+#: src/StoreApi/Schemas/V1/ProductAttributeSchema.php:48
+msgid "Attribute type."
+msgstr "Τύπος ιδιότητας."
+
+#: src/StoreApi/Schemas/V1/TermSchema.php:48
+msgid "Term description."
+msgstr "Περιγραφή όρου."
+
+#: src/StoreApi/Schemas/V1/TermSchema.php:36
+msgid "Term name."
+msgstr "Όνομα όρου."
+
+#: src/StoreApi/Schemas/V1/CartItemSchema.php:236
+#: src/StoreApi/Schemas/V1/CartItemSchema.php:242
+#: src/StoreApi/Schemas/V1/ProductSchema.php:140
+#: src/StoreApi/Schemas/V1/ProductSchema.php:146
+msgid "Price amount."
+msgstr "Ποσό τιμής."
+
+#: src/StoreApi/Schemas/V1/CartItemSchema.php:230
+#: src/StoreApi/Schemas/V1/ProductSchema.php:134
+msgid "Price range, if applicable."
+msgstr "Εύρος τιμών, εάν υπάρχει."
+
+#: src/StoreApi/Schemas/V1/CartItemSchema.php:224
+#: src/StoreApi/Schemas/V1/CartItemSchema.php:274
+#: src/StoreApi/Schemas/V1/ProductSchema.php:128
+msgid "Sale product price, if applicable."
+msgstr "Τιμή πώλησης προϊόντος, εάν υπάρχει."
+
+#: src/StoreApi/Schemas/V1/CartItemSchema.php:218
+#: src/StoreApi/Schemas/V1/CartItemSchema.php:268
+#: src/StoreApi/Schemas/V1/ProductSchema.php:122
+msgid "Regular product price."
+msgstr "Κανονική τιμή προϊόντος."
+
+#. translators: %s: Attribute name.
+#: src/StoreApi/Utilities/CartController.php:1226
+msgid "%s is a required field"
+msgid_plural "%s are required fields"
+msgstr[0] "Το %s είναι ένα απαιτούμενο πεδίο"
+msgstr[1] "Τα %s είναι απαιτούμενα πεδία"
+
+#: src/StoreApi/Routes/V1/CartAddItem.php:89
+#: src/StoreApi/Routes/V1/CartItems.php:95
+msgid "Cannot create an existing cart item."
+msgstr "Δεν είναι δυνατή η δημιουργία ενός υπάρχοντος στοιχείου καλαθιού."
+
+#: src/StoreApi/Routes/V1/CartItemsByKey.php:81
+#: src/StoreApi/Routes/V1/CartItemsByKey.php:119
+#: src/StoreApi/Utilities/CartController.php:185
+msgid "Cart item does not exist."
+msgstr "Το στοιχείο καλαθιού δεν υπάρχει."
+
+#: src/StoreApi/Routes/V1/CartItemsByKey.php:42
+#: src/StoreApi/Schemas/V1/CartItemSchema.php:35
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:96
+msgid "Unique identifier for the item within the cart."
+msgstr "Μοναδικό αναγνωριστικό για το προϊόν μέσα στο καλάθι."
+
+#: src/StoreApi/Routes/V1/ProductAttributeTerms.php:60
+msgid "Attribute does not exist."
+msgstr "Το χαρακτηριστικό δεν υπάρχει."
+
+#: src/StoreApi/Routes/V1/ProductAttributeTerms.php:35
+msgid "Unique identifier for the attribute."
+msgstr "Μοναδικό αναγνωριστικό για το χαρακτηριστικό."
+
+#: src/StoreApi/Routes/V1/Products.php:344
+msgid "Limit result set to products with specified stock status."
+msgstr "Περιορίστε τα αποτελέσματα σε προϊόντα με καθορισμένη κατάσταση αποθέματος."
+
+#: src/StoreApi/Routes/V1/Products.php:323
+msgid "Limit result set to products on sale."
+msgstr "Περιορισμός αποτελέσματος ορίσθηκε σε προϊόντα με έκπτωση."
+
+#: src/StoreApi/Routes/V1/Products.php:307
+msgid "Limit result set to products assigned a specific tag ID."
+msgstr "Περιορίστε το σύνολο των αποτελεσμάτων σε προϊόντα στα οποία ανατέθηκε ένα συγκεκριμένο ID ετικέτας."
+
+#: src/StoreApi/Routes/V1/Products.php:269
+#: src/StoreApi/Routes/V1/Products.php:288
+msgid "Limit result set to products assigned a specific category ID."
+msgstr "Περιορίστε το σύνολο των αποτελεσμάτων σε προϊόντα στα οποία ανατέθηκε ένα συγκεκριμένο ID κατηγορίας."
+
+#: src/StoreApi/Routes/V1/Products.php:262
+msgid "Limit result set to featured products."
+msgstr "Περιορισμός συνόλου αποτελεσμάτων σε προτεινόμενα προϊόντα."
+
+#: src/StoreApi/Routes/V1/Products.php:255
+msgid "Limit result set to products with specific SKU(s). Use commas to separate."
+msgstr "Περιορίστε το αποτέλεσμα σε προϊόντα με συγκεκριμένο SKU. Χρησιμοποιήστε κόμματα για να διαχωρίσετε."
+
+#: src/StoreApi/Routes/V1/Products.php:247
+msgid "Limit result set to products assigned a specific type."
+msgstr "Περιορίστε το σύνολο των αποτελεσμάτων σε προϊόντα στα οποία ανατέθηκε ένας συγκεκριμένος τύπος."
+
+#: src/StoreApi/Routes/V1/Products.php:237
+msgid "Limit result set to all items except those of a particular parent ID."
+msgstr "Περιορίστε το σύνολο των αποτελεσμάτων σε όλα τα προϊόντα εκτός από εκείνα με ένα συγκεκριμένο γονικό ID."
+
+#: src/StoreApi/Routes/V1/Products.php:227
+msgid "Limit result set to those of particular parent IDs."
+msgstr "Περιορίστε το σύνολο των αποτελεσμάτων σε εκείνα με συγκεκριμένα γονικά IDs."
+
+#: src/StoreApi/Routes/V1/AbstractTermsRoute.php:64
+#: src/StoreApi/Routes/V1/Products.php:182
+msgid "Limit result set to specific ids."
+msgstr "Περιορίστε το σύνολο των αποτελεσμάτων σε συγκεκριμένα ids."
+
+#: src/StoreApi/Routes/V1/AbstractTermsRoute.php:54
+#: src/StoreApi/Routes/V1/Products.php:172
+msgid "Ensure result set excludes specific IDs."
+msgstr "Σιγουρευτείτε πως το σύνολο των αποτελεσμάτων εξαιρεί συγκεκριμένα IDs."
+
+#: src/StoreApi/Routes/V1/AbstractTermsRoute.php:47
+#: src/StoreApi/Routes/V1/Products.php:138
+msgid "Limit results to those matching a string."
+msgstr "Περιορίστε τα αποτελεσμάτων σε αυτά που ταιριάζουν με μία συμβολοσειρά."
+
+#: src/StoreApi/Routes/V1/AbstractTermsRoute.php:29
+#: src/StoreApi/Routes/V1/ProductReviews.php:168
+#: src/StoreApi/Routes/V1/Products.php:119
+msgid "Current page of the collection."
+msgstr "Τρέχουσα σελίδα της συλλογής."
+
+#: src/StoreApi/Routes/V1/ProductsById.php:73
+msgid "Invalid product ID."
+msgstr "Μη έγκυρο ID προϊόντος."
+
+#: src/StoreApi/Utilities/CartController.php:712
+msgid "Unable to retrieve cart."
+msgstr "Δεν είναι δυνατή η ανάκτηση του καλαθιού."
+
+#: src/StoreApi/Schemas/V1/ProductCollectionDataSchema.php:84
+#: assets/js/blocks/products/edit.js:46 build/all-products-frontend.js:7
+#: build/all-products.js:34 build/all-products.js:36
+msgid "Average rating"
+msgstr "Μέσος όρος Βαθμολογίας"
+
+#: src/StoreApi/Schemas/V1/ProductCollectionDataSchema.php:76
+msgid "Returns number of products with each average rating."
+msgstr "Επιστρέφει τον αριθμό των προϊόντων με κάθε μέση βαθμολογία."
+
+#: src/StoreApi/Schemas/V1/ProductCollectionDataSchema.php:67
+#: src/StoreApi/Schemas/V1/ProductCollectionDataSchema.php:90
+#: src/StoreApi/Schemas/V1/ProductCollectionDataSchema.php:113
+msgid "Number of products."
+msgstr "Αριθμός προϊόντων."
+
+#: src/StoreApi/Schemas/V1/ProductCollectionDataSchema.php:61
+msgid "Term ID"
+msgstr "ID Όρου"
+
+#: src/StoreApi/Schemas/V1/ProductCollectionDataSchema.php:44
+msgid "Max price found in collection of products."
+msgstr "Μέγιστη τιμή που βρέθηκε στη συλλογή των προϊόντων."
+
+#: src/StoreApi/Schemas/V1/ProductCollectionDataSchema.php:38
+msgid "Min price found in collection of products."
+msgstr "Ελάχιστη τιμή που βρέθηκε στη συλλογή των προϊόντων."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:406
+msgid "Button description."
+msgstr "Περιγραφή κουμπιού."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:400
+msgid "Button text."
+msgstr "Κείμενο κουμπιού."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:394
+msgid "Add to cart button parameters."
+msgstr "Προσθέστε παραμέτρους στο κουμπί καλαθιού."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:370
+msgid "Is the product in stock?"
+msgstr "Είναι το προϊόν σε απόθεμα;"
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:364
+msgid "Is the product purchasable?"
+msgstr "Είναι το προϊόν αγοραζόμενο;"
+
+#: src/StoreApi/Schemas/V1/ImageAttachmentSchema.php:52
+msgid "Thumbnail sizes for responsive images."
+msgstr "Μεγέθη μικρογραφιών για προσαρμοζόμενες στις κινητές συσκευές εικόνες."
+
+#. translators: %d: avatar image size in pixels
+#: src/StoreApi/Schemas/V1/ProductReviewSchema.php:137
+msgid "Avatar URL with image size of %d pixels."
+msgstr "URL avatar με μέγεθος εικόνας %d pixels."
+
+#: src/StoreApi/Schemas/V1/ProductReviewSchema.php:144
+msgid "Avatar URLs for the object reviewer."
+msgstr "URLs των avatar για τον αξιολογητή του αντικειμένου."
+
+#: src/StoreApi/Schemas/V1/ProductReviewSchema.php:95
+msgid "Image of the product that the review belongs to."
+msgstr "Εικόνα του προϊόντος στο οποίο ανήκει η αξιολόγηση."
+
+#: src/StoreApi/Routes/V1/ProductReviews.php:223
+msgid "Limit result set to reviews from specific product IDs."
+msgstr "Περιορίστε το σύνολο των αποτελεσμάτων σε αξιολογήσεις που έχουν εκχωρηθεί σε συγκεκριμένα IDs προϊόντων."
+
+#: src/StoreApi/Schemas/V1/ProductReviewSchema.php:83
+msgid "Name of the product that the review belongs to."
+msgstr "Όνομα του προϊόντος στο οποίο ανήκει η αξιολόγηση."
+
+#: src/StoreApi/Routes/V1/ProductReviews.php:187
+#: src/StoreApi/Routes/V1/Products.php:192
+msgid "Offset the result set by a specific number of items."
+msgstr "Μετακίνηση του συνόλου των αποτελεσμάτων κατά έναν συγκεκριμένο αριθμό στοιχείων."
+
+#: src/StoreApi/Routes/V1/ProductReviews.php:194
+#: src/StoreApi/Routes/V1/Products.php:199
+msgid "Order sort attribute ascending or descending."
+msgstr "Ταξινομήστε την ιδιότητα ταξινόμησης κατά αύξουσα ή φθίνουσα σειρά."
+
+#: src/StoreApi/Schemas/V1/ProductReviewSchema.php:89
+msgid "Permalink of the product that the review belongs to."
+msgstr "Μόνιμος σύνδεσμος του προϊόντος στο οποίο ανήκει η αξιολόγηση."
+
+#: src/StoreApi/Schemas/V1/ProductReviewSchema.php:117
+msgid "Review rating (0 to 5)."
+msgstr "Βαθμολογία αξιολόγησης (0 έως 5)."
+
+#: src/StoreApi/Schemas/V1/ProductReviewSchema.php:102
+msgid "Reviewer name."
+msgstr "Όνομα του αξιολογητή."
+
+#: src/BlockTypes/ProductSearch.php:43 src/BlockTypes/ProductSearch.php:111
+#: assets/js/blocks/product-search/block.js:61
+#: assets/js/blocks/product-search/edit.js:108 build/product-search.js:1
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: src/BlockTypes/ProductSearch.php:44 build/product-search.js:1
+msgid "Search products…"
+msgstr "Αναζήτηση προϊόντων..."
+
+#: src/StoreApi/Schemas/V1/ProductReviewSchema.php:123
+msgid "Shows if the reviewer bought the product or not."
+msgstr "Εμφανίζει αν ο αξιολογητής αγόρασε το προϊόν ή όχι."
+
+#: src/StoreApi/Routes/V1/ProductReviews.php:202
+#: src/StoreApi/Routes/V1/Products.php:207
+msgid "Sort collection by object attribute."
+msgstr "Ταξινομήστε τη συλλογή ανά ιδιότητα αντικειμένου."
+
+#: src/StoreApi/Schemas/V1/ProductReviewSchema.php:108
+msgid "The content of the review."
+msgstr "Το περιεχόμενο της αξιολόγησης."
+
+#: src/StoreApi/Schemas/V1/ProductReviewSchema.php:64
+msgid "The date the review was created, in the site's timezone in human-readable format."
+msgstr "Η ημερομηνία κατά την οποία δημιουργήθηκε η αξιολόγηση, στη ζώνη ώρας του ιστότοπου και σε μορφή αναγνώσιμη από τον άνθρωπο."
+
+#: src/StoreApi/Schemas/V1/ProductReviewSchema.php:77
+msgid "Unique identifier for the product that the review belongs to."
+msgstr "Μοναδικό αναγνωριστικό για το προϊόν στο οποίο ανήκει η αξιολόγηση."
+
+#: src/StoreApi/Routes/V1/Products.php:402
+msgid "Determines if hidden or visible catalog products are shown."
+msgstr "Καθορίζει εάν εμφανίζονται τα κρυμμένα ή ορατά προϊόντα του καταλόγου."
+
+#: src/StoreApi/Schemas/V1/ProductCategorySchema.php:65
+msgid "Category URL."
+msgstr "URL Κατηγορίας."
+
+#: src/StoreApi/Routes/V1/Products.php:314
+msgid "Operator to compare product tags."
+msgstr "Χειριστής για την σύγκριση των ετικετών προϊόντων."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:75
+msgid "Product variation attributes, if applicable."
+msgstr "Ιδιότητες της παραλλαγής προϊόντος, αν υπάρχουν."
+
+#. translators: 1: composer command. 2: plugin directory
+#: woocommerce-gutenberg-products-block.php:133
+#: woocommerce-gutenberg-products-block.php:151
+msgid "Your installation of the WooCommerce Blocks feature plugin is incomplete. Please run %1$s within the %2$s directory."
+msgstr "Η εγκατάσταση του WooCommerce Blocks χαρακτηριστικό πρόσθετο ολοκληρώθηκε. Παρακαλούμε, τρέχτε %1$s μέσα στην %2$s διεύθυνση."
+
+#: src/BlockTypes/ProductCategories.php:239
+msgid "Go to category"
+msgstr "Μετάβαση στην κατηγορία"
+
+#: src/BlockTypes/ProductCategories.php:227
+#: src/BlockTypes/ProductCategories.php:231
+msgid "Select a category"
+msgstr "Διαλέξτε μια κατηγορία"
+
+#: src/StoreApi/Schemas/V1/ProductAttributeSchema.php:66
+msgid "Number of terms in the attribute taxonomy."
+msgstr "Αριθμός όρων στην ιδιότητα Ταξινομία."
+
+#: patterns/just-arrived-full-hero.php:19 build/featured-category.js:7
+#: build/featured-product.js:7
+msgid "Shop now"
+msgstr "Αγοράστε τώρα"
+
+#. translators: %1$s is the install command, %2$s is the build command, %3$s is
+#. the watch command.
+#: src/Domain/Bootstrap.php:194
+msgid "WooCommerce Blocks development mode requires files to be built. From the plugin directory, run %1$s to install dependencies, %2$s to build the files or %3$s to build the files and watch for changes."
+msgstr "Το development mode του WooCommerce Blocks να δημιουργηθούν αρχεία. Από τον κατάλογο του επιπρόσθετου, τρέχτε  %1$s για να εγκαταστήσετε τα προαπαιτούμενα,  %2$s για να δημιουργήσετε τα αρχεία ή %3$s για να δημιουργήσετε τα αρχεία και να προσέξετε για αλλαγές."
+
+#. Plugin Name of the plugin
+msgid "WooCommerce Blocks"
+msgstr "WooCommerce Blocks"
+
+#. Description of the plugin
+msgid "WooCommerce blocks for the Gutenberg editor."
+msgstr "WooCommerce blocks για τον επεξεργαστή Gutenberg."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:169
+msgid "Amount of reviews that the product has."
+msgstr "Πλήθος των αξιολογήσεων που έχει το προϊόν."
+
+#: src/StoreApi/Schemas/V1/ProductAttributeSchema.php:36
+msgid "Attribute name."
+msgstr "Όνομα ιδιότητας."
+
+#: src/StoreApi/Schemas/V1/CartItemSchema.php:212
+#: src/StoreApi/Schemas/V1/CartItemSchema.php:262
+#: src/StoreApi/Schemas/V1/ProductSchema.php:116
+msgid "Current product price."
+msgstr "Τρέχουσα τιμή προϊόντος."
+
+#: src/StoreApi/Schemas/V1/ImageAttachmentSchema.php:62
+msgid "Image alternative text."
+msgstr "Εναλλακτικό κείμενο εικόνας."
+
+#: src/StoreApi/Schemas/V1/ImageAttachmentSchema.php:30
+msgid "Image ID."
+msgstr "ID εικόνας."
+
+#: src/StoreApi/Schemas/V1/ImageAttachmentSchema.php:57
+msgid "Image name."
+msgstr "Όνομα εικόνας."
+
+#: src/StoreApi/Schemas/V1/CartItemSchema.php:142
+#: src/StoreApi/Schemas/V1/ProductSchema.php:175
+msgid "List of images."
+msgstr "Λίστα των εικόνων."
+
+#: src/StoreApi/Schemas/V1/CartItemSchema.php:87
+#: src/StoreApi/Schemas/V1/ProductSchema.php:58
+msgid "Product name."
+msgstr "Όνομα προϊόντος."
+
+#: src/StoreApi/Schemas/V1/CartItemSchema.php:135
+#: src/StoreApi/Schemas/V1/ProductSchema.php:80
+msgid "Product URL."
+msgstr "URL προϊόντος."
+
+#: src/StoreApi/Routes/V1/ProductAttributesById.php:42
+#: src/StoreApi/Routes/V1/ProductCategoriesById.php:42
+#: src/StoreApi/Routes/V1/ProductsById.php:42
+#: src/StoreApi/Schemas/V1/ProductAttributeSchema.php:30
+#: src/StoreApi/Schemas/V1/ProductReviewSchema.php:51
+#: src/StoreApi/Schemas/V1/ProductSchema.php:52
+#: src/StoreApi/Schemas/V1/TermSchema.php:30
+msgid "Unique identifier for the resource."
+msgstr "Μοναδικό αναγνωριστικό για τον πόρο."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:103
+msgid "Unique identifier."
+msgstr "Μοναδικό αναγνωριστικό."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:191
+msgid "Category ID"
+msgstr "ID κατηγορίας"
+
+#: src/StoreApi/Schemas/V1/ProductCategorySchema.php:52
+msgid "Category image."
+msgstr "Εικόνα Κατηγορίας."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:203
+msgid "Category slug"
+msgstr "Σύντομο όνομα κατηγορίας"
+
+#: src/BlockTypes/ProductCategories.php:218
+msgid "List of categories"
+msgstr "Λίστα κατηγοριών"
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:193
+msgid "Meta key."
+msgstr "Κλειδί μεταδεδομένων."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:199
+msgid "Meta value."
+msgstr "Τιμή μεταδεδομένων."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:69
+msgid "Product type."
+msgstr "Τύπος προϊόντος."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:163
+msgid "Reviews average rating."
+msgstr "Μέση βαθμολογία αξιολογήσεων."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:225
+msgid "Tag ID"
+msgstr "ID ετικέτας"
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:231
+msgid "Tag name"
+msgstr "Όνομα ετικέτας"
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:237
+msgid "Tag slug"
+msgstr "Σύντομο όνομα ετικέτας"
+
+#: src/StoreApi/Schemas/V1/ProductReviewSchema.php:70
+msgid "The date the review was created, as GMT."
+msgstr "Η ημερομηνία που δημιουργήθηκε η αξιολόγηση, ως GMT."
+
+#: src/StoreApi/Schemas/V1/ProductReviewSchema.php:57
+msgid "The date the review was created, in the site's timezone."
+msgstr "Η ημερομηνία δημιουργίας της αξιολόγησης, στη ζώνη ώρας του ιστότοπου."
+
+#: src/StoreApi/Schemas/V1/CartItemSchema.php:123
+msgid "True if the product is on backorder."
+msgstr "Αληθές εάν το προϊόν βρίσκεται σε λίστα αναμονής."
+
+#. Author of the plugin
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/woocommerce/woocommerce-gutenberg-products-block"
+msgstr "https://github.com/woocommerce/woocommerce-gutenberg-products-block"
+
+#. Author URI of the plugin
+msgid "https://woocommerce.com"
+msgstr "https://woocommerce.com"

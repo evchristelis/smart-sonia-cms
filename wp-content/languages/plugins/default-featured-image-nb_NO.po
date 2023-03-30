@@ -1,0 +1,48 @@
+# Translation of Plugins - Default featured image - Stable (latest release) in Norwegian (Bokmål)
+# This file is distributed under the same license as the Plugins - Default featured image - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-12 11:20:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: nb_NO\n"
+"Project-Id-Version: Plugins - Default featured image - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "https://janw.me/"
+msgstr "https://janw.me/"
+
+#: app/class-dfi.php:233
+msgid "Settings"
+msgstr "Innstillinger"
+
+#. Author of the plugin
+msgid "Jan Willem Oostendorp"
+msgstr "Jan Willem Oostendorp"
+
+#. Description of the plugin
+msgid "Allows users to select a default featured image in the media settings"
+msgstr "Lar brukere velge et standard fremhevet bilde i innstillingene for media"
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/extend/plugins/default-featured-image/"
+msgstr "https://nb.wordpress.org/plugins/default-featured-image/"
+
+#: app/class-dfi.php:189
+msgid "Set default featured image"
+msgstr "Bestem standard fremhevet bilde"
+
+#: app/class-dfi.php:154 app/class-dfi.php:155
+msgid "Don't use a default featured image"
+msgstr "Ikke bruk et standard fremhevet bide"
+
+#: app/class-dfi.php:148 app/class-dfi.php:150 app/class-dfi.php:188
+msgid "Select default featured image"
+msgstr "Velg et standard fremheve bilde"
+
+#. Plugin Name of the plugin
+msgid "Default featured image"
+msgstr "Standard fremhevet bilde"

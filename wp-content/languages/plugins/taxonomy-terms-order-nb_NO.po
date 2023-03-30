@@ -1,0 +1,161 @@
+# Translation of Plugins - Category Order and Taxonomy Terms Order - Stable (latest release) in Norwegian (Bokmål)
+# This file is distributed under the same license as the Plugins - Category Order and Taxonomy Terms Order - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-03-25 16:08:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nb_NO\n"
+"Project-Id-Version: Plugins - Category Order and Taxonomy Terms Order - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "https://www.nsp-code.com"
+msgstr "https://www.nsp-code.com"
+
+#. Description of the plugin
+msgid "Order Categories and all custom taxonomies terms (hierarchically) and child terms using a Drag and Drop Sortable javascript capability."
+msgstr "Sorter kategorier og alle egendefinerte taksonomitermer (hierarkisk) og under-termer med  dra- og slipp ved hjelp av JavaScript."
+
+#. Author of the plugin
+msgid "Nsp-Code"
+msgstr "Nsp-Code"
+
+#. Plugin URI of the plugin
+msgid "http://www.nsp-code.com"
+msgstr "http://www.nsp-code.com"
+
+#. Plugin Name of the plugin
+msgid "Category Order and Taxonomy Terms Order"
+msgstr "Kategori-rekkefølge og taksonomiterm-rekkefølge"
+
+#: taxonomy-terms-order.php:81
+msgid "Taxonomy Terms Order"
+msgstr "Taksonomiterm-rekkefølge"
+
+#: include/options.php:78
+msgid "Save Settings"
+msgstr "Lagre innstillinger"
+
+#: include/options.php:67
+msgid "This will change the order of terms within the admin interface"
+msgstr "Dette vil endre rekkefølgen av termer i admin-brukergrensesnittet"
+
+#: include/options.php:61
+msgid "Admin Sort"
+msgstr "Admin-sortering"
+
+#: include/options.php:56 include/options.php:67
+msgid "Auto Sort Description"
+msgstr "Sorter beskrivelser automatisk"
+
+#: include/options.php:56 include/options.php:67
+msgid "Additional description and details at "
+msgstr "Ytterligere beskrivelse og detaljer på"
+
+#: include/options.php:56
+msgid "global setting"
+msgstr "globale innstillinger"
+
+#: include/options.php:54 include/options.php:65
+msgid "ON"
+msgstr "PÅ "
+
+#: include/options.php:53 include/options.php:64
+msgid "OFF"
+msgstr "AV"
+
+#: include/options.php:50
+msgid "Auto Sort"
+msgstr "Automatisk Sortering"
+
+#: include/options.php:43
+msgid "Administrator"
+msgstr "Administrator"
+
+#: include/options.php:42
+msgid "Editor"
+msgstr "Redigeringsverktøy"
+
+#: include/options.php:41
+msgid "Author"
+msgstr "Forfatter"
+
+#: include/options.php:40
+msgid "Contributor"
+msgstr "Bidragsyter"
+
+#: include/options.php:39
+msgid "Subscriber"
+msgstr "Abonnent"
+
+#: include/options.php:36
+msgid "Minimum Level to use this plugin"
+msgstr "Minimumsnivået for å bruke denne plugin"
+
+#: include/options.php:31
+msgid "General"
+msgstr "Generelle"
+
+#: include/options.php:25
+msgid "General Settings"
+msgstr "Generelt"
+
+#: include/options.php:17
+msgid "Settings Saved"
+msgstr "Instillinger lagret"
+
+#: include/interface.php:201
+msgid "Items Order Updated"
+msgstr "Elementer Bestill Oppdatert"
+
+#: include/interface.php:156
+msgid "Update"
+msgstr "Oppdater"
+
+#: include/interface.php:104
+msgid "Total Posts"
+msgstr "Antall innlegg"
+
+#: include/interface.php:104
+msgid "Taxonomy Title"
+msgstr "Taksonomi-tittel"
+
+#: include/interface.php:100
+msgid "Taxonomies"
+msgstr "Taksonomier"
+
+#: include/interface.php:46
+msgid "This plugin can't work without javascript, because it's use drag and drop and AJAX."
+msgstr "Dette programtillegget kan ikke fungere uten javascript, fordi det er bruk dra og slipp og AJAX."
+
+#: include/interface.php:38 taxonomy-terms-order.php:116
+#: taxonomy-terms-order.php:118 taxonomy-terms-order.php:120
+msgid "Taxonomy Order"
+msgstr "Taksonomi-rekkefølge"
+
+#: include/functions.php:56
+msgid "plugin which allows to custom sort all posts, pages, custom post types"
+msgstr "utvidelse som tillater tilpasset sortering av alle innlegg, sider og egendefinerte innholdstyper"
+
+#: include/functions.php:57
+msgid "plugin which allows to custom sort categories and custom taxonomies terms per post basis"
+msgstr "utvidelse som tillater tilpasset sortering av kategorier og egendefinerte taksonomier for hvert innlegg"
+
+#: include/functions.php:56 include/functions.php:57
+msgid "Check our"
+msgstr "Sjekk vår"
+
+#: include/functions.php:55
+msgid "Read more"
+msgstr "Les mer"
+
+#: include/functions.php:55
+msgid "Did you know there is an Advanced Version of this plug-in?"
+msgstr "Viste du at det finnes en avansert utgave av denne utvidelsen?"
+
+#: include/functions.php:54
+msgid "Did you find this plugin useful? Please support our work with a donation or write an article about this plugin in your blog with a link to our site"
+msgstr "Synes du denne plugin nyttig? Vennligst støtte vårt arbeid med en donasjon eller skrive en artikkel om denne plugin i bloggen din med en link til vår side"

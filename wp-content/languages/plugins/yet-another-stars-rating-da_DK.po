@@ -1,0 +1,533 @@
+# Translation of Plugins - Yasr &#8211; Yet Another Stars Rating - Stable (latest release) in Danish
+# This file is distributed under the same license as the Plugins - Yasr &#8211; Yet Another Stars Rating - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-03-18 08:24:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: da_DK\n"
+"Project-Id-Version: Plugins - Yasr &#8211; Yet Another Stars Rating - Stable (latest release)\n"
+
+#: includes/classes/YasrScriptsLoader.php:74
+msgid "out of 5 stars"
+msgstr "ud af 5 stjerner"
+
+#: includes/yasr-widgets.php:398
+msgid "Yasr Recent Ratings"
+msgstr "Yasr nylige bedømmelser"
+
+#: includes/yasr-widgets.php:400
+msgid "Show the 5 most recent rated posts"
+msgstr "Vis de sidste 5 bedømmelser for indlæg"
+
+#: includes/yasr-widgets.php:454
+msgid "Vote %s from %s on"
+msgstr "Stem %s fra %s på"
+
+#: includes/yasr-widgets.php:503
+msgid "Recent Ratings"
+msgstr "Nylige bedømmelser"
+
+#: includes/yasr-widgets.php:111 includes/yasr-widgets.php:289
+#: includes/yasr-widgets.php:510
+msgid "Title:"
+msgstr "Titel:"
+
+#: includes/yasr-widgets.php:121 includes/yasr-widgets.php:307
+msgid "Size:"
+msgstr "Størrelse:"
+
+#: includes/yasr-widgets.php:43
+msgid "Yasr Overall Rating"
+msgstr "Yasr alt i alt antal bedømmelser"
+
+#: includes/yasr-widgets.php:45
+msgid "Display Overall Rating"
+msgstr "Vis alt i alt bedømmelse"
+
+#: includes/yasr-widgets.php:98
+msgid "Our Rating:"
+msgstr "Vores bedømmelse:"
+
+#: includes/yasr-widgets.php:208
+msgid "Yasr Visitor Votes"
+msgstr "Yasr Besøgendes stemmer"
+
+#: includes/yasr-widgets.php:210
+msgid "Show Yasr Visitor Votes"
+msgstr "Vis Yasr besøgendes stemmer"
+
+#: includes/yasr-widgets.php:268
+msgid "Rate This:"
+msgstr "Bedøm dette:"
+
+#: admin/editor/yasr-metabox-top-right.php:97
+#: admin/js/src/guten/yasrSidebar.js:58
+msgid "Disable auto insert for this post or page?"
+msgstr "Deaktivér auto indsæt for dette indlæg eller side?"
+
+#: admin/settings/aspect_style/yasr-settings-style-actions.php:117
+msgid "Save Settings"
+msgstr "Gem indstillinger"
+
+#: admin/settings/aspect_style/yasr-settings-style-actions.php:100
+msgid "Looking for more?"
+msgstr "På udkik efter mere?"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:49
+msgid "Show average?"
+msgstr "Vis gennemsnit?"
+
+#: admin/editor/YasrEditorHooks.php:385
+msgid "Hide Average?"
+msgstr "Skjul gennemsnit?"
+
+#: admin/settings/classes/YasrSettings.php:557
+msgid "Publisher name (e.g. Google)"
+msgstr "Udgiver navn (f.eks. Google)"
+
+#: admin/settings/aspect_style/yasr-settings-style-actions.php:31
+msgid "Choose Stars Set"
+msgstr "Vælg stjerne sæt"
+
+#: admin/settings/yasr-settings-functions-misc.php:34
+msgid "Aspect & Styles"
+msgstr "Aspekter og stile"
+
+#: admin/settings/yasr-settings-page.php:33 admin/yasr-admin-functions.php:130
+#: yet-another-stars-rating.php:160
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:206
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:323
+msgid "Remove"
+msgstr "Fjern"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset-page.php:119
+msgid "Save"
+msgstr "Gem"
+
+#: admin/settings/yasr-settings-functions-misc.php:22
+msgid "General Settings"
+msgstr "Generelle indstillinger"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:161
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:192
+msgid "Manage Multiple Set"
+msgstr "Håndtér multible sæt"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:163
+msgid "Wich set do you want to edit or remove?"
+msgstr "Hvilket sæt ønsker du at rette eller fjerne?"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:171
+msgid "Select"
+msgstr "Vælg"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:202
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:319
+msgid "Field name"
+msgstr "Felt navn"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:244
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:358
+msgid "Remove whole set?"
+msgstr "Fjern hele sættet?"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:257
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:371
+msgid "If you remove something you will remove all the votes for that set or field. This operation CAN'T BE undone."
+msgstr "Hvis du fjerne noget vil du fjerne alle stemmerne for det sæt eller det felt. Denne operation KAN IKKE fortrydes."
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:265
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:379
+msgid "You can use up to 9 elements"
+msgstr "Du kan bruge op til 9 elementer"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:270
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:382
+msgid "Add element"
+msgstr "Tilføj element"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:274
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:384
+msgid "Save changes"
+msgstr "Gem ændringer"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:283
+msgid "No Multiple Set were found"
+msgstr "Ingen multiple sæt blev fundet"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:532
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:787
+msgid "Settings Saved"
+msgstr "Indstillinger gemt"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:535
+msgid "Something goes wrong trying insert set field name. Please report it"
+msgstr "Der gik noget galt under forsøget med at indsætte sæt felt navnet. Rapportér det venligst"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:542
+msgid "Something goes wrong trying insert Multi Set name. Please report it"
+msgstr "Der gik noget galt under forsøget med at indsætte et multisæt felt navn. Rapportér det venligst"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:615
+msgid "Something goes wrong trying to delete a Multi Set . Please report it"
+msgstr "Der gik noget galt under forsøget med at slette et multisæt. Rapportér det venligst"
+
+#: admin/settings/aspect_style/yasr-settings-style-functions.php:44
+msgid "Style Options"
+msgstr "Stil muligheder"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:647
+msgid "Something goes wrong trying to delete a Multi Set's element. Please report it"
+msgstr "Der gik noget galt under forsøget med at slette et multisæts element. Rapportér det venligst"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:710
+msgid "Something goes wrong trying to update a Multi Set's element. Please report it"
+msgstr "Der gik noget galt under forsøget med at opdatere et multisæts element. Rapportér det venligst"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:774
+msgid "Something goes wrong trying to insert set field name in edit form. Please report it"
+msgstr "Der gik noget galt under forsøget med at indsætte et sæt feltnavn i redigér formularen. Rapportér det venligst"
+
+#: admin/settings/aspect_style/yasr-settings-style-functions.php:62
+msgid "Custom CSS Styles"
+msgstr "Brugerdefineret CSS stile"
+
+#. Author of the plugin
+msgid "Dario Curvino"
+msgstr "Dario Curvino"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset-page.php:58
+msgid "Manage Multi Set"
+msgstr "Håndtér Multi sæt"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset-page.php:62
+msgid "What is a Multi Set?"
+msgstr "Hvad er et Multi sæt?"
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/plugins/yet-another-stars-rating/"
+msgstr "http://wordpress.org/plugins/yet-another-stars-rating/"
+
+#. Plugin Name of the plugin
+#: admin/editor/YasrEditorHooks.php:135
+msgid "Yet Another Stars Rating"
+msgstr "Yet Another Stars Rating"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset-page.php:93
+msgid "Close this message"
+msgstr "Luk denne besked"
+
+#: includes/shortcodes/classes/YasrNoStarsRankings.php:69
+msgid "Problem while retrieving the top 10 active users chart. Are you sure you have votes to show?"
+msgstr "Der opstod problemer under hentning af top 10 aktive brugere diagrammet. Er du sikker på at du har stemmer at vise?"
+
+#: admin/editor/yasr-metabox-top-right.php:58
+#: admin/js/src/guten/blocks/deprecated/deprecated_blocks.js:111
+#: admin/js/src/guten/yasrGutenUtils.js:109
+msgid "Rate this article / item"
+msgstr "Rate denne artikel / post"
+
+#: admin/editor/YasrMetaboxBelowEditor.php:133
+#: admin/settings/yasr-settings-functions-misc.php:46
+msgid "Multi Sets"
+msgstr "Multi sæt"
+
+#: includes/shortcodes/classes/YasrVisitorMultiSet.php:63
+#: includes/shortcodes/classes/YasrVisitorMultiSet.php:71
+msgid "Submit!"
+msgstr "Indsend!"
+
+#: admin/settings/classes/YasrSettingsRankings.php:136
+#: includes/classes/YasrScriptsLoader.php:76
+msgid "Most Rated"
+msgstr "Mest ratede"
+
+#: admin/settings/classes/YasrSettingsRankings.php:137
+#: includes/classes/YasrScriptsLoader.php:77
+msgid "Highest Rated"
+msgstr "Højest ratede"
+
+#: includes/shortcodes/classes/YasrMultiSet.php:212
+msgid "Average"
+msgstr "Gennemsnit"
+
+#: includes/shortcodes/classes/YasrNoStarsRankings.php:42
+msgid "Problem while retrieving the top 5 most active reviewers. Did you publish any review?"
+msgstr "Der er problemer med at hente de Top 5 mest aktive reviewere. Publiserede du noget som helst review?"
+
+#: admin/settings/aspect_style/yasr-settings-style-functions.php:117
+msgid "Please use text area below to write your own CSS styles to override the default ones."
+msgstr "Vær venlig at benytte tekst feltet nedenunder for at skrive din egne CSS stile for at overstyre de stile som kommer med."
+
+#: admin/settings/aspect_style/yasr-settings-style-functions.php:120
+msgid "Leave it blank if you don't know what you're doing."
+msgstr "Lad feltet være blank hvis du ikke ved hvad du laver."
+
+#: admin/settings/yasr-settings-functions-misc.php:441
+msgid " It will require just 1 min but it's a HUGE help for me. Thank you."
+msgstr "Det vil kun tage 1 minut men det er en STOR hjælp for mig. Tak!"
+
+#: includes/classes/YasrScriptsLoader.php:73
+msgid "Loading, please wait"
+msgstr "Henter, vent venligst"
+
+#: includes/classes/YasrSettingsValues.php:91
+msgid "You must sign in to vote"
+msgstr "Du skal logge ind for at kunne stemme"
+
+#: admin/settings/classes/YasrSettings.php:243
+#: admin/settings/classes/YasrSettings.php:261
+#: admin/settings/classes/YasrSettings.php:334
+#: admin/settings/classes/YasrSettingsRankings.php:297
+#: admin/settings/classes/YasrSettingsRankings.php:366
+msgid "Yes"
+msgstr "Ja"
+
+#: admin/settings/classes/YasrSettings.php:244
+#: admin/settings/classes/YasrSettings.php:262
+#: admin/settings/classes/YasrSettings.php:335
+#: admin/settings/classes/YasrSettingsRankings.php:216
+#: admin/settings/classes/YasrSettingsRankings.php:296
+#: admin/settings/classes/YasrSettingsRankings.php:365
+msgid "No"
+msgstr "Nej"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:123
+msgid "Name"
+msgstr "Navn"
+
+#: includes/yasr-widgets.php:136 includes/yasr-widgets.php:320
+#: admin/js/src/guten/blocks/deprecated/deprecated_blocks.js:15
+#: admin/js/src/guten/yasrGutenUtils.js:9
+msgid "Medium"
+msgstr "Mellem"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:141
+msgid "Create New Set"
+msgstr "Lav nyt sæt"
+
+#: admin/settings/aspect_style/yasr-settings-style-functions.php:53
+msgid "Which color scheme do you want to use?"
+msgstr "Hvilket farveskema ønsker du at benytte?"
+
+#: admin/settings/aspect_style/yasr-settings-style-functions.php:82
+msgid "Light"
+msgstr "Lys"
+
+#: admin/settings/aspect_style/yasr-settings-style-functions.php:83
+msgid "Dark"
+msgstr "Mørk"
+
+#: admin/settings/aspect_style/yasr-settings-style-functions.php:96
+msgid "Preview"
+msgstr "Forhåndsvis"
+
+#: admin/settings/aspect_style/yasr-settings-style-functions.php:101
+msgid "Light theme"
+msgstr "Lys tema"
+
+#: admin/settings/aspect_style/yasr-settings-style-functions.php:106
+msgid "Dark theme"
+msgstr "Mørk tema"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:107
+msgid "Add New Multiple Set"
+msgstr "Tilføj nyt multipel sæt"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:112
+msgid "Name, Element#1 and Element#2 MUST be filled and must be long at least 3 characters"
+msgstr "Navn, element#1 og element #2 SKAL udfyldes og skal være mindst 3 karakterer"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:128
+msgid "You can insert up to nine elements"
+msgstr "Du kan indsætte op til 9 elementer"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:132
+msgid "Element "
+msgstr "Element"
+
+#: admin/settings/classes/YasrSettings.php:482
+msgid "Allow only logged-in users"
+msgstr "Tillad kun indloggede brugere"
+
+#: admin/settings/classes/YasrSettings.php:483
+msgid "Allow everybody (logged in and anonymous)"
+msgstr "Tillad alle(loggede ind og anonyme)"
+
+#: admin/settings/classes/YasrSettings.php:227
+#: admin/settings/classes/YasrSettingsRankings.php:112
+#: admin/js/src/guten/yasrGutenUtils.js:5
+msgid "Size"
+msgstr "Størrelse"
+
+#: admin/settings/classes/YasrSettings.php:241
+#: admin/settings/classes/YasrSettings.php:332
+msgid "Exclude Pages?"
+msgstr "Udeluk sider?"
+
+#: admin/settings/classes/YasrSettings.php:259
+msgid "Use only in custom post types?"
+msgstr "Brug kun i brugerdefineret indlægstyper?"
+
+#: admin/settings/classes/YasrSettings.php:616
+msgid "Custom text to display before Overall Rating"
+msgstr "Brugerdefineret tekst som skal vises før \"Samlet rating\""
+
+#: admin/settings/classes/YasrSettings.php:622
+msgid "Custom text to display BEFORE Visitor Rating"
+msgstr "Brugerdefineret tekst som skal vises FØR \"Gæste rating\""
+
+#: admin/settings/classes/YasrSettings.php:628
+msgid "Custom text to display AFTER Visitor Rating"
+msgstr "\tBrugerdefineret tekst som skal vises EFTER \"Gæste rating\""
+
+#: admin/settings/classes/YasrSettings.php:176
+#: admin/settings/classes/YasrSettings.php:316
+msgid "What?"
+msgstr "Hvad?"
+
+#: admin/settings/classes/YasrSettings.php:319
+msgid "Overall Rating / Author Rating"
+msgstr "Alt i alt rating / Forfatter rating"
+
+#: admin/settings/classes/YasrSettings.php:180
+#: admin/settings/classes/YasrSettings.php:197
+#: admin/settings/classes/YasrSettings.php:352
+msgid "Both"
+msgstr "Begge"
+
+#: admin/settings/classes/YasrSettings.php:193
+msgid "Where?"
+msgstr "Hvor?"
+
+#: admin/settings/classes/YasrSettings.php:402
+msgid "Show \"Visitor Votes\" in Archive Page?"
+msgstr "Vis \"Gæste stemmer\" på arkiv siden?"
+
+#: admin/editor/yasr-metabox-schema.php:66
+msgid "Rich snippet options"
+msgstr "Udvidet stump muligheder"
+
+#: admin/settings/classes/YasrSettings.php:160
+msgid "Use Auto Insert?"
+msgstr "Brug auto indsæt?"
+
+#: includes/classes/YasrScriptsLoader.php:70
+msgid "stars"
+msgstr "stjerner"
+
+#: includes/classes/YasrScriptsLoader.php:69
+msgid "star"
+msgstr "stjerne"
+
+#: admin/editor/YasrEditorHooks.php:154
+msgid "You don't have enought privileges to insert Overall Rating"
+msgstr "Du har ikke privilegier nok til at indsætte \"alt i alt rating\""
+
+#: admin/editor/YasrEditorHooks.php:169
+msgid "You don't have enough privileges to insert a Multi Set"
+msgstr "Du har ikke privilegier nok til at indsætte \"Multisæt\""
+
+#: admin/settings/classes/YasrSettings.php:66
+msgid "General settings"
+msgstr "Generelle instillinger"
+
+#: admin/settings/classes/YasrStats.php:175
+#: includes/classes/YasrLogDashboardWidget.php:197
+#: includes/yasr-widgets.php:442
+msgid "anonymous"
+msgstr "anonym"
+
+#: includes/classes/YasrLogDashboardWidget.php:207
+msgid "Vote %d from %s on"
+msgstr "Stem %d fra %s på"
+
+#: includes/classes/YasrLogDashboardWidget.php:224
+msgid "Ip address"
+msgstr "IP adresse"
+
+#: includes/classes/YasrLogDashboardWidget.php:255
+msgid "Pages"
+msgstr "Sider"
+
+#: admin/editor/YasrEditorHooks.php:506
+msgid "Most Active Users"
+msgstr "Mest aktive brugere"
+
+#: admin/editor/YasrEditorHooks.php:310 admin/editor/YasrEditorHooks.php:339
+#: admin/js/src/guten/blocks/deprecated/deprecated_blocks.js:11
+msgid "Choose Size"
+msgstr "Vælg størrelse"
+
+#: includes/yasr-widgets.php:128 includes/yasr-widgets.php:312
+#: admin/js/src/guten/blocks/deprecated/deprecated_blocks.js:14
+#: admin/js/src/guten/yasrGutenUtils.js:8
+msgid "Small"
+msgstr "Lille"
+
+#: includes/yasr-widgets.php:144 includes/yasr-widgets.php:329
+#: admin/js/src/guten/blocks/deprecated/deprecated_blocks.js:16
+#: admin/js/src/guten/yasrGutenUtils.js:10
+msgid "Large"
+msgstr "Stor"
+
+#: admin/editor/YasrEditorHooks.php:323
+#: admin/settings/classes/YasrSettings.php:178
+#: admin/settings/classes/YasrSettings.php:318
+#: admin/settings/yasr-stats-page.php:46
+msgid "Visitor Votes"
+msgstr "Besøger stemmer"
+
+#: admin/editor/YasrEditorHooks.php:331
+msgid "Insert Visitor Votes"
+msgstr "Indsæt besøger stemmer"
+
+#: admin/editor/YasrEditorHooks.php:366
+msgid "Choose wich set you want to insert."
+msgstr "Vælg hvilket sæt du vil indsætte."
+
+#: admin/editor/YasrEditorHooks.php:372
+msgid "Readonly?"
+msgstr "Læs kun?"
+
+#: admin/editor/YasrEditorHooks.php:378
+msgid "If Readonly is checked, only you can insert the votes (in the box above the editor)"
+msgstr "Hvis \"Læs kun\" er chekket, er det kun dig som kan indsætte stemmer (i kassen over editoren)"
+
+#: admin/editor/YasrEditorHooks.php:395
+msgid "Insert Multi Set"
+msgstr "Indsæt \"Multi sæt\""
+
+#: admin/editor/YasrEditorHooks.php:352
+msgid "Insert Multiset:"
+msgstr "Indsæt Multisæt:"
+
+#: admin/classes/YasrOnInstall.php:26 admin/editor/YasrEditorHooks.php:585
+#: admin/settings/migrations/yasr-settings-migration-functions.php:40
+#: admin/settings/migrations/yasr-settings-migration-functions.php:113
+#: admin/settings/migrations/yasr-settings-migration-functions.php:176
+#: admin/settings/migrations/yasr-settings-migration-functions.php:231
+#: admin/settings/yasr-settings-page.php:27
+#: admin/settings/yasr-stats-page.php:27 admin/yasr-admin-functions.php:182
+#: admin/yasr-admin-functions.php:192 admin/yasr-admin-functions.php:201
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Du har ikke nok rettigheder til at tilgå denne side."
+
+#: admin/editor/YasrEditorHooks.php:257
+msgid "Main"
+msgstr "Hoved"
+
+#: admin/editor/YasrEditorHooks.php:217
+msgid "Read the doc"
+msgstr "Læs dokumentationen"
+
+#: admin/editor/YasrEditorHooks.php:301
+msgid "Insert Overall Rating"
+msgstr "Indsæt alt i alt rating"

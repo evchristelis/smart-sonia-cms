@@ -1,0 +1,883 @@
+# Translation of Plugins - Open Graph and Twitter Card Tags - Development (trunk) in French (France)
+# This file is distributed under the same license as the Plugins - Open Graph and Twitter Card Tags - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-09 06:12:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Open Graph and Twitter Card Tags - Development (trunk)\n"
+
+#: admin/options-page-general.php:164
+msgid "Page screenshot (provided by WordPress.com mShots API)"
+msgstr "Capture d’écran de la page (fournie par WordPress.com mShots API)"
+
+#: admin/options-page-3rdparty.php:192
+msgid "This setting also applies to brand pages if WooCommerce Brands is installed"
+msgstr "Ce réglage s’applique également aux pages de marque si WooCommerce Brands est installé."
+
+#: admin/options-page.php:66
+msgid "Tools"
+msgstr "Outils"
+
+#: admin/options-page-tools.php:27
+msgid "This is an advanced tool: Don't mess with this unless you know what you're doing"
+msgstr "Ceci est un outil avancé : ne jouez pas avec ceci à moins de savoir ce que vous faites"
+
+#: admin/options-page-tools.php:7
+msgid "Just some random tools"
+msgstr "Quelques outils aléatoires"
+
+#: admin/options-page-general.php:292
+msgid "Should not be needed on version 2.2 and above"
+msgstr "Ne devrait pas être nécessaire sur les versions 2.2 et supérieures"
+
+#: admin/class-webdados-fb-open-graph-admin.php:418
+msgid "Are you sure you want to run this tool?"
+msgstr "Êtes-vous sûr de vouloir utiliser cet outil ?"
+
+#: admin/class-webdados-fb-open-graph-admin.php:472
+msgid "%d transients deleted"
+msgstr "%d transferts supprimés"
+
+#: admin/options-page-tools.php:12
+msgid "Image tools"
+msgstr "Outils pour l’image"
+
+#: admin/options-page-tools.php:18
+msgid "Clear all transients"
+msgstr "Effacer tous les transients "
+
+#: admin/options-page-tools.php:22
+msgid "Do it"
+msgstr "Fais-le"
+
+#: admin/options-page-tools.php:29
+msgid "We use transients to cache the image sizes, so that we only have to calculate them once (a week). Because of some server issues it may happen that we cannot correctly get the image size and we'll cache that, meaning that we'll never try it again (for a week). This tool will delete ALL the transients and force the image size calculation to be done again for all images, as they're nedded."
+msgstr "Nous utilisons des transients pour mettre en cache les tailles d’image, de sorte que nous n’avons qu’à les calculer une fois (par semaine). En raison de problèmes de serveur, il peut arriver que nous ne puissions pas obtenir correctement la taille de l’image et que nous la mettions en cache, ce qui signifie que nous ne l’essaierons plus jamais (pendant une semaine). Cet outil supprimera TOUS les transients et forcera le calcul de la taille de l’image à être répété pour toutes les images, car elles sont intégrées."
+
+#: admin/options-page-general.php:180
+msgid "No"
+msgstr "Non"
+
+#: admin/options-page-facebook.php:134
+msgid "Facebook does not support <i>blog</i> anymore, so we have to default to <i>website</i>"
+msgstr "Facebook ne supporte pas plus <i>blog</i>, nous devons mettre par défaut à <i>website</i>"
+
+#: admin/options-page-general.php:243
+msgid "You need the <a href=\"%s\" target=\"_blank\">PHP GD library</a> to use this feature. Please ask your hosting company to enable it."
+msgstr "Vous avez besoin de la <a href=\"%s\" target=\"_blank\">Librairie PHP GD</a> utiliser cette fonction. Veuillez demander à votre hébergeur de l’activer."
+
+#: admin/class-webdados-fb-open-graph-admin.php:334
+msgid "Have you already configured the App ID and App Secret, needed for flushing the cache on Facebook?"
+msgstr "Avez-vous déjà configuré l’ID et le secret de l’application, nécessaires pour vider le cache sur Facebook ?"
+
+#: admin/class-webdados-fb-open-graph-admin.php:335
+msgid "If you haven't, go to the settings page (Open Graph tab), and do it now."
+msgstr "Si ce n’est pas le cas, allez à la page des réglages (onglet Ouvrir le graphique) et faites-le maintenant."
+
+#: admin/options-page-facebook.php:387
+msgid "App ID"
+msgstr "ID App"
+
+#: admin/options-page-facebook.php:394
+msgid "App Secret"
+msgstr "Secret App"
+
+#: admin/options-page-facebook.php:401
+msgid "Facebook no longer allows updating the cache anonymously, so you have to use a App ID and Secret to do it. <a href=\"%s\" target=\"_blank\">Read here</a> how to do it."
+msgstr "Facebook n’autorisant plus la mise à jour anonyme du cache, vous devez donc utiliser un identifiant d’application et un secret pour le faire. <a href=\"%s\" target=\"_blank\">Lire ici</a> comment le faire."
+
+#: admin/options-page-facebook.php:403
+msgid "If you are using the (now deprecated) <i>fb_og_update_cache_url</i> filter, this ID and Secret will NOT be used. You should stop using the filter and use these settings."
+msgstr "Si vous utilisez le filtre <i>fb_og_update_cache_url</i> (maintenant obsolète), cet identifiant et ce secret ne seront PAS utilisés. Vous devez arrêter d’utiliser le filtre pour utiliser ces paramètres."
+
+#: admin/options-page-facebook.php:405
+msgid "Please do not ask for support regarding this feature. Everything is explained in the blog post linked above."
+msgstr "Merci de ne pas demander de support concernant cette fonctionnalité. Tout est expliqué dans l’article de blog lié ci-dessus."
+
+#: admin/options-page-right.php:83
+msgid "Donate in US Dollars"
+msgstr "Faire un don en $"
+
+#: admin/options-page-right.php:84
+msgid "Donate in Euros"
+msgstr "Faire un don en €"
+
+#: admin/class-webdados-fb-open-graph-admin.php:390
+msgid "Manually update Facebook cache"
+msgstr "Mettre à jour manuellement le cache Facebook "
+
+#: admin/class-webdados-fb-open-graph-admin.php:332
+msgid "Lately and unfortunately, Facebook is not allowing to update the cache programmatically."
+msgstr "Dernièrement et malheureusement, Facebook ne permet pas de mettre à jour le cache par programmation."
+
+#: admin/class-webdados-fb-open-graph-admin.php:328
+msgid "This is NOT a plugin error."
+msgstr "Ce n’est pas une erreur de l’extension."
+
+#: admin/class-webdados-fb-open-graph-admin.php:331
+msgid "Do not open support tickets about this issue."
+msgstr "N’ouvrez pas de tickets de support concernant ce problème."
+
+#: admin/class-webdados-fb-open-graph-admin.php:339
+msgid "Click here to try to clear the cache manually and then click \"Scrape Again\""
+msgstr "Cliquez ici pour essayer d’effacer le cache manuellement, puis cliquez sur \"Gratter à nouveau\""
+
+#: admin/class-webdados-fb-open-graph-admin.php:283
+msgid "Unknown error"
+msgstr "Erreur inconnue"
+
+#: admin/options-page-general.php:67
+msgid "WPML users: Set the main language homepage description here, save changes and then go to <a href=\"%s\" target=\"_blank\">WPML &gt; String translation</a> to set it for other languages."
+msgstr "Utilisateurs de WPML : définissez ici la description de la page d’accueil de la langue principale, enregistrez les modifications, puis accédez à <a href=\"%s\" target=\"_blank\">WPML &gt; Traduction de chaîne</a> pour le définir pour d’autres langues."
+
+#: public/class-webdados-fb-open-graph-public.php:235
+msgid "Price"
+msgstr "Prix"
+
+#: admin/options-page.php:61
+msgid "3rd party"
+msgstr "3ème partie"
+
+#: admin/options-page.php:46
+msgid "Cards"
+msgstr "Cartes"
+
+#: admin/options-page.php:41
+msgid "Open Graph"
+msgstr "Open Graph"
+
+#: admin/options-page.php:36
+msgid "General"
+msgstr "Général"
+
+#: admin/options-page-schema.php:70
+msgid "Experimental"
+msgstr "Expérimental"
+
+#: admin/options-page-general.php:22
+msgid "characters"
+msgstr "caractères"
+
+#: admin/options-page-facebook.php:358
+msgid "or"
+msgstr "ou"
+
+#: admin/options-page-3rdparty.php:70
+msgid "Because you are using Yoast SEO, and to avoid duplicate social tags, you should disable their social settings at <a href=\"%s\" target=\"_blank\">Yoast SEO &gt; Social</a>. If you cannot access that page, you must first activate the \"Advanced settings pages\" at <a href=\"%s\" target=\"_blank\">Yoast SEO &gt; Dashboard &gt; Features</a>."
+msgstr "Parce que vous utilisez Yoast SEO et pour éviter les doublons de balises sociales, vous devez désactiver leurs réglages sociaux à l’adresse <a href=\"%s\" target=\"_blank\">Yoast SEO &gt; Social</a>. Si vous ne pouvez pas accéder à cette page, vous devez d’abord activer les \"Pages de réglages avancés\" à l’adresse <a href=\"%s\" target=\"_blank\">Yoast SEO &gt; Tableau de bord &gt; Caractéristiques</a>."
+
+#: admin/options-page-3rdparty.php:84 admin/options-page-3rdparty.php:136
+#: admin/options-page-3rdparty.php:201 admin/options-page-3rdparty.php:250
+#: admin/options-page-3rdparty.php:289
+msgid "You don't have %s installed or activated."
+msgstr "Vous n’avez pas l’extension %s installée ou activée."
+
+#: admin/options-page-3rdparty.php:105
+msgid "Use Title and Description"
+msgstr "Utiliser le titre et la description "
+
+#: admin/options-page-3rdparty.php:112
+msgid "Use Title and Description generated by All in One SEO Pack"
+msgstr "Utiliser le titre et la description générés par le pack SEO All in One"
+
+#: admin/options-page-3rdparty.php:122
+msgid "Because you are using All in One SEO Pack, and to avoid duplicate social tags, you should disable their social settings at <a href=\"%s\" target=\"_blank\">MISSING LINK</a>."
+msgstr "Étant donné que vous utilisez le Pack SEO All in One et que vous évitez les doublons, vous devez désactiver leurs paramètres sociaux à l’adresse <a href=\"%s\" target=\"_blank\">LIEN MANQUANT</a>."
+
+#: admin/options-page-3rdparty.php:157
+msgid "Use Product Gallery as Images"
+msgstr "Utiliser la galerie de produits en tant qu’images "
+
+#: admin/options-page-3rdparty.php:171 admin/options-page-general.php:175
+msgid "Overlay PNG logo"
+msgstr "Superposition du logo PNG "
+
+#: admin/options-page-3rdparty.php:178
+msgid "Also overlay the PNG logo on the Product Gallery images"
+msgstr "Superposez également le logo PNG sur les images de la galerie de produits."
+
+#: admin/options-page-3rdparty.php:183
+msgid "Use Category thumbnail as Image"
+msgstr "Utiliser la vignette de catégorie comme image "
+
+#: admin/options-page-3rdparty.php:190
+msgid "Recommended if you set large thumbnails for Product Categories and want to use them as Open Graph Images on category listing pages"
+msgstr "Recommandé si vous définissez des vignettes de grande taille pour les catégories de produits et souhaitez les utiliser comme images Open Graph sur les pages de liste de catégories."
+
+#: admin/options-page-3rdparty.php:232
+msgid "SubHeading position"
+msgstr "Position de sous-titre"
+
+#: admin/options-page-3rdparty.php:235
+msgid "After"
+msgstr "Après"
+
+#: admin/options-page-3rdparty.php:166 admin/options-page-facebook.php:27
+#: admin/options-page-facebook.php:55 admin/options-page-facebook.php:69
+#: admin/options-page-facebook.php:85 admin/options-page-facebook.php:117
+#: admin/options-page-facebook.php:296 admin/options-page-general.php:131
+#: admin/options-page-schema.php:28 admin/options-page-schema.php:42
+#: admin/options-page-schema.php:56 admin/options-page-schema.php:74
+#: admin/options-page-seo.php:35 admin/options-page-seo.php:57
+#: admin/options-page-twitter.php:27 admin/options-page-twitter.php:41
+#: admin/options-page-twitter.php:55 admin/options-page-twitter.php:69
+msgid "You can change this value using the <i>%1$s</i> filter"
+msgstr "Vous pouvez changer cette valeur en utilisant le filtre <i>%1$s</i>"
+
+#: admin/options-page-3rdparty.php:236
+msgid "Before"
+msgstr "Avant"
+
+#: admin/options-page-3rdparty.php:271
+msgid "Use listing details"
+msgstr "Utiliser les détails de l’annonce "
+
+#: admin/options-page-3rdparty.php:278
+msgid "Use Business Directory Plugin listing details (Title, URL, Description and Image) to populate tags"
+msgstr "Utiliser les détails de la fiche de l’extension de répertoire commercial (titre, URL, Description et image) pour remplir les balises"
+
+#: admin/options-page-facebook.php:7
+msgid "Open Graph tags used by Facebook, and other social networks, to render link share posts."
+msgstr "Balises Open Graph utilisées par Facebook et d’autres réseaux sociaux pour afficher les publications en partage de lien."
+
+#: admin/options-page-facebook.php:12
+msgid "Facebook Open Graph Tags"
+msgstr "Balises Open Graph Facebook "
+
+#: admin/options-page-facebook.php:18
+msgid "Include Post/Page Title"
+msgstr "Inclure le titre de la publication/page "
+
+#: admin/options-page-facebook.php:32
+msgid "Include Site Name"
+msgstr "Inclure le nom du site "
+
+#: admin/options-page-facebook.php:41 admin/options-page-seo.php:85
+msgid "From Settings &gt; General &gt; Site Title"
+msgstr "Depuis Réglages &gt; Général &gt; Titre du site"
+
+#: admin/options-page-facebook.php:46 admin/options-page-twitter.php:32
+msgid "Include URL"
+msgstr "Inclure l’URL "
+
+#: admin/options-page-facebook.php:60 admin/options-page-schema.php:33
+#: admin/options-page-twitter.php:46
+msgid "Include Description"
+msgstr "Inclure la description "
+
+#: admin/options-page-facebook.php:74 admin/options-page-schema.php:47
+#: admin/options-page-twitter.php:60
+msgid "Include Image"
+msgstr "Inclure l’image "
+
+#: admin/options-page-facebook.php:90
+msgid "Include Image Dimensions"
+msgstr "Inclure les dimensions de l’image "
+
+#: admin/options-page-facebook.php:97 admin/options-page-facebook.php:160
+#: admin/options-page-schema.php:26 admin/options-page-schema.php:146
+msgid "and"
+msgstr "et"
+
+#: admin/options-page-facebook.php:99
+msgid "Recommended only if Facebook is having problems loading the image when the post is shared for the first time, or else it adds extra unnecessary processing time"
+msgstr "Recommandé uniquement si Facebook rencontre des problèmes pour charger l’image lorsque la publication est partagée pour la première fois. Sinon, cela ajoute un temps de traitement inutile."
+
+#: admin/options-page-facebook.php:104 admin/options-page-schema.php:61
+msgid "Include Type"
+msgstr "Inclure le type de publication "
+
+#: admin/options-page-facebook.php:115
+msgid "Additional types may be used depending on 3rd party integrations"
+msgstr "Des types supplémentaires peuvent être utilisés en fonction des intégrations tierces."
+
+#: admin/options-page-facebook.php:139 admin/options-page-schema.php:111
+#: admin/options-page-schema.php:125 admin/options-page-twitter.php:74
+msgid "Include Post/Page Author"
+msgstr "Inclure l’auteur de la publication/page "
+
+#: admin/options-page-facebook.php:148
+msgid "The user's Facebook URL must be filled in on his profile"
+msgstr "L’URL Facebook de l’utilisateur doit être renseigné sur son profil."
+
+#: admin/options-page-facebook.php:153 admin/options-page-schema.php:139
+msgid "Include Published/Modified Dates"
+msgstr "Inclure les dates publiées/modifiées "
+
+#: admin/options-page-facebook.php:162 admin/options-page-facebook.php:176
+#: admin/options-page-schema.php:148
+msgid "For posts only"
+msgstr "Pour les publications seulement"
+
+#: admin/options-page-facebook.php:167
+msgid "Include Article Sections"
+msgstr "Inclure les sections de publication "
+
+#: admin/options-page-facebook.php:176
+msgid "from the categories names"
+msgstr "à partir des noms de catégories"
+
+#: admin/options-page-facebook.php:181 admin/options-page-schema.php:153
+#: admin/options-page-seo.php:76 admin/options-page-twitter.php:88
+msgid "Include Publisher"
+msgstr "Inclure l’éditeur "
+
+#: admin/options-page-facebook.php:190 admin/options-page-facebook.php:216
+msgid "The website's Facebook Page"
+msgstr "La page Facebook du site"
+
+#: admin/options-page-facebook.php:202
+msgid "Facebook Page URL (with https://)"
+msgstr "URL de la page Facebook (y compris https://)"
+
+#: admin/options-page-facebook.php:207
+msgid "Include Locale"
+msgstr "Inclure local "
+
+#: admin/options-page-facebook.php:301
+msgid "Include Facebook Admin(s) ID"
+msgstr "Inclure l’identifiant de l’administrateur Facebook"
+
+#: admin/options-page-facebook.php:325
+msgid "Include Facebook Platform App ID"
+msgstr "Inclure l’identifiant de l’application de la plateforme Facebook"
+
+#: admin/options-page-facebook.php:344
+msgid "From your Facebook Developers dashboard"
+msgstr "À partir de votre tableau de bord développeurs Facebook"
+
+#: admin/options-page-facebook.php:348
+msgid "Declaration Method"
+msgstr "Méthode de déclaration "
+
+#: admin/options-page-facebook.php:360
+msgid "Prefix is recommended because it validates properly with the W3C validator, xmlns is the legacy method"
+msgstr "Le préfixe est recommandé car il se valide correctement avec le validateur W3C, xmlns est la méthode héritée."
+
+#: admin/options-page-facebook.php:369
+msgid "Facebook Open Graph Tags cache"
+msgstr "Cache des balises Open Graph Facebook "
+
+#: admin/options-page-facebook.php:375
+msgid "Clear cache"
+msgstr "Nettoyer le cache"
+
+#: admin/options-page-facebook.php:382
+msgid "Try to clear the Facebook Open Graph Tags cache when saving a post or page, so the link preview on Facebook is immediately updated"
+msgstr "Essayez de vider le cache des balises Facebook Open Graph lors de l’enregistrement d’un message ou d’une page. L’aperçu du lien sur Facebook est immédiatement mis à jour."
+
+#: admin/options-page-facebook.php:410
+msgid "Suppress cache notices"
+msgstr "Supprimer les notifications de cache "
+
+#: admin/options-page-facebook.php:417
+msgid "Sometimes we aren't able to update the cache and the post author will see a notice if this option is not checked"
+msgstr "Parfois, nous ne sommes pas en mesure de mettre à jour le cache et l’auteur de la publication verra une notification si cette option n’est pas cochée"
+
+#: admin/options-page-general.php:9
+msgid "General settings that will apply to all tags types."
+msgstr "Réglages généraux qui s’appliqueront à tous les types de balises."
+
+#: admin/options-page-general.php:14
+msgid "Description settings"
+msgstr "Réglages de la description"
+
+#: admin/options-page-general.php:30 admin/options-page-general.php:61
+#: admin/options-page-general.php:92
+msgid "Because Yoast SEO integration is active, this value may be overwritten"
+msgstr "L’intégration de SEO Yoast étant active, cette valeur peut être écrasée."
+
+#: admin/options-page-general.php:76
+msgid "Default description"
+msgstr "Description par défaut "
+
+#: admin/options-page-general.php:111
+msgid "Image settings"
+msgstr "Réglages de l’image"
+
+#: admin/options-page-general.php:136
+msgid "On Post/Page, use image from"
+msgstr "Sur une publication/page, utilisez l’image de "
+
+#: admin/options-page-general.php:140
+msgid "\"Open Graph Image\" custom field on the post"
+msgstr "Champ personnalisé \"Ouvrir une image\" sur la publication"
+
+#: admin/options-page-general.php:144
+msgid "Post/page featured image"
+msgstr "Image mise à la une de la publication/page"
+
+#: admin/options-page-general.php:148
+msgid "First image from the post/page content"
+msgstr "Première image de la publication/du contenu de la page"
+
+#: admin/options-page-general.php:152
+msgid "First image from the post/page media gallery"
+msgstr "Première image de la galerie multimédia de la publication/de la page"
+
+#: admin/options-page-general.php:156
+msgid "Default image specified above"
+msgstr "Image par défaut spécifiée ci-dessus "
+
+#: admin/options-page-general.php:170
+msgid "On posts/pages the first image found, using the priority above, will be used. On the homepage, archives and other website sections the default image is always used."
+msgstr "Sur les publications/pages, la première image trouvée, en utilisant la priorité ci-dessus, sera utilisée. Sur la page d’accueil, les archives et les autres sections du site Web, l’image par défaut est toujours utilisée."
+
+#: admin/options-page-general.php:188
+msgid "The original image will be resized/cropped to %dx%dpx, or shrunk and centered, and the chosen PNG (that should also have this size) will be overlaid on it. It will only work for locally hosted images."
+msgstr "L’image originale sera redimensionnée/recadrée en %dx%dpx et le PNG choisi (qui devrait aussi avoir cette taille) sera superposé. Cela ne fonctionnera que pour les images hébergées localement."
+
+#: admin/options-page-general.php:190
+msgid "You can see an example of the end result <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr "Vous pouvez voir un exemple du résultat final <a href=\"%s\" target=\"_blank\">par ici</a>"
+
+#: admin/options-page-general.php:192
+msgid "If you activate this option globally, you can disable it based on your conditions using the <i>%1$s</i> filter"
+msgstr "Si vous activez cette option globalement, vous pouvez la désactiver en fonction de vos conditions à l’aide du filtre <i>%1$s</i>"
+
+#: admin/options-page-general.php:197
+msgid "PNG logo"
+msgstr "Logo PNG "
+
+#: admin/options-page-general.php:207
+msgid "Size: %dx%dpx"
+msgstr "Taille : %dx%dpx"
+
+#: admin/options-page-general.php:261
+msgid "Force getimagesize on local file"
+msgstr "Forcer getimagesize sur un fichier local "
+
+#: admin/options-page-general.php:270 admin/options-page-general.php:288
+msgid "This is an advanced option: Don't mess with this unless you know what you're doing"
+msgstr "Ceci est une option avancée : ne jouez pas avec ceci à moins de savoir ce que vous faites."
+
+#: admin/options-page-general.php:279
+msgid "Do not get image size"
+msgstr "Ne pas obtenir la taille de l’image "
+
+#: admin/options-page-general.php:290
+msgid "You should only activate this option if you're getting fatal errors (white screen of death) and only keep it active if this options does solve those errors"
+msgstr "Activez cette option uniquement si vous obtenez des erreurs fatales (écran blanc de la mort) et maintenez-la active si cette option résout ces erreurs."
+
+#: admin/options-page-general.php:294
+msgid "This can render the \"Add image to RSS/RSS2 feeds\" and \"Open Graph - Include Image Dimensions\" options useless"
+msgstr "Cela peut rendre inutiles les options \"Ajouter une image aux flux RSS/RSS2\" et \"Ouvrir le graphique - Inclure les dimensions de l’image\""
+
+#: admin/options-page-general.php:305
+msgid "URL settings"
+msgstr "Réglages de l’URL"
+
+#: admin/options-page-general.php:318
+msgid "If missing, a trailing slash will be added at the end"
+msgstr "Si manquant, un flash final sera ajouté à la fin."
+
+#: admin/options-page-general.php:320
+msgid "Homepage example:"
+msgstr "Exemple de page d’accueil "
+
+#: admin/options-page-general.php:329
+msgid "Author settings"
+msgstr "Réglages de l’auteur"
+
+#: admin/options-page-general.php:351
+msgid "Other settings"
+msgstr "Autres paramètres"
+
+#: admin/options-page-general.php:357
+msgid "Keep data on uninstall"
+msgstr "Conserver les données lors de la désinstallation "
+
+#: admin/options-page-general.php:364
+msgid "Keep the plugin settings on the database even if the plugin is uninstalled"
+msgstr "Conservez les paramètres de l’extension sur la base de données même si l’extension est désinstallée"
+
+#: admin/options-page-right.php:5
+msgid "Test your URLs on the Facebook Debugger"
+msgstr "Testez vos URL sur le déboguer Facebook"
+
+#: admin/options-page-right.php:9
+msgid "Test your URLs on the Twitter Card validator"
+msgstr "Testez vos URL sur le validateur de la carte Twitter"
+
+#: admin/options-page-right.php:48
+msgid "About this plugin"
+msgstr "À propos de l’extension"
+
+#: admin/options-page-right.php:50
+msgid "Support forum"
+msgstr "Forum d’assistance "
+
+#: admin/options-page-right.php:52
+msgid "Premium technical support or custom WordPress development"
+msgstr "Support technique Premium ou développement WordPress personnalisé "
+
+#: admin/options-page-right.php:53
+msgid "Please contact %s"
+msgstr "Merci de contacter %s"
+
+#: admin/options-page-right.php:54
+msgid "Please rate our plugin at WordPress.org"
+msgstr "Merci d’évaluer notre extensions sur WordPress.org "
+
+#: admin/options-page-schema.php:8
+msgid "Schema.org tags used by Google+ to render link share posts."
+msgstr "Balises Schema.org utilisées par Google+ pour afficher les publications en partage de lien."
+
+#: admin/options-page-schema.php:19 admin/options-page-twitter.php:18
+msgid "Include Title"
+msgstr "Inclure le titre "
+
+#: admin/options-page-schema.php:72
+msgid "Added to the HTML tag, if you want to avoid W3C and Structured Data validation errors"
+msgstr "Ajouté à la balise HTML, si vous souhaitez éviter les erreurs de validation du W3C et des données structurées."
+
+#: admin/options-page-schema.php:93
+msgid "Default (including Post/Page) Type"
+msgstr "Type par défaut (y compris publication/page)"
+
+#: admin/options-page-schema.php:120
+msgid "The user's Google+ URL must be filled in on his profile"
+msgstr "L’URL Google+ de l’utilisateur doit être renseigné sur son profil."
+
+#: admin/options-page-schema.php:134 admin/options-page-seo.php:71
+msgid "From the user Display name"
+msgstr "Nom d’affichage de l’utilisateur"
+
+#: admin/options-page-schema.php:162
+msgid "The website's Google+ Page"
+msgstr "La page Google+ du site"
+
+#: admin/options-page-schema.php:174
+msgid "Google+ Page URL (with https://)"
+msgstr "URL de la page Google+ (y compris https: //)"
+
+#: admin/options-page-seo.php:7
+msgid "SEO Meta Tags that are recommended ONLY if no other plugin is setting them already."
+msgstr "Balises méta SEO qui sont recommandées UNIQUEMENT si aucune autre extension ne les définit déjà."
+
+#: admin/options-page-seo.php:12
+msgid "SEO Meta Tags"
+msgstr "Balises méta SEO"
+
+#: admin/options-page-seo.php:30 admin/options-page-seo.php:52
+msgid "Not recommended because you have Yoast SEO active"
+msgstr "Non recommandé car vous avez l’extension Yoast SEO active"
+
+#: admin/options-page-seo.php:62
+msgid "Include Post/Page Author name"
+msgstr "Inclure le nom de l’auteur de la publication/page "
+
+#: admin/options-page-twitter.php:7
+msgid "Tags used by Twitter to render their Cards."
+msgstr "Balises utilisées par Twitter pour afficher leurs cartes."
+
+#: admin/options-page-twitter.php:83
+msgid "The user's Twitter Username must be filled in on his profile"
+msgstr "Le nom d’utilisateur Twitter de l’utilisateur doit être renseigné dans son profil."
+
+#: admin/options-page-twitter.php:97
+msgid "The website's Twitter Username"
+msgstr "Le nom d’utilisateur Twitter du site"
+
+#: admin/options-page-twitter.php:114
+msgid "Card Type"
+msgstr "Type de carte "
+
+#: admin/options-page-twitter.php:126
+msgid "The type of Twitter Card shown on the timeline"
+msgstr "Le type de carte Twitter affiché sur la chronologie"
+
+#: admin/options-page.php:56
+msgid "SEO tags"
+msgstr "Balises SEO"
+
+#: admin/class-webdados-fb-open-graph-admin.php:127
+#: admin/options-page-general.php:122 admin/options-page-general.php:200
+msgid "Upload/Choose"
+msgstr "Téléverser/Choisir"
+
+#: admin/class-webdados-fb-open-graph-admin.php:130
+#: admin/options-page-general.php:129
+msgid "Recommended size: %dx%dpx"
+msgstr "Taille recommandée : %dx%dpx"
+
+#: admin/class-webdados-fb-open-graph-admin.php:146
+#: admin/class-webdados-fb-open-graph-admin.php:416
+msgid "Select image"
+msgstr "Selectionnez une image"
+
+#: admin/class-webdados-fb-open-graph-admin.php:178
+msgid "Use this description"
+msgstr "Utilisez cette description "
+
+#: admin/class-webdados-fb-open-graph-admin.php:184
+msgid "The Yoast SEO integration is active, so it's description will be used"
+msgstr "L’intégration Yoast SEO est active, sa description sera utilisée."
+
+#: admin/class-webdados-fb-open-graph-admin.php:190
+msgid "If this field is not filled, the description will be generated from the excerpt, if it exists, or from the content"
+msgstr "Si ce champ n’est pas renseigné, la description sera générée à partir de l’extrait, s’il existe, ou à partir du contenu."
+
+#: admin/options-page-3rdparty.php:9
+msgid "Settings for 3rd party integration with other plugins."
+msgstr "Réglages d’intégrations tierces avec d’autres extension."
+
+#: admin/options-page-3rdparty.php:19 admin/options-page-3rdparty.php:67
+#: admin/options-page-3rdparty.php:119
+msgid "Attention"
+msgstr "Avertissement"
+
+#: admin/options-page-3rdparty.php:21
+msgid "You currently have both Yoast SEO and All in One SEO Pack plugins active. This is not recommended."
+msgstr "Vous avez actuellement les extensions Yoast SEO et All in One SEO Pack actives. Ce n’est pas recommandé."
+
+#: admin/options-page-3rdparty.php:53
+msgid "Use Title, URL and Description"
+msgstr "Utiliser le titre, l’URL et la description."
+
+#: admin/options-page-3rdparty.php:60
+msgid "Use Title, Canonical URL and Description generated by Yoast SEO"
+msgstr "Utiliser le titre, l’URL canonique et la description générés par Yoast SEO."
+
+#: admin/class-webdados-fb-open-graph-admin.php:62
+msgid "Google+"
+msgstr "Google+"
+
+#: public/class-webdados-fb-open-graph-public.php:332
+#: public/class-webdados-fb-open-graph-public.php:337
+#: public/class-webdados-fb-open-graph-public.php:342
+msgid "Archives"
+msgstr "Archives"
+
+#: admin/options-page-right.php:73
+msgid "Donate"
+msgstr "Faire un don"
+
+#: admin/options-page-general.php:49 admin/options-page-general.php:80
+msgid "Custom text"
+msgstr "Texte personnalisé"
+
+#: admin/class-webdados-fb-open-graph-admin.php:66
+msgid "Facebook profile URL"
+msgstr "URL du profil Facebook"
+
+#: admin/class-webdados-fb-open-graph-admin.php:122
+#: admin/class-webdados-fb-open-graph-admin.php:147
+#: admin/class-webdados-fb-open-graph-admin.php:417
+msgid "Use this image"
+msgstr "Utiliser cette image"
+
+#: admin/class-webdados-fb-open-graph-admin.php:128
+msgid "Clear field"
+msgstr "Effacer le champ"
+
+#: admin/class-webdados-fb-open-graph-admin.php:268
+msgid "URL failed:"
+msgstr "L’URL a échoué :"
+
+#: admin/class-webdados-fb-open-graph-admin.php:280
+msgid "Facebook returned:"
+msgstr "Facebook à retourné :"
+
+#: admin/class-webdados-fb-open-graph-admin.php:313
+msgid "Facebook Open Graph Tags cache updated/purged."
+msgstr "Cache des balises Open Graph Facebook mis à jour/purgé."
+
+#: admin/class-webdados-fb-open-graph-admin.php:313
+#: admin/class-webdados-fb-open-graph-admin.php:391
+msgid "Share this on Facebook"
+msgstr "Partager sur Facebook"
+
+#: admin/class-webdados-fb-open-graph-admin.php:323
+msgid "Error: Facebook Open Graph Tags cache NOT updated/purged."
+msgstr "Erreur : le cache Facebook Open Graph Tags n’est PAS mis à jour/purgé."
+
+#: admin/options-page-general.php:272
+msgid "Force getimagesize on local file even if allow_url_fopen=1"
+msgstr "Forcer getimagesize sur un fichier local même si allow_url_fopen=1"
+
+#: admin/options-page-general.php:274
+msgid "May cause problems with some multisite configurations but fixes \"HTTP request failed\" errors"
+msgstr "Peut causer des problèmes avec certaines configurations multisites, mais corrige les erreurs \"HTTP roquets failed\""
+
+#: admin/options-page-right.php:13
+msgid "About the Open Graph Protocol (on Facebook)"
+msgstr "À propos du protocole Open Graph (sur Facebook)"
+
+#: admin/options-page-right.php:17
+msgid "The Open Graph Protocol (official website)"
+msgstr "Le protocole Open Graph (site officiel)"
+
+#: admin/options-page-right.php:21
+msgid "About Twitter Cards"
+msgstr "À propos des cartes Twitter"
+
+#: admin/options-page-right.php:25
+msgid "Plugin official URL"
+msgstr "URL officielle de l’extension"
+
+#: admin/options-page-right.php:29
+msgid "Author's website: Webdados"
+msgstr "Site de l’auteur : Webdados"
+
+#: admin/options-page-right.php:33
+msgid "Author's Facebook page: Webdados"
+msgstr "Page Facebook de l’auteur : Webdados"
+
+#: admin/options-page-right.php:62
+msgid "Useful links"
+msgstr "Liens pratiques"
+
+#: public/class-webdados-fb-open-graph-public.php:320
+msgid "Search for"
+msgstr "Recherche pour"
+
+#: admin/options-page-3rdparty.php:221
+msgid "Add SubHeading to Post/Page Title"
+msgstr "Ajouter un sous-titre à une publication/titre de page"
+
+#: admin/options-page-3rdparty.php:280
+msgid "Setting \"Include URL\", \"Set Canonical URL\", \"Include Description\" and \"Include Image\" options is HIGHLY recommended"
+msgstr "La définition des options \"Inclure l’URL\", \"Définir l’URL canonique\", \"Inclure la description\" et \"Inclure l’image\" est FORTEMENT recommandée."
+
+#: admin/options-page-general.php:20
+msgid "Description maximum length"
+msgstr "Longueur maximale de la description "
+
+#: admin/options-page-general.php:27
+msgid "0 (zero) or blank for no maximum length"
+msgstr "0 (zéro) ou vide pour aucune longueur maximale"
+
+#: admin/options-page-general.php:37 admin/options-page-general.php:79
+msgid "Homepage description"
+msgstr "Description de la page d’accueil "
+
+#: admin/options-page-general.php:43
+msgid "The description of your front page:"
+msgstr "Description de votre page d’accueil :"
+
+#: admin/options-page-general.php:48
+msgid "Website tagline"
+msgstr "Slogan du site"
+
+#: admin/options-page-general.php:98
+msgid "WPML users: Set the main language default description here, save changes and then go to <a href=\"%s\" target=\"_blank\">WPML &gt; String translation</a> to set it for other languages."
+msgstr "Utilisateurs WPML : définissez ici la description par défaut de la langue principale, enregistrez les modifications, puis accédez à <a href=\"%s\" target=\"_blank\">WPML &gt; Traduction de chaîne</a> pour le définir pour d’autres langues."
+
+#: admin/options-page-general.php:119
+msgid "Default image"
+msgstr "Image par défaut "
+
+#: admin/options-page-general.php:249
+msgid "Add image to RSS/RSS2 feeds"
+msgstr "Ajouter une image aux flux RSS/RSS2 "
+
+#: admin/options-page-general.php:335
+msgid "Hide Author on Pages"
+msgstr "Masquer l’auteur sur les pages "
+
+#: admin/options-page-general.php:342
+msgid "Hides all Author tags on Pages"
+msgstr "Masque toutes les balises d’auteur sur les pages "
+
+#: admin/options-page-seo.php:40
+msgid "Include Meta Description tag"
+msgstr "Inclure la balise Meta Description "
+
+#: admin/options-page-twitter.php:12
+msgid "Twitter Card Tags"
+msgstr "Balises de carte Twitter "
+
+#: admin/options-page-twitter.php:117
+msgid "Summary Card"
+msgstr "Carte récapitulative"
+
+#: admin/options-page-twitter.php:118
+msgid "Summary Card with Large Image"
+msgstr "Carte récapitulative avec grande image"
+
+#: admin/class-webdados-fb-open-graph-admin.php:51
+msgid "Settings"
+msgstr "Réglages"
+
+#: admin/class-webdados-fb-open-graph-admin.php:64
+#: admin/options-page-twitter.php:109
+msgid "Twitter username (without @)"
+msgstr "Nom d’utilisateur Twitter (sans @)"
+
+#: admin/options-page-facebook.php:113
+msgid "Will be \"%1$s\" for posts and pages and \"%2$s\" or \"%3$s\" for the homepage"
+msgstr "Sera \"%1$s\" pour les publications et les pages et \"%2$s\" ou \"%3$s\" pour la page d’accueil"
+
+#: admin/options-page-facebook.php:122 admin/options-page-schema.php:79
+msgid "Homepage Type"
+msgstr "Type de page d’accueil "
+
+#: admin/options-page-facebook.php:195
+msgid "Website's Facebook Page"
+msgstr "Page Facebook du site "
+
+#: admin/options-page-facebook.php:221
+msgid "Locale"
+msgstr "Langue locale "
+
+#: admin/options-page-facebook.php:263
+msgid "WordPress current locale/language"
+msgstr "Langue WordPress locale/actuelle"
+
+#: admin/options-page-facebook.php:284
+msgid "List loaded from Facebook (online)"
+msgstr "Liste chargée à partir de Facebook (en ligne)"
+
+#: admin/options-page-facebook.php:287
+msgid "List loaded from local cache (offline)"
+msgstr "Liste chargée à partir du cache local (hors connexion)"
+
+#: admin/options-page-facebook.php:288
+msgid "You\\'l lose any changes you haven\\'t saved. Are you sure?"
+msgstr "Vous perdrez tous les changements que vous n’avez pas enregistrés. Êtes-vous sûr ?"
+
+#: admin/options-page-facebook.php:288
+msgid "Reload from Facebook"
+msgstr "Recharger depuis Facebook"
+
+#: admin/options-page-facebook.php:291
+msgid "List not loaded"
+msgstr "Liste non chargée"
+
+#: admin/options-page-facebook.php:313
+msgid "Facebook Admin(s) ID"
+msgstr "Identifiant administrateur Facebook"
+
+#: admin/options-page-facebook.php:320
+msgid "Comma separated if more than one"
+msgstr "Virgule de séparation si plus d’un"
+
+#: admin/options-page-facebook.php:337
+msgid "Facebook Platform App ID"
+msgstr "Identifiant d’application de plate-forme Facebook "
+
+#: admin/options-page-general.php:311
+msgid "Add trailing slash at the end"
+msgstr "Ajouter une barre oblique à la fin "
+
+#: admin/options-page-schema.php:167
+msgid "Website's Google+ Page"
+msgstr "Page Google+ du site "
+
+#: admin/options-page-seo.php:18
+msgid "Set Canonical URL"
+msgstr "Définir l’URL canonique "
+
+#: admin/options-page-twitter.php:102
+msgid "Website's Twitter Username"
+msgstr "Nom d’utilisateur Twitter du site "
+
+#: admin/options-page.php:17
+msgid "Please set some default values and which tags should, or should not, be included. It may be necessary to exclude some tags if other plugins are already including them."
+msgstr "Veuillez définir certaines valeurs par défaut et les balises qui devraient ou ne devraient pas être incluses. Il peut être nécessaire d’exclure certaines balises si d’autres extensions les incluent déjà."

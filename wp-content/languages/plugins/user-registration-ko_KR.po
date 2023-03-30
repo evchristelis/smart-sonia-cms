@@ -1,0 +1,4252 @@
+# Translation of Plugins - User Registration &#8211; Custom Registration Form, Login Form And User Profile For WordPress - Stable (latest release) in Korean
+# This file is distributed under the same license as the Plugins - User Registration &#8211; Custom Registration Form, Login Form And User Profile For WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-02-20 06:42:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: ko_KR\n"
+"Project-Id-Version: Plugins - User Registration &#8211; Custom Registration Form, Login Form And User Profile For WordPress - Stable (latest release)\n"
+
+#: includes/admin/class-ur-admin-export-users.php:134
+msgid "User Status"
+msgstr "사용자 상태"
+
+#: includes/admin/class-ur-admin-assets.php:438
+msgctxt "user registration admin"
+msgid "input of min value must be less than max value."
+msgstr "최소값 입력은 최대값보다 작아야 합니다."
+
+#: includes/admin/class-ur-admin-assets.php:437
+msgctxt "user registration admin"
+msgid "input size must be greater than zero."
+msgstr "입력 크기는 0보다 커야 합니다."
+
+#: includes/admin/class-ur-admin-assets.php:416
+msgctxt "user-registration admin"
+msgid "Stripe Gateway"
+msgstr "Stripe 게이트웨이"
+
+#: includes/admin/class-ur-admin-assets.php:415
+msgctxt "user-registration admin"
+msgid "Payment"
+msgstr "결제"
+
+#: includes/admin/functions-ur-admin.php:662
+msgid ""
+"<strong>What benefit would you have?</strong> <br>\n"
+"\t\t\tWe will take your feedback from the survey and use that information to make the plugin better. As a result, you will have a better plugin as you wanted. <span class=\"dashicons dashicons-smiley smile-icon\"></span><br>"
+msgstr ""
+"<strong>어떤 이점이 있습니까?</strong> <br>\n"
+"\t\t\t\t\t\t\t\t설문 조사에서 귀하의 피드백을 수집하고 해당 정보를 사용하여 플러그인을 개선할 것입니다. 그 결과로, 사용자는 원하는대로 더 나은 플러그인을 갖게 됩니다. <span class=\"dashicons dashicons-smiley smile-icon\"></span><br>"
+
+#: includes/admin/functions-ur-admin.php:657
+msgid ""
+"<strong>Hey there!</strong> <br>\n"
+"\t\t\tWe would be grateful if you could spare a moment and help us fill this survey. This survey will take approximately 4 minutes to complete."
+msgstr ""
+"<strong>안녕하세요!</strong> <br>\n"
+"\t\t\t\t\t\t\t\t잠시 시간을 내어 이 설문조사를 작성하는 데 도움을 주시면 감사하겠습니다. 이 설문조사를 완료하는 데 약 4분이 소요됩니다."
+
+#: includes/admin/class-ur-admin.php:283
+msgid "User Registration Plugin Survey"
+msgstr "사용자 등록 플러그인 설문조사"
+
+#: includes/abstracts/abstract-ur-list-table.php:258
+msgid "You do not have permission to create post!"
+msgstr "게시물을 작성할 권한이 없습니다!"
+
+#: includes/form/settings/class-ur-setting-checkbox.php:76
+msgid "Enable this option to select all the options"
+msgstr "모든 옵션을 선택하려면 이 옵션을 활성화하십시오"
+
+#: includes/form/settings/class-ur-setting-checkbox.php:64
+msgid "Select All "
+msgstr "모두 선택 "
+
+#: includes/admin/views/html-admin-page-import-export-forms.php:40
+msgid "IMPORT FORMS WITH SETTINGS"
+msgstr "설정으로 양식 가져오기"
+
+#: includes/admin/views/html-admin-page-import-export-forms.php:18
+msgid "EXPORT FORMS WITH SETTINGS"
+msgstr "설정으로 양식 내보내기"
+
+#: includes/admin/settings/emails/class-ur-settings-email-confirmation.php:41
+msgid "Confirmation Email"
+msgstr "승인 메일"
+
+#: includes/admin/settings/class-ur-settings-general.php:154
+msgid "Endpoints Section"
+msgstr "엔드포인트 섹션"
+
+#: includes/abstracts/abstract-ur-list-table.php:652
+#: includes/admin/views/html-admin-page-form-templates.php:40
+msgid "All"
+msgstr "모두"
+
+#: includes/abstracts/abstract-ur-list-table.php:279
+msgid "You do not have permission to untrash posts!"
+msgstr "게시물을 삭제 취소할 권한이 없습니다!"
+
+#: includes/admin/views/html-admin-page-export-users.php:18
+msgid "GENERAL"
+msgstr "일반"
+
+#: includes/class-ur-ajax.php:732
+msgid "Test email was unsuccessful! Something went wrong."
+msgstr "테스트 이메일이 실패했습니다! 문제가 발생했습니다."
+
+#: includes/class-ur-ajax.php:730
+msgid "Test email was sent successfully! Please check your inbox to make sure it is delivered."
+msgstr "테스트 이메일이 성공적으로 전송되었습니다! 받은 편지함을 확인하여 배송되었는지 확인하십시오."
+
+#. translators: %s - WP mail from name
+#: includes/class-ur-ajax.php:716
+msgid "Test email from %s"
+msgstr "%s의 테스트 이메일"
+
+#: includes/admin/settings/class-ur-settings-email.php:142
+msgid "Click to send test email."
+msgstr "테스트 이메일을 보내려면 클릭하세요."
+
+#: includes/admin/settings/class-ur-settings-email.php:141
+#: includes/admin/settings/class-ur-settings-email.php:148
+msgid "Send Email"
+msgstr "이메일 보내기"
+
+#: includes/admin/settings/class-ur-settings-email.php:129
+msgid "Enter email address where test email will be sent."
+msgstr "테스트 이메일을 보낼 이메일 주소를 입력합니다."
+
+#: includes/admin/settings/class-ur-settings-email.php:128
+msgid "Send To"
+msgstr "보내기"
+
+#: includes/admin/settings/class-ur-settings-email.php:123
+msgid "Send a Test Email"
+msgstr "테스트 이메일 보내기"
+
+#: includes/class-ur-ajax.php:493
+msgid "Invalid file type, please contact with site administrator."
+msgstr "잘못된 파일 형식입니다. 사이트 관리자에게 문의하십시오."
+
+#. translators: %s - Link to login form.
+#: includes/class-ur-shortcodes.php:183
+msgid "Please Login to edit profile. <a href=\"%s\">Login Here?</a>"
+msgstr "프로필을 수정하려면 로그인하세요. <a href=\"%s\">여기에 로그인하시겠습니까?</a>"
+
+#: includes/class-ur-form-handler.php:670
+msgid "New password must not be same as old password."
+msgstr "새 비밀번호는 이전 비밀번호와 같을 수 없습니다."
+
+#: includes/admin/settings/class-ur-settings-general.php:401
+msgid "Enable Ajax Login"
+msgstr "Ajax 로그인 활성화"
+
+#: includes/admin/settings/class-ur-settings-general.php:135
+#: includes/RestApi/class-ur-rest-api.php:268
+msgid "Check to disable profile picture in edit profile page."
+msgstr "프로필 수정 페이지에서 프로필 사진을 비활성화하려면 체크하세요."
+
+#: includes/RestApi/class-ur-rest-api.php:267
+msgid "Disable profile picture"
+msgstr "프로필 사진 비활성화"
+
+#: includes/class-ur-form-handler.php:369
+msgid "New password must not be same as old password"
+msgstr "새 비밀번호는 이전 비밀번호와 같을 수 없습니다"
+
+#: includes/admin/functions-ur-admin.php:620
+#: includes/class-ur-plugin-updater.php:586
+#: includes/class-ur-plugin-updater.php:609
+msgid "I have a query"
+msgstr "질문이 있습니다"
+
+#: includes/admin/functions-ur-admin.php:638
+msgid "Hope you are having nice experience with <strong>User Registration</strong> plugin. Please provide this plugin a nice review."
+msgstr "<strong>사용자 등록</strong> 플러그인을 사용해 보시기 바랍니다. 이 플러그인에 좋은 리뷰를 남겨주세요."
+
+#: includes/admin/functions-ur-admin.php:637
+msgid "( The above word is just to draw your attention. <span class=\"dashicons dashicons-smiley smile-icon\"></span> )"
+msgstr "( 위의 단어는 관심을 끌기 위한 것입니다. <span class=\"dashicons dashicons-smiley smile-icon\"></span> )"
+
+#: includes/admin/class-ur-admin.php:193
+msgid "HAKUNA <strong>MATATA!</strong>"
+msgstr "하쿠나 <strong>마타타!</strong>"
+
+#: includes/admin/settings/class-ur-settings-general.php:278
+msgid "Please enter the valid username"
+msgstr "유효한 사용자 이름을 입력하십시오"
+
+#: includes/admin/settings/class-ur-settings-general.php:273
+msgid "Enter the error message in form submission on username"
+msgstr "사용자 이름의 양식 제출에 오류 메시지를 입력하십시오"
+
+#: includes/admin/settings/class-ur-settings-general.php:272
+msgid "Special Character Validation in Username"
+msgstr "사용자 이름의 특수 문자 유효성 검사"
+
+#: includes/class-ur-frontend-scripts.php:377
+#: includes/form/class-ur-form-field-user-login.php:87
+#: includes/form/class-ur-form-field-user-login.php:90
+msgid "Please enter a valid username."
+msgstr "유효한 사용자 이름을 입력하세요."
+
+#: includes/admin/functions-ur-admin.php:639
+msgid ""
+"<strong>What benefit would you have?</strong> <br>\n"
+"\t\t\t\tBasically, it would encourage us to release updates regularly with new features & bug fixes so that you can keep on using the plugin without any issues and also to provide free support like we have been doing. <span class=\"dashicons dashicons-smiley smile-icon\"></span><br>"
+msgstr ""
+"<strong>어떤 이점이 있습니까?</strong> <br>\n"
+"\t\t\t\t기본적으로 새로운 기능 및 버그 수정으로 정기적으로 업데이트를 릴리스하여 문제 없이 플러그인을 계속 사용할 수 있고 우리가 해온 것처럼 무료 지원을 제공하도록 권장합니다. <span class=\"dashicons dashicons-smiley smile-icon\"></span><br>"
+
+#: includes/form/settings/class-ur-setting-user_login.php:68
+msgid "Check this option to validate the Username for Special Character"
+msgstr "특수 문자에 대한 사용자 이름을 확인하려면 이 옵션을 선택하십시오"
+
+#: includes/form/settings/class-ur-setting-user_login.php:56
+msgid "Allow Special Character"
+msgstr "특수 문자 허용"
+
+#: includes/class-ur-email-confirmation.php:153
+msgid "Token Expired . Please request for new verification email."
+msgstr "토큰이 만료되었습니다. 새 확인 이메일을 요청하세요."
+
+#: includes/class-ur-email-confirmation.php:90
+msgid "Verification Email Sent Successfully !! "
+msgstr "확인 이메일이 성공적으로 전송되었습니다!! "
+
+#: includes/admin/class-ur-admin-user-list-manager.php:92
+msgctxt "The action on users list page"
+msgid "Resend Verification"
+msgstr "확인 재전송"
+
+#: includes/form/settings/class-ur-setting-user_login.php:53
+msgid "Enter minimum number of length of username."
+msgstr "사용자 이름의 최소 길이를 입력하십시오."
+
+#: includes/form/settings/class-ur-setting-user_login.php:45
+msgid "Limit Username Length"
+msgstr "사용자 이름 길이 제한"
+
+#: includes/form/settings/class-ur-setting-checkbox.php:53
+#: includes/form/settings/class-ur-setting-checkbox.php:60
+msgid "Choice Limit"
+msgstr "선택 제한"
+
+#: includes/functions-ur-core.php:1061
+msgid "Bottom"
+msgstr "하단"
+
+#: includes/functions-ur-core.php:1060
+msgid "Top"
+msgstr "상단"
+
+#: includes/functions-ur-core.php:1053
+msgid "Success message position"
+msgstr "성공 메시지 위치"
+
+#: includes/functions-ur-core.php:1065
+msgid "Display success message either at the top or bottom after successful registration."
+msgstr "등록 성공 후 상단 또는 하단에 성공 메시지를 표시합니다."
+
+#: includes/admin/class-ur-admin-assets.php:417
+msgctxt "user registration admin"
+msgid "Are you sure want to delete this row?"
+msgstr "이 행을 삭제하시겠습니까?"
+
+#: includes/admin/class-ur-admin-assets.php:411
+msgid "Delete"
+msgstr "삭제"
+
+#: includes/admin/class-ur-admin-assets.php:321
+msgid "Disabled"
+msgstr "사용 안 함"
+
+#: includes/admin/class-ur-admin-assets.php:320
+msgid "Enabled"
+msgstr "사용 함"
+
+#: includes/admin/class-ur-admin-assets.php:420
+msgctxt "user registration admin"
+msgid "Cannot delete row"
+msgstr "행을 삭제할 수 없음"
+
+#: includes/admin/class-ur-admin-assets.php:419
+msgctxt "user registration admin"
+msgid "At least one row is required to create a registration form."
+msgstr "등록 양식을 만들려면 하나 이상의 행이 필요합니다."
+
+#: includes/class-ur-frontend-scripts.php:381
+msgid "Please enter a multiple of %qty%."
+msgstr "%qty%의 배수를 입력하십시오."
+
+#: includes/class-ur-frontend-scripts.php:380
+msgid "Please enter a value greater than or equal to %qty%."
+msgstr "%qty%보다 크거나 같은 값을 입력하십시오."
+
+#: includes/class-ur-frontend-scripts.php:379
+msgid "Please enter a value less than or equal to %qty%."
+msgstr "%qty%보다 작거나 같은 값을 입력하십시오."
+
+#: includes/admin/class-ur-admin-assets.php:307
+#: includes/admin/views/html-admin-page-import-export-forms.php:50
+msgid "No file selected."
+msgstr "파일이 선택되지 않았습니다."
+
+#: includes/admin/class-ur-admin-user-list-manager.php:389
+msgid "All UR Forms"
+msgstr "모든 UR 양식"
+
+#: includes/admin/class-ur-admin-menus.php:369
+#: includes/admin/class-ur-admin-menus.php:370
+#: includes/admin/class-ur-admin-user-list-manager.php:387
+msgid "All Forms"
+msgstr "모든 양식"
+
+#: includes/class-ur-ajax.php:662 includes/class-ur-ajax.php:665
+#: includes/class-ur-ajax.php:671 includes/class-ur-ajax.php:674
+#: includes/class-ur-ajax.php:681 includes/class-ur-form-handler.php:521
+#: includes/class-ur-form-handler.php:524
+#: includes/class-ur-form-handler.php:530
+#: includes/class-ur-form-handler.php:533
+msgid "ERROR"
+msgstr "오류"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:147
+msgid "Copied ! "
+msgstr "복사되었습니다! "
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:147
+msgid "Copy Shortcode ! "
+msgstr "단축번호 복사! "
+
+#: includes/admin/settings/class-ur-settings-general.php:632
+msgid "Denied Account"
+msgstr "거부된 계정"
+
+#: includes/admin/settings/class-ur-settings-general.php:622
+msgid "Show this message when an account is pending approval."
+msgstr "계정이 승인 대기 중일 때 이 메시지를 표시합니다."
+
+#: includes/admin/settings/class-ur-settings-general.php:621
+msgid "Pending Approval"
+msgstr "승인 대기 중"
+
+#: includes/admin/settings/class-ur-settings-general.php:612
+msgid "Show this message when email is unknown."
+msgstr "이메일을 알 수 없는 경우 이 메시지를 표시합니다."
+
+#: includes/admin/settings/class-ur-settings-general.php:611
+msgid "Unknown Email"
+msgstr "알 수 없는 이메일"
+
+#: includes/admin/settings/class-ur-settings-general.php:601
+msgid "Show this message when username is unknown or invalid."
+msgstr "사용자 이름을 알 수 없거나 유효하지 않은 경우 이 메시지를 표시합니다."
+
+#: includes/admin/settings/class-ur-settings-general.php:600
+msgid "Invalid/Unknown Username"
+msgstr "유효하지 않거나 알 수 없는 사용자 이름"
+
+#: includes/admin/settings/class-ur-settings-general.php:590
+msgid "Show this message when password is empty."
+msgstr "비밀번호가 비어 있을 때 이 메시지를 표시합니다."
+
+#: includes/admin/settings/class-ur-settings-general.php:580
+msgid "Show this message when username is empty."
+msgstr "사용자 이름이 비어 있을 때 이 메시지를 표시합니다."
+
+#: includes/admin/settings/class-ur-settings-general.php:579
+msgid "Username Required"
+msgstr "사용자 이름 필수"
+
+#: includes/admin/settings/class-ur-settings-general.php:574
+msgid "Messages"
+msgstr "메시지"
+
+#: includes/admin/settings/class-ur-settings-general.php:548
+msgid "Placeholders"
+msgstr "자리 표시자"
+
+#: includes/admin/settings/class-ur-settings-general.php:538
+msgid "This option lets you edit the \"Lost your password?\" option label."
+msgstr "이 옵션을 통해 \"비밀번호를 분실하셨습니까?\" 옵션 레이블을 편집할 수 있습니다."
+
+#: includes/admin/settings/class-ur-settings-general.php:528
+msgid "This option lets you edit the \"Login\" button label."
+msgstr "이 옵션을 통해 \"로그인\" 버튼 레이블을 편집할 수 있습니다."
+
+#: includes/admin/settings/class-ur-settings-general.php:497
+#: includes/admin/settings/class-ur-settings-general.php:503
+#: includes/functions-ur-core.php:1148
+msgid "Username or Email"
+msgstr "사용자 이름 또는 이메일"
+
+#: includes/admin/settings/class-ur-settings-general.php:492
+msgid "Labels"
+msgstr "레이블"
+
+#: includes/admin/settings/class-ur-settings-general.php:144
+msgid "Check to disable logout confirmation."
+msgstr "로그아웃 확인을 비활성화하려면 선택합니다."
+
+#: includes/form/settings/class-ur-setting-country.php:54
+msgid "Select countries to give as options."
+msgstr "옵션으로 제공할 국가를 선택하세요."
+
+#: includes/form/settings/class-ur-setting-text.php:53
+msgid "Allowed maximum number of characters."
+msgstr "허용되는 최대 문자 수입니다."
+
+#: includes/form/settings/class-ur-setting-number.php:61
+msgid "Amount to increment or decrement at one step."
+msgstr "한 단계에서 증가 또는 감소할 양입니다."
+
+#: includes/form/settings/class-ur-setting-number.php:50
+msgid "Maximum allowed number."
+msgstr "최대 허용 수."
+
+#: includes/form/settings/class-ur-setting-number.php:39
+msgid "Minimum allowed number."
+msgstr "최소 허용 수입니다."
+
+#: includes/form/settings/class-ur-setting-password.php:39
+msgid "Maximum allowed length of password."
+msgstr "최대 허용 비밀번호 길이입니다."
+
+#: includes/form/settings/class-ur-setting-date.php:134
+msgid "Enable date range feature."
+msgstr "기간 기능을 활성화합니다."
+
+#: includes/form/settings/class-ur-setting-date.php:119
+msgid "Set current as default."
+msgstr "현재를 기본값으로 설정하십시오."
+
+#: includes/form/settings/class-ur-setting-date.php:104
+msgid "Enter max date."
+msgstr "최대 날짜를 입력하세요."
+
+#: includes/form/settings/class-ur-setting-date.php:93
+msgid "Enter min date."
+msgstr "최소 날짜를 입력하세요."
+
+#: includes/form/settings/class-ur-setting-date.php:82
+msgid "Enable min/max date."
+msgstr "최소/최대 날짜를 활성화합니다."
+
+#: includes/form/settings/class-ur-setting-date.php:67
+msgid "Which format do you want to use to show date."
+msgstr "날짜를 표시하는 데 어떤 형식을 사용하시겠습니까?"
+
+#: includes/functions-ur-core.php:1098
+msgid "Choose form template to use."
+msgstr "사용할 양식 템플릿을 선택합니다."
+
+#: includes/functions-ur-core.php:1015
+#: includes/RestApi/class-ur-rest-api.php:231
+msgid "Set minimum required password strength."
+msgstr "필요한 최소 비밀번호 강도를 설정합니다."
+
+#: includes/functions-ur-core.php:997
+#: includes/RestApi/class-ur-rest-api.php:224
+msgid "Make strong password compulsary."
+msgstr "강력한 비밀번호를 필수로 설정하십시오."
+
+#: includes/functions-ur-core.php:985
+#: includes/RestApi/class-ur-rest-api.php:244
+msgid "Default role for the users registered through this form."
+msgstr "이 양식을 통해 등록된 사용자의 기본 역할입니다."
+
+#: includes/functions-ur-core.php:963
+msgid "Login method that should be used by the users registered through this form."
+msgstr "이 양식을 통해 등록된 사용자가 사용해야 하는 로그인 방법입니다."
+
+#: includes/admin/settings/class-ur-settings-general.php:554
+msgid "This option lets you set placeholder for the \"Username or Email\" field."
+msgstr "이 옵션을 사용하면 \"사용자 이름 또는 이메일\" 입력란에 대한 자리 표시자를 설정할 수 있습니다."
+
+#: includes/admin/settings/class-ur-settings-general.php:553
+msgid "Username or Email Field"
+msgstr "사용자 이름 또는 이메일 입력란"
+
+#: includes/admin/settings/class-ur-settings-general.php:508
+msgid "This option lets you edit the \"Password\" field label."
+msgstr "이 옵션을 통해 \"비밀번호\" 입력란 레이블을 편집할 수 있습니다."
+
+#: includes/admin/settings/class-ur-settings-general.php:498
+msgid "This option lets you edit the \"Username or Email\" field label."
+msgstr "이 옵션을 통해 \"사용자 이름 또는 이메일\" 입력란 레이블을 편집할 수 있습니다."
+
+#: includes/admin/settings/class-ur-settings-general.php:434
+msgid "Check to hide field labels."
+msgstr "입력란 레이블을 숨기려면 선택하십시오."
+
+#: includes/admin/settings/class-ur-settings-general.php:430
+msgid "Hide Field Labels"
+msgstr "입력란 레이블 숨기기"
+
+#: includes/form/settings/class-ur-setting-country.php:65
+#: includes/form/settings/class-ur-setting-text.php:64
+#: includes/form/settings/class-ur-setting-textarea.php:41
+msgid "Default value for this field."
+msgstr "이 입력란의 기본값입니다."
+
+#: includes/functions-ur-core.php:799
+msgid "Check this option to hide the label of this field."
+msgstr "이 입력란의 레이블을 숨기려면 이 옵션을 선택합니다."
+
+#: includes/form/settings/class-ur-setting-checkbox.php:50
+#: includes/form/settings/class-ur-setting-country.php:42
+#: includes/form/settings/class-ur-setting-date.php:50
+#: includes/form/settings/class-ur-setting-description.php:42
+#: includes/form/settings/class-ur-setting-display_name.php:42
+#: includes/form/settings/class-ur-setting-email.php:39
+#: includes/form/settings/class-ur-setting-first_name.php:42
+#: includes/form/settings/class-ur-setting-last_name.php:42
+#: includes/form/settings/class-ur-setting-nickname.php:42
+#: includes/form/settings/class-ur-setting-number.php:72
+#: includes/form/settings/class-ur-setting-radio.php:37
+#: includes/form/settings/class-ur-setting-select.php:40
+#: includes/form/settings/class-ur-setting-text.php:75
+#: includes/form/settings/class-ur-setting-textarea.php:53
+#: includes/form/settings/class-ur-setting-user_confirm_email.php:43
+#: includes/form/settings/class-ur-setting-user_confirm_password.php:42
+#: includes/form/settings/class-ur-setting-user_email.php:42
+#: includes/form/settings/class-ur-setting-user_login.php:42
+#: includes/form/settings/class-ur-setting-user_pass.php:42
+#: includes/form/settings/class-ur-setting-user_url.php:42
+msgid "Class name to embed in this field."
+msgstr "이 입력란에 포함할 클래스 이름입니다."
+
+#: includes/functions-ur-core.php:786
+msgid "Check this option to mark the field required. A form will not submit unless all required fields are provided."
+msgstr "필수 입력란을 표시하려면 이 옵션을 선택하십시오. 모든 필수 입력란에 입력하지 않으면 양식이 제출되지 않습니다."
+
+#: includes/functions-ur-core.php:773
+msgid "Enter placeholder for the field."
+msgstr "입력란의 자리 표시자를 입력합니다."
+
+#: includes/functions-ur-core.php:763
+msgid "Unique key for the field."
+msgstr "입력란의 고유 키입니다."
+
+#: includes/functions-ur-core.php:754
+msgid "Enter text for the form field description."
+msgstr "양식 입력란 설명에 대한 텍스트를 입력합니다."
+
+#: includes/functions-ur-core.php:745
+msgid "Enter text for the form field label. This is recommended and can be hidden in the Advanced Settings."
+msgstr "양식 입력란 레이블에 대한 텍스트를 입력합니다. 이것은 권장되며 고급 설정에서 숨길 수 있습니다."
+
+#: includes/admin/settings/class-ur-settings-general.php:589
+msgid "Empty Password"
+msgstr "비밀번호 없음"
+
+#: includes/functions-ur-core.php:714
+msgid "Text"
+msgstr "텍스트"
+
+#: includes/functions-ur-core.php:711
+msgid "User URL"
+msgstr "사용자 URL"
+
+#: includes/functions-ur-core.php:707
+msgid "User Login"
+msgstr "사용자 로그인"
+
+#: includes/functions-ur-core.php:706
+msgid "User Confirm Password"
+msgstr "사용자 비밀번호 확인"
+
+#: includes/functions-ur-core.php:705
+msgid "User Pass"
+msgstr "사용자 패스"
+
+#: includes/functions-ur-core.php:704
+msgid "User Confirm Email"
+msgstr "사용자 확인 이메일"
+
+#: includes/class-ur-frontend-scripts.php:368
+msgid "Uploading..."
+msgstr "업로드 중..."
+
+#: templates/myaccount/form-edit-profile.php:95
+msgid "Upload Picture"
+msgstr "사진 업로드"
+
+#: includes/class-ur-form-handler.php:151
+msgid "Email already exists"
+msgstr "이메일이 이미 존재합니다"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:277
+msgid "Registered At"
+msgstr "등록 시간"
+
+#: includes/admin/class-ur-admin-assets.php:426
+msgid "Confirm Deletion"
+msgstr "삭제 확인"
+
+#: includes/admin/settings/class-ur-settings-general.php:476
+msgid "Please make sure that you have created a login or my-account page which has a login form before enabling this option. Learn how to create a login form <a href=\"https://docs.wpeverest.com/docs/user-registration/registration-form-and-login-form/how-to-show-login-form/\" target=\"_blank\">here</a>."
+msgstr "이 옵션을 활성화하기 전에 로그인 양식이 있는 로그인 또는 내 계정 페이지를 생성했는지 확인하십시오. 로그인 양식을 만드는 방법 알아보기 <a href=\"https://docs.wpeverest.com/docs/user-registration/registration-form-and-login-form/how-to-show-login-form/\" target=\"_blank\">여기</a>."
+
+#: includes/admin/class-ur-admin-assets.php:436
+msgctxt "user registration admin"
+msgid "Please select at least one country."
+msgstr "국가를 하나 이상 선택하세요."
+
+#: includes/admin/views/html-admin-page-forms.php:136
+msgid "Documentation"
+msgstr "설명서"
+
+#: includes/admin/views/html-admin-page-forms.php:135
+msgid "Create Login Form"
+msgstr "로그인 양식 만들기"
+
+#: includes/admin/views/html-admin-page-forms.php:134
+msgid "Get Support"
+msgstr "지원 받기"
+
+#: includes/form/settings/class-ur-setting-country.php:45
+msgid "Selected Countries"
+msgstr "선택한 국가"
+
+#: includes/form/settings/class-ur-setting-date.php:125
+msgid "Enable Date Range"
+msgstr "날짜 범위 활성화"
+
+#: includes/form/settings/class-ur-setting-date.php:110
+msgid "Set Current Date as Default Date"
+msgstr "현재 날짜를 기본 날짜로 설정"
+
+#: includes/form/settings/class-ur-setting-date.php:97
+msgid "Max Date"
+msgstr "최대 날짜"
+
+#: includes/form/settings/class-ur-setting-date.php:86
+msgid "Min Date"
+msgstr "최소 날짜"
+
+#: includes/form/settings/class-ur-setting-date.php:73
+msgid "Enable Min-Max Date"
+msgstr "최소-최대 날짜 활성화"
+
+#: includes/form/settings/class-ur-setting-date.php:56
+msgid "Date Format"
+msgstr "날짜 형식"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:276
+msgid "Source"
+msgstr "출처"
+
+#: includes/class-ur-frontend-scripts.php:376
+msgid "Please enter a valid phone number."
+msgstr "유효한 전화 번호를 입력하세요."
+
+#: includes/admin/settings/class-ur-settings-general.php:102
+msgid "Select the page which contains your login form: [%s]"
+msgstr "로그인 양식이 포함된 페이지 선택: [%s]"
+
+#: includes/class-ur-frontend-scripts.php:389
+msgid "Password strength is not strong enough"
+msgstr "비밀번호 강도가 충분하지 않습니다"
+
+#: includes/frontend/class-ur-frontend-form-handler.php:541
+msgid "Password should not match with Username or Email address."
+msgstr "비밀번호는 사용자 이름 또는 이메일 주소와 일치하지 않아야 합니다."
+
+#: includes/admin/views/html-admin-page-import-export-forms.php:57
+msgid "Import Forms"
+msgstr "양식 가져오기"
+
+#: includes/admin/views/html-admin-page-import-export-forms.php:44
+msgid "Import your forms along with their settings from <strong>JSON</strong> file."
+msgstr "<strong>JSON</strong> 파일에서 설정과 함께 양식을 가져옵니다."
+
+#: includes/admin/views/html-admin-page-import-export-forms.php:35
+msgid "Export Forms"
+msgstr "양식 내보내기"
+
+#: includes/admin/views/html-admin-page-import-export-forms.php:22
+msgid "Export your forms along with their settings as <strong>JSON</strong> file."
+msgstr "설정과 함께 양식을 <strong>JSON</strong> 파일로 내보냅니다."
+
+#: includes/admin/class-ur-admin-import-export-forms.php:228
+msgid "Please select json file to import form data."
+msgstr "양식 데이터를 가져올 json 파일을 선택하십시오."
+
+#: includes/admin/class-ur-admin-import-export-forms.php:221
+msgid "Invalid file format. Only Json File Allowed."
+msgstr "잘못된 파일 형식입니다. Json 파일만 허용됩니다."
+
+#: includes/admin/class-ur-admin-import-export-forms.php:207
+#: includes/admin/class-ur-admin-import-export-forms.php:214
+msgid "Invalid file content. Please export file from user registration plugin."
+msgstr "잘못된 파일 내용입니다. 사용자 등록 플러그인에서 파일을 내보내십시오."
+
+#: includes/admin/class-ur-admin-import-export-forms.php:194
+#: includes/admin/class-ur-admin-import-export-forms.php:200
+msgid "Imported Successfully."
+msgstr "가져오기에 성공했습니다."
+
+#: includes/admin/class-ur-admin-menus.php:679
+#: includes/admin/views/html-admin-page-forms.php:121
+msgid "Untitled"
+msgstr "제목 없음"
+
+#: includes/admin/settings/class-ur-settings-import-export.php:43
+msgid "Import/Export Forms"
+msgstr "양식 가져오기/내보내기"
+
+#: includes/admin/settings/class-ur-settings-import-export.php:27
+msgid "Import/Export"
+msgstr "가져오기/내보내기"
+
+#. translators: 1: Newly registered user count 2: User
+#: includes/admin/class-ur-admin.php:333
+msgid "%1$d new %2$s registered."
+msgstr "%1$d 신규 %2$s가 등록됨."
+
+#: includes/admin/views/html-admin-page-forms.php:44
+msgid "Fullscreen"
+msgstr "전체 화면"
+
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:102
+msgid ""
+"User has changed profile information for the following account:<br/>\n"
+"\n"
+"SiteName: {{blog_info}} <br/>\n"
+"Username: {{username}} <br/>\n"
+"\n"
+"{{all_fields}}\n"
+"<br/>\n"
+"Thank You!"
+msgstr ""
+"사용자가 다음 계정에 대한 프로필 정보를 변경했습니다.<br/>\n"
+"\n"
+"사이트 이름: {{blog_info}} <br/>\n"
+"사용자 이름: {{username}} <br/>\n"
+"\n"
+"{{all_fields}}\n"
+"<br/>\n"
+"감사합니다!"
+
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:49
+msgid "Enable this email sent to the admin when a user changed profile information."
+msgstr "사용자가 프로필 정보를 변경할 때 관리자에게 전송되는 이 이메일을 활성화합니다."
+
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:26
+msgid "Email sent to the admin when a user changed profile information"
+msgstr "사용자가 프로필 정보를 변경할 때 관리자에게 전송되는 이메일"
+
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:25
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:42
+msgid "Profile Details Changed Email"
+msgstr "프로필 세부 정보 변경 이메일"
+
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:70
+#: includes/class-ur-emailer.php:520
+msgid "Profile Details Changed Email: {{blog_info}}"
+msgstr "프로필 세부정보 변경 이메일: {{blog_info}}"
+
+#: includes/class-ur-ajax.php:550
+msgid "Something went wrong while uploading, please contact your site administrator."
+msgstr "업로드하는 동안 문제가 발생했습니다. 사이트 관리자에게 문의하세요."
+
+#: includes/class-ur-ajax.php:543
+msgid "File size exceed, please check your file size."
+msgstr "파일 크기가 초과되었습니다. 파일 크기를 확인하십시오."
+
+#: includes/shortcodes/class-ur-shortcode-my-account.php:233
+msgid "No profile details found."
+msgstr "프로필 세부정보를 찾을 수 없습니다."
+
+#: includes/class-ur-ajax.php:114
+msgid "You are already logged in."
+msgstr "이미 로그인되어 있습니다."
+
+#: includes/class-ur-frontend-scripts.php:388
+#: templates/myaccount/form-edit-password.php:44
+#: templates/myaccount/form-edit-password.php:56
+#: templates/myaccount/form-edit-password.php:67
+#: templates/myaccount/form-reset-password.php:37
+#: templates/myaccount/form-reset-password.php:48
+msgid "Show Password"
+msgstr "비밀번호 표시"
+
+#: includes/class-ur-frontend-scripts.php:387
+msgid "Hide Password"
+msgstr "비밀번호 숨기기"
+
+#: includes/admin/class-ur-admin-assets.php:281
+#: includes/admin/views/html-admin-page-forms.php:46
+msgid "Preview Form"
+msgstr "양식 미리보기"
+
+#: includes/admin/settings/class-ur-settings-general.php:317
+#: includes/class-ur-frontend-scripts.php:378
+msgid "Email and confirm email not matched."
+msgstr "이메일과 확인 이메일이 일치하지 않습니다."
+
+#: includes/admin/settings/class-ur-settings-general.php:312
+msgid "Enter the error message in form submission on Confim Email."
+msgstr "확인 이메일의 양식 제출에 오류 메시지를 입력합니다."
+
+#: includes/admin/class-ur-admin-form-templates.php:123
+#: includes/admin/class-ur-admin-registrations-table-list.php:126
+#: includes/admin/views/html-admin-page-form-templates.php:100
+#: includes/admin/views/html-admin-page-forms.php:46
+msgid "Preview"
+msgstr "미리 보기"
+
+#. translators: %s - Form name.
+#: includes/class-ur-preview.php:117 includes/class-ur-preview.php:164
+msgid "%s &ndash; Preview"
+msgstr "%s &ndash; 미리 보기"
+
+#: includes/class-ur-preview.php:62
+msgid "Edit Form"
+msgstr "양식 수정"
+
+#: includes/functions-ur-core.php:568
+msgid "Confirm email can not be changed."
+msgstr "확인 이메일은 변경할 수 없습니다."
+
+#: includes/functions-ur-core.php:565
+msgid "Confirm password can not be changed."
+msgstr "비밀번호 확인은 변경할 수 없습니다."
+
+#: includes/functions-ur-core.php:561
+msgid "Passowrd can not be changed."
+msgstr "비밀번호는 변경할 수 없습니다."
+
+#: includes/functions-ur-core.php:557
+msgid "Username can not be changed."
+msgstr "사용자 이름은 변경할 수 없습니다."
+
+#: includes/frontend/class-ur-frontend-form-handler.php:481
+msgid "Email and confirm email not matched"
+msgstr "이메일과 확인 이메일이 일치하지 않습니다"
+
+#: includes/frontend/class-ur-frontend-form-handler.php:479
+msgid "Empty confirm email"
+msgstr "확인 이메일이 비어 있습니다"
+
+#: includes/form/settings/class-ur-setting-number.php:60
+msgid "Legal Number Intervals"
+msgstr "법적 번호 간격"
+
+#: includes/form/settings/class-ur-setting-number.php:53
+msgid "Step"
+msgstr "단계"
+
+#: includes/form/settings/class-ur-setting-number.php:49
+msgid "Max Value"
+msgstr "최대값"
+
+#: includes/form/settings/class-ur-setting-number.php:42
+msgid "Maximum Value"
+msgstr "최대값"
+
+#: includes/form/settings/class-ur-setting-number.php:38
+#: includes/form/settings/class-ur-setting-user_login.php:52
+msgid "Min Value"
+msgstr "최소값"
+
+#: includes/form/settings/class-ur-setting-number.php:31
+msgid "Minimum Value"
+msgstr "최소값"
+
+#: includes/admin/settings/class-ur-settings-general.php:311
+#: includes/form/class-ur-form-field-user-confirm-email.php:52
+msgid "Confirm Email"
+msgstr "확인 이메일"
+
+#: includes/form/class-ur-form-field-user-confirm-email.php:47
+msgid "Confirm Email "
+msgstr "확인 이메일 "
+
+#: templates/myaccount/form-edit-profile.php:71
+msgid "Upload your new profile image."
+msgstr "새 프로필 이미지를 업로드합니다."
+
+#: templates/myaccount/form-edit-profile.php:68
+msgid "Max size: "
+msgstr "최대 크기: "
+
+#: templates/myaccount/form-login.php:102
+msgid "Show password"
+msgstr "비밀번호 표시"
+
+#. translators: 1: user display name 2: logout url
+#: templates/myaccount/dashboard.php:82
+msgid "Not %1$s? <a href=\"%2$s\">Sign out</a>"
+msgstr "%1$s님이 아닌가요? <a href=\"%2$s\">로그아웃</a>"
+
+#: includes/class-ur-plugin-updater.php:446
+#: includes/class-ur-plugin-updater.php:452
+#: includes/class-ur-plugin-updater.php:583
+msgid "%1$s"
+msgstr "%1$s"
+
+#. translators: %s - Users display name.
+#: templates/myaccount/dashboard.php:28
+msgid "Welcome, %1$s"
+msgstr "환영합니다, %1$s"
+
+#: templates/myaccount/form-edit-profile.php:33
+msgid "Profile Detail"
+msgstr "프로필 상세정보"
+
+#: includes/class-ur-form-handler.php:357
+msgid "Please enter your new password."
+msgstr "새 비밀번호를 입력하세요."
+
+#: includes/admin/functions-ur-admin.php:622
+msgid "Never show again"
+msgstr "다시 표시하지 않음"
+
+#: includes/admin/functions-ur-admin.php:618
+msgid "I already did!"
+msgstr "이미 했습니다!"
+
+#: includes/admin/functions-ur-admin.php:617
+msgid "Sure, I'd love to!"
+msgstr "당연히 좋지!"
+
+#: includes/admin/class-ur-admin-assets.php:203
+msgid "Select Image"
+msgstr "이미지 선택"
+
+#: includes/admin/class-ur-admin-assets.php:202
+msgid "Upload Profile Picture"
+msgstr "프로필 사진 업로드"
+
+#: includes/admin/functions-ur-admin.php:42
+msgid "loading..."
+msgstr "로딩 중..."
+
+#: includes/admin/functions-ur-admin.php:26
+msgid "User Registration Activity"
+msgstr "사용자 등록 활동"
+
+#: includes/admin/settings/class-ur-settings-misc.php:66
+msgid "<strong>Heads Up!</strong> Check this if you would like to remove ALL User Registration data upon plugin deletion."
+msgstr "<strong>주의!</strong> 플러그인 삭제 시 모든 사용자 등록 데이터를 제거하려면 이 항목을 선택하십시오."
+
+#: templates/myaccount/form-edit-profile.php:105
+msgid "You can change your profile picture on"
+msgstr "프로필 사진을 변경할 수 있습니다"
+
+#: templates/myaccount/form-edit-profile.php:93
+msgid "Remove"
+msgstr "제거"
+
+#: templates/dashboard-widget.php:58
+msgid "Total"
+msgstr "전체"
+
+#: templates/dashboard-widget.php:52
+msgid "Last Month"
+msgstr "지난 달"
+
+#: templates/dashboard-widget.php:46
+msgid "Last Week"
+msgstr "지난 주"
+
+#: templates/dashboard-widget.php:40
+msgid "Today"
+msgstr "오늘"
+
+#: templates/dashboard-widget.php:29
+msgid "Current Version:"
+msgstr "현재 버전:"
+
+#: includes/class-ur-form-handler.php:729
+msgid "Thanks for confirming your erasure request."
+msgstr "삭제 요청을 확인해 주셔서 감사합니다."
+
+#: includes/class-ur-form-handler.php:727
+msgid "Thanks for confirming your export request."
+msgstr "내보내기 요청을 확인해주셔서 감사합니다."
+
+#: includes/class-ur-form-handler.php:712
+msgid "Invalid Key"
+msgstr "유효하지 않은 키"
+
+#: includes/class-ur-cache-helper.php:86
+msgid "In order for <strong>database caching</strong> to work with User Registration you must add %1$s to the \"Ignored Query Strings\" option in <a href=\"%2$s\">W3 Total Cache settings</a>."
+msgstr "<strong>데이터베이스 캐싱</strong>이 사용자 등록과 함께 작동하려면 <a href=\"%2$s\">W3 전체 캐시 설정</a>의 \"무시된 쿼리 문자열\" 옵션에 %1$s를 추가해야 합니다."
+
+#: includes/form/class-ur-form-field-checkbox.php:54
+#: includes/form/class-ur-form-field-radio.php:54
+#: includes/form/class-ur-form-field-select.php:54
+#: includes/functions-ur-core.php:833
+msgid "Third Choice"
+msgstr "세 번째 선택"
+
+#: includes/form/class-ur-form-field-checkbox.php:53
+#: includes/form/class-ur-form-field-radio.php:53
+#: includes/form/class-ur-form-field-select.php:53
+#: includes/functions-ur-core.php:832
+msgid "Second Choice"
+msgstr "두 번째 선택"
+
+#: includes/form/class-ur-form-field-checkbox.php:52
+#: includes/form/class-ur-form-field-radio.php:52
+#: includes/form/class-ur-form-field-select.php:52
+#: includes/functions-ur-core.php:831
+msgid "First Choice"
+msgstr "첫 번째 선택"
+
+#: includes/class-ur-ajax.php:839
+msgid "Could not save form, "
+msgstr "양식을 저장할 수 없음, "
+
+#: includes/class-ur-ajax.php:168 includes/class-ur-ajax.php:630
+#: includes/class-ur-form-handler.php:463
+#: includes/class-ur-form-handler.php:602
+msgid "Error on google reCaptcha. Contact your site administrator."
+msgstr "구글 reCaptcha에 오류가 있습니다. 사이트 관리자에게 문의하십시오."
+
+#: includes/admin/class-ur-admin-welcome.php:64
+#: includes/class-ur-form-block.php:66
+msgid "Form"
+msgstr "양식"
+
+#: includes/admin/class-ur-admin-welcome.php:63
+#: includes/admin/views/html-admin-page-forms.php:68
+#: includes/class-ur-form-block.php:65
+msgid "Form Settings"
+msgstr "양식 설정"
+
+#: includes/admin/class-ur-admin-welcome.php:62
+#: includes/class-ur-form-block.php:64
+msgid "Select a Form"
+msgstr "양식 선택"
+
+#: includes/admin/class-ur-admin-welcome.php:61
+#: includes/class-ur-form-block.php:63
+msgid "Select &#38; display one of your form."
+msgstr "선택 &#38; 양식 중 하나를 표시합니다."
+
+#: includes/admin/class-ur-admin-assets.php:434
+msgctxt "user registration admin"
+msgid "field is required."
+msgstr "입력란은 필수 항목입니다."
+
+#: includes/admin/class-ur-admin-assets.php:414
+msgctxt "user-registration admin"
+msgid "User Password"
+msgstr "사용자 비밀번호"
+
+#: includes/admin/class-ur-admin-assets.php:413
+msgctxt "user-registration admin"
+msgid "User Email"
+msgstr "사용자 이메일"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:49
+msgid "Enable this email sent to the user notifying the registration is pending."
+msgstr "등록이 보류 중임을 알리는 사용자에게 전송되는 이 이메일을 활성화합니다."
+
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:49
+msgid "Enable this email sent to the user notifying the registration is denied by the admin."
+msgstr "관리자가 등록을 거부했음을 알리는 사용자에게 전송되는 이 이메일을 활성화합니다."
+
+#: includes/admin/settings/emails/class-ur-settings-email-confirmation.php:25
+msgid "Email sent to the user with a verification link when email confirmation to register option is choosen"
+msgstr "등록 확인 이메일 옵션 선택 시 인증 링크와 함께 사용자에게 이메일 전송"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:49
+msgid "Enable this email sent to the user notifying the registration is approved by site admin."
+msgstr "사이트 관리자가 등록을 승인했음을 알리는 이 이메일을 사용자에게 전송하도록 설정합니다."
+
+#: templates/form-registration.php:158
+msgid "Form not found, form id :"
+msgstr "양식을 찾을 수 없습니다. 양식 ID:"
+
+#: includes/functions-ur-core.php:1001
+#: includes/RestApi/class-ur-rest-api.php:230
+msgid "Minimum Password Strength"
+msgstr "최소 비밀번호 강도"
+
+#: includes/class-ur-privacy.php:92
+msgid "Please see the <a href=\"https://mailchimp.com/legal/privacy/\">MailChimp Privacy Policy</a> for more details."
+msgstr "자세한 내용은 <a href=\"https://mailchimp.com/legal/privacy/\">MailChimp 개인정보 보호정책</a>을 참조하세요."
+
+#: includes/class-ur-privacy.php:91
+msgid "We send beautiful email through MailChimp. When processing emails, some of your data will be passed to MailChimp, including information required to process or support the email marketing services, such as the name, email address and any other information that you intend to pass or collect including all collected information through subscription."
+msgstr "우리는 MailChimp를 통해 멋진 이메일을 보냅니다. 이메일을 처리할 때 이름, 이메일 주소 및 구독을 통해 수집된 모든 정보를 포함하여 전달하거나 수집하려는 기타 정보와 같이 이메일 마케팅 서비스를 처리하거나 지원하는 데 필요한 정보를 포함하여 일부 데이터가 MailChimp로 전달됩니다."
+
+#: includes/class-ur-privacy.php:89
+msgid "In this subsection you should list which third party modules you’re using to increase functionality on your site since these may handle customer data. We’ve included MailChimp as an example, but you should remove this if you’re not using MailChimp."
+msgstr "이 하위 섹션에는 고객 데이터를 처리할 수 있으므로 사이트의 기능을 향상하기 위해 사용 중인 타사 모듈을 나열해야 합니다. 예를 들어 MailChimp를 포함했지만 MailChimp를 사용하지 않는 경우 이를 제거해야 합니다."
+
+#: includes/class-ur-privacy.php:87
+msgid "Available Modules"
+msgstr "사용 가능한 모듈"
+
+#: includes/class-ur-privacy.php:86
+msgid "Please see the <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full\">PayPal Privacy Policy</a> for more details."
+msgstr "자세한 내용은 <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full\">PayPal 개인정보 보호정책</a>을 참조하세요."
+
+#: includes/class-ur-privacy.php:85
+msgid "We accept payments through PayPal. When processing payments, some of your data will be passed to PayPal, including information required to process or support the payment, such as the purchase total and billing information."
+msgstr "PayPal을 통한 결제가 가능합니다. 결제를 처리할 때 구매 총액 및 청구 정보와 같은 결제를 처리하거나 지원하는 데 필요한 정보를 포함하여 일부 데이터가 PayPal로 전달됩니다."
+
+#: includes/class-ur-privacy.php:83
+msgid "In this subsection you should list which third party payment processors you’re using to take payments on your site since these may handle customer data. We’ve included PayPal as an example, but you should remove this if you’re not using PayPal."
+msgstr "이 하위 섹션에는 고객 데이터를 처리할 수 있으므로 사이트에서 결제를 받는 데 사용하는 타사 결제 프로세서를 나열해야 합니다. PayPal을 예로 포함했지만 PayPal을 사용하지 않는 경우 이를 제거해야 합니다."
+
+#: includes/class-ur-privacy.php:81
+msgid "Payments"
+msgstr "결제"
+
+#: includes/class-ur-privacy.php:80
+msgid "We share information with third parties who help us provide our orders and store services to you; for example --"
+msgstr "당사는 귀하에게 주문 및 매장 서비스를 제공하는 데 도움을 주는 제3자와 정보를 공유합니다. 예를 들어 --"
+
+#: includes/class-ur-privacy.php:78
+msgid "In this section you should list who you’re sharing data with, and for what purpose. This could include, but may not be limited to, analytics, marketing, payment gateways, shipping providers, and third party embeds."
+msgstr "이 섹션에는 누구와 어떤 목적으로 데이터를 공유하는지 나열해야 합니다. 여기에는 분석, 마케팅, 지불 게이트웨이, 배송 제공업체 및 제3자 임베딩이 포함될 수 있지만 이에 국한되지는 않습니다."
+
+#: includes/class-ur-privacy.php:76
+msgid "What we share with others"
+msgstr "우리가 다른 사람들과 공유하는 것"
+
+#: includes/class-ur-privacy.php:75
+msgid "Our team members have access to this information to help fulfill entries and support you."
+msgstr "당사 팀원은 이 정보에 액세스하여 항목을 이행하고 귀하를 지원합니다."
+
+#: includes/class-ur-privacy.php:73
+msgid "Customer information like your name, email and address information."
+msgstr "귀하의 이름, 이메일 및 주소 정보와 같은 고객 정보."
+
+#: includes/class-ur-privacy.php:72
+msgid "Form submission information and other details related to it"
+msgstr "양식 제출 정보 및 이와 관련된 기타 세부 정보"
+
+#: includes/class-ur-privacy.php:69
+msgid "Who on our team has access"
+msgstr "우리 팀에서 액세스 권한이 있는 사람"
+
+#: includes/class-ur-privacy.php:68
+msgid "We generally store information about you for as long as we need the information for the purposes for which we collect and use it, and we are not legally required to continue to keep it. For example, we will store form submission information for XXX years for geolocating and marketting purposes. This includes your name, address, email, phone number."
+msgstr "우리는 일반적으로 정보를 수집하고 사용하는 목적을 위해 정보가 필요한 기간 동안 귀하에 대한 정보를 저장하며 계속 보관할 법적 의무가 없습니다. 예를 들어, 우리는 지리적 위치 및 마케팅 목적으로 XXX년 동안 양식 제출 정보를 저장합니다. 여기에는 이름, 주소, 이메일, 전화번호가 포함됩니다."
+
+#: includes/class-ur-privacy.php:70
+msgid "Members of our team have access to the information you provide us. For example, both Administrators and Editors can access:"
+msgstr "우리 팀의 구성원은 귀하가 제공한 정보에 액세스할 수 있습니다. 예를 들어 관리자와 편집자는 모두 다음에 액세스할 수 있습니다:"
+
+#: includes/class-ur-privacy.php:65
+msgid "Or any other service the built form was created to comply with and it’s necessary information"
+msgstr "또는 기타 서비스를 준수하기 위해 작성된 양식 및 필요한 정보"
+
+#: includes/class-ur-privacy.php:63
+msgid "Improve our form offerings"
+msgstr "양식 제공 개선"
+
+#: includes/class-ur-privacy.php:62
+msgid "Comply with any legal obligations we have, such as calculating taxes"
+msgstr "세금 계산과 같은 법적 의무 준수"
+
+#: includes/class-ur-privacy.php:61
+msgid "Set up your account for our site"
+msgstr "사이트에 대한 계정 설정"
+
+#: includes/class-ur-privacy.php:60
+msgid "Process payments and prevent fraud"
+msgstr "결제 처리 및 사기 방지"
+
+#: includes/class-ur-privacy.php:59
+msgid "Respond to your requests, including transaction details and complaints"
+msgstr "거래 세부 정보 및 불만 사항을 포함하여 귀하의 요청에 응답"
+
+#: includes/class-ur-privacy.php:67
+msgid "If you create an account, we will store your name, address, email and phone number, which will be used to populate the form fields for future submissions."
+msgstr "계정을 만들면 이름, 주소, 이메일 및 전화번호가 저장되며 이는 향후 제출을 위해 양식 입력란을 채우는 데 사용됩니다."
+
+#: includes/class-ur-privacy.php:64
+msgid "Send you marketing messages, if you choose to receive them"
+msgstr "마케팅 메시지를 수신하도록 선택한 경우 귀하에게 마케팅 메시지를 보냅니다"
+
+#: includes/class-ur-privacy.php:58
+msgid "Send you information about your account and order"
+msgstr "귀하의 계정 및 주문에 대한 정보를 보냅니다"
+
+#: includes/class-ur-privacy.php:56
+msgid "When you fill up a form, we’ll ask you to provide information including your name, address, email, phone number, payment details and optional account information like username and password and any other form fields available in the registration form. We’ll use this information for purposes, such as, to:"
+msgstr "양식을 작성할 때 이름, 주소, 이메일, 전화번호, 결제 세부정보 및 사용자 이름 및 비밀번호와 같은 선택적 계정 정보 및 등록 양식에서 사용할 수 있는 기타 양식 입력란을 포함한 정보를 제공하도록 요청합니다. 다음과 같은 목적으로 이 정보를 사용합니다:"
+
+#: includes/class-ur-privacy.php:54
+msgid "Transaction Details: we’ll ask you to enter this so we can, for instance, provide subscription packs, and keep track of your payment details for subscription packs!"
+msgstr "거래 세부 정보: 예를 들어 구독 팩을 제공하고 구독 팩에 대한 지불 세부 정보를 추적할 수 있도록 이를 입력하도록 요청합니다!"
+
+#: includes/class-ur-privacy.php:53
+msgid "Location, IP address and browser type: we’ll use this for purposes like geolocating users and reducing fraudulent activities."
+msgstr "위치, IP 주소 및 브라우저 유형: 사용자의 위치를 파악하고 사기 행위를 줄이는 등의 목적으로 사용합니다."
+
+#: includes/class-ur-privacy.php:49
+msgid "What we collect and store"
+msgstr "우리가 수집하고 저장하는 항목"
+
+#: includes/class-ur-privacy.php:48
+msgid "We collect information about the user during the user registration form submission process on our site."
+msgstr "당사는 당사 사이트의 사용자 등록 양식 제출 과정에서 사용자에 대한 정보를 수집합니다."
+
+#: includes/class-ur-privacy.php:45
+msgid "This sample policy includes the basics around what personal data you may be collecting, storing and sharing, as well as who may have access to that data. Depending on what settings are enabled and which additional plugins are used, the specific information shared by your form will vary. We recommend consulting with a lawyer when deciding what information to disclose on your privacy policy."
+msgstr "이 샘플 정책에는 수집, 저장 및 공유할 수 있는 개인 데이터와 해당 데이터에 액세스할 수 있는 사람에 대한 기본 사항이 포함되어 있습니다. 어떤 설정이 활성화되고 어떤 추가 플러그인이 사용되는지에 따라 양식에서 공유하는 특정 정보가 달라집니다. 개인 정보 보호 정책에 어떤 정보를 공개할지 결정할 때 변호사와 상담하는 것이 좋습니다."
+
+#: includes/class-ur-privacy.php:52
+msgid "Form Fields Data: Forms Fields data includes the available field types when creating a form. We’ll use this to, for example, collect informations like Name, Email and other available fields."
+msgstr "양식 입력란 데이터: 양식 입력란 데이터에는 양식을 생성할 때 사용 가능한 입력란 유형이 포함됩니다. 예를 들어 이름, 이메일 및 기타 사용 가능한 입력란과 같은 정보를 수집하는 데 이 정보를 사용합니다."
+
+#: includes/class-ur-privacy.php:50
+msgid "While you visit our site, we’ll track:"
+msgstr "귀하가 당사 사이트를 방문하는 동안 다음을 추적합니다:"
+
+#: includes/class-ur-frontend-scripts.php:402
+#: includes/functions-ur-core.php:1011
+#: includes/RestApi/class-ur-rest-api.php:239
+msgid "Strong"
+msgstr "강함"
+
+#: includes/class-ur-frontend-scripts.php:401
+#: includes/functions-ur-core.php:1010
+#: includes/RestApi/class-ur-rest-api.php:238
+msgid "Medium"
+msgstr "보통"
+
+#: includes/class-ur-frontend-scripts.php:400
+#: includes/functions-ur-core.php:1009
+#: includes/RestApi/class-ur-rest-api.php:237
+msgid "Weak"
+msgstr "약함"
+
+#: includes/class-ur-frontend-scripts.php:399
+#: includes/functions-ur-core.php:1008
+#: includes/RestApi/class-ur-rest-api.php:236
+msgid "Very Weak"
+msgstr "아주 약함"
+
+#: includes/class-ur-frontend-scripts.php:397
+msgid "Please enter a stronger password."
+msgstr "더 강력한 비밀번호를 입력하세요."
+
+#: includes/class-ur-frontend-scripts.php:406
+msgid "Hint: To make password stronger, use upper and lower case letters, numbers, and symbols like ! \" ? $ % ^ & )."
+msgstr "힌트: 비밀번호를 더 강력하게 만들려면 대문자와 소문자, 숫자, ! \" ? $ % ^ & )와 같은 기호를 사용하세요."
+
+#: includes/admin/views/html-admin-page-export-users.php:22
+msgid "Export your users along with their extra information registered with a user registration form as a <strong>CSV</strong> file."
+msgstr "사용자 등록 양식에 등록된 추가 정보와 함께 사용자를 <strong>CSV</strong> 파일로 내보냅니다."
+
+#: includes/admin/settings/class-ur-settings-import-export.php:42
+#: includes/admin/views/html-admin-page-export-users.php:36
+msgid "Export Users"
+msgstr "사용자 내보내기"
+
+#: includes/admin/class-ur-admin-export-users.php:142
+msgid "User ID"
+msgstr "사용자 ID"
+
+#: includes/admin/class-ur-admin-export-users.php:136
+msgid "User Registered GMT"
+msgstr "등록된 사용자 GMT"
+
+#: includes/admin/class-ur-admin-export-users.php:135
+msgid "User Registered"
+msgstr "등록된 사용자"
+
+#: includes/admin/class-ur-admin-export-users.php:133
+msgid "User Role"
+msgstr "사용자 역할"
+
+#: includes/admin/class-ur-admin-export-users.php:77
+msgid "No users found with this form id."
+msgstr "이 양식 ID를 가진 사용자를 찾을 수 없습니다."
+
+#: includes/admin/settings/class-ur-settings-general.php:424
+msgid "Check to enable/disable lost password."
+msgstr "분실한 비밀번호를 활성화/비활성화하려면 선택합니다."
+
+#: includes/admin/settings/class-ur-settings-general.php:366
+msgid "Choose the login form template."
+msgstr "로그인 양식 템플릿을 선택합니다."
+
+#: includes/admin/settings/class-ur-settings-general.php:365
+#: includes/functions-ur-core.php:1083
+msgid "Form Template"
+msgstr "양식 템플릿"
+
+#: includes/admin/settings/class-ur-settings-general.php:43
+msgid "Login Options"
+msgstr "로그인 옵션"
+
+#: includes/admin/views/html-admin-page-forms.php:35
+msgid "Copied!"
+msgstr "복사됨!"
+
+#: includes/admin/views/html-admin-page-forms.php:35
+msgid "Copy Shortcode!"
+msgstr "단축코드 복사!"
+
+#: templates/myaccount/form-edit-profile.php:105
+msgid "Gravatar"
+msgstr "그라바타"
+
+#: templates/myaccount/form-edit-password.php:39
+msgid "Current password"
+msgstr "현재 비밀번호"
+
+#. translators: 1 profile details url, 2: change password url
+#: templates/myaccount/dashboard.php:75
+msgid "From your account dashboard you can edit your <a href=\"%1$s\"> profile details</a> and <a href=\"%2$s\">edit your password</a>."
+msgstr "계정 대시보드에서 <a href=\"%1$s\"> 프로필 세부정보</a> 및 <a href=\"%2$s\">비밀번호를 수정</a>할 수 있습니다."
+
+#. translators: %s - Lost password URL
+#: includes/functions-ur-account.php:58
+msgid "Invalid username. %1s"
+msgstr "잘못된 사용자 이름. %1s"
+
+#: includes/class-ur-form-handler.php:390
+msgid "Password changed successfully."
+msgstr "비밀번호가 변경되었습니다."
+
+#: includes/admin/settings/class-ur-settings-general.php:168
+msgid "Endpoint for the \"My account &rarr; Change Password\" page."
+msgstr "\"내 계정 &rarr; 비밀번호 변경\" 페이지의 엔드포인트 입니다."
+
+#: includes/admin/settings/class-ur-settings-general.php:167
+#: includes/class-ur-query.php:72 includes/functions-ur-account.php:122
+#: templates/myaccount/form-edit-password.php:35
+msgid "Change Password"
+msgstr "비밀번호 변경"
+
+#: includes/admin/settings/class-ur-settings-general.php:156
+msgid "Endpoints: "
+msgstr "엔드포인트: "
+
+#: includes/admin/settings/class-ur-settings-general.php:121
+#: includes/RestApi/class-ur-rest-api.php:263
+msgid "Vertical"
+msgstr "세로"
+
+#: includes/admin/settings/class-ur-settings-general.php:120
+#: includes/RestApi/class-ur-rest-api.php:262
+msgid "Horizontal"
+msgstr "가로"
+
+#: includes/RestApi/class-ur-rest-api.php:257
+msgid "This option lets you choose layout for user registration my account tab."
+msgstr "이 옵션을 사용하면 사용자 등록 내 계정 탭의 레이아웃을 선택할 수 있습니다."
+
+#: includes/admin/settings/class-ur-settings-general.php:111
+msgid "Layout"
+msgstr "레이아웃"
+
+#: includes/admin/settings/class-ur-settings-general.php:96
+msgid "My account Section"
+msgstr "내 계정 섹션"
+
+#: includes/admin/class-ur-admin-assets.php:422
+msgctxt "user registration admin"
+msgid "Could not clone this field."
+msgstr "이 입력란을 복제할 수 없습니다."
+
+#: includes/admin/class-ur-admin-assets.php:421
+msgctxt "user registration admin"
+msgid "This field is one time draggable."
+msgstr "이 입력란은 한 번만 드래그할 수 있습니다."
+
+#. translators: %s - Link to logout.
+#. translators: 1: Link and username of user 2: Logout url
+#: includes/class-ur-ajax.php:216 includes/class-ur-shortcodes.php:220
+msgid "You are currently logged in as %1$1s. %2$2s"
+msgstr "현재 %1$1s(으)로 로그인되어 있습니다. %2$2s"
+
+#. translators: 1 User login, 2: lost password url
+#. translators: %s - Username
+#: includes/class-ur-ajax.php:685 includes/functions-ur-account.php:55
+msgid "The password you entered for username %1$1s is incorrect. %2$2s"
+msgstr "사용자 이름 %1$1s에 대해 입력한 비밀번호가 올바르지 않습니다. %2$2s"
+
+#. translators: %s - Resend Verification Link.
+#: includes/class-ur-email-confirmation.php:395
+#: includes/class-ur-user-approval.php:231
+#: includes/class-ur-user-approval.php:257
+msgid "Resend Verification Link"
+msgstr "확인 링크 재전송"
+
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:90
+msgid ""
+"Hi {{username}}, <br/>\n"
+"\n"
+"You have successfully completed user registration on <a href=\"{{home_url}}\">{{blog_info}}</a>. <br/>\n"
+"\n"
+"Please visit '<b>My Account</b>' page to edit your account details and create your user profile on <a href=\"{{home_url}}\">{{blog_info}}</a>. <br/>\n"
+"\n"
+"Thank You!"
+msgstr ""
+"{{username}}님, 안녕하세요. <br/>\n"
+"\n"
+"<a href=\"{{home_url}}\">{{blog_info}}</a>에서 사용자 등록을 완료했습니다. <br/>\n"
+"\n"
+"<a href=\"{{home_url}}\">{{blog_info}}</a>에서 계정 세부정보를 수정하고 사용자 프로필을 만들려면 '<b>내 계정</b>' 페이지를 방문하세요. <br/>\n"
+"\n"
+"감사합니다!"
+
+#. translators: 1 User login, 2: lost password url
+#. translators: %s - Username
+#. translators: %s - Lost password URL
+#: includes/admin/settings/class-ur-settings-general.php:537
+#: includes/class-ur-ajax.php:685 includes/functions-ur-account.php:55
+#: includes/functions-ur-account.php:58
+msgid "Lost Your Password?"
+msgstr "비밀번호를 분실하셨습니까?"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:92
+msgid ""
+"Hi {{username}}, <br/>\n"
+"\n"
+"Your registration on <a href=\"{{home_url}}\">{{blog_info}}</a> has been changed to pending. <br/>\n"
+"\n"
+"Sorry for the inconvenience. <br/>\n"
+"\n"
+"You will be notified after it is approved. <br/>\n"
+"\n"
+"Thank You!"
+msgstr ""
+"{{username}}님, 안녕하세요. <br/>\n"
+"\n"
+"<a href=\"{{home_url}}\">{{blog_info}}</a>에 대한 등록이 보류 중으로 변경되었습니다. <br/>\n"
+"\n"
+"불편을 드려 죄송합니다. <br/>\n"
+"\n"
+"승인이 완료되면 알려드립니다. <br/>\n"
+"\n"
+"감사합니다!"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:90
+msgid ""
+"Hi {{username}}, <br/>\n"
+"\n"
+"You have registered on <a href=\"{{home_url}}\">{{blog_info}}</a>. <br/>\n"
+"\n"
+"Unfortunately your registration is denied. Sorry for the inconvenience. <br/>\n"
+"\n"
+"Thank You!"
+msgstr ""
+"{{username}}님, 안녕하세요. <br/>\n"
+"\n"
+"<a href=\"{{home_url}}\">{{blog_info}}</a>에 등록하셨습니다. <br/>\n"
+"\n"
+"안타깝게도 등록이 거부되었습니다. 불편을 드려 죄송합니다. <br/>\n"
+"\n"
+"감사합니다!"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:90
+msgid ""
+"Hi {{username}}, <br/>\n"
+"\n"
+"Your registration on <a href=\"{{home_url}}\">{{blog_info}}</a>  has been approved. <br/>\n"
+"\n"
+"Please visit '<b>My Account</b>' page to edit your account details and create your user profile on <a href=\"{{home_url}}\">{{blog_info}}</a>. <br/>\n"
+"\n"
+"Thank You!"
+msgstr ""
+"{{username}}님, 안녕하세요. <br/>\n"
+"\n"
+"<a href=\"{{home_url}}\">{{blog_info}}</a> 등록이 승인되었습니다. <br/>\n"
+"\n"
+"<a href=\"{{home_url}}\">{{blog_info}}</a>에서 계정 세부정보를 수정하고 사용자 프로필을 만들려면 '<b>내 계정</b>' 페이지를 방문하세요. <br/>\n"
+"\n"
+"감사합니다!"
+
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:90
+msgid ""
+"Hi {{username}}, <br/>\n"
+"\n"
+"You have registered on <a href=\"{{home_url}}\">{{blog_info}}</a>. <br/>\n"
+"\n"
+"Please wait until the site admin approves your registration. You will be notified after it is approved. <br/>\n"
+"\n"
+"Thank You!"
+msgstr ""
+"{{username}}님, 안녕하세요. <br/>\n"
+"\n"
+"<a href=\"{{home_url}}\">{{blog_info}}</a>에 등록하셨습니다. <br/>\n"
+"\n"
+"사이트 관리자가 등록을 승인할 때까지 기다리십시오. 승인 후 알려드립니다. <br/>\n"
+"\n"
+"감사합니다!"
+
+#: includes/frontend/class-ur-frontend-form-handler.php:165
+msgid "Something went wrong! please try again"
+msgstr "문제가 발생했습니다! 다시 시도하십시오"
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:56
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:57
+msgid "Use comma to send emails to multiple receipents."
+msgstr "쉼표(,)를 사용하여 여러 수신자에게 이메일을 보냅니다."
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:55
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:56
+msgid "Email Receipents"
+msgstr "이메일 수신자"
+
+#: includes/admin/settings/class-ur-settings-general.php:327
+#: includes/class-ur-frontend-scripts.php:375
+msgid "Password and confirm password not matched."
+msgstr "비밀번호와 비밀번호 확인이 일치하지 않습니다."
+
+#: includes/admin/settings/class-ur-settings-general.php:322
+msgid "Enter the error message in form submission on Confim Password."
+msgstr "비밀번호 확인 시 양식 제출 시 오류 메시지를 입력합니다."
+
+#: includes/admin/settings/class-ur-settings-general.php:307
+#: includes/class-ur-frontend-scripts.php:374
+msgid "Please enter a valid number."
+msgstr "유효한 번호를 입력하세요."
+
+#: includes/admin/settings/class-ur-settings-general.php:302
+msgid "Enter the error message in form submission on Number."
+msgstr "Number 양식 제출 시 오류 메시지를 입력합니다."
+
+#: includes/admin/settings/class-ur-settings-general.php:297
+#: includes/class-ur-frontend-scripts.php:373
+msgid "Please enter a valid URL."
+msgstr "유효한 URL을 입력 해주세요."
+
+#: includes/admin/settings/class-ur-settings-general.php:292
+msgid "Enter the error message in form submission on website/URL."
+msgstr "웹사이트/URL 양식 제출 시 오류 메시지를 입력합니다."
+
+#: includes/admin/settings/class-ur-settings-general.php:291
+msgid "Website URL"
+msgstr "웹 사이트 주소"
+
+#: includes/admin/settings/class-ur-settings-general.php:287
+#: includes/class-ur-frontend-scripts.php:372
+msgid "Please enter a valid email address."
+msgstr "유효한 이메일 주소를 입력하세요."
+
+#: includes/admin/settings/class-ur-settings-general.php:282
+msgid "Enter the error message in form submission on Email."
+msgstr "이메일 양식 제출 시 오류 메시지를 입력합니다."
+
+#: includes/admin/settings/class-ur-settings-general.php:269
+#: includes/class-ur-frontend-scripts.php:371
+msgid "This field is required."
+msgstr "이 입력란은 필수 항목입니다."
+
+#: includes/admin/settings/class-ur-settings-general.php:264
+msgid "Enter the error message in form submission on required fields."
+msgstr "필수 입력란에 양식 제출의 오류 메시지를 입력하십시오."
+
+#: includes/admin/settings/class-ur-settings-general.php:258
+msgid "Error Messages"
+msgstr "오류 메시지"
+
+#: includes/admin/settings/class-ur-settings-general.php:212
+msgid "Success Messages"
+msgstr "성공 메시지"
+
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:89
+msgid ""
+"Someone has requested a password reset for the following account: <br/>\n"
+"\n"
+"SiteName: {{blog_info}} <br/>\n"
+"Username: {{username}} <br/>\n"
+"\n"
+"If this was a mistake, just ignore this email and nothing will happen. <br/>\n"
+"\n"
+"To reset your password, visit the following address: <br/>\n"
+"<a href=\"{{home_url}}/{{ur_login}}?action=rp&key={{key}}&login={{username}} \" rel=\"noreferrer noopener\" target=\"_blank\">Click Here</a><br/>\n"
+"\n"
+"Thank You!"
+msgstr ""
+"누군가 다음 계정에 대한 비밀번호 재설정을 요청했습니다. <br/>\n"
+"\n"
+"사이트 이름: {{blog_info}} <br/>\n"
+"사용자 이름: {{username}} <br/>\n"
+"\n"
+"이것이 실수였다면 이 이메일을 무시하면 아무 일도 일어나지 않습니다. <br/>\n"
+"\n"
+"비밀번호를 재설정하려면 다음 주소를 방문하십시오: <br/>\n"
+"<a href=\"{{home_url}}/{{ur_login}}?action=rp&key={{key}}&login={{username}} \" rel=\"noreferrer noopener\" target=\"_blank\">여기를 클릭하세요</a><br/>\n"
+"\n"
+"감사합니다!"
+
+#: includes/admin/functions-ur-admin.php:232
+msgid "WordPress User Extra Information"
+msgstr "WordPress 사용자 추가 정보"
+
+#: includes/admin/class-ur-admin-profile.php:60
+#: includes/admin/functions-ur-admin.php:149
+#: includes/admin/functions-ur-admin.php:212
+msgid "User Extra Information"
+msgstr "사용자 추가 정보"
+
+#: includes/shortcodes/class-ur-shortcode-my-account.php:424
+msgid "The email could not be sent. Contact your site administrator. "
+msgstr "이메일을 보낼 수 없습니다. 사이트 관리자에게 문의하십시오. "
+
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:59
+#: includes/class-ur-emailer.php:470
+msgid "Password Reset Email: {{blog_info}}"
+msgstr "비밀번호 재설정 이메일: {{blog_info}}"
+
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:48
+msgid "Enable this email sent to the user when a user requests for reset password."
+msgstr "사용자가 비밀번호 재설정을 요청할 때 사용자에게 전송되는 이 이메일을 활성화합니다."
+
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:25
+msgid "Email sent to the user when a user requests for reset password"
+msgstr "사용자가 비밀번호 재설정을 요청할 때 사용자에게 전송되는 이메일"
+
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:24
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:41
+msgid "Reset Password Email"
+msgstr "비밀번호 이메일 재설정"
+
+#: includes/class-ur-email-confirmation.php:167
+msgid "User does not exist!"
+msgstr "사용자가 존재하지 않습니다!"
+
+#: includes/class-ur-email-confirmation.php:160
+msgid "Verification Email Sent!"
+msgstr "확인 이메일이 전송되었습니다!"
+
+#: includes/functions-ur-core.php:791
+msgid "Hide Label"
+msgstr "레이블 숨기기"
+
+#: includes/admin/settings/class-ur-settings-general.php:44
+msgid "Frontend Messages"
+msgstr "프론트엔드 메시지"
+
+#: includes/functions-ur-core.php:713 includes/functions-ur-core.php:750
+#: includes/functions-ur-core.php:752
+msgid "Description"
+msgstr "설명"
+
+#: includes/class-ur-emailer.php:651 includes/functions-ur-core.php:2152
+msgid "Chosen Password"
+msgstr "선택한 비밀번호"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:214
+msgid "pending approval."
+msgstr "승인 대기 중."
+
+#: includes/admin/class-ur-admin-user-list-manager.php:214
+msgid "Users"
+msgstr "사용자"
+
+#. translators: 1: Newly registered user count 2: User
+#: includes/admin/class-ur-admin-user-list-manager.php:214
+#: includes/admin/class-ur-admin.php:333
+msgid "User"
+msgid_plural "Users"
+msgstr[0] "사용자"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:214
+msgid "User Registration:"
+msgstr "사용자 등록:"
+
+#. translators: %s - Link to logout.
+#: includes/shortcodes/class-ur-shortcode-login.php:69
+msgid "You are already logged in. <a href=\"%s\">Log out?</a>"
+msgstr "이미 로그인되어 있습니다. <a href=\"%s\">로그아웃하시겠습니까?</a>"
+
+#: user-registration.php:357
+msgid "Visit free customer support"
+msgstr "무료 고객 지원 방문"
+
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:60
+#: includes/class-ur-emailer.php:314
+msgid "Congratulations! Registration Complete on {{blog_info}}"
+msgstr "축하합니다! {{blog_info}}에 등록 완료되었습니다"
+
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:26
+msgid "Email sent to the user after successful registration"
+msgstr "등록 성공 후 사용자에게 이메일 전송"
+
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:25
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:42
+msgid "Successfully Registered Email"
+msgstr "이메일이 성공적으로 등록되었습니다"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:61
+#: includes/class-ur-emailer.php:412
+msgid "Sorry! Registration changed to pending on {{blog_info}}"
+msgstr "죄송합니다! 등록이 {{blog_info}}에 보류 중으로 변경되었습니다"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:26
+msgid "Email sent to the user notifying the registration is pending"
+msgstr "등록이 보류 중임을 알리는 이메일이 사용자에게 전송됨"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:25
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:42
+msgid "Registration Pending Email"
+msgstr "등록 보류 중인 이메일"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:60
+#: includes/class-ur-emailer.php:301 includes/class-ur-emailer.php:425
+msgid "Sorry! Registration denied on {{blog_info}}"
+msgstr "죄송합니다! {{blog_info}}에서 등록이 거부되었습니다"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:26
+msgid "Email sent to the user notifying the registration is denied by the admin"
+msgstr "관리자가 등록을 거부했음을 알리는 사용자에게 보낸 이메일"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:25
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:42
+msgid "Registration Denied Email"
+msgstr "등록 거부 이메일"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:60
+#: includes/class-ur-emailer.php:438
+msgid "Congratulations! Registration approved on {{blog_info}}"
+msgstr "축하합니다! {{blog_info}}에서 등록 승인되었습니다"
+
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:49
+msgid "Enable this email sent to the user after successful user registration."
+msgstr "성공적인 사용자 등록 후 사용자에게 전송되는 이 이메일을 활성화합니다."
+
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:26
+msgid "Email sent to the user notifying the registration is approved by site admin"
+msgstr "사이트 관리자가 등록을 승인했음을 알리는 이메일이 사용자에게 전송됨"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:25
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:42
+msgid "Registration Approved Email"
+msgstr "등록 승인 이메일"
+
+#: includes/admin/settings/emails/class-ur-settings-email-confirmation.php:51
+#: includes/class-ur-emailer.php:275
+msgid "Please confirm your registration on {{blog_info}}"
+msgstr "{{blog_info}}에서 등록을 확인하세요."
+
+#: includes/admin/settings/emails/class-ur-settings-email-confirmation.php:24
+msgid "Email Confirmation"
+msgstr "이메일 확인"
+
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:49
+msgid "Enable this email sent to user notifying the registration is awaiting admin approval."
+msgstr "등록이 관리자 승인을 기다리고 있음을 알리는 사용자에게 전송되는 이 이메일을 활성화합니다."
+
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:42
+msgid "Awaiting Admin Approval Email"
+msgstr "관리자 승인 이메일 대기 중"
+
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:26
+msgid "Email sent to the user notifying the registration is awaiting admin approval"
+msgstr "등록이 관리자 승인을 기다리고 있음을 알리는 이메일이 사용자에게 전송됨"
+
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:25
+msgid "Awaiting Admin Approval"
+msgstr "관리자 승인 대기 중"
+
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:60
+#: includes/class-ur-emailer.php:288
+msgid "Thank you for registration on {{blog_info}}"
+msgstr "{{blog_info}}에 등록해 주셔서 감사합니다."
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:48
+msgid "Enable this email sent to admin after successful user registration."
+msgstr "성공적인 사용자 등록 후 관리자에게 전송된 이 이메일을 활성화하십시오."
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:47
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:48
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:48
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:48
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:48
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:48
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:47
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:48
+msgid "Enable this email"
+msgstr "이 이메일 사용"
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:25
+msgid "Email sent to the admin when a new user registers"
+msgstr "신규 사용자 등록 시 관리자에게 발송되는 이메일"
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:75
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:66
+#: includes/admin/settings/emails/class-ur-settings-email-confirmation.php:58
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:76
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:66
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:66
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:68
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:65
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:66
+msgid "The email content you want to customize."
+msgstr "사용자 정의하려는 이메일 콘텐츠."
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:74
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:65
+#: includes/admin/settings/emails/class-ur-settings-email-confirmation.php:57
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:75
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:65
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:65
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:67
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:64
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:65
+msgid "Email Content"
+msgstr "이메일 콘텐츠"
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:66
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:57
+#: includes/admin/settings/emails/class-ur-settings-email-confirmation.php:48
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:67
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:57
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:57
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:58
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:56
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:57
+msgid "The email subject you want to customize."
+msgstr "사용자 정의하려는 이메일 제목."
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:65
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:56
+#: includes/admin/settings/emails/class-ur-settings-email-confirmation.php:47
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:66
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:56
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:56
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:57
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:55
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:56
+msgid "Email Subject"
+msgstr "이메일 제목"
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:44
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:45
+#: includes/admin/settings/emails/class-ur-settings-email-confirmation.php:44
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:45
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:45
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:45
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:45
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:44
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:45
+msgid "Return to emails"
+msgstr "이메일로 돌아가기"
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:24
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:41
+msgid "Admin Email"
+msgstr "관리자 이메일"
+
+#: includes/admin/settings/class-ur-settings-email.php:268
+msgid "Smart Tags Used"
+msgstr "사용된 스마트 태그"
+
+#: includes/admin/settings/class-ur-settings-email.php:189
+#: includes/admin/settings/class-ur-settings-email.php:215
+msgid "Configure"
+msgstr "구성"
+
+#: includes/admin/settings/class-ur-settings-email.php:187
+#: includes/admin/settings/class-ur-settings-general.php:281
+#: includes/functions-ur-core.php:1150
+msgid "Email"
+msgstr "이메일"
+
+#: includes/admin/settings/class-ur-settings-email.php:109
+msgid "How the sender email appears in outgoing user registration emails."
+msgstr "발신자 이메일이 발신 사용자 등록 이메일에 표시되는 방식입니다."
+
+#: includes/admin/settings/class-ur-settings-email.php:108
+msgid "\"From\" address"
+msgstr "\"보낸사람\" 주소"
+
+#: includes/admin/settings/class-ur-settings-email.php:98
+msgid "How the sender name appears in outgoing user registration emails."
+msgstr "보내는 사용자 등록 이메일에 보낸 사람 이름이 표시되는 방식입니다."
+
+#: includes/admin/settings/class-ur-settings-email.php:97
+msgid "\"From\" name"
+msgstr "\"보낸사람\" 이름"
+
+#: includes/admin/settings/class-ur-settings-email.php:92
+msgid "Email Sender Options"
+msgstr "이메일 발신자 옵션"
+
+#: includes/admin/settings/class-ur-settings-email.php:75
+msgid "Email notifications sent from user registration are listed below. Click on an email to configure it."
+msgstr "사용자 등록에서 보낸 이메일 알림은 다음과 같습니다. 이메일을 클릭하여 구성하십시오."
+
+#: includes/admin/settings/class-ur-settings-email.php:73
+msgid "Email notifications"
+msgstr "이메일 알림"
+
+#: includes/admin/settings/class-ur-settings-email.php:34
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:38
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:39
+#: includes/admin/settings/emails/class-ur-settings-email-confirmation.php:38
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:39
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:39
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:39
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:39
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:38
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:39
+msgid "Emails"
+msgstr "이메일"
+
+#: includes/form/class-ur-form-field-radio.php:44
+#: includes/form/class-ur-form-field-radio.php:49
+#: includes/functions-ur-core.php:724
+msgid "Radio"
+msgstr "라디오"
+
+#: includes/form/class-ur-form-field-privacy-policy.php:44
+#: includes/form/class-ur-form-field-privacy-policy.php:49
+#: includes/functions-ur-core.php:723
+msgid "Privacy Policy"
+msgstr "개인 정보 정책"
+
+#: includes/form/class-ur-form-field-checkbox.php:44
+#: includes/form/class-ur-form-field-checkbox.php:49
+#: includes/functions-ur-core.php:722
+msgid "Checkbox"
+msgstr "체크박스"
+
+#: includes/admin/settings/class-ur-settings-general.php:233
+#: includes/class-ur-frontend-scripts.php:385
+msgid "User registered. Verify your email by clicking on the link sent to your email."
+msgstr "사용자가 등록되었습니다. 이메일로 전송된 링크를 클릭하여 이메일을 확인합니다."
+
+#: includes/admin/settings/class-ur-settings-general.php:253
+#: includes/class-ur-frontend-scripts.php:384
+msgid "User registered. Wait until admin approves your registration."
+msgstr "사용자가 등록되었습니다. 관리자가 등록을 승인할 때까지 기다리십시오."
+
+#. translators: %s - Resend Verification Link.
+#: includes/class-ur-email-confirmation.php:395
+#: includes/class-ur-user-approval.php:231
+#: includes/class-ur-user-approval.php:257
+msgid "Your account is still pending approval. Verify your email by clicking on the link sent to your email. %s"
+msgstr "귀하의 계정은 아직 승인 대기 중입니다. 이메일로 전송된 링크를 클릭하여 이메일을 확인합니다. %s"
+
+#: includes/class-ur-email-confirmation.php:146
+msgid "Token Mismatch!"
+msgstr "토큰 불일치!"
+
+#: includes/admin/settings/class-ur-settings-general.php:243
+#: includes/class-ur-email-confirmation.php:128
+msgid "User successfully registered. Login to continue."
+msgstr "사용자가 성공적으로 등록되었습니다. 계속하려면 로그인하세요."
+
+#: includes/admin/settings/class-ur-settings-email.php:79
+#: includes/functions-ur-core.php:1464
+msgid "Disable all emails sent after registration."
+msgstr "등록 후 보낸 모든 이메일을 비활성화합니다."
+
+#: includes/admin/settings/class-ur-settings-email.php:78
+#: includes/functions-ur-core.php:1463
+msgid "Disable emails"
+msgstr "이메일 비활성화"
+
+#: includes/admin/class-ur-admin.php:156
+msgid "Thank You!"
+msgstr "감사합니다!"
+
+#: includes/admin/settings/class-ur-settings-general.php:377
+#: includes/functions-ur-core.php:1094
+msgid "Rounded Edge"
+msgstr "둥근 모서리"
+
+#: includes/admin/settings/class-ur-settings-general.php:376
+#: includes/functions-ur-core.php:1093
+msgid "Rounded"
+msgstr "둥근"
+
+#: includes/admin/settings/class-ur-settings-general.php:465
+#: templates/myaccount/form-login.php:173
+msgid "Not a member yet? Register now."
+msgstr "아직 회원이 아니세요? 지금 등록하세요."
+
+#: includes/admin/settings/class-ur-settings-general.php:460
+msgid "This option lets you enter the label to registration url in login form."
+msgstr "이 옵션을 사용하면 로그인 양식에 등록 URL 레이블을 입력할 수 있습니다."
+
+#: includes/admin/settings/class-ur-settings-general.php:450
+msgid "Registration URL"
+msgstr "등록 URL"
+
+#: includes/admin/class-ur-admin.php:168
+msgid "Thank you for using User Registration."
+msgstr "사용자 등록을 이용해 주셔서 감사합니다."
+
+#. translators: 1: User Registration 2:: five stars
+#: includes/admin/class-ur-admin.php:154
+msgid "If you like %1$s please leave us a %2$s rating. A huge thanks in advance!"
+msgstr "%1$s이(가) 마음에 들면 %2$s 등급을 남겨주세요. 미리 감사드립니다!"
+
+#: includes/admin/class-ur-admin-form-modal.php:102
+msgid "Add Form"
+msgstr "양식 추가"
+
+#: includes/admin/class-ur-admin-assets.php:412
+#: includes/admin/class-ur-admin-form-modal.php:98
+msgid "Cancel"
+msgstr "취소"
+
+#: includes/admin/class-ur-admin-form-modal.php:81
+msgid "Select a form below to insert"
+msgstr "아래에서 삽입할 양식을 선택하세요"
+
+#: includes/admin/class-ur-admin-form-modal.php:73
+msgid "Close"
+msgstr "닫기"
+
+#: includes/admin/class-ur-admin-form-modal.php:72
+msgid "Insert Form"
+msgstr "양식 삽입"
+
+#: includes/admin/class-ur-admin-form-modal.php:56
+msgid "Add Registration Form"
+msgstr "등록 양식 추가"
+
+#: includes/admin/class-ur-admin-form-modal.php:54
+msgid "Add User Registration Form"
+msgstr "사용자 등록 양식 추가"
+
+#: includes/admin/updater/class-ur-addon-updater.php:575
+msgid "Error"
+msgstr "오류"
+
+#: includes/log-handlers/class-ur-log-handler-file.php:353
+msgid "This method should not be called before plugins_loaded."
+msgstr "이 메소드는 plugins_loaded 전에 호출되어서는 안됩니다."
+
+#. translators: %s: Class
+#: includes/functions-ur-core.php:1362
+msgid "The class <code>%s</code> provided by user_registration_logging_class filter must implement <code>UR_Logger_Interface</code>."
+msgstr "user_registration_logging_class 필터가 제공하는 <code>%s</code> 클래스는 <code>UR_Logger_Interface</code>를 구현해야 합니다."
+
+#: includes/admin/settings/class-ur-settings-general.php:375
+#: includes/functions-ur-core.php:1092
+msgid "Flat"
+msgstr "평면"
+
+#: includes/admin/settings/class-ur-settings-general.php:374
+#: includes/functions-ur-core.php:1091
+msgid "Bordered"
+msgstr "테두리있음"
+
+#: includes/admin/settings/class-ur-settings-general.php:373
+#: includes/functions-ur-core.php:1090
+#: assets/js/wp-color-picker/wp-color-picker-alpha.js:149
+msgid "Default"
+msgstr "기본"
+
+#: includes/admin/settings/class-ur-settings-general.php:301
+#: includes/form/class-ur-form-field-number.php:46
+#: includes/form/class-ur-form-field-number.php:51
+#: includes/functions-ur-core.php:720
+msgid "Number"
+msgstr "숫자"
+
+#. translators: %1$s: Activation error message
+#: includes/class-ur-plugin-updater.php:366 includes/functions-ur-core.php:2443
+#: includes/functions-ur-core.php:2462 includes/functions-ur-core.php:2485
+#: includes/functions-ur-core.php:2504 includes/functions-ur-core.php:2510
+#: includes/functions-ur-core.php:2515 includes/functions-ur-core.php:2528
+msgid "<strong>Activation error:</strong> %1$s"
+msgstr "<strong>활성화 오류:</strong> %1$s"
+
+#: includes/class-ur-plugin-updater.php:362
+msgid "The provided license key could not be found. Please <a href=\"%s\" target=\"_blank\">contact support</a> for more information."
+msgstr "제공된 라이센스 키를 찾을 수 없습니다. 자세한 내용은 <a href=\"%s\" target=\"_blank\">지원팀에 문의</a>하세요."
+
+#: includes/class-ur-plugin-updater.php:358
+msgid "The key you entered belongs to a bundle, please use the product specific license key."
+msgstr "입력한 키는 번들에 속합니다. 제품별 라이선스 키를 사용하세요."
+
+#: includes/class-ur-plugin-updater.php:354
+msgid "The provided license key has reached its activation limit. Please <a href=\"%1$s\" target=\"_blank\">View possible upgrades</a> now."
+msgstr "제공된 라이센스 키가 활성화 제한에 도달했습니다. 지금 <a href=\"%1$s\" target=\"_blank\">가능한 업그레이드를 확인</a>하십시오."
+
+#: includes/class-ur-plugin-updater.php:350
+msgid "This appears to be an invalid license key for <strong>%1$s</strong>."
+msgstr "<strong>%1$s</strong>에 대한 잘못된 라이센스 키인 것 같습니다."
+
+#: includes/class-ur-plugin-updater.php:345
+msgid "The provided license is not active for this URL. Please <a href=\"%s\" target=\"_blank\">visit your account page</a> to manage your license key URLs."
+msgstr "제공된 라이선스는 이 URL에 대해 활성화되어 있지 않습니다. 라이센스 키 URL을 관리하려면 <a href=\"%s\" target=\"_blank\">계정 페이지를 방문</a>하세요."
+
+#: includes/class-ur-plugin-updater.php:340
+msgid "The provided license is invalid. Please <a href=\"%s\" target=\"_blank\">visit your account page</a> and verify it."
+msgstr "제공된 라이선스가 유효하지 않습니다. <a href=\"%s\" target=\"_blank\">계정 페이지를 방문</a>하여 확인하십시오."
+
+#: includes/class-ur-plugin-updater.php:336
+msgid "The provided license key has been disabled. Please <a href=\"%s\" target=\"_blank\">contact support</a> for more information."
+msgstr "제공된 라이센스 키가 비활성화되었습니다. 자세한 내용은 <a href=\"%s\" target=\"_blank\">지원팀에 문의</a>하세요."
+
+#: includes/class-ur-plugin-updater.php:332
+msgid "The provided license key expired on %1$s. Please <a href=\"%2$s\" target=\"_blank\">renew your license key</a>."
+msgstr "제공된 라이센스 키가 %1$s에 만료되었습니다. <a href=\"%2$s\" target=\"_blank\">라이선스 키를 갱신</a>하십시오."
+
+#: includes/admin/settings/class-ur-settings-license.php:88
+#: includes/admin/settings/class-ur-settings-license.php:96
+#: includes/class-ur-plugin-updater.php:296
+msgid "Deactivate License"
+msgstr "라이선스 비활성화"
+
+#: includes/class-ur-plugin-updater.php:296
+msgid "Deactivate License Key"
+msgstr "라이선스 키 비활성화"
+
+#: includes/class-ur-logger.php:137
+msgid "UR_Logger::log was called with an invalid level \"%s\"."
+msgstr "UR_Logger::log가 잘못된 수준 \"%s\"로 호출되었습니다."
+
+#: includes/class-ur-logger.php:58
+msgid "The provided handler <code>%s</code> does not implement UR_Log_Handler_Interface."
+msgstr "제공된 핸들러 <code>%s</code>은(는) UR_Log_Handler_Interface를 구현하지 않습니다."
+
+#. translators: 1 General Settings, 2: Link to anyone can register settings
+#: includes/admin/views/html-notice-registration.php:21
+msgid "To allow users to register for your website via User registration, you must first enable user registration. Go to %1$sSettings > General%2$s tab, and under Membership make sure to check <strong>Anyone can register</strong>."
+msgstr "사용자가 사용자 등록을 통해 웹사이트에 등록할 수 있도록 하려면 먼저 사용자 등록을 활성화해야 합니다. %1$s설정 > 일반%2$s 탭으로 이동하고 멤버십 아래에서 <strong>누구나 등록할 수 있음</strong>을 선택해야 합니다."
+
+#: includes/admin/views/html-notice-key-unvalidated.php:14
+msgid "Hide notice"
+msgstr "알림 숨기기"
+
+#. translators: %s - Plugin Name.
+#: includes/admin/views/html-notice-key-deactivated.php:18
+msgid "Your licence for <strong>%s</strong> has been deactivated."
+msgstr "<strong>%s</strong>에 대한 라이선스가 비활성화되었습니다."
+
+#. translators: %s - Link to logout.
+#: includes/admin/views/html-notice-key-activated.php:17
+msgid "Your licence for <strong>%s</strong> has been activated. Thanks!"
+msgstr "<strong>%s</strong>에 대한 라이선스가 활성화되었습니다. 감사합니다!"
+
+#: includes/admin/views/html-license-form.php:22
+msgid "Enter your license key and hit return. A valid key is required for updates."
+msgstr "라이센스 키를 입력하고 리턴을 누르십시오. 업데이트를 위해서는 유효한 키가 필요합니다."
+
+#: includes/admin/views/html-license-form.php:20
+msgid "License:"
+msgstr "라이선스:"
+
+#: includes/admin/views/html-admin-page-status.php:14
+msgid "Logs"
+msgstr "로그"
+
+#: includes/admin/views/html-admin-page-status-logs.php:51
+msgid "There are currently no logs to view."
+msgstr "현재 볼 수 있는 로그가 없습니다."
+
+#: includes/admin/views/html-admin-page-status-logs.php:38
+msgid "View"
+msgstr "보기"
+
+#: includes/admin/views/html-admin-page-status-logs.php:23
+msgid "Delete log"
+msgstr "로그 삭제"
+
+#. translators: %s - User Registration Extensions Catalog
+#: includes/admin/views/html-admin-page-addons.php:74
+msgid "Our catalog of User Registration Extensions can be found on WPEverest.com here: <a href=\"%s\">User Registration Extensions Catalog</a>"
+msgstr "사용자 등록 확장 카탈로그는 WPEverest.com의 <a href=\"%s\">사용자 등록 확장 카탈로그</a>에서 찾을 수 있습니다"
+
+#: includes/admin/views/html-admin-page-addons.php:16
+msgid "User Registration Extensions"
+msgstr "사용자 등록 확장"
+
+#: includes/admin/updater/class-ur-addon-updater.php:575
+msgid "You do not have permission to install plugin updates"
+msgstr "플러그인 업데이트를 설치할 권한이 없습니다"
+
+#. translators: 1: Plugin Name, 2: Changelog Link, 3: New Version, 4: Link
+#. Close
+#: includes/admin/updater/class-ur-addon-updater.php:304
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr "%1$s의 새 버전을 사용할 수 있습니다. %2$s버전 %3$s 세부정보 보기%4$s."
+
+#: includes/functions-ur-core.php:1025
+msgid "This option lets you enter redirect path after successful user registration."
+msgstr "이 옵션을 사용하면 성공적인 사용자 등록 후 리디렉션 경로를 입력할 수 있습니다."
+
+#: includes/functions-ur-core.php:1019
+msgid "Redirect URL"
+msgstr "리디렉션 URL"
+
+#: includes/admin/class-ur-admin-menus.php:459
+msgid "User Registration extensions"
+msgstr "사용자 등록 확장"
+
+#: includes/admin/class-ur-admin-menus.php:425
+msgid "User Registration Status"
+msgstr "사용자 등록 상태"
+
+#. translators: 1: Plugin Name, 2: Changelog Link, 3: New Version, 4: Link
+#. Close, 5: Upgrade Plugin Link, 6: Link Close
+#: includes/admin/updater/class-ur-addon-updater.php:313
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s or %5$supdate now%6$s."
+msgstr "%1$s의 새 버전을 사용할 수 있습니다. %2$s버전 %3$s 세부정보 보기%4$s 또는 %5$s지금 업데이트%6$s."
+
+#. translators: 1 User login, 2: lost password url
+#. translators: %s - Resend Verification Link.
+#. translators: %s - Redirect URL.
+#. translators: %s - Username
+#. translators: %s - Lost password URL
+#: includes/class-ur-ajax.php:685 includes/class-ur-email-confirmation.php:395
+#: includes/class-ur-form-handler.php:457
+#: includes/class-ur-form-handler.php:463
+#: includes/class-ur-form-handler.php:467
+#: includes/class-ur-form-handler.php:472
+#: includes/class-ur-form-handler.php:476
+#: includes/class-ur-user-approval.php:197
+#: includes/class-ur-user-approval.php:202
+#: includes/class-ur-user-approval.php:218
+#: includes/class-ur-user-approval.php:231
+#: includes/class-ur-user-approval.php:236
+#: includes/class-ur-user-approval.php:257
+#: includes/class-ur-user-approval.php:273 includes/functions-ur-account.php:55
+#: includes/functions-ur-account.php:58
+msgid "ERROR:"
+msgstr "오류:"
+
+#: includes/class-ur-user-approval.php:202
+#: includes/class-ur-user-approval.php:236
+msgid "Your account has been denied."
+msgstr "계정이 거부되었습니다."
+
+#: includes/class-ur-user-approval.php:197
+#: includes/class-ur-user-approval.php:218
+msgid "Your account is still pending approval."
+msgstr "귀하의 계정은 아직 승인 대기 중입니다."
+
+#. translators: %s - Link to logout.
+#. translators: 1: Link and username of user 2: Logout url
+#: includes/class-ur-ajax.php:216 includes/class-ur-shortcodes.php:220
+msgid "Log out of this account."
+msgstr "이 계정에서 로그아웃합니다."
+
+#: includes/class-ur-ajax.php:197 includes/class-ur-shortcodes.php:205
+msgid "Only administrators can add new users."
+msgstr "관리자만 새 사용자를 추가할 수 있습니다."
+
+#: includes/admin/class-ur-admin-user-manager.php:396
+msgid "denied"
+msgstr "거부됨"
+
+#: includes/admin/class-ur-admin-user-manager.php:392
+msgid "pending"
+msgstr "보류 중"
+
+#: includes/admin/class-ur-admin-user-manager.php:388
+msgid "approved"
+msgstr "승인됨"
+
+#: includes/admin/class-ur-admin-user-manager.php:62
+msgid "Impossible to create an UR_Admin_User_Manager object. Unkwon data type."
+msgstr "UR_Admin_User Manager 개체를 생성할 수 없습니다. 알 수 없는 데이터 유형입니다."
+
+#: includes/admin/class-ur-admin-user-list-manager.php:622
+msgid "If user has access to sign in or not."
+msgstr "사용자가 로그인에 대한 액세스 권한이 있는지 여부."
+
+#: includes/admin/class-ur-admin-user-list-manager.php:607
+msgid "Approval Status"
+msgstr "승인 상태"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:530
+#: includes/admin/class-ur-admin-user-list-manager.php:531
+msgid "Deny"
+msgstr "거부"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:527
+#: includes/admin/class-ur-admin-user-list-manager.php:528
+msgid "Approve"
+msgstr "승인"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:401
+msgid "Filter"
+msgstr "필터"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:377
+msgid "All approval statuses"
+msgstr "모든 승인 상태"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:375
+msgid "All statuses"
+msgstr "모든 상태"
+
+#: includes/admin/class-ur-admin-menus.php:426
+#: includes/admin/settings/class-ur-settings-email.php:188
+#: includes/class-ur-email-confirmation.php:105
+msgid "Status"
+msgstr "상태"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:94
+msgctxt "The action on users list page"
+msgid "Deny"
+msgstr "거부"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:93
+msgctxt "The action on users list page"
+msgid "Approve"
+msgstr "승인"
+
+#: includes/functions-ur-core.php:954
+#: includes/RestApi/class-ur-rest-api.php:203
+msgid "This option lets you choose login option after user registration."
+msgstr "이 옵션을 사용하면 사용자 등록 후 로그인 옵션을 선택할 수 있습니다."
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:130
+msgid "Duplicate"
+msgstr "복사"
+
+#: includes/abstracts/abstract-ur-list-table.php:342
+msgid "Copy of "
+msgstr "복사본 "
+
+#. Description of the plugin
+msgid "Drag and Drop user registration form and login form builder."
+msgstr "드래그 앤 드롭 사용자 등록 양식 및 로그인 양식 빌더."
+
+#: includes/admin/settings/class-ur-settings-general.php:223
+#: includes/class-ur-frontend-scripts.php:383
+msgid "User successfully registered."
+msgstr "사용자가 성공적으로 등록되었습니다."
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:69
+#: includes/class-ur-emailer.php:352
+msgid "A New User Registered"
+msgstr "신규 사용자 등록"
+
+#: includes/admin/class-ur-admin-assets.php:247
+msgid "Could not install."
+msgstr "설치할 수 없습니다."
+
+#: includes/admin/settings/class-ur-settings-general.php:337
+#: includes/class-ur-ajax.php:176 includes/class-ur-ajax.php:638
+#: includes/class-ur-form-handler.php:467
+#: includes/class-ur-form-handler.php:607
+#: includes/class-ur-frontend-scripts.php:386
+msgid "Captcha code error, please try again."
+msgstr "Captcha 코드 오류입니다. 다시 시도하십시오."
+
+#: includes/admin/settings/class-ur-settings-integration.php:27
+msgid "Integration"
+msgstr "통합"
+
+#: templates/myaccount/form-reset-password.php:63
+msgid "Save"
+msgstr "저장"
+
+#: templates/myaccount/form-reset-password.php:43
+msgid "Re-enter new password"
+msgstr "새 비밀번호 확인"
+
+#: templates/myaccount/form-edit-password.php:51
+#: templates/myaccount/form-reset-password.php:32
+msgid "New password"
+msgstr "새 비밀번호"
+
+#: templates/myaccount/form-reset-password.php:29
+msgid "Enter a new password below."
+msgstr "아래에 새 비밀번호를 입력하세요."
+
+#: templates/myaccount/form-lost-password.php:47
+msgid "Reset password"
+msgstr "비밀번호 재설정"
+
+#: templates/myaccount/form-lost-password.php:31
+msgid "Username or email"
+msgstr "사용자 이름 또는 이메일"
+
+#: templates/myaccount/form-lost-password.php:28
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr "비밀번호를 잊어 버렸습니까? 사용자 이름 또는 이메일 주소를 입력하세요. 이메일을 통해 새 비밀번호를 생성할 수 있는 링크를 받게 됩니다."
+
+#: includes/admin/settings/class-ur-settings-general.php:507
+#: includes/admin/settings/class-ur-settings-general.php:513
+#: includes/functions-ur-core.php:715 templates/myaccount/form-login.php:40
+msgid "Password"
+msgstr "비밀번호"
+
+#: includes/admin/settings/class-ur-settings-general.php:527
+#: includes/admin/settings/class-ur-settings-general.php:533
+#: templates/form-login-registration.php:31
+#: templates/myaccount/form-login.php:42
+msgid "Login"
+msgstr "로그인"
+
+#: includes/form/class-ur-form-field-country.php:362
+#: includes/form/class-ur-form-field-country.php:367
+#: includes/functions-ur-core.php:718
+msgid "Country"
+msgstr "국가"
+
+#: includes/admin/class-ur-admin-assets.php:389
+#: includes/admin/class-ur-admin-registrations-table-list.php:107
+msgid "Trash"
+msgstr "휴지통"
+
+#: includes/admin/class-ur-admin-assets.php:389
+msgid "Clone"
+msgstr "복제"
+
+#: includes/abstracts/abstract-ur-form-field.php:650 chunks/main.js:50346
+msgid "General Settings"
+msgstr "일반 설정"
+
+#: includes/class-ur-ajax.php:122 includes/class-ur-ajax.php:185
+#: includes/class-ur-ajax.php:242 includes/class-ur-ajax.php:446
+#: includes/class-ur-ajax.php:582 includes/class-ur-ajax.php:1142
+msgid "Nonce error, please reload."
+msgstr "Nonce 오류입니다. 새로고침하세요."
+
+#: includes/admin/views/html-notice-updating.php:14
+msgid "Taking a while? Click here to run it now."
+msgstr "시간이 좀 걸리나요? 지금 실행하려면 여기를 클릭하세요."
+
+#: includes/admin/views/html-notice-updating.php:14
+msgid "Your database is being updated in the background."
+msgstr "데이터베이스가 백그라운드에서 업데이트되고 있습니다."
+
+#: includes/admin/views/html-notice-updated.php:16
+msgid "User Registration data update complete. Thank you for updating to the latest version!"
+msgstr "사용자 등록 데이터 업데이트가 완료되었습니다. 최신 버전으로 업데이트해주셔서 감사합니다!"
+
+#: includes/admin/views/html-notice-update.php:19
+msgid "It is strongly recommended that you backup your database before proceeding. Are you sure you wish to run the updater now?"
+msgstr "계속하기 전에 데이터베이스를 백업하는 것이 좋습니다. 지금 업데이트 프로그램을 실행하시겠습니까?"
+
+#: includes/admin/views/html-notice-update.php:15
+msgid "Run the updater"
+msgstr "업데이터 실행"
+
+#: includes/admin/views/html-notice-update.php:14
+msgid "We need to update your site's database to the latest version."
+msgstr "사이트의 데이터베이스를 최신 버전으로 업데이트해야 합니다."
+
+#: includes/admin/views/html-notice-update.php:14
+#: includes/admin/views/html-notice-updating.php:14
+msgid "User Registration Data Update"
+msgstr "사용자 등록 데이터 업데이트"
+
+#: includes/admin/views/html-notice-install.php:15
+msgid "Skip setup"
+msgstr "설정 건너뛰기"
+
+#: includes/admin/views/html-notice-install.php:15
+msgid "Install User Registration Pages"
+msgstr "사용자 등록 페이지 설치"
+
+#: includes/admin/views/html-notice-custom.php:17
+#: includes/admin/views/html-notice-registration.php:14
+#: includes/admin/views/html-notice-updated.php:14
+msgid "Dismiss"
+msgstr "해제"
+
+#: includes/admin/views/html-admin-settings.php:46
+msgid "Save Changes"
+msgstr "변경 사항 저장"
+
+#: includes/admin/settings/class-ur-settings-general.php:176
+msgid "Endpoint for the \"My account &rarr; Lost password\" page."
+msgstr "\"내 계정 &rarr; 비밀번호 분실\" 페이지의 엔드포인트 입니다."
+
+#: includes/admin/settings/class-ur-settings-general.php:160
+msgid "Endpoint for the \"My account &rarr; Edit profile\" page."
+msgstr "\"내 계정 &rarr; 프로필 편집\" 페이지의 엔드포인트 입니다."
+
+#: includes/admin/settings/class-ur-settings-general.php:156
+msgid "Endpoints are appended to your page URLs to handle specific actions on the accounts pages. They should be unique and can be left blank to disable the endpoint."
+msgstr "엔드포인트는 계정 페이지에서 특정 작업을 처리하기 위해 페이지 URL에 추가됩니다. 엔드포인트는 고유해야 하며 엔드포인트를 비활성화하려면 비워 둘 수 있습니다."
+
+#: includes/functions-ur-core.php:989
+#: includes/RestApi/class-ur-rest-api.php:223
+msgid "Enable Strong Password"
+msgstr "강력한 비밀번호 활성화"
+
+#: includes/functions-ur-core.php:976
+#: includes/RestApi/class-ur-rest-api.php:243
+msgid "Default User Role"
+msgstr "기본 사용자 역할"
+
+#: includes/admin/settings/class-ur-settings-general.php:42
+msgid "General Options"
+msgstr "일반 옵션"
+
+#: includes/admin/functions-ur-admin.php:426
+#: includes/admin/settings/class-ur-settings-general.php:27
+#: includes/admin/settings/class-ur-settings-general.php:69
+#: includes/admin/settings/class-ur-settings-general.php:360
+#: includes/RestApi/class-ur-rest-api.php:192 chunks/main.js:50345
+msgid "General"
+msgstr "일반"
+
+#: includes/abstracts/abstract-ur-list-table.php:475
+msgid "Empty trash"
+msgstr "휴지통 비우기"
+
+#: includes/abstracts/abstract-ur-list-table.php:136
+msgid "Move to trash"
+msgstr "휴지통으로 이동"
+
+#: includes/abstracts/abstract-ur-list-table.php:569
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+#. translators: %s - Human readable time
+#: includes/abstracts/abstract-ur-list-table.php:565
+msgid "%s ago"
+msgstr "%s 전"
+
+#: includes/abstracts/abstract-ur-list-table.php:552
+msgid "Y/m/d g:i:s A"
+msgstr "Y/m/d g:i:s A"
+
+#: includes/abstracts/abstract-ur-list-table.php:132
+#: includes/admin/class-ur-admin-registrations-table-list.php:110
+msgid "Delete permanently"
+msgstr "영구적으로 삭제"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:110
+msgid "Delete this item permanently"
+msgstr "이 항목을 영구적으로 삭제"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:107
+msgid "Move this item to the Trash"
+msgstr "이 항목을 휴지통으로 이동"
+
+#: includes/abstracts/abstract-ur-list-table.php:131
+#: includes/admin/class-ur-admin-registrations-table-list.php:105
+msgid "Restore"
+msgstr "복원"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:105
+msgid "Restore this item from the Trash"
+msgstr "휴지통에서 이 항목 복원"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:100
+#: includes/class-ur-post-types.php:53
+msgid "Edit"
+msgstr "편집"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:96
+msgid "ID: %d"
+msgstr "아이디: %d"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:40
+msgid "No user registration found."
+msgstr "사용자 등록을 찾을 수 없습니다."
+
+#: includes/admin/class-ur-admin-settings.php:579
+msgid "Select a page&hellip;"
+msgstr "페이지 선택&hellip;"
+
+#: includes/admin/class-ur-admin-settings.php:150
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr "이 페이지에서 다른 곳으로 이동하면 변경 사항이 손실됩니다."
+
+#: includes/admin/class-ur-admin-settings.php:88
+msgid "Your settings have been saved."
+msgstr "설정이 저장되었습니다."
+
+#: includes/admin/class-ur-admin-profile.php:155
+#: includes/admin/class-ur-admin-profile.php:167
+#: includes/form/class-ur-form-field-select.php:44
+#: includes/form/class-ur-form-field-select.php:49
+#: includes/functions-ur-core.php:717
+msgid "Select"
+msgstr "선택"
+
+#: includes/admin/class-ur-admin-notices.php:123 user-registration.php:77
+#: user-registration.php:86
+msgid "Cheatin&#8217; huh?"
+msgstr "부정행위&#8217; 엥?"
+
+#: includes/admin/class-ur-admin-menus.php:809
+msgid "Empty form data"
+msgstr "빈 양식 데이터"
+
+#: includes/admin/class-ur-admin-menus.php:626
+msgid "Add to menu"
+msgstr "메뉴에 추가"
+
+#: includes/admin/class-ur-admin-menus.php:622
+msgid "Select all"
+msgstr "모두 선택"
+
+#: includes/admin/class-ur-admin-menus.php:584 includes/class-ur-query.php:78
+msgid "Lost password"
+msgstr "비밀번호 분실"
+
+#: includes/admin/class-ur-admin-menus.php:560
+msgid "User Registration endpoints"
+msgstr "사용자 등록 엔드포인트"
+
+#: includes/admin/class-ur-admin-menus.php:505
+msgid "Update form"
+msgstr "양식 업데이트"
+
+#: includes/admin/class-ur-admin-menus.php:503
+msgid "Create Form"
+msgstr "양식 만들기"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:168
+msgid "Search Registration"
+msgstr "검색 등록"
+
+#: includes/admin/class-ur-admin-assets.php:285
+#: includes/admin/class-ur-admin-menus.php:442
+#: includes/admin/class-ur-admin-menus.php:443
+#: includes/admin/class-ur-admin-menus.php:794
+#: includes/admin/class-ur-admin-registrations-table-list.php:162
+msgid "Add New"
+msgstr "새로 추가"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:54
+#: includes/form/class-ur-form-field-date.php:46
+#: includes/form/class-ur-form-field-date.php:51
+#: includes/functions-ur-core.php:721
+msgid "Date"
+msgstr "날짜"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:53
+msgid "Author"
+msgstr "작성자"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:51
+msgid "Title"
+msgstr "제목"
+
+#: includes/admin/class-ur-admin-menus.php:409 user-registration.php:340
+msgid "Settings"
+msgstr "설정"
+
+#: includes/admin/class-ur-admin-menus.php:408
+msgid "User Registration settings"
+msgstr "사용자 등록 설정"
+
+#. Plugin Name of the plugin
+#: includes/admin/class-ur-admin-registrations-table-list.php:161
+msgid "User Registration"
+msgstr "사용자 등록"
+
+#: includes/abstracts/abstract-ur-list-table.php:289
+#: includes/abstracts/abstract-ur-list-table.php:298
+msgid "You do not have permission to delete posts!"
+msgstr "게시물을 삭제할 권한이 없습니다!"
+
+#: includes/abstracts/abstract-ur-list-table.php:260
+#: includes/abstracts/abstract-ur-list-table.php:300
+#: includes/admin/class-ur-admin-export-users.php:51
+#: includes/admin/class-ur-admin-import-export-forms.php:51
+#: includes/admin/class-ur-admin-notices.php:119
+#: includes/admin/class-ur-admin-settings.php:77
+#: includes/admin/class-ur-admin-status.php:167
+#: includes/class-ur-email-confirmation.php:184
+msgid "Action failed. Please refresh the page and retry."
+msgstr "작업이 실패했습니다. 페이지를 새로고침하고 다시 시도하십시오."
+
+#: includes/abstracts/abstract-ur-list-table.php:269
+msgid "You do not have permission to trash posts!"
+msgstr "게시물을 삭제할 권한이 없습니다!"
+
+#: includes/admin/class-ur-admin-assets.php:435
+msgctxt "user registration admin"
+msgid "Drag your first form item here."
+msgstr "첫 번째 양식 항목을 여기로 드래그하십시오."
+
+#: includes/admin/class-ur-admin-assets.php:429
+msgctxt "user registration admin"
+msgid "Previous save action on going."
+msgstr "진행 중인 이전 저장 작업입니다."
+
+#: includes/admin/class-ur-admin-assets.php:428
+msgctxt "user registration admin"
+msgid "Empty form name."
+msgstr "양식 이름이 비어 있습니다."
+
+#: includes/admin/class-ur-admin-assets.php:425
+msgctxt "user registration admin"
+msgid "Error"
+msgstr "오류"
+
+#: includes/admin/class-ur-admin-assets.php:424
+msgctxt "user registration admin"
+msgid "Success"
+msgstr "성공"
+
+#: includes/admin/class-ur-admin-assets.php:423
+msgctxt "user registration admin"
+msgid "Form successfully saved."
+msgstr "양식이 성공적으로 저장되었습니다."
+
+#: includes/admin/class-ur-admin-assets.php:235
+msgctxt "enhanced select"
+msgid "Searching&hellip;"
+msgstr "검색 중&hellip;"
+
+#: includes/admin/class-ur-admin-assets.php:234
+msgctxt "enhanced select"
+msgid "Loading more results&hellip;"
+msgstr "더 많은 결과 로드 중&hellip;"
+
+#: includes/admin/class-ur-admin-assets.php:231
+msgctxt "enhanced select"
+msgid "Please delete %qty% characters"
+msgstr "%qty% 글자를 삭제하십시오"
+
+#: includes/admin/class-ur-admin-assets.php:230
+msgctxt "enhanced select"
+msgid "Please delete 1 character"
+msgstr "글자 1개를 지워주세요"
+
+#: includes/admin/class-ur-admin-assets.php:229
+msgctxt "enhanced select"
+msgid "Please enter %qty% or more characters"
+msgstr "%qty% 이상의 문자를 입력하십시오"
+
+#: includes/admin/class-ur-admin-assets.php:227
+msgctxt "enhanced select"
+msgid "Loading failed"
+msgstr "로딩 실패"
+
+#: includes/admin/class-ur-admin-assets.php:226
+msgctxt "enhanced select"
+msgid "No matches found"
+msgstr "일치하는 항목이 없습니다"
+
+#: includes/form/settings/class-ur-setting-checkbox.php:72
+#: includes/form/settings/class-ur-setting-user_login.php:64
+#: includes/functions-ur-core.php:784 includes/functions-ur-core.php:797
+msgid "Yes"
+msgstr "예"
+
+#: includes/form/settings/class-ur-setting-checkbox.php:71
+#: includes/form/settings/class-ur-setting-user_login.php:63
+#: includes/functions-ur-core.php:783 includes/functions-ur-core.php:796
+msgid "No"
+msgstr "아니오"
+
+#: includes/functions-ur-core.php:741 includes/functions-ur-core.php:743
+msgid "Label"
+msgstr "레이블"
+
+#. translators: %s - Link to logout.
+#. translators: 1: Link and username of user 2: Logout url
+#: includes/class-ur-ajax.php:216 includes/class-ur-shortcodes.php:220
+#: includes/functions-ur-account.php:123
+msgid "Logout"
+msgstr "로그아웃"
+
+#: includes/functions-ur-account.php:120
+msgid "Dashboard"
+msgstr "대시보드"
+
+#: includes/form/settings/class-ur-setting-text.php:45
+#: includes/form/settings/class-ur-setting-text.php:52
+msgid "Size"
+msgstr "크기"
+
+#: includes/functions-ur-core.php:826
+msgid "Options"
+msgstr "옵션"
+
+#: includes/form/settings/class-ur-setting-password.php:31
+#: includes/form/settings/class-ur-setting-password.php:38
+msgid "Password Size"
+msgstr "비밀번호 크기"
+
+#: includes/form/class-ur-form-field-user-login.php:76
+msgid "Username already exists."
+msgstr "사용자 이름이 이미 존재합니다."
+
+#: includes/form/class-ur-form-field-user-login.php:44
+#: includes/form/class-ur-form-field-user-login.php:49
+#: includes/functions-ur-core.php:1149
+msgid "Username"
+msgstr "사용자 이름"
+
+#: includes/form/settings/class-ur-setting-checkbox.php:42
+#: includes/form/settings/class-ur-setting-checkbox.php:49
+#: includes/form/settings/class-ur-setting-country.php:34
+#: includes/form/settings/class-ur-setting-country.php:41
+#: includes/form/settings/class-ur-setting-date.php:42
+#: includes/form/settings/class-ur-setting-date.php:49
+#: includes/form/settings/class-ur-setting-description.php:34
+#: includes/form/settings/class-ur-setting-description.php:41
+#: includes/form/settings/class-ur-setting-display_name.php:34
+#: includes/form/settings/class-ur-setting-display_name.php:41
+#: includes/form/settings/class-ur-setting-email.php:31
+#: includes/form/settings/class-ur-setting-email.php:38
+#: includes/form/settings/class-ur-setting-first_name.php:34
+#: includes/form/settings/class-ur-setting-first_name.php:41
+#: includes/form/settings/class-ur-setting-last_name.php:34
+#: includes/form/settings/class-ur-setting-last_name.php:41
+#: includes/form/settings/class-ur-setting-nickname.php:34
+#: includes/form/settings/class-ur-setting-nickname.php:41
+#: includes/form/settings/class-ur-setting-number.php:64
+#: includes/form/settings/class-ur-setting-number.php:71
+#: includes/form/settings/class-ur-setting-radio.php:29
+#: includes/form/settings/class-ur-setting-radio.php:36
+#: includes/form/settings/class-ur-setting-select.php:32
+#: includes/form/settings/class-ur-setting-select.php:39
+#: includes/form/settings/class-ur-setting-text.php:67
+#: includes/form/settings/class-ur-setting-text.php:74
+#: includes/form/settings/class-ur-setting-textarea.php:45
+#: includes/form/settings/class-ur-setting-textarea.php:52
+#: includes/form/settings/class-ur-setting-user_confirm_email.php:35
+#: includes/form/settings/class-ur-setting-user_confirm_email.php:42
+#: includes/form/settings/class-ur-setting-user_confirm_password.php:34
+#: includes/form/settings/class-ur-setting-user_confirm_password.php:41
+#: includes/form/settings/class-ur-setting-user_email.php:34
+#: includes/form/settings/class-ur-setting-user_email.php:41
+#: includes/form/settings/class-ur-setting-user_login.php:34
+#: includes/form/settings/class-ur-setting-user_login.php:41
+#: includes/form/settings/class-ur-setting-user_pass.php:34
+#: includes/form/settings/class-ur-setting-user_pass.php:41
+#: includes/form/settings/class-ur-setting-user_url.php:34
+#: includes/form/settings/class-ur-setting-user_url.php:41
+msgid "Custom Class"
+msgstr "사용자 정의 클래스"
+
+#: includes/form/class-ur-form-field-user-url.php:44
+#: includes/form/class-ur-form-field-user-url.php:49
+msgid "Website"
+msgstr "웹사이트"
+
+#: includes/form/class-ur-form-field-user-pass.php:49
+msgid "User Password"
+msgstr "사용자 비밀번호"
+
+#: includes/form/class-ur-form-field-user-pass.php:44
+msgid "Password "
+msgstr "비밀번호 "
+
+#: includes/form/class-ur-form-field-nickname.php:44
+#: includes/form/class-ur-form-field-nickname.php:49
+#: includes/functions-ur-core.php:708
+msgid "Nickname"
+msgstr "닉네임"
+
+#: includes/form/class-ur-form-field-last-name.php:49
+#: includes/functions-ur-core.php:710
+msgid "Last Name"
+msgstr "성"
+
+#: includes/form/class-ur-form-field-last-name.php:44
+msgid "Last Name "
+msgstr "성 "
+
+#: includes/form/class-ur-form-field-first-name.php:44
+#: includes/form/class-ur-form-field-first-name.php:49
+#: includes/functions-ur-core.php:709
+msgid "First Name"
+msgstr "이름"
+
+#: includes/class-ur-ajax.php:314
+#: includes/form/class-ur-form-field-user-email.php:87
+msgid "Email already exists."
+msgstr "이메일이 이미 존재합니다."
+
+#: includes/form/class-ur-form-field-user-email.php:78
+msgid "Invalid email address."
+msgstr "잘못된 이메일 주소."
+
+#: includes/form/class-ur-form-field-user-email.php:49
+#: includes/functions-ur-core.php:703
+msgid "User Email"
+msgstr "사용자 이메일"
+
+#: includes/form/class-ur-form-field-user-email.php:44
+msgid "Email "
+msgstr "이메일 "
+
+#: includes/form/class-ur-form-field-display-name.php:44
+#: includes/form/class-ur-form-field-display-name.php:49
+#: includes/functions-ur-core.php:712
+msgid "Display Name"
+msgstr "표시 이름"
+
+#: includes/form/class-ur-form-field-description.php:44
+#: includes/form/class-ur-form-field-description.php:49
+msgid "User Bio"
+msgstr "사용자 소개"
+
+#: includes/admin/settings/class-ur-settings-general.php:321
+#: includes/form/class-ur-form-field-user-confirm-password.php:49
+msgid "Confirm Password"
+msgstr "비밀번호 확인"
+
+#: includes/form/class-ur-form-field-user-confirm-password.php:44
+msgid "Confirm Password "
+msgstr "비밀번호 확인 "
+
+#: includes/form/class-ur-form-field-textarea.php:44
+#: includes/form/class-ur-form-field-textarea.php:49
+#: includes/functions-ur-core.php:719
+msgid "Textarea"
+msgstr "텍스트 영역"
+
+#: includes/form/class-ur-form-field-email.php:49
+#: includes/functions-ur-core.php:716
+msgid "Secondary Email"
+msgstr "보조 이메일"
+
+#: includes/form/class-ur-form-field-email.php:44
+msgid "Secondary Email "
+msgstr "보조 이메일 "
+
+#: includes/form/class-ur-form-field-country.php:292
+msgid "Zimbabwe"
+msgstr "짐바브웨"
+
+#: includes/form/class-ur-form-field-country.php:291
+msgid "Zambia"
+msgstr "잠비아"
+
+#: includes/form/class-ur-form-field-country.php:290
+msgid "Yemen"
+msgstr "예멘"
+
+#: includes/form/class-ur-form-field-country.php:289
+msgid "Samoa"
+msgstr "사모아"
+
+#: includes/form/class-ur-form-field-country.php:288
+msgid "Western Sahara"
+msgstr "서사하라"
+
+#: includes/form/class-ur-form-field-country.php:287
+msgid "Wallis and Futuna"
+msgstr "월리스 푸투나"
+
+#: includes/form/class-ur-form-field-country.php:286
+msgid "Vietnam"
+msgstr "베트남"
+
+#: includes/form/class-ur-form-field-country.php:285
+msgid "Venezuela"
+msgstr "베네수엘라"
+
+#: includes/form/class-ur-form-field-country.php:284
+msgid "Vatican"
+msgstr "바티칸"
+
+#: includes/form/class-ur-form-field-country.php:283
+msgid "Vanuatu"
+msgstr "바누아투"
+
+#: includes/form/class-ur-form-field-country.php:282
+msgid "Uzbekistan"
+msgstr "우즈베키스탄"
+
+#: includes/form/class-ur-form-field-country.php:281
+msgid "Uruguay"
+msgstr "우루과이"
+
+#: includes/form/class-ur-form-field-country.php:280
+msgid "United States (US) Virgin Islands"
+msgstr "미국 버진 아일랜드"
+
+#: includes/form/class-ur-form-field-country.php:279
+msgid "United States (US) Minor Outlying Islands"
+msgstr "미국 소수 외부 제도"
+
+#: includes/form/class-ur-form-field-country.php:278
+msgid "United States (US)"
+msgstr "미국"
+
+#: includes/form/class-ur-form-field-country.php:277
+msgid "United Kingdom (UK)"
+msgstr "영국"
+
+#: includes/form/class-ur-form-field-country.php:276
+msgid "United Arab Emirates"
+msgstr "아랍에미리트"
+
+#: includes/form/class-ur-form-field-country.php:275
+msgid "Ukraine"
+msgstr "우크라이나"
+
+#: includes/form/class-ur-form-field-country.php:274
+msgid "Uganda"
+msgstr "우간다"
+
+#: includes/form/class-ur-form-field-country.php:273
+msgid "Tuvalu"
+msgstr "투발루"
+
+#: includes/form/class-ur-form-field-country.php:272
+msgid "Turks and Caicos Islands"
+msgstr "터크스 카이코스 군도"
+
+#: includes/form/class-ur-form-field-country.php:271
+msgid "Turkmenistan"
+msgstr "투르크메니스탄"
+
+#: includes/form/class-ur-form-field-country.php:270
+msgid "Turkey"
+msgstr "터키"
+
+#: includes/form/class-ur-form-field-country.php:269
+msgid "Tunisia"
+msgstr "튀니지"
+
+#: includes/form/class-ur-form-field-country.php:268
+msgid "Trinidad and Tobago"
+msgstr "트리니다드 토바고"
+
+#: includes/form/class-ur-form-field-country.php:267
+msgid "Tonga"
+msgstr "통가"
+
+#: includes/form/class-ur-form-field-country.php:266
+msgid "Tokelau"
+msgstr "토켈라우"
+
+#: includes/form/class-ur-form-field-country.php:265
+msgid "Togo"
+msgstr "토고"
+
+#: includes/form/class-ur-form-field-country.php:264
+msgid "Timor-Leste"
+msgstr "동티모르"
+
+#: includes/form/class-ur-form-field-country.php:263
+msgid "Thailand"
+msgstr "태국"
+
+#: includes/form/class-ur-form-field-country.php:262
+msgid "Tanzania"
+msgstr "탄자니아"
+
+#: includes/form/class-ur-form-field-country.php:261
+msgid "Tajikistan"
+msgstr "타지키스탄"
+
+#: includes/form/class-ur-form-field-country.php:260
+msgid "Taiwan"
+msgstr "대만"
+
+#: includes/form/class-ur-form-field-country.php:259
+msgid "Syria"
+msgstr "시리아"
+
+#: includes/form/class-ur-form-field-country.php:258
+msgid "Switzerland"
+msgstr "스위스"
+
+#: includes/form/class-ur-form-field-country.php:257
+msgid "Sweden"
+msgstr "스웨덴"
+
+#: includes/form/class-ur-form-field-country.php:256
+msgid "Swaziland"
+msgstr "스와질랜드"
+
+#: includes/form/class-ur-form-field-country.php:255
+msgid "Svalbard and Jan Mayen"
+msgstr "스발바르 및 얀마웬"
+
+#: includes/form/class-ur-form-field-country.php:254
+msgid "Suriname"
+msgstr "수리남"
+
+#: includes/form/class-ur-form-field-country.php:253
+msgid "Sudan"
+msgstr "수단"
+
+#: includes/form/class-ur-form-field-country.php:252
+msgid "Sri Lanka"
+msgstr "스리랑카"
+
+#: includes/form/class-ur-form-field-country.php:251
+msgid "Spain"
+msgstr "스페인"
+
+#: includes/form/class-ur-form-field-country.php:250
+msgid "South Sudan"
+msgstr "남 수단"
+
+#: includes/form/class-ur-form-field-country.php:249
+msgid "South Korea"
+msgstr "대한민국"
+
+#: includes/form/class-ur-form-field-country.php:248
+msgid "South Georgia/Sandwich Islands"
+msgstr "사우스 조지아 및 샌드위치 제도"
+
+#: includes/form/class-ur-form-field-country.php:247
+msgid "South Africa"
+msgstr "남아프리카"
+
+#: includes/form/class-ur-form-field-country.php:246
+msgid "Somalia"
+msgstr "소말리아"
+
+#: includes/form/class-ur-form-field-country.php:245
+msgid "Solomon Islands"
+msgstr "솔로몬 제도"
+
+#: includes/form/class-ur-form-field-country.php:244
+msgid "Slovenia"
+msgstr "슬로베니아"
+
+#: includes/form/class-ur-form-field-country.php:243
+msgid "Slovakia"
+msgstr "슬로바키아"
+
+#: includes/form/class-ur-form-field-country.php:242
+msgid "Singapore"
+msgstr "싱가포르"
+
+#: includes/form/class-ur-form-field-country.php:241
+msgid "Sierra Leone"
+msgstr "시에라리온"
+
+#: includes/form/class-ur-form-field-country.php:240
+msgid "Seychelles"
+msgstr "세이쉘"
+
+#: includes/form/class-ur-form-field-country.php:239
+msgid "Serbia"
+msgstr "세르비아"
+
+#: includes/form/class-ur-form-field-country.php:238
+msgid "Senegal"
+msgstr "세네갈"
+
+#: includes/form/class-ur-form-field-country.php:237
+msgid "Saudi Arabia"
+msgstr "사우디아라비아"
+
+#: includes/form/class-ur-form-field-country.php:236
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr "세인트 토마스 프린스"
+
+#: includes/form/class-ur-form-field-country.php:235
+msgid "San Marino"
+msgstr "산마리노"
+
+#: includes/form/class-ur-form-field-country.php:234
+msgid "Saint Vincent and the Grenadines"
+msgstr "세인트 빈센트 그레나딘"
+
+#: includes/form/class-ur-form-field-country.php:233
+msgid "Saint Pierre and Miquelon"
+msgstr "세인트 피에르 미켈론"
+
+#: includes/form/class-ur-form-field-country.php:232
+msgid "Saint Martin (Dutch part)"
+msgstr "세인트 마틴 (네덜란드령)"
+
+#: includes/form/class-ur-form-field-country.php:231
+msgid "Saint Martin (French part)"
+msgstr "세인트 마틴 (프랑스령)"
+
+#: includes/form/class-ur-form-field-country.php:230
+msgid "Saint Lucia"
+msgstr "세인트 루시아"
+
+#: includes/form/class-ur-form-field-country.php:229
+msgid "Saint Kitts and Nevis"
+msgstr "세인트 키츠 네비스"
+
+#: includes/form/class-ur-form-field-country.php:228
+msgid "Saint Helena"
+msgstr "세인트 헬레나"
+
+#: includes/form/class-ur-form-field-country.php:227
+msgid "Saint Barth&eacute;lemy"
+msgstr "생바르텔레미"
+
+#: includes/form/class-ur-form-field-country.php:226
+msgid "Rwanda"
+msgstr "르완다"
+
+#: includes/form/class-ur-form-field-country.php:225
+msgid "Russia"
+msgstr "러시아"
+
+#: includes/form/class-ur-form-field-country.php:224
+msgid "Romania"
+msgstr "루마니아"
+
+#: includes/form/class-ur-form-field-country.php:223
+msgid "Reunion"
+msgstr "리유니언"
+
+#: includes/form/class-ur-form-field-country.php:222
+msgid "Qatar"
+msgstr "카타르"
+
+#: includes/form/class-ur-form-field-country.php:221
+msgid "Puerto Rico"
+msgstr "푸에르토리코"
+
+#: includes/form/class-ur-form-field-country.php:220
+msgid "Portugal"
+msgstr "포르투갈"
+
+#: includes/form/class-ur-form-field-country.php:219
+msgid "Poland"
+msgstr "폴란드"
+
+#: includes/form/class-ur-form-field-country.php:218
+msgid "Pitcairn"
+msgstr "핏케언"
+
+#: includes/form/class-ur-form-field-country.php:217
+msgid "Philippines"
+msgstr "필리핀"
+
+#: includes/form/class-ur-form-field-country.php:216
+msgid "Peru"
+msgstr "페루"
+
+#: includes/form/class-ur-form-field-country.php:215
+msgid "Paraguay"
+msgstr "파라과이"
+
+#: includes/form/class-ur-form-field-country.php:214
+msgid "Papua New Guinea"
+msgstr "파푸아뉴기니"
+
+#: includes/form/class-ur-form-field-country.php:213
+msgid "Panama"
+msgstr "파나마"
+
+#: includes/form/class-ur-form-field-country.php:212
+msgid "Palestinian Territory"
+msgstr "팔레스타인 자치 정부"
+
+#: includes/form/class-ur-form-field-country.php:211
+msgid "Pakistan"
+msgstr "파키스탄"
+
+#: includes/form/class-ur-form-field-country.php:210
+msgid "Oman"
+msgstr "오만"
+
+#: includes/form/class-ur-form-field-country.php:209
+msgid "Norway"
+msgstr "노르웨이"
+
+#: includes/form/class-ur-form-field-country.php:208
+msgid "North Korea"
+msgstr "북한"
+
+#: includes/form/class-ur-form-field-country.php:207
+msgid "Northern Mariana Islands"
+msgstr "북마리아나 제도"
+
+#: includes/form/class-ur-form-field-country.php:206
+msgid "Norfolk Island"
+msgstr "노퍽 섬"
+
+#: includes/form/class-ur-form-field-country.php:205
+msgid "Niue"
+msgstr "니우에"
+
+#: includes/form/class-ur-form-field-country.php:204
+msgid "Nigeria"
+msgstr "나이지리아"
+
+#: includes/form/class-ur-form-field-country.php:203
+msgid "Niger"
+msgstr "니제르"
+
+#: includes/form/class-ur-form-field-country.php:202
+msgid "Nicaragua"
+msgstr "니카라과"
+
+#: includes/form/class-ur-form-field-country.php:201
+msgid "New Zealand"
+msgstr "뉴질랜드"
+
+#: includes/form/class-ur-form-field-country.php:200
+msgid "New Caledonia"
+msgstr "뉴칼레도니아"
+
+#: includes/form/class-ur-form-field-country.php:199
+msgid "Netherlands"
+msgstr "네덜란드"
+
+#: includes/form/class-ur-form-field-country.php:198
+msgid "Nepal"
+msgstr "네팔"
+
+#: includes/form/class-ur-form-field-country.php:197
+msgid "Nauru"
+msgstr "나우루"
+
+#: includes/form/class-ur-form-field-country.php:196
+msgid "Namibia"
+msgstr "나미비아"
+
+#: includes/form/class-ur-form-field-country.php:195
+msgid "Myanmar"
+msgstr "미얀마"
+
+#: includes/form/class-ur-form-field-country.php:194
+msgid "Mozambique"
+msgstr "모잠비크"
+
+#: includes/form/class-ur-form-field-country.php:193
+msgid "Morocco"
+msgstr "모로코"
+
+#: includes/form/class-ur-form-field-country.php:192
+msgid "Montserrat"
+msgstr "몬트세라트"
+
+#: includes/form/class-ur-form-field-country.php:191
+msgid "Montenegro"
+msgstr "몬테네그로"
+
+#: includes/form/class-ur-form-field-country.php:190
+msgid "Mongolia"
+msgstr "몽골"
+
+#: includes/form/class-ur-form-field-country.php:189
+msgid "Monaco"
+msgstr "모나코"
+
+#: includes/form/class-ur-form-field-country.php:188
+msgid "Moldova"
+msgstr "몰도바"
+
+#: includes/form/class-ur-form-field-country.php:187
+msgid "Micronesia"
+msgstr "미크로네시아"
+
+#: includes/form/class-ur-form-field-country.php:186
+msgid "Mexico"
+msgstr "멕시코"
+
+#: includes/form/class-ur-form-field-country.php:185
+msgid "Mayotte"
+msgstr "마요트"
+
+#: includes/form/class-ur-form-field-country.php:184
+msgid "Mauritius"
+msgstr "모리셔스"
+
+#: includes/form/class-ur-form-field-country.php:183
+msgid "Mauritania"
+msgstr "모리타니"
+
+#: includes/form/class-ur-form-field-country.php:182
+msgid "Martinique"
+msgstr "마르티니크"
+
+#: includes/form/class-ur-form-field-country.php:181
+msgid "Marshall Islands"
+msgstr "마셜 제도"
+
+#: includes/form/class-ur-form-field-country.php:180
+msgid "Malta"
+msgstr "몰타"
+
+#: includes/form/class-ur-form-field-country.php:179
+msgid "Mali"
+msgstr "말리"
+
+#: includes/form/class-ur-form-field-country.php:178
+msgid "Maldives"
+msgstr "몰디브"
+
+#: includes/form/class-ur-form-field-country.php:177
+msgid "Malaysia"
+msgstr "말레이시아"
+
+#: includes/form/class-ur-form-field-country.php:176
+msgid "Malawi"
+msgstr "말라위"
+
+#: includes/form/class-ur-form-field-country.php:175
+msgid "Madagascar"
+msgstr "마다가스카르"
+
+#: includes/form/class-ur-form-field-country.php:174
+msgid "Macedonia"
+msgstr "마케도니아"
+
+#: includes/form/class-ur-form-field-country.php:173
+msgid "Macao S.A.R., China"
+msgstr "마카오 특별 행정구, 중국"
+
+#: includes/form/class-ur-form-field-country.php:172
+msgid "Luxembourg"
+msgstr "룩셈부르크"
+
+#: includes/form/class-ur-form-field-country.php:171
+msgid "Lithuania"
+msgstr "리투아니아"
+
+#: includes/form/class-ur-form-field-country.php:170
+msgid "Liechtenstein"
+msgstr "리히텐슈타인"
+
+#: includes/form/class-ur-form-field-country.php:169
+msgid "Libya"
+msgstr "리비아"
+
+#: includes/form/class-ur-form-field-country.php:168
+msgid "Liberia"
+msgstr "라이베리아"
+
+#: includes/form/class-ur-form-field-country.php:167
+msgid "Lesotho"
+msgstr "레소토"
+
+#: includes/form/class-ur-form-field-country.php:166
+msgid "Lebanon"
+msgstr "레바논"
+
+#: includes/form/class-ur-form-field-country.php:165
+msgid "Latvia"
+msgstr "라트비아"
+
+#: includes/form/class-ur-form-field-country.php:164
+msgid "Laos"
+msgstr "라오스"
+
+#: includes/form/class-ur-form-field-country.php:163
+msgid "Kyrgyzstan"
+msgstr "키르기스스탄"
+
+#: includes/form/class-ur-form-field-country.php:162
+msgid "Kuwait"
+msgstr "쿠웨이트"
+
+#: includes/form/class-ur-form-field-country.php:161
+msgid "Kiribati"
+msgstr "키리바시"
+
+#: includes/form/class-ur-form-field-country.php:160
+msgid "Kenya"
+msgstr "케냐"
+
+#: includes/form/class-ur-form-field-country.php:159
+msgid "Kazakhstan"
+msgstr "카자흐스탄"
+
+#: includes/form/class-ur-form-field-country.php:158
+msgid "Jordan"
+msgstr "요르단"
+
+#: includes/form/class-ur-form-field-country.php:157
+msgid "Jersey"
+msgstr "저지"
+
+#: includes/form/class-ur-form-field-country.php:156
+msgid "Japan"
+msgstr "일본"
+
+#: includes/form/class-ur-form-field-country.php:155
+msgid "Jamaica"
+msgstr "자메이카"
+
+#: includes/form/class-ur-form-field-country.php:154
+msgid "Ivory Coast"
+msgstr "코트디부아르"
+
+#: includes/form/class-ur-form-field-country.php:153
+msgid "Italy"
+msgstr "이탈리아"
+
+#: includes/form/class-ur-form-field-country.php:152
+msgid "Israel"
+msgstr "이스라엘"
+
+#: includes/form/class-ur-form-field-country.php:151
+msgid "Isle of Man"
+msgstr "맨 섬"
+
+#: includes/form/class-ur-form-field-country.php:150
+msgid "Ireland"
+msgstr "아일랜드"
+
+#: includes/form/class-ur-form-field-country.php:149
+msgid "Iraq"
+msgstr "이라크"
+
+#: includes/form/class-ur-form-field-country.php:148
+msgid "Iran"
+msgstr "이란"
+
+#: includes/form/class-ur-form-field-country.php:147
+msgid "Indonesia"
+msgstr "인도네시아"
+
+#: includes/form/class-ur-form-field-country.php:146
+msgid "India"
+msgstr "인도"
+
+#: includes/form/class-ur-form-field-country.php:145
+msgid "Iceland"
+msgstr "아이슬란드"
+
+#: includes/form/class-ur-form-field-country.php:144
+msgid "Hungary"
+msgstr "헝가리"
+
+#: includes/form/class-ur-form-field-country.php:143
+msgid "Hong Kong"
+msgstr "홍콩"
+
+#: includes/form/class-ur-form-field-country.php:142
+msgid "Honduras"
+msgstr "온두라스"
+
+#: includes/form/class-ur-form-field-country.php:141
+msgid "Heard Island and McDonald Islands"
+msgstr "허드 맥도널드 제도"
+
+#: includes/form/class-ur-form-field-country.php:140
+msgid "Haiti"
+msgstr "아이티"
+
+#: includes/form/class-ur-form-field-country.php:139
+msgid "Guyana"
+msgstr "가이아나"
+
+#: includes/form/class-ur-form-field-country.php:138
+msgid "Guinea-Bissau"
+msgstr "기니비사우"
+
+#: includes/form/class-ur-form-field-country.php:137
+msgid "Guinea"
+msgstr "기니"
+
+#: includes/form/class-ur-form-field-country.php:136
+msgid "Guernsey"
+msgstr "건지"
+
+#: includes/form/class-ur-form-field-country.php:135
+msgid "Guatemala"
+msgstr "과테말라"
+
+#: includes/form/class-ur-form-field-country.php:134
+msgid "Guam"
+msgstr "괌"
+
+#: includes/form/class-ur-form-field-country.php:133
+msgid "Guadeloupe"
+msgstr "과달루프"
+
+#: includes/form/class-ur-form-field-country.php:132
+msgid "Grenada"
+msgstr "그레나다"
+
+#: includes/form/class-ur-form-field-country.php:131
+msgid "Greenland"
+msgstr "그린란드"
+
+#: includes/form/class-ur-form-field-country.php:130
+msgid "Greece"
+msgstr "그리스"
+
+#: includes/form/class-ur-form-field-country.php:129
+msgid "Gibraltar"
+msgstr "지브롤터"
+
+#: includes/form/class-ur-form-field-country.php:128
+msgid "Ghana"
+msgstr "가나"
+
+#: includes/form/class-ur-form-field-country.php:127
+msgid "Germany"
+msgstr "독일"
+
+#: includes/form/class-ur-form-field-country.php:126
+msgid "Georgia"
+msgstr "조지아"
+
+#: includes/form/class-ur-form-field-country.php:125
+msgid "Gambia"
+msgstr "감비아"
+
+#: includes/form/class-ur-form-field-country.php:124
+msgid "Gabon"
+msgstr "가봉"
+
+#: includes/form/class-ur-form-field-country.php:123
+msgid "French Southern Territories"
+msgstr "프랑스령 남방"
+
+#: includes/form/class-ur-form-field-country.php:122
+msgid "French Polynesia"
+msgstr "프랑스령 폴리네시아"
+
+#: includes/form/class-ur-form-field-country.php:121
+msgid "French Guiana"
+msgstr "프랑스령 기아나"
+
+#: includes/form/class-ur-form-field-country.php:120
+msgid "France"
+msgstr "프랑스"
+
+#: includes/form/class-ur-form-field-country.php:119
+msgid "Finland"
+msgstr "핀란드"
+
+#: includes/form/class-ur-form-field-country.php:118
+msgid "Fiji"
+msgstr "피지"
+
+#: includes/form/class-ur-form-field-country.php:117
+msgid "Faroe Islands"
+msgstr "페로 제도"
+
+#: includes/form/class-ur-form-field-country.php:116
+msgid "Falkland Islands"
+msgstr "포클랜드 제도"
+
+#: includes/form/class-ur-form-field-country.php:115
+msgid "Ethiopia"
+msgstr "에티오피아"
+
+#: includes/form/class-ur-form-field-country.php:114
+msgid "Estonia"
+msgstr "에스토니아"
+
+#: includes/form/class-ur-form-field-country.php:113
+msgid "Eritrea"
+msgstr "에리트레아"
+
+#: includes/form/class-ur-form-field-country.php:112
+msgid "Equatorial Guinea"
+msgstr "적도 기니"
+
+#: includes/form/class-ur-form-field-country.php:111
+msgid "El Salvador"
+msgstr "엘살바도르"
+
+#: includes/form/class-ur-form-field-country.php:110
+msgid "Egypt"
+msgstr "이집트"
+
+#: includes/form/class-ur-form-field-country.php:109
+msgid "Ecuador"
+msgstr "에콰도르"
+
+#: includes/form/class-ur-form-field-country.php:108
+msgid "Dominican Republic"
+msgstr "도미니카 공화국"
+
+#: includes/form/class-ur-form-field-country.php:107
+msgid "Dominica"
+msgstr "도미니카"
+
+#: includes/form/class-ur-form-field-country.php:106
+msgid "Djibouti"
+msgstr "지부티"
+
+#: includes/form/class-ur-form-field-country.php:105
+msgid "Denmark"
+msgstr "덴마크"
+
+#: includes/form/class-ur-form-field-country.php:104
+msgid "Czech Republic"
+msgstr "체코 공화국"
+
+#: includes/form/class-ur-form-field-country.php:103
+msgid "Cyprus"
+msgstr "사이프러스"
+
+#: includes/form/class-ur-form-field-country.php:102
+msgid "Cura&ccedil;ao"
+msgstr "퀴라소"
+
+#: includes/form/class-ur-form-field-country.php:101
+msgid "Cuba"
+msgstr "쿠바"
+
+#: includes/form/class-ur-form-field-country.php:100
+msgid "Croatia"
+msgstr "크로아티아"
+
+#: includes/form/class-ur-form-field-country.php:99
+msgid "Costa Rica"
+msgstr "코스타리카"
+
+#: includes/form/class-ur-form-field-country.php:98
+msgid "Cook Islands"
+msgstr "쿡 제도"
+
+#: includes/form/class-ur-form-field-country.php:97
+msgid "Congo (Kinshasa)"
+msgstr "콩고 (킨샤사)"
+
+#: includes/form/class-ur-form-field-country.php:96
+msgid "Congo (Brazzaville)"
+msgstr "콩고 (브라자빌)"
+
+#: includes/form/class-ur-form-field-country.php:95
+msgid "Comoros"
+msgstr "코모로"
+
+#: includes/form/class-ur-form-field-country.php:94
+msgid "Colombia"
+msgstr "콜롬비아"
+
+#: includes/form/class-ur-form-field-country.php:93
+msgid "Cocos (Keeling) Islands"
+msgstr "코코스 제도"
+
+#: includes/form/class-ur-form-field-country.php:92
+msgid "Christmas Island"
+msgstr "크리스마스 섬"
+
+#: includes/form/class-ur-form-field-country.php:91
+msgid "China"
+msgstr "중국"
+
+#: includes/form/class-ur-form-field-country.php:90
+msgid "Chile"
+msgstr "칠레"
+
+#: includes/form/class-ur-form-field-country.php:89
+msgid "Chad"
+msgstr "차드"
+
+#: includes/form/class-ur-form-field-country.php:88
+msgid "Central African Republic"
+msgstr "중앙 아프리카 공화국"
+
+#: includes/form/class-ur-form-field-country.php:87
+msgid "Cayman Islands"
+msgstr "케이맨 제도"
+
+#: includes/form/class-ur-form-field-country.php:86
+msgid "Cape Verde"
+msgstr "카보베르데"
+
+#: includes/form/class-ur-form-field-country.php:85
+msgid "Canada"
+msgstr "캐나다"
+
+#: includes/form/class-ur-form-field-country.php:84
+msgid "Cameroon"
+msgstr "카메룬"
+
+#: includes/form/class-ur-form-field-country.php:83
+msgid "Cambodia"
+msgstr "캄보디아"
+
+#: includes/form/class-ur-form-field-country.php:82
+msgid "Burundi"
+msgstr "부룬디"
+
+#: includes/form/class-ur-form-field-country.php:81
+msgid "Burkina Faso"
+msgstr "부르키나파소"
+
+#: includes/form/class-ur-form-field-country.php:80
+msgid "Bulgaria"
+msgstr "불가리아"
+
+#: includes/form/class-ur-form-field-country.php:79
+msgid "Brunei"
+msgstr "브루나이"
+
+#: includes/form/class-ur-form-field-country.php:78
+msgid "British Virgin Islands"
+msgstr "영국령 버진 아일랜드"
+
+#: includes/form/class-ur-form-field-country.php:77
+msgid "British Indian Ocean Territory"
+msgstr "영국령 인도양 식민지"
+
+#: includes/form/class-ur-form-field-country.php:76
+msgid "Brazil"
+msgstr "브라질"
+
+#: includes/form/class-ur-form-field-country.php:75
+msgid "Bouvet Island"
+msgstr "부베이 섬"
+
+#: includes/form/class-ur-form-field-country.php:74
+msgid "Botswana"
+msgstr "보츠와나"
+
+#: includes/form/class-ur-form-field-country.php:73
+msgid "Bosnia and Herzegovina"
+msgstr "보스니아 헤르체고비나"
+
+#: includes/form/class-ur-form-field-country.php:72
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr "보네르, 세인트 유스타티유스 및 사바"
+
+#: includes/form/class-ur-form-field-country.php:71
+msgid "Bolivia"
+msgstr "볼리비아"
+
+#: includes/form/class-ur-form-field-country.php:70
+msgid "Bhutan"
+msgstr "부탄"
+
+#: includes/form/class-ur-form-field-country.php:69
+msgid "Bermuda"
+msgstr "버뮤다"
+
+#: includes/form/class-ur-form-field-country.php:68
+msgid "Benin"
+msgstr "베냉"
+
+#: includes/form/class-ur-form-field-country.php:67
+msgid "Belize"
+msgstr "벨리즈"
+
+#: includes/form/class-ur-form-field-country.php:66
+msgid "Belau"
+msgstr "벨라우"
+
+#: includes/form/class-ur-form-field-country.php:65
+msgid "Belgium"
+msgstr "벨기에"
+
+#: includes/form/class-ur-form-field-country.php:64
+msgid "Belarus"
+msgstr "벨라루스"
+
+#: includes/form/class-ur-form-field-country.php:63
+msgid "Barbados"
+msgstr "바베이도스"
+
+#: includes/form/class-ur-form-field-country.php:62
+msgid "Bangladesh"
+msgstr "방글라데시"
+
+#: includes/form/class-ur-form-field-country.php:61
+msgid "Bahrain"
+msgstr "바레인"
+
+#: includes/form/class-ur-form-field-country.php:60
+msgid "Bahamas"
+msgstr "바하마"
+
+#: includes/form/class-ur-form-field-country.php:59
+msgid "Azerbaijan"
+msgstr "아제르바이잔"
+
+#: includes/form/class-ur-form-field-country.php:58
+msgid "Austria"
+msgstr "오스트리아"
+
+#: includes/form/class-ur-form-field-country.php:57
+msgid "Australia"
+msgstr "호주"
+
+#: includes/form/class-ur-form-field-country.php:56
+msgid "Aruba"
+msgstr "아루바"
+
+#: includes/form/class-ur-form-field-country.php:55
+msgid "Armenia"
+msgstr "아르메니아"
+
+#: includes/form/class-ur-form-field-country.php:54
+msgid "Argentina"
+msgstr "아르헨티나"
+
+#: includes/form/class-ur-form-field-country.php:53
+msgid "Antigua and Barbuda"
+msgstr "앤티가 바부다"
+
+#: includes/form/class-ur-form-field-country.php:52
+msgid "Antarctica"
+msgstr "남극 대륙"
+
+#: includes/form/class-ur-form-field-country.php:51
+msgid "Anguilla"
+msgstr "앵귈라"
+
+#: includes/form/class-ur-form-field-country.php:50
+msgid "Angola"
+msgstr "앙골라"
+
+#: includes/form/class-ur-form-field-country.php:49
+msgid "Andorra"
+msgstr "안도라"
+
+#: includes/form/class-ur-form-field-country.php:48
+msgid "American Samoa"
+msgstr "미국령 사모아"
+
+#: includes/form/class-ur-form-field-country.php:47
+msgid "Algeria"
+msgstr "알제리아"
+
+#: includes/form/class-ur-form-field-country.php:46
+msgid "Albania"
+msgstr "알바니아"
+
+#: includes/form/class-ur-form-field-country.php:45
+msgid "&#197;land Islands"
+msgstr "올란드 제도"
+
+#: includes/form/class-ur-form-field-country.php:44
+msgid "Afghanistan"
+msgstr "아프가니스탄"
+
+#: includes/class-ur-post-types.php:61
+msgid "Parent registration"
+msgstr "상위 등록"
+
+#: includes/class-ur-post-types.php:58
+msgid "Search registrations"
+msgstr "등록 검색"
+
+#: includes/class-ur-post-types.php:57
+msgid "View registration"
+msgstr "등록 보기"
+
+#: includes/class-ur-post-types.php:56
+msgid "View registrations"
+msgstr "등록 보기"
+
+#: includes/class-ur-post-types.php:55
+msgid "New registration"
+msgstr "신규 등록"
+
+#: includes/class-ur-post-types.php:54
+msgid "Edit registration"
+msgstr "등록 수정"
+
+#: includes/class-ur-post-types.php:52
+msgid "Add new registration"
+msgstr "새 등록 추가"
+
+#: includes/class-ur-post-types.php:51
+msgid "Add registration"
+msgstr "등록 추가"
+
+#: includes/class-ur-post-types.php:50
+msgctxt "Admin menu name"
+msgid "Registrations"
+msgstr "등록"
+
+#: includes/class-ur-post-types.php:49
+#: includes/RestApi/class-ur-rest-api.php:220 chunks/main.js:50356
+msgid "Registration"
+msgstr "등록"
+
+#: includes/class-ur-post-types.php:48
+msgid "Registrations"
+msgstr "등록"
+
+#: user-registration.php:357
+msgid "Free support"
+msgstr "무료 지원"
+
+#: user-registration.php:356
+msgid "Docs"
+msgstr "문서"
+
+#: user-registration.php:356
+msgid "View User Registration documentation"
+msgstr "사용자 등록 문서 보기"
+
+#: user-registration.php:340
+msgid "View User Registration settings"
+msgstr "사용자 등록 설정 보기"
+
+#: includes/class-ur-install.php:326 includes/RestApi/class-ur-rest-api.php:147
+msgctxt "Page title"
+msgid "Registration"
+msgstr "등록"
+
+#: includes/class-ur-install.php:325 includes/RestApi/class-ur-rest-api.php:146
+msgctxt "Page slug"
+msgid "registration"
+msgstr "등록"
+
+#: includes/class-ur-install.php:315 includes/RestApi/class-ur-rest-api.php:154
+msgctxt "Page title"
+msgid "My Account"
+msgstr "내 계정"
+
+#: includes/class-ur-install.php:314 includes/RestApi/class-ur-rest-api.php:153
+msgctxt "Page slug"
+msgid "my-account"
+msgstr "내 계정"
+
+#: includes/class-ur-install.php:380
+msgid "Default form"
+msgstr "기본 양식"
+
+#: includes/class-ur-form-handler.php:666
+msgid "Passwords do not match."
+msgstr "비밀번호가 일치하지 않습니다."
+
+#: includes/class-ur-form-handler.php:662
+msgid "Please enter your password."
+msgstr "비밀번호를 입력하세요."
+
+#: includes/class-ur-ajax.php:567 includes/class-ur-ajax.php:678
+#: includes/class-ur-form-handler.php:411
+#: includes/class-ur-form-handler.php:486
+msgid "A user could not be found with this email address."
+msgstr "이 이메일 주소로 사용자를 찾을 수 없습니다."
+
+#: includes/class-ur-ajax.php:564 includes/class-ur-form-handler.php:408
+msgid "Username is required."
+msgstr "사용자 이름이 필요합니다."
+
+#: includes/class-ur-form-handler.php:366
+msgid "Your current password is incorrect."
+msgstr "현재 비밀번호가 올바르지 않습니다."
+
+#: includes/class-ur-form-handler.php:363
+msgid "New passwords do not match."
+msgstr "새 비밀번호가 일치하지 않습니다."
+
+#: includes/class-ur-form-handler.php:360
+msgid "Please re-enter your password."
+msgstr "비밀번호를 다시 입력하세요."
+
+#: includes/class-ur-form-handler.php:354
+msgid "Please enter your current password."
+msgstr "현재 비밀번호를 입력하세요."
+
+#: includes/class-ur-ajax.php:383 includes/class-ur-form-handler.php:233
+msgid "User profile updated successfully."
+msgstr "사용자 프로필이 업데이트되었습니다."
+
+#. translators: %s - Field Label
+#: includes/class-ur-form-handler.php:166
+msgid "%s is not a valid email address."
+msgstr "%s은(는) 유효한 이메일 주소가 아닙니다."
+
+#: includes/class-ur-ajax.php:805 includes/class-ur-ajax.php:811
+msgid "post data not set"
+msgstr "게시글 데이터가 설정되지 않았습니다"
+
+#: includes/admin/class-ur-admin-assets.php:233
+msgctxt "enhanced select"
+msgid "You can only select %qty% items"
+msgstr "%qty% 항목만 선택할 수 있습니다"
+
+#: includes/admin/class-ur-admin-assets.php:232
+msgctxt "enhanced select"
+msgid "You can only select 1 item"
+msgstr "항목은 1개만 선택할 수 있습니다"
+
+#: includes/admin/class-ur-admin-assets.php:228
+msgctxt "enhanced select"
+msgid "Please enter 1 or more characters"
+msgstr "글자를 1개 이상 입력하세요"
+
+#. Author URI of the plugin
+msgid "https://wpeverest.com"
+msgstr "https://wpeverest.com"
+
+#. Author of the plugin
+msgid "WPEverest"
+msgstr "WPEverest"
+
+#. Plugin URI of the plugin
+msgid "https://wpeverest.com/plugins/user-registration"
+msgstr "https://wpeverest.com/plugins/user-registration"
+
+#: templates/myaccount/lost-password-confirmation.php:27
+msgid "A password reset email has been sent to the email address on file for your account, but may take several minutes to show up in your inbox. Please wait at least 10 minutes before attempting another reset."
+msgstr "비밀번호 재설정 이메일이 계정에 등록된 이메일 주소로 전송되었지만 받은 편지함에 표시되는 데 몇 분 정도 걸릴 수 있습니다. 다른 재설정을 시도하기 전에 최소 10분을 기다리십시오."
+
+#: templates/myaccount/lost-password-confirmation.php:24
+msgid "Password reset email has been sent."
+msgstr "비밀번호 재설정 이메일이 발송되었습니다."
+
+#: templates/myaccount/form-edit-password.php:82
+#: templates/myaccount/form-edit-profile.php:410
+#: templates/myaccount/form-edit-profile.php:415
+msgid "Save changes"
+msgstr "변경 사항 저장"
+
+#: templates/myaccount/form-edit-password.php:62
+msgid "Confirm new password"
+msgstr "새 비밀번호 확인"
+
+#: includes/shortcodes/class-ur-shortcode-my-account.php:411
+msgid "Password reset is not allowed for this user"
+msgstr "이 사용자는 비밀번호 재설정이 허용되지 않습니다"
+
+#: includes/shortcodes/class-ur-shortcode-my-account.php:396
+#: includes/shortcodes/class-ur-shortcode-my-account.php:401
+msgid "Invalid username or email."
+msgstr "잘못된 사용자 이름 또는 이메일입니다."
+
+#: includes/shortcodes/class-ur-shortcode-my-account.php:375
+msgid "Enter a username or email address."
+msgstr "사용자 이름 또는 이메일 주소를 입력합니다."
+
+#. translators: %s - Link to logout
+#: includes/shortcodes/class-ur-shortcode-my-account.php:144
+msgid "Are you sure you want to log out?&nbsp;<a href=\"%s\">Confirm and log out</a>"
+msgstr "로그아웃하시겠습니까?&nbsp;<a href=\"%s\">확인 및 로그아웃</a>"
+
+#: includes/shortcodes/class-ur-shortcode-login.php:45
+#: includes/shortcodes/class-ur-shortcode-my-account.php:78
+msgid "Your password has been reset successfully."
+msgstr "비밀번호가 재설정되었습니다."
+
+#: includes/libraries/wp-background-process.php:430
+msgid "Every %d minutes"
+msgstr "%d분마다"
+
+#: includes/functions-ur-template.php:556
+msgid "Choose an option"
+msgstr "옵션 선택"
+
+#: includes/functions-ur-notice.php:27 includes/functions-ur-notice.php:59
+#: includes/functions-ur-notice.php:79 includes/functions-ur-notice.php:105
+#: includes/functions-ur-notice.php:119 includes/functions-ur-notice.php:133
+#: includes/functions-ur-notice.php:188
+msgid "This function should not be called before user_registration_init."
+msgstr "이 함수는 user_registration_init 전에 호출하면 안 됩니다."
+
+#: includes/functions-ur-core.php:769 includes/functions-ur-core.php:771
+msgid "Placeholder"
+msgstr "자리 표시자"
+
+#: includes/functions-ur-core.php:759 includes/functions-ur-core.php:761
+msgid "Field Name"
+msgstr "입력란 이름"
+
+#: includes/frontend/class-ur-frontend-form-handler.php:435
+msgid "Password and confirm password not matched"
+msgstr "비밀번호와 비밀번호 확인이 일치하지 않습니다"
+
+#: includes/frontend/class-ur-frontend-form-handler.php:433
+msgid "Empty confirm password"
+msgstr "비어있는 확인 비밀번호"
+
+#: includes/frontend/class-ur-frontend-form-handler.php:217
+msgid "Required form field not found."
+msgstr "필수 양식 입력란을 찾을 수 없습니다."
+
+#: includes/frontend/class-ur-frontend-form-handler.php:211
+msgid "Duplicate field key in form, please contact site administrator."
+msgstr "양식의 입력란 키가 중복되었습니다. 사이트 관리자에게 문의하십시오."
+
+#: includes/form/settings/class-ur-setting-country.php:57
+#: includes/form/settings/class-ur-setting-text.php:56
+#: includes/form/settings/class-ur-setting-text.php:63
+#: includes/form/settings/class-ur-setting-textarea.php:33
+#: includes/form/settings/class-ur-setting-textarea.php:40
+msgid "Default Value"
+msgstr "기본값"
+
+#: includes/form/class-ur-form-field-text.php:44
+#: includes/form/class-ur-form-field-text.php:49
+msgid "Input Field"
+msgstr "정보 입력란"
+
+#: includes/admin/settings/class-ur-settings-general.php:563
+#: includes/form/class-ur-form-field-password.php:44
+#: includes/form/class-ur-form-field-password.php:49
+msgid "Password Field"
+msgstr "비밀번호 입력란"
+
+#: includes/class-ur-form-handler.php:351
+msgid "Please fill out all password fields."
+msgstr "모든 비밀번호 입력란을 작성하십시오."
+
+#. translators: %s - Field Label
+#: includes/class-ur-form-handler.php:140
+#: includes/frontend/class-ur-frontend-form-handler.php:507
+msgid "%s is a required field."
+msgstr "%s은(는) 필수 입력란 입니다."
+
+#: includes/class-ur-ajax.php:828
+msgid "Could not save form. Invalid field name. Please check all field name"
+msgstr "양식을 저장할 수 없습니다. 잘못된 입력란 이름입니다. 모든 입력란 이름을 확인하십시오"
+
+#: includes/admin/views/html-admin-page-forms.php:87
+msgid "Extra Fields"
+msgstr "추가 입력란"
+
+#: includes/admin/views/html-admin-page-forms.php:84
+msgid "Default User Fields"
+msgstr "기본 사용자 입력란"
+
+#: includes/admin/views/html-admin-page-forms.php:60
+msgid "Field Options"
+msgstr "입력란 옵션"
+
+#: includes/admin/views/html-admin-page-forms.php:58
+msgid "Fields"
+msgstr "입력란"
+
+#: includes/admin/class-ur-admin-assets.php:433
+msgctxt "user registration admin"
+msgid "Multiple field key "
+msgstr "다중 입력란 키 "
+
+#: includes/admin/class-ur-admin-assets.php:432
+msgctxt "user registration admin"
+msgid "Invalid field name. Please do not use space, empty or special character, you can use underscore."
+msgstr "잘못된 입력란 이름입니다. 스페이스, 공백 또는 특수 문자를 사용하지 마십시오. 밑줄을 사용할 수 있습니다."
+
+#: includes/admin/class-ur-admin-assets.php:430
+msgctxt "user registration admin"
+msgid "Duplicate field name."
+msgstr "입력란 이름이 중복되었습니다."
+
+#: includes/admin/class-ur-admin-assets.php:427
+msgctxt "user registration admin"
+msgid "At least one field needs to be selected."
+msgstr "하나 이상의 입력란을 선택해야 합니다."
+
+#: includes/admin/class-ur-admin-assets.php:418
+msgctxt "user registration admin"
+msgid "Are you sure want to delete this field?"
+msgstr "이 입력란을 삭제하시겠습니까?"
+
+#: includes/admin/settings/class-ur-settings-general.php:543
+#: templates/myaccount/form-login.php:43
+msgid "Lost your password?"
+msgstr "비밀번호를 분실하셨습니까?"
+
+#: includes/admin/settings/class-ur-settings-general.php:263
+#: includes/functions-ur-core.php:778
+msgid "Required"
+msgstr "필수항목"
+
+#: includes/form/class-ur-form-field-user-pass.php:77
+msgid "Empty password."
+msgstr "비밀번호 없음"
+
+#: includes/class-ur-query.php:75 includes/functions-ur-account.php:121
+msgid "Profile Details"
+msgstr "프로필 상세정보"
+
+#: includes/class-ur-frontend-scripts.php:403
+msgid "Password with confirm password not matched."
+msgstr "비밀번호 확인과 비밀번호가 일치하지 않습니다."
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:52
+msgid "Shortcode"
+msgstr "단축코드"
+
+#: includes/admin/class-ur-admin-assets.php:431
+msgctxt "user registration admin"
+msgid "Empty field label."
+msgstr "입력란 레이블이 비어 있음."
+
+#: includes/functions-ur-template.php:214
+msgid "required"
+msgstr "필수항목"

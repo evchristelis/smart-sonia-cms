@@ -1,0 +1,1276 @@
+# Translation of Plugins - Code Snippets - Development (trunk) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Code Snippets - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-11 03:32:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Code Snippets - Development (trunk)\n"
+
+#: php/views/manage.php:59
+msgid "Go <span class=\"badge\">Pro</span>"
+msgstr "升級至 <span class=\"badge\">Pro</span> 版"
+
+#: php/views/partials/edit-scopes.php:102
+msgid "Evaluate additional shortcode tags"
+msgstr "檢查額外的短代碼標籤"
+
+#: php/views/partials/edit-scopes.php:98
+msgid "Add paragraphs and formatting"
+msgstr "新增段落並格式化"
+
+#: php/views/partials/edit-scopes.php:94
+msgid "Evaluate PHP code"
+msgstr "檢查 PHP 程式碼"
+
+#: php/views/partials/edit-scopes.php:90
+msgid "Shortcode Options: "
+msgstr "短代碼選項: "
+
+#. translators: %s: snippet shortcode tag
+#: php/views/partials/edit-scopes.php:75
+msgid "After saving, you will be able to use the %s shortcode to insert your content into a post or page."
+msgstr "程式碼片段儲存後，便可以使用 %s 短代碼將其包含的內容插入文章或頁面中。"
+
+#. translators: %s: snippet shortcode tag
+#: php/views/partials/edit-scopes.php:75
+msgid "You can use the %s shortcode to insert your content into a post or page."
+msgstr "請使用 %s 短代碼將其包含的內容插入文章或頁面中。"
+
+#: php/views/partials/edit-scopes.php:66
+msgid "Only display when inserted into a post or page."
+msgstr "僅插入文章或頁面後才會顯示"
+
+#: php/views/partials/edit-scopes.php:52
+msgid "Load JS in the &lt;head&gt; section"
+msgstr "在 &lt;head&gt; 標籤區段插入要載入的 JS"
+
+#: php/views/partials/edit-scopes.php:51
+msgid "Load JS at the end of the &lt;body&gt; section"
+msgstr "在 &lt;body&gt; 標籤區段結尾處插入要載入的 JS"
+
+#: php/views/partials/edit-scopes.php:39
+msgid "Administration area styles"
+msgstr "管理後台區域樣式"
+
+#: php/views/partials/edit-scopes.php:38
+msgid "Site front-end styles"
+msgstr "網站前端樣式"
+
+#: php/views/manage.php:95
+msgid "Search Snippets"
+msgstr "搜尋程式碼片段"
+
+#. translators: %s: snippet type name
+#: php/views/manage.php:77
+msgid "Learn more about %s &rarr;"
+msgstr "進一步了解%s &rarr;"
+
+#: php/views/manage.php:73
+msgid "javascript snippets"
+msgstr " JavaScript 程式碼片段"
+
+#: php/views/manage.php:72
+msgid "style snippets"
+msgstr "樣式程式碼片段"
+
+#: php/views/manage.php:71
+msgid "content snippets"
+msgstr "內容程式碼片段"
+
+#: php/views/manage.php:70
+msgid "function snippets"
+msgstr "函式程式碼片段"
+
+#: php/views/manage.php:18
+msgid "All Snippets"
+msgstr "全部程式碼片段"
+
+#: php/settings/settings-fields.php:202
+msgid "Highlight the line that is currently being edited."
+msgstr "為目前編輯的內容行進行醒目提示"
+
+#: php/settings/settings-fields.php:201
+msgid "Highlight Active Line"
+msgstr "編輯行顯示醒目提示"
+
+#: php/settings/settings-fields.php:81
+msgid "Modified (oldest first)"
+msgstr "修改日期 (最舊的在前)"
+
+#: php/settings/settings-fields.php:80
+msgid "Modified (latest first)"
+msgstr "修改日期 (最新的在前)"
+
+#: php/settings/settings-fields.php:79
+msgid "Name (Z-A)"
+msgstr "名稱 (Z-A 降冪排序)"
+
+#: php/settings/settings-fields.php:78
+msgid "Name (A-Z)"
+msgstr "名稱 (A-Z 升冪排序)"
+
+#: php/settings/settings-fields.php:75
+msgid "Default way to order snippets on the All Snippets admin menu."
+msgstr "在 [全部程式碼片段] 頁面的程式碼片段預設排序方式。"
+
+#: php/settings/settings-fields.php:73
+msgid "Snippets List Order"
+msgstr "程式碼片段清單順序"
+
+#: php/front-end/mce-strings.php:22
+msgid "Show line numbers"
+msgstr "顯示行號"
+
+#: php/front-end/mce-strings.php:21
+msgid "Insert Snippet Source"
+msgstr "插入程式碼片段原始程式碼"
+
+#: php/front-end/mce-strings.php:20
+msgid "Snippet Source Code"
+msgstr "程式碼片段原始程式碼"
+
+#: php/front-end/mce-strings.php:18
+msgid "Enable shortcodes"
+msgstr "啟用短代碼功能"
+
+#: php/front-end/mce-strings.php:17
+msgid "Apply formatting"
+msgstr "套用格式化"
+
+#: php/front-end/mce-strings.php:16
+msgid "Run PHP code"
+msgstr "執行 PHP 程式碼"
+
+#: php/front-end/mce-strings.php:15
+msgid "Snippet"
+msgstr "程式碼片段"
+
+#: php/front-end/mce-strings.php:14
+msgid "Insert Content Snippet"
+msgstr "插入內容程式碼片段"
+
+#: php/front-end/mce-strings.php:13
+msgid "Content Snippet"
+msgstr "內容程式碼片段"
+
+#. translators: 1: snippet name, 2: snippet edit link
+#: php/front-end/class-frontend.php:182
+msgid "<strong>%1$s</strong> is currently inactive. You can <a href=\"%2$s\">edit this snippet</a> to activate it and make it visible. This message will not appear in the published post."
+msgstr "<strong>[%1$s]</strong> 目前為非使用狀態。網站管理員可以<a href=\"%2$s\">編輯這個程式碼片段</a>以啟用並顯示對應的內容。這個訊息不會顯示在已發佈的內容中。"
+
+#. translators: %d: snippet ID
+#: php/front-end/class-frontend.php:137
+msgid "Could not load snippet with an invalid ID: %d."
+msgstr "無法載入無效 ID 的程式碼片段。無效 ID: %d。"
+
+#: php/class-upgrade.php:200
+msgid "Shortcode for inserting the current year into a post or page.."
+msgstr "在文章或頁面中使用這個短代碼便能插入目前年份。"
+
+#: php/class-upgrade.php:198
+msgid "Current year"
+msgstr "目前年份"
+
+#: php/class-upgrade.php:194
+msgid "Allows smiley conversion in obscure places."
+msgstr "在網站中的幾個小地方允許表情文字轉換成表情符號圖片。"
+
+#: php/class-upgrade.php:192
+msgid "Allow smilies"
+msgstr "允許表情文字轉換"
+
+#: php/class-upgrade.php:187
+msgid "Turns off the WordPress admin bar for everyone except administrators."
+msgstr "停用除了網站管理員外全部使用者的 WordPress 工具列。"
+
+#: php/class-upgrade.php:185
+msgid "Disable admin bar"
+msgstr "停用工具列"
+
+#: php/class-upgrade.php:181
+msgid "Makes sure that image and file uploads have lowercase filenames."
+msgstr "將上傳的圖片及檔案的檔案名稱變更為小寫字元。"
+
+#: php/class-upgrade.php:179
+msgid "Make upload filenames lowercase"
+msgstr "將上傳檔案的檔案名稱變更為全部小寫字元"
+
+#: php/class-upgrade.php:175
+msgid "This is a sample snippet. Feel free to use it, edit it, or remove it."
+msgstr "這是範例程式碼片段，隨時都可以使用、編輯或移除它。"
+
+#: php/class-snippet.php:517
+msgid "Footer styles"
+msgstr "footer 標籤樣式"
+
+#: php/class-snippet.php:515
+msgid "Head styles"
+msgstr "head 標籤樣式"
+
+#: php/class-snippet.php:513
+msgid "Front-end styles"
+msgstr "前端樣式"
+
+#: php/class-snippet.php:511
+msgid "Admin styles"
+msgstr "管理後台樣式"
+
+#: php/class-snippet.php:509
+msgid "Footer content"
+msgstr "footer 標籤內容"
+
+#: php/class-snippet.php:507
+msgid "Head content"
+msgstr "head 標籤內容"
+
+#: php/class-snippet.php:503
+msgid "Single-use function"
+msgstr "僅執行一次的函式"
+
+#: php/class-snippet.php:501
+msgid "Front-end function"
+msgstr "前端函式"
+
+#: php/class-snippet.php:499
+msgid "Admin function"
+msgstr "管理後台函式"
+
+#: php/class-snippet.php:497
+msgid "Global function"
+msgstr "全域函式"
+
+#: php/class-snippet.php:382
+msgid "Scripts"
+msgstr "指令碼"
+
+#: php/class-snippet.php:381
+msgid "Styles"
+msgstr "樣式"
+
+#: php/class-plugin.php:316
+msgid "Content snippets are bits of reusable PHP and HTML content that can be inserted into posts and pages."
+msgstr "內容程式碼片段是可重複使用、可插入至文章或頁面的 PHP 及 HTML 內容。"
+
+#: php/class-plugin.php:315
+msgid "Function snippets are run on your site as if there were in a plugin or theme functions.php file."
+msgstr "函式程式碼片段在網站上的執行方式與外掛或佈景主題的 functions.php 檔案一樣。"
+
+#: php/class-plugin.php:302 php/class-snippet.php:380 php/class-snippet.php:505
+msgid "Content"
+msgstr "內容"
+
+#: php/class-plugin.php:301 php/class-snippet.php:379
+msgid "Functions"
+msgstr "函式"
+
+#. translators: %s: snippet title
+#: php/class-list-table.php:1299
+msgid "%s [CLONE]"
+msgstr "%s - 再製"
+
+#: php/class-list-table.php:871
+msgid "It looks like you don't have any snippets of this type."
+msgstr "找不到符合這個類型條件的程式碼片段。"
+
+#: php/class-list-table.php:410
+msgid "Type"
+msgstr "類型"
+
+#: php/class-contextual-help.php:146
+msgid "If you're not sure about the types of snippets you can add, take a look at the <a href=\"https://help.codesnippets.pro/collection/2-adding-snippets\">Code Snippets Pro Docs</a> for inspiration."
+msgstr "如果不清楚能新增的程式碼片段類型，請參考 <a href=\"https://help.codesnippets.pro/collection/2-adding-snippets\" target=\"_blank\">Code Snippets Pro 線上說明</a>以進一步了解。"
+
+#: php/class-contextual-help.php:130
+msgid "You can find out how to enable safe mode in the <a href=\"https://help.codesnippets.pro/article/12-safe-mode\">Code Snippets Pro Docs</a>."
+msgstr "<a href=\"https://help.codesnippets.pro/article/12-safe-mode\" target=\"_blank\">Code Snippets Pro 線上說明</a>提供使用者開啟安全模式的方式。"
+
+#: php/class-contextual-help.php:129
+msgid "If something goes wrong with a snippet, and you can't use WordPress, you can cause all snippets to stop executing by turning on <strong>safe mode</strong>."
+msgstr "如果執行程式碼片段發生錯誤，並且無法再使用 WordPress 網站，請開啟<strong>安全模式</strong>停用全部程式碼片段。"
+
+#: php/class-admin.php:251
+msgid "Active Snippets"
+msgstr "已啟用的程式碼片段"
+
+#. translators: %s: formatted last modified date
+#: php/class-admin.php:234
+msgid "Last modified %s"
+msgstr "最後修改日期: %s"
+
+#: php/class-admin.php:197
+msgid "Upgrade to Pro"
+msgstr "升級至 Pro 版"
+
+#: php/class-admin.php:196
+msgid "Upgrade to Code Snippets Pro"
+msgstr "升級至 Code Snippets Pro"
+
+#: php/class-admin.php:190
+msgid "Find out how to get support with Code Snippets"
+msgstr "進一步了解取得 Code Snippets 技術支援的方式"
+
+#: php/class-admin.php:184
+msgid "Find out more about Code Snippets"
+msgstr "進一步了解程式碼片段"
+
+#: php/class-admin.php:140
+msgid "Change plugin settings"
+msgstr "變更外掛設定"
+
+#: php/admin-menus/class-edit-menu.php:658
+msgid "This snippet has no snippet code. Continue?"
+msgstr "這個程式碼片段沒有程式碼，是否繼續執行？"
+
+#: php/admin-menus/class-edit-menu.php:657
+msgid "This snippet has no title. Continue?"
+msgstr "這個程式碼片段沒有標題，是否繼續執行？"
+
+#: php/admin-menus/class-edit-menu.php:656
+msgid "This snippet has no code or title. Continue?"
+msgstr "這個程式碼片段沒有程式碼或標題，是否繼續執行？"
+
+#. translators: %s: Update PHP URL
+#: code-snippets.php:90
+msgid "Please <a href=\"%s\">upgrade your server to the latest version of PHP</a> to continue using Code Snippets."
+msgstr "請<a href=\"%s\" target=\"_blank\">將這台伺服器升級至最新版 PHP 執行環境</a>以繼續使用 Code Snippets 外掛。"
+
+#: code-snippets.php:83
+msgid "Code Snippets requires PHP 5.6 or later."
+msgstr "Code Snippets 需要 PHP 5.6 或更新版本。"
+
+#: code-snippets.php:47
+msgid "Another version of Code Snippets appears to be installed. Deactivating this version."
+msgstr "已安裝其他版本的 Code Snippets 外掛。請停用這個版本的外掛。"
+
+#: php/admin-menus/class-edit-menu.php:525
+msgid "RTL"
+msgstr "RTL (從右至左)"
+
+#: php/admin-menus/class-edit-menu.php:524
+msgid "LTR"
+msgstr "LTR (從左至右)"
+
+#: php/admin-menus/class-edit-menu.php:521
+msgid "Code Direction"
+msgstr "程式碼文字方向"
+
+#: php/admin-menus/class-manage-menu.php:150
+msgid "An error occurred when attempting to activate"
+msgstr "嘗試啟用程式碼片段時發生錯誤。"
+
+#. translators: 1: search query, 2: line number
+#: php/class-list-table.php:1235
+msgid " for &ldquo;%1$s&rdquo; on line %2$d"
+msgstr "「%1$s」的搜尋結果 (第 %2$d 行)"
+
+#: php/class-list-table.php:413
+msgid "Modified"
+msgstr "修改日期"
+
+#. translators: 1: date format, 2: time format
+#: php/class-snippet.php:625
+msgctxt "date and time format"
+msgid "%1$s \\a\\t %2$s"
+msgstr "%1$s%2$s"
+
+#: php/class-snippet.php:617
+msgid "Y/m/d"
+msgstr "Y/n/j"
+
+#. translators: %s: Human-readable time difference.
+#: php/class-snippet.php:615
+msgid "%s ago"
+msgstr "%s前"
+
+#: php/class-validator.php:253
+msgid "Parse error: syntax error, unexpected end of snippet"
+msgstr "剖析錯誤: 語法錯誤，程式碼片段未預期的結束。"
+
+#. translators: %s: PHP identifier name
+#: php/class-validator.php:215
+msgid "Cannot redeclare %s."
+msgstr "無法重新宣告 %s。"
+
+#. translators: %s: PHP interface name
+#: php/class-validator.php:211
+msgid "Cannot redeclare interface %s."
+msgstr "無法重新宣告 %s 介面。"
+
+#. translators: %s: PHP class name
+#: php/class-validator.php:207
+msgid "Cannot redeclare class %s."
+msgstr "無法重新宣告 %s 類別。"
+
+#. translators: %s: PHP function name
+#: php/class-validator.php:203
+msgid "Cannot redeclare function %s."
+msgstr "無法重新宣告 %s 函式。"
+
+#: php/class-validator.php:190
+msgid "Parse error: syntax error, unexpected end of snippet."
+msgstr "剖析錯誤: 語法錯誤，程式碼片段未預期的結束。"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://codesnippets.pro"
+msgstr "https://codesnippets.pro"
+
+#. Author of the plugin
+msgid "Code Snippets Pro"
+msgstr "Code Snippets Pro"
+
+#: php/class-list-table.php:863
+msgid "No snippets were found matching the current search query. Please enter a new query or use the \"Clear Filters\" button above."
+msgstr "找不到符合目前搜尋查詢條件的程式碼片段。請輸入新的查詢條件或使用上方 [清除篩選條件] 按鈕。"
+
+#: php/views/partials/editor-shortcuts.php:22
+msgid "Save changes"
+msgstr "儲存設定"
+
+#: php/admin-menus/class-edit-menu.php:828
+msgctxt "keyboard key"
+msgid "S"
+msgstr "S"
+
+#: php/admin-menus/class-edit-menu.php:500
+msgid "Save Snippet and Activate"
+msgstr "儲存程式碼片段並啟用"
+
+#: php/admin-menus/class-edit-menu.php:494
+msgid "Save Snippet and Deactivate"
+msgstr "儲存程式碼片段並停用"
+
+#: php/admin-menus/class-edit-menu.php:486
+msgid "Save Snippet and Execute Once"
+msgstr "儲存程式碼片段並執行一次"
+
+#: php/admin-menus/class-edit-menu.php:485
+msgid "Execute Once"
+msgstr "執行一次"
+
+#: php/admin-menus/class-edit-menu.php:478
+msgid "Save Snippet"
+msgstr "儲存程式碼片段"
+
+#: php/admin-menus/class-edit-menu.php:477
+#: php/admin-menus/class-edit-menu.php:722
+msgid "Save Changes"
+msgstr "儲存設定"
+
+#: php/views/partials/editor-shortcuts.php:46
+msgid "Persistent search"
+msgstr "持續搜尋"
+
+#: php/views/partials/editor-shortcuts.php:42
+msgid "Replace all"
+msgstr "全部取代"
+
+#: php/views/partials/editor-shortcuts.php:38
+msgid "Replace"
+msgstr "取代"
+
+#: php/views/partials/editor-shortcuts.php:34
+msgid "Find previous"
+msgstr "尋找上一筆"
+
+#: php/views/partials/editor-shortcuts.php:30
+msgid "Find next"
+msgstr "尋找下一筆"
+
+#: php/views/partials/editor-shortcuts.php:26
+msgid "Begin searching"
+msgstr "正在搜尋"
+
+#: php/admin-menus/class-edit-menu.php:827
+msgctxt "keyboard key"
+msgid "R"
+msgstr "R"
+
+#: php/admin-menus/class-edit-menu.php:826
+msgctxt "keyboard key"
+msgid "G"
+msgstr "G"
+
+#: php/admin-menus/class-edit-menu.php:825
+msgctxt "keyboard key"
+msgid "F"
+msgstr "F"
+
+#: php/admin-menus/class-edit-menu.php:824
+msgctxt "keyboard key"
+msgid "Alt"
+msgstr "Alt"
+
+#: php/admin-menus/class-edit-menu.php:823
+msgctxt "keyboard key"
+msgid "Option"
+msgstr "Option"
+
+#: php/admin-menus/class-edit-menu.php:822
+msgctxt "keyboard key"
+msgid "Shift"
+msgstr "Shift"
+
+#: php/admin-menus/class-edit-menu.php:821
+msgctxt "keyboard key"
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: php/admin-menus/class-edit-menu.php:820
+msgctxt "keyboard key"
+msgid "Cmd"
+msgstr "CMD"
+
+#: php/views/partials/editor-shortcuts.php:17
+msgctxt "help tooltip"
+msgid "?"
+msgstr "？"
+
+#: php/class-contextual-help.php:170
+msgid "Here you can load snippets from a code snippets export file into the database alongside existing snippets."
+msgstr "這個畫面可以讓網站管理員載入 Code Snippets 外掛的資料匯出檔，將現有的程式碼片段匯入至資料庫中。"
+
+#: php/class-contextual-help.php:145
+msgid "Here you can add a new snippet, or edit an existing one."
+msgstr "這個畫面可以讓網站管理員新增程式碼片段，或編輯現有的程式碼片段。"
+
+#: php/class-contextual-help.php:121
+msgid "Here you can manage your existing snippets and perform tasks on them such as activating, deactivating, deleting and exporting."
+msgstr "這個畫面可以讓網站管理員管理現有的程式碼片段，並對這些程式碼片段進行啟用、停用、刪除及匯出等多項操作。"
+
+#: php/class-contextual-help.php:109
+msgid "Snippets are similar to plugins - they both extend and expand the functionality of WordPress. Snippets are more light-weight, just a few lines of code, and do not put as much load on your server. "
+msgstr "程式碼片段與外掛功能相似，他們都擴充了 WordPress 的功能。程式碼片段更加輕量化，往往僅有幾行程式碼，因此不會為網站伺服器帶來太多的負載。"
+
+#: php/admin-menus/class-edit-menu.php:27
+msgctxt "menu label"
+msgid "Edit Snippet"
+msgstr "編輯程式碼片段"
+
+#: php/admin-menus/class-manage-menu.php:97
+msgctxt "tools submenu label"
+msgid "Snippets"
+msgstr "程式碼片段"
+
+#: php/admin-menus/class-admin-menu.php:222
+msgctxt "snippets"
+msgid "Settings"
+msgstr "設定"
+
+#: php/admin-menus/class-admin-menu.php:213
+#: php/admin-menus/class-settings-menu.php:131
+msgctxt "snippets"
+msgid "Manage"
+msgstr "管理"
+
+#. translators: %s: tag name
+#: php/class-list-table.php:1251
+msgid " in tag &ldquo;%s&rdquo;"
+msgstr "標籤為〈%s〉的搜尋結果"
+
+#. translators: %s: search query
+#: php/class-list-table.php:1244
+msgid " for &ldquo;%s&rdquo;"
+msgstr "「%s」的搜尋結果"
+
+#: php/admin-menus/class-admin-menu.php:219
+msgctxt "snippets"
+msgid "Import"
+msgstr "匯入"
+
+#: php/views/import.php:84
+msgid "Upload Files"
+msgstr "上傳檔案"
+
+#: php/class-list-table.php:869
+msgid "It looks like you don't have any snippets."
+msgstr "找不到符合條件的程式碼片段。"
+
+#: php/class-list-table.php:241 php/class-list-table.php:465
+msgid "Clone"
+msgstr "再製"
+
+#: php/admin-menus/class-manage-menu.php:177
+msgid "Selected snippets <strong>cloned</strong>."
+msgstr "選取的程式碼片段<strong>已再製</strong>。"
+
+#: php/admin-menus/class-manage-menu.php:176
+msgid "Snippet <strong>cloned</strong>."
+msgstr "程式碼片段<strong>已再製</strong>。"
+
+#: php/admin-menus/class-edit-menu.php:440 php/class-list-table.php:414
+#: php/settings/settings-fields.php:77
+msgid "Priority"
+msgstr "優先順序"
+
+#: php/admin-menus/class-edit-menu.php:439
+msgid "Snippets with a lower priority number will run before those with a higher number."
+msgstr "優先順序數值較小的程式碼片段，會比數值較大的程式碼片段更優先執行。"
+
+#: php/views/import.php:55
+msgid "Duplicate Snippets"
+msgstr "重複的程式碼片段"
+
+#: php/settings/settings-fields.php:96
+msgid "When the plugin is deleted from the Plugins menu, also delete all snippets and plugin settings."
+msgstr "在 [外掛] 選單中刪除這個外掛時，同時在資料庫中刪除全部程式碼片段及外掛設定"
+
+#: php/settings/settings-fields.php:94
+msgid "Complete Uninstall"
+msgstr "完整解除安裝"
+
+#: php/admin-menus/class-settings-menu.php:162
+msgid "Reset to Default"
+msgstr "重設為預設值"
+
+#: php/admin-menus/class-settings-menu.php:47
+msgid "All settings have been reset to their defaults."
+msgstr "全部設定已重設為預設值。"
+
+#: php/admin-menus/class-import-menu.php:137
+msgid "No snippets were imported."
+msgstr "程式碼片段並未匯入。"
+
+#: php/views/import.php:79
+msgid "Do not import any duplicate snippets; leave all existing snippets unchanged."
+msgstr "不匯入任何名稱相同的程式碼片段，並保持現有的程式碼片段不遭變更。"
+
+#: php/views/import.php:72
+msgid "Replace any existing snippets with a newly imported snippet of the same name."
+msgstr "如果名稱相同，便以匯入的程式碼片段取代現有的程式碼片段。"
+
+#: php/views/import.php:65
+msgid "Ignore any duplicate snippets: import all snippets from the file regardless and leave all existing snippets unchanged."
+msgstr "不處理重複的程式碼片段名稱，無論如何都匯入全部程式碼片段，並保持現有的程式碼片段不遭變更。"
+
+#: php/views/import.php:58
+msgid "What should happen if an existing snippet is found with an identical name to an imported snippet?"
+msgstr "請在下方選取匯入的程式碼片段與現有的程式碼片段名稱相同時的處理方式。"
+
+#: php/views/import.php:87
+msgid "Choose one or more Code Snippets (.xml or .json) files to upload, then click \"Upload files and import\"."
+msgstr "選取一或多個 Code Snippets 外掛的檔案 (.xml 或 .json) 以上傳，然後點擊 [上傳檔案並匯入]。"
+
+#: php/views/import.php:38
+msgid "Upload one or more Code Snippets export files and the snippets will be imported."
+msgstr "上傳一或多個 Code Snippets 外掛的資料匯出檔，便能匯入程式碼片段。"
+
+#: php/admin-menus/class-edit-menu.php:725
+msgid "Save Changes and Execute Once"
+msgstr "儲存設定並執行一次"
+
+#: php/admin-menus/class-edit-menu.php:745 php/class-list-table.php:466
+msgid "Download"
+msgstr "下載"
+
+#: php/class-list-table.php:282
+msgid "Run Once"
+msgstr "執行一次"
+
+#: php/class-admin.php:78
+msgid "Snippets &raquo; Settings"
+msgstr "程式碼片段 &raquo; 設定"
+
+#: php/admin-menus/class-manage-menu.php:169
+msgid "Snippet <strong>executed</strong>."
+msgstr "程式碼片段<strong>已執行</strong>。"
+
+#: php/admin-menus/class-edit-menu.php:617
+msgid "Snippet <strong>added</strong> and <strong>executed</strong>."
+msgstr "程式碼片段<strong>已新增</strong>並<strong>已執行</strong>。"
+
+#: php/views/partials/edit-scopes.php:26
+msgid "Only run once"
+msgstr "僅執行一次"
+
+#: php/admin-menus/class-edit-menu.php:458
+msgid "Sharing Settings"
+msgstr "分享設定"
+
+#: php/class-list-table.php:878
+msgid "Perhaps you would like to add a new one?"
+msgstr "請新增新的程式碼片段"
+
+#: php/class-list-table.php:234
+msgid "Network Only"
+msgstr "僅能由多站網路管理員啟用"
+
+#: php/class-list-table.php:232
+msgid "Network Active"
+msgstr "已於多站網路中啟用"
+
+#: php/admin-menus/class-edit-menu.php:777
+msgid "You are about to permanently delete this snippet."
+msgstr "這項操作會永久刪除這份程式碼片段。"
+
+#: php/views/edit.php:75
+msgid "Enter title here"
+msgstr "請在這裡輸入標題"
+
+#: php/admin-menus/class-edit-menu.php:778 php/class-list-table.php:257
+msgid "'Cancel' to stop, 'OK' to delete."
+msgstr "按一下 [取消] 以停止操作，按一下 [確定] 以刪除。"
+
+#: php/class-list-table.php:256
+msgid "You are about to permanently delete the selected item."
+msgstr "這項操作會永久刪除選取項目。"
+
+#: php/admin-menus/class-settings-menu.php:25
+msgctxt "menu label"
+msgid "Settings"
+msgstr "設定"
+
+#: php/admin-menus/class-manage-menu.php:55
+msgctxt "top-level menu label"
+msgid "Snippets"
+msgstr "程式碼片段"
+
+#: php/admin-menus/class-manage-menu.php:27
+msgctxt "menu label"
+msgid "All Snippets"
+msgstr "全部程式碼片段"
+
+#: php/admin-menus/class-import-menu.php:19
+msgctxt "menu label"
+msgid "Import"
+msgstr "匯入"
+
+#: php/admin-menus/class-edit-menu.php:54
+msgctxt "menu label"
+msgid "Add New"
+msgstr "新增程式碼片段"
+
+#: php/settings/settings-fields.php:89
+msgid "Disable the syntax highlighting for the [code_snippet] shortcode on the front-end."
+msgstr "在網站前端停用 [code_snippet] 短代碼的語法醒目提示功能"
+
+#: php/settings/settings-fields.php:87
+msgid "Disable Shortcode Syntax Highlighter"
+msgstr "停用短代碼語法醒目提示"
+
+#: php/class-contextual-help.php:62
+msgid "Plugin Website"
+msgstr "外掛網站"
+
+#: php/class-admin.php:311
+msgid "Dismiss"
+msgstr "關閉"
+
+#: php/admin-menus/class-edit-menu.php:599
+msgid "The snippet has been deactivated due to an error in the code."
+msgstr "由於程式碼中的錯誤，因此這份程式碼片段已遭停用:"
+
+#. translators: %d: line of file where error originated
+#: php/admin-menus/class-edit-menu.php:589
+msgid "The snippet has been deactivated due to an error on line %d:"
+msgstr "由於第 %d 行中出現的錯誤，因此這份程式碼片段已遭停用:"
+
+#: php/admin-menus/class-edit-menu.php:228
+msgid "If you prefer, you can close this page and discard the changes you just made. No changes will be made to this site."
+msgstr "如有需要，可以關閉這個頁面放棄之前所進行的全部程式碼修改。這個網站不會產生任何變更。"
+
+#: php/admin-menus/class-edit-menu.php:227
+msgid "Please use the back button in your browser to return to the previous page and try to fix the code error."
+msgstr "請使用瀏覽器的返回功能，然後回到上一頁並修正程式碼錯誤。"
+
+#: php/admin-menus/class-edit-menu.php:226
+msgid "The previous version of the snippet is unchanged, and the rest of this site should be functioning normally as before."
+msgstr "目前的操作沒有變更舊版的程式碼片段，而這個網站的其他部分正確執行如昔。"
+
+#. translators: %d: line where error was produced
+#: php/admin-menus/class-edit-menu.php:224
+msgid "The code snippet you are trying to save produced a fatal error on line %d:"
+msgstr "要儲存的程式碼片段在第 %d 行發生嚴重錯誤:"
+
+#: php/admin-menus/class-edit-menu.php:222
+msgid "Don't Panic"
+msgstr "請別擔心"
+
+#. Description of the plugin
+msgid "An easy, clean and simple way to run code snippets on your site. No need to edit to your theme's functions.php file again!"
+msgstr "透過易用、簡潔的方式在網站中執行程式碼片段，這樣便不再需要編輯佈景主題的 functions.php 檔案。"
+
+#: php/views/import.php:106
+msgid "Upload files and import"
+msgstr "上傳檔案並匯入"
+
+#. translators: %s: size in bytes
+#: php/views/import.php:95
+msgid "(Maximum size: %s)"
+msgstr "(檔案大小上限: %s)"
+
+#: php/views/import.php:92
+msgid "Choose files from your computer:"
+msgstr "從個人裝置中選取檔案:"
+
+#. translators: %s: link to snippets admin menu
+#: php/views/import.php:43
+msgid "Afterwards, you will need to visit the <a href=\"%s\">All Snippets</a> page to activate the imported snippets."
+msgstr "程式碼片段匯入後，便可造訪 [<a href=\"%s\">全部程式碼片段</a>] 頁面啟用匯入的程式碼片段。"
+
+#: php/admin-menus/class-edit-menu.php:730
+msgid "Save Changes and Deactivate"
+msgstr "儲存設定並停用"
+
+#: php/admin-menus/class-edit-menu.php:732
+msgid "Save Changes and Activate"
+msgstr "儲存設定並啟用"
+
+#: php/views/edit.php:86
+msgid "Code"
+msgstr "程式碼"
+
+#: php/admin-menus/class-admin-menu.php:216
+#: php/admin-menus/class-settings-menu.php:132 php/views/edit.php:39
+msgctxt "snippet"
+msgid "Add New"
+msgstr "新增程式碼片段"
+
+#: php/admin-menus/class-settings-menu.php:229 php/settings/settings.php:283
+msgid "Settings saved."
+msgstr "設定已儲存。"
+
+#: php/settings/settings.php:197
+msgid "Editor Preview"
+msgstr "編輯器預覽"
+
+#: php/settings/settings.php:145
+msgid "Code Editor"
+msgstr "程式碼編輯器"
+
+#: php/settings/settings.php:144
+msgid "Description Editor"
+msgstr "用途說明編輯器"
+
+#: php/settings/settings.php:143
+msgid "General"
+msgstr "一般"
+
+#: php/settings/settings-fields.php:194
+msgid "Highlight all instances of a currently selected word."
+msgstr "程式碼片段的字詞如與選取字詞相符，即以醒目提示方式顯示"
+
+#: php/settings/settings-fields.php:193
+msgid "Highlight Selection Matches"
+msgstr "符合選取項目顯示醒目提示"
+
+#: php/settings/settings-fields.php:187
+msgid "Auto-close brackets and quotes when typed."
+msgstr "輸入程式碼時自動關閉括號及引號"
+
+#: php/settings/settings-fields.php:185
+msgid "Auto Close Brackets"
+msgstr "自動關閉括號"
+
+#: php/settings/settings-fields.php:179
+msgid "Show line numbers to the left of the editor."
+msgstr "在編輯器左側顯示行號"
+
+#: php/settings/settings-fields.php:177
+msgid "Line Numbers"
+msgstr "行號"
+
+#: php/settings/settings-fields.php:171
+msgid "Whether the editor should scroll or wrap for long lines."
+msgstr "當單行內容超出編輯器可視範圍便將內容自動換行"
+
+#: php/settings/settings-fields.php:169
+msgid "Wrap Lines"
+msgstr "自動換行"
+
+#: php/settings/settings-fields.php:162
+msgid "How many spaces a block should be indented."
+msgstr "區塊中如有指定連續數量的空格即進行縮排。"
+
+#: php/settings/settings-fields.php:160
+msgid "Indent Unit"
+msgstr "縮排單位"
+
+#: php/settings/settings-fields.php:153
+msgid "The width of a tab character."
+msgstr "設定 Tab 定位字元的寬度。"
+
+#: php/settings/settings-fields.php:151
+msgid "Tab Size"
+msgstr "Tab 定位字元寬度"
+
+#: php/settings/settings-fields.php:145
+msgid "Use hard tabs (not spaces) for indentation."
+msgstr "使用 Tab 定位字元 (不使用空格) 進行縮排"
+
+#: php/settings/settings-fields.php:143
+msgid "Indent With Tabs"
+msgstr "使用 Tab 定位字元進行縮排"
+
+#: php/settings/settings-fields.php:135
+msgid "Theme"
+msgstr "外觀樣式"
+
+#: php/settings/settings-fields.php:126
+msgid "Enable the add media buttons."
+msgstr "啟用 [新增媒體] 按鈕"
+
+#: php/settings/settings-fields.php:124
+msgid "Media Buttons"
+msgstr "[新增媒體] 按鈕"
+
+#: php/settings/settings-fields.php:119
+msgid "Enable all features of the visual editor."
+msgstr "啟用視覺化編輯器全部功能"
+
+#: php/settings/settings-fields.php:117
+msgid "Use Full Editor"
+msgstr "使用完整功能編輯器"
+
+#: php/settings/settings-fields.php:111
+msgid "rows"
+msgstr "列"
+
+#: php/settings/settings-fields.php:109
+msgid "Row Height"
+msgstr "列高"
+
+#: php/settings/settings-fields.php:68
+msgid "Show snippet descriptions on admin pages."
+msgstr "在外掛管理頁面顯示程式碼片段用途說明"
+
+#: php/settings/settings-fields.php:66
+msgid "Enable Snippet Descriptions"
+msgstr "啟用程式碼片段用途說明"
+
+#: php/settings/settings-fields.php:61
+msgid "Show snippet tags on admin pages."
+msgstr "在外掛管理頁面顯示程式碼片段標籤"
+
+#: php/settings/settings-fields.php:59
+msgid "Enable Snippet Tags"
+msgstr "啟用程式碼片段標籤"
+
+#: php/settings/settings-fields.php:54
+msgid "Make the 'Save and Activate' button the default action when saving a snippet."
+msgstr "將 [儲存設定並啟用] 按鈕設定為儲存程式碼片段的預設操作按鈕"
+
+#: php/settings/settings-fields.php:52
+msgid "Activate by Default"
+msgstr "預設啟用程式碼片段"
+
+#. translators: %s: URL to Manage Snippets admin menu
+#: php/class-contextual-help.php:185
+msgid "You can save your snippets to a code snippets export file using the <a href=\"%s\">Manage Snippets</a> page."
+msgstr "網站管理員可以透過 [<a href=\"%s\">管理程式碼片段</a>] 頁面，將程式碼片段儲存為 Code Snippets 外掛的資料匯出檔。"
+
+#: php/class-contextual-help.php:183
+msgid "Exporting"
+msgstr "匯出"
+
+#. translators: %s: URL to Snippets admin menu
+#: php/class-contextual-help.php:178
+msgid "Imported snippets will be added to the database along with your existing snippets. Regardless of whether the snippets were active on the previous site, imported snippets are always inactive until activated using the <a href=\"%s\">Manage Snippets</a> page."
+msgstr "匯入的程式碼片段會新增至包含現有程式碼片段的資料庫中。無論這些匯入的程式碼片段在之前的網站是否啟用，匯入的程式碼片段在 [<a href=\"%s\">管理程式碼片段</a>] 頁面中啟用前均為未啟用狀態。"
+
+#: php/class-contextual-help.php:176
+msgid "You can load your snippets from a code snippets export file using this page."
+msgstr "這個畫面可以讓網站管理員從 Code Snippets 的資料匯出檔載入程式碼片段。"
+
+#: php/class-contextual-help.php:175
+msgid "Importing"
+msgstr "匯入"
+
+#: php/class-contextual-help.php:155
+msgid "Please be sure to check that your snippet is valid PHP code and will not produce errors before adding it through this page. While doing so will not become active straight away, it will help to minimise the chance of a faulty snippet becoming active on your site."
+msgstr "請在透過這個頁面新增程式碼片段前，務必檢查要新增的程式碼片段是否為有效、不會產生錯誤的 PHP 程式碼。這麼做雖然無法避開所有問題程式碼產生的錯誤，但確實有助於大幅降低不良的程式碼片段啟用於網站後造成錯誤的可能性。"
+
+#: php/class-contextual-help.php:154
+msgid "You need to fill out the name and code fields for your snippet to be added. While the description field will add more information about how your snippet works, what is does and where you found it, it is completely optional."
+msgstr "新增程式碼片段必須填寫 [程式碼片段名稱] 及 [程式碼] 欄位。[用途說明] 欄位雖為選填，但可以加入程式碼片段執行方式、執行效果及相關出處的詳細資訊。"
+
+#: php/class-contextual-help.php:152
+msgid "Adding Snippets"
+msgstr "新增程式碼片段"
+
+#: php/class-contextual-help.php:128
+msgid "Be sure to check your snippets for errors before you activate them, as a faulty snippet could bring your whole blog down. If your site starts doing strange things, deactivate all your snippets and activate them one at a time."
+msgstr "在啟用任何程式碼片段前，請檢查他們是否還有錯誤；一旦啟用含有錯誤的程式碼片段，有可能會導致整個網站停擺。如果這個網站因為啟用的程式碼片段造成不正常的狀況，請先停用全部程式碼片段，然後一次啟用一個進行偵錯。"
+
+#: php/class-contextual-help.php:126
+msgid "Safe Mode"
+msgstr "安全模式"
+
+#: php/class-contextual-help.php:119 php/class-contextual-help.php:142
+#: php/class-contextual-help.php:168
+msgid "Overview"
+msgstr "概觀"
+
+#: php/class-contextual-help.php:61
+msgid "Support Forum"
+msgstr "技術支援論壇"
+
+#: php/class-contextual-help.php:60
+msgid "FAQ"
+msgstr "常見問題集"
+
+#: php/class-contextual-help.php:59
+msgid "About Plugin"
+msgstr "關於這個外掛"
+
+#: php/class-contextual-help.php:65
+msgid "For more information:"
+msgstr "進一步了解相關資訊:"
+
+#: php/class-list-table.php:1260
+msgid "Clear Filters"
+msgstr "清除篩選條件"
+
+#: php/class-list-table.php:1227
+msgid "Search results"
+msgstr "搜尋結果: "
+
+#: php/class-list-table.php:632
+msgid "Clear List"
+msgstr "清除清單"
+
+#: php/class-list-table.php:624
+msgid "Filter"
+msgstr "篩選"
+
+#: php/class-list-table.php:609
+msgid "Show all tags"
+msgstr "顯示全部標籤"
+
+#. translators: %s: total number of recently activated snippets
+#: php/class-list-table.php:534
+msgid "Recently Active <span class=\"count\">(%s)</span>"
+msgid_plural "Recently Active <span class=\"count\">(%s)</span>"
+msgstr[0] "近 7 日內停用 <span class=\"count\">(%s)</span>"
+
+#. translators: %s: total number of inactive snippets
+#: php/class-list-table.php:526
+msgid "Inactive <span class=\"count\">(%s)</span>"
+msgid_plural "Inactive <span class=\"count\">(%s)</span>"
+msgstr[0] "未啟用 <span class=\"count\">(%s)</span>"
+
+#. translators: %s: total number of active snippets
+#: php/class-list-table.php:518
+msgid "Active <span class=\"count\">(%s)</span>"
+msgid_plural "Active <span class=\"count\">(%s)</span>"
+msgstr[0] "已啟用 <span class=\"count\">(%s)</span>"
+
+#. translators: %s: total number of snippets
+#: php/class-list-table.php:510
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "全部 <span class=\"count\">(%s)</span>"
+
+#: php/class-list-table.php:415
+msgid "ID"
+msgstr "ID"
+
+#: php/class-list-table.php:409 php/views/edit.php:72
+msgid "Name"
+msgstr "程式碼片段名稱"
+
+#: php/class-list-table.php:333
+msgid "Shared on Network"
+msgstr "已於多站網路中共用"
+
+#. translators: %d: snippet ID
+#: php/class-snippet.php:440
+msgid "Untitled #%d"
+msgstr "未命名 #%d"
+
+#: php/admin-menus/class-edit-menu.php:749 php/class-list-table.php:251
+#: php/class-list-table.php:468
+msgid "Delete"
+msgstr "刪除"
+
+#: php/admin-menus/class-edit-menu.php:748 php/class-list-table.php:242
+#: php/class-list-table.php:467
+msgid "Export"
+msgstr "匯出"
+
+#: php/class-list-table.php:240
+msgid "Edit"
+msgstr "編輯"
+
+#: php/admin-menus/class-edit-menu.php:499
+#: php/admin-menus/class-manage-menu.php:148 php/class-list-table.php:288
+#: php/class-list-table.php:463
+msgid "Activate"
+msgstr "啟用"
+
+#: php/class-list-table.php:287 php/class-list-table.php:463
+msgid "Network Activate"
+msgstr "於多站網路中啟用"
+
+#: php/admin-menus/class-edit-menu.php:493
+#: php/admin-menus/class-manage-menu.php:149 php/class-list-table.php:288
+#: php/class-list-table.php:464
+msgid "Deactivate"
+msgstr "停用"
+
+#: php/class-list-table.php:287 php/class-list-table.php:464
+msgid "Network Deactivate"
+msgstr "於多站網路中停用"
+
+#: php/class-list-table.php:84
+msgid "Snippets per page"
+msgstr "每頁顯示程式碼片段數量"
+
+#: php/class-admin.php:307
+msgid "Take the survey now"
+msgstr "立即填寫問卷"
+
+#: php/class-admin.php:300
+msgid "<strong>Have feedback on Code Snippets?</strong> Please take the time to answer a short survey on how you use this plugin and what you'd like to see changed or added in the future."
+msgstr "<strong>如果對 Code Snippets 有任何意見反應</strong>，請撥冗回答你對這個外掛的使用方式，以及希望將來加強或新增哪些功能的簡短問卷。"
+
+#: php/class-admin.php:191
+msgid "Support"
+msgstr "技術支援"
+
+#: php/class-admin.php:185
+msgid "About"
+msgstr "關於"
+
+#: php/class-admin.php:150
+msgid "Manage your existing snippets"
+msgstr "管理這個網站現有的程式碼片段"
+
+#: php/admin-menus/class-settings-menu.php:26
+msgid "Snippets Settings"
+msgstr "程式碼片段設定"
+
+#: php/admin-menus/class-settings-menu.php:127 php/class-admin.php:141
+msgid "Settings"
+msgstr "設定"
+
+#: php/admin-menus/class-manage-menu.php:175
+msgid "Selected snippets <strong>deleted</strong>."
+msgstr "選取的程式碼片段<strong>已刪除</strong>。"
+
+#: php/admin-menus/class-manage-menu.php:174
+msgid "Snippet <strong>deleted</strong>."
+msgstr "程式碼片段<strong>已刪除</strong>。"
+
+#: php/admin-menus/class-manage-menu.php:173
+msgid "Selected snippets <strong>deactivated</strong>."
+msgstr "選取的程式碼片段<strong>已停用</strong>。"
+
+#: php/admin-menus/class-manage-menu.php:172
+msgid "Snippet <strong>deactivated</strong>."
+msgstr "程式碼片段<strong>已停用</strong>。"
+
+#: php/admin-menus/class-manage-menu.php:171
+msgid "Selected snippets <strong>activated</strong>."
+msgstr "選取的程式碼片段<strong>已啟用</strong>。"
+
+#: php/admin-menus/class-manage-menu.php:170
+msgid "Snippet <strong>activated</strong>."
+msgstr "程式碼片段<strong>已啟用</strong>。"
+
+#: php/admin-menus/class-manage-menu.php:163
+msgid "<strong>Warning:</strong> Safe mode is active and snippets will not execute! Remove the <code>CODE_SNIPPETS_SAFE_MODE</code> constant from <code>wp-config.php</code> to turn off safe mode. <a href=\"https://help.codesnippets.pro/article/12-safe-mode\" target=\"_blank\">Help</a>"
+msgstr "<strong>警告:</strong> [安全模式] 已啟用，現有的程式碼片段均不會執行，移除 <code>wp-config.php</code>中的常數 <code>CODE_SNIPPETS_SAFE_MODE</code> 便能停用 [安全模式]。<a href=\"https://help.codesnippets.pro/article/12-safe-mode\" target=\"_blank\">線上說明</a>"
+
+#: php/admin-menus/class-manage-menu.php:28
+#: php/admin-menus/class-manage-menu.php:54
+#: php/admin-menus/class-manage-menu.php:96 php/class-admin.php:77
+#: php/class-admin.php:151 php/views/manage.php:28
+msgid "Snippets"
+msgstr "程式碼片段"
+
+#: php/admin-menus/class-import-menu.php:127
+msgid "An error occurred when processing the import files."
+msgstr "執行匯入檔案程序時發生錯誤。"
+
+#. translators: 1: amount of snippets imported, 2: link to Snippets menu
+#: php/admin-menus/class-import-menu.php:141
+msgid "Successfully imported <strong>%1$d</strong> snippet. <a href=\"%2$s\">Have fun!</a>"
+msgid_plural "Successfully imported <strong>%1$d</strong> snippets. <a href=\"%2$s\">Have fun!</a>"
+msgstr[0] "<strong>%1$d</strong> 份程式碼片段已成功匯入。<a href=\"%2$s\">管理程式碼片段</a>"
+
+#: php/admin-menus/class-import-menu.php:115
+msgid "Import snippets from a code snippets export file"
+msgstr "從 Code Snippets 資料匯出檔匯入程式碼片段。"
+
+#. Plugin Name of the plugin
+#: php/admin-menus/class-import-menu.php:114
+msgid "Code Snippets"
+msgstr "Code Snippets"
+
+#: php/admin-menus/class-import-menu.php:20 php/views/import.php:25
+msgid "Import Snippets"
+msgstr "匯入程式碼片段"
+
+#: php/admin-menus/class-edit-menu.php:619
+msgid "Snippet <strong>updated</strong> and <strong>deactivated</strong>."
+msgstr "程式碼片段<strong>已更新</strong>並<strong>已停用</strong>。"
+
+#: php/admin-menus/class-edit-menu.php:618
+msgid "Snippet <strong>updated</strong> and <strong>activated</strong>."
+msgstr "程式碼片段<strong>已更新</strong>並<strong>已啟用</strong>。"
+
+#: php/admin-menus/class-edit-menu.php:616
+msgid "Snippet <strong>added</strong> and <strong>activated</strong>."
+msgstr "程式碼片段<strong>已新增</strong>並<strong>已啟用</strong>。"
+
+#: php/admin-menus/class-edit-menu.php:615
+msgid "Snippet <strong>updated</strong>."
+msgstr "程式碼片段<strong>已更新</strong>。"
+
+#: php/admin-menus/class-edit-menu.php:614
+msgid "Snippet <strong>added</strong>."
+msgstr "程式碼片段<strong>已新增</strong>。"
+
+#: php/admin-menus/class-edit-menu.php:608
+msgid "An error occurred when saving the snippet."
+msgstr "儲存這份程式碼片段時發生錯誤。"
+
+#: php/admin-menus/class-edit-menu.php:462
+msgid "Allow this snippet to be activated on individual sites on the network"
+msgstr "允許這份程式碼片段可於多站網路的個別網站中啟用"
+
+#: php/views/partials/edit-scopes.php:16
+msgid "Scope"
+msgstr "程式碼片段生效範圍"
+
+#: php/views/partials/edit-scopes.php:25
+msgid "Only run on site front-end"
+msgstr "僅執行於網站前端"
+
+#: php/views/partials/edit-scopes.php:24
+msgid "Only run in administration area"
+msgstr "僅執行於管理後台區域"
+
+#: php/views/partials/edit-scopes.php:23
+msgid "Run snippet everywhere"
+msgstr "全域執行"
+
+#: php/admin-menus/class-edit-menu.php:422
+msgid "Enter a list of tags; separated by commas"
+msgstr "請輸入標籤，並使用逗號分隔多個標籤。"
+
+#: php/admin-menus/class-edit-menu.php:417 php/class-list-table.php:412
+msgid "Tags"
+msgstr "標籤"
+
+#: php/admin-menus/class-edit-menu.php:388 php/class-list-table.php:411
+msgid "Description"
+msgstr "用途說明"
+
+#: php/admin-menus/class-edit-menu.php:55 php/views/edit.php:42
+msgid "Add New Snippet"
+msgstr "新增程式碼片段"
+
+#: php/admin-menus/class-edit-menu.php:28 php/views/edit.php:35
+msgid "Edit Snippet"
+msgstr "編輯程式碼片段"
+
+#: php/admin-menus/class-admin-menu.php:172
+msgid "You are not authorized to access this page."
+msgstr "目前的登入身分沒有存取這個頁面的權限。"

@@ -1,0 +1,452 @@
+# Translation of Plugins - Advanced Cron Manager &#8211; debug &amp; control - Stable (latest release) in Polish
+# This file is distributed under the same license as the Plugins - Advanced Cron Manager &#8211; debug &amp; control - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-02-08 08:46:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: pl\n"
+"Project-Id-Version: Plugins - Advanced Cron Manager &#8211; debug &amp; control - Stable (latest release)\n"
+
+#: inc/Cron/EventsLibrary.php:168
+msgid "Event is protected and cannot be paused"
+msgstr "To zadanie jest zabezpieczone i nie może zostać zapauzowane."
+
+#: views/forms/event/add.php:18
+msgid "Should not contain any HTML tags including script nor style"
+msgstr "Nie powinien zawierać żadnych tagów HTML, właczając to style i skrypty."
+
+#: views/parts/events/tabs/logs.php:15
+msgid "Event rescheduling"
+msgstr "Przeplanowywanie zadań"
+
+#: inc/Cron/EventsActions.php:128
+msgid "This event doesn't seem to exist anymore"
+msgstr "To zadanie zdaje się już nie istnieć"
+
+#: views/parts/events/tabs/arguments.php:17
+msgid "Object"
+msgstr "Objekt"
+
+#: views/parts/events/tablenav.php:27
+msgid "Apply"
+msgstr "Zastosuj"
+
+#. Author URI of the plugin
+msgid "https://bracketspace.com"
+msgstr "https://bracketspace.com"
+
+#. Author of the plugin
+msgid "BracketSpace"
+msgstr "BracketSpace"
+
+#: views/parts/events/tabs/arguments.php:13
+msgid "Array"
+msgstr "Tablica"
+
+#: views/misc/notification-promo.php:26
+msgid "Download for free"
+msgstr "Pobierz za darmo"
+
+#: views/misc/notification-promo.php:22
+msgid "Custom triggers, white label mode, powerful and intuitive API. Ready to be shipped as a part of your plugin or theme."
+msgstr "Niestandardowe wyzwalacze, tryb \"white label\" oraz potężne i intuicyjne API. Gotowy do dołączenia do twojego projektu jako część wtyczki lub motywu."
+
+#: views/misc/notification-promo.php:20
+msgid "Notification - notification system for developers"
+msgstr "Powiadomienie - system powiadomień dla deweloperów"
+
+#: views/server/settings.php:43
+msgid "Save settings"
+msgstr "Zapisz ustawienia"
+
+#: views/server/settings.php:40
+msgid "The reasonable time interval is 5-15 minutes. That is */5 * * * * or */15 * * * * for Cron interval setting"
+msgstr "Rozsądny interwał to 5-15 minut. To jest */5 * * * * or */15 * * * * dla ustawień interwału Cron."
+
+#: views/server/settings.php:37
+msgid "The command you want to use is:"
+msgstr "Polecenie, którego chcesz użyć, to:"
+
+#: views/server/settings.php:31
+msgid "When enabled WordPress will not spawn Cron anymore. You have to set the Cron on your server"
+msgstr "Kiedy właczone, WordPress przestanie uruchamiać harmonogram sam z siebie. Musisz dodać odpowiednie zadanie cron na swoim serwerze."
+
+#: views/server/settings.php:30
+msgid "Enable Server Scheduler"
+msgstr "Włącz Harmonogram Serwera"
+
+#: views/server/settings.php:22
+msgid "Server Scheduler"
+msgstr "Harmonogram Serwera"
+
+#: inc/Server/Settings.php:97
+msgid "Settings has been saved"
+msgstr "Ustawienia zostały zapisane"
+
+#: inc/Assets.php:84
+msgid "Saving..."
+msgstr "Zapisywanie..."
+
+#. Description of the plugin
+msgid "View, pause, remove, edit and add WP Cron events."
+msgstr "Przeglądaj, pauzuj, usuwaj, edytuj i dodawaj zadania WP Cron"
+
+#: views/parts/searchbox.php:11
+msgid "Search events..."
+msgstr "Szukaj zadań..."
+
+#: views/parts/schedules/section.php:14
+msgid "Schedules"
+msgstr "Harmonogramy"
+
+#: views/parts/schedules/row.php:28
+msgid "Trash"
+msgstr "Kosz"
+
+#: views/parts/schedules/row.php:27
+msgid "This schedule is protected and you cannot remove it"
+msgstr "Ten harmonogram jest zabezpieczony i nie możesz go usunąć"
+
+#: views/parts/schedules/row.php:25 views/parts/schedules/row.php:31
+#: views/parts/schedules/row.php:32
+msgid "Edit"
+msgstr "Edytuj"
+
+#: views/parts/schedules/row.php:24
+msgid "This schedule is protected and you cannot edit it"
+msgstr "Ten harmonogram jest zabezpieczony i nie możesz go edytować"
+
+#. Translators: numer of seconds.
+#: views/parts/schedules/row.php:18
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d sekunda"
+msgstr[1] "%d sekundy"
+msgstr[2] "%d sekund"
+
+#: views/parts/schedules/header-row.php:14
+msgid "Actions"
+msgstr "Działania"
+
+#: views/parts/schedules/header-row.php:11
+msgid "Label"
+msgstr "Etykieta"
+
+#: views/parts/events/tabs/logs.php:20
+msgid "Get Advanced Cron Manager PRO now!"
+msgstr "Pobierz Advanced Cron Manager PRO!"
+
+#: views/parts/events/tabs/logs.php:18
+msgid "Debugging tool"
+msgstr "Narzędzie do debugowania"
+
+#: views/parts/events/tabs/logs.php:17
+msgid "Performance stats"
+msgstr "Statystyki wydajności"
+
+#: views/parts/events/tabs/logs.php:16
+msgid "Error catcher"
+msgstr "Przechwytywanie błędów"
+
+#: views/parts/events/tabs/logs.php:14
+msgid "Logging executed tasks"
+msgstr "Logowanie wywoływanych zadań"
+
+#: views/parts/events/tabs/logs.php:12
+msgid "These includes:"
+msgstr "Zawierają one:"
+
+#: views/parts/events/tabs/logs.php:11
+msgid "Get insights from your Cron system with Advanced Cron Manager PRO!"
+msgstr "Statystyki Twojego systemu Cron z Advanced Cron Manager PRO!"
+
+#: views/parts/events/tabs/implementation.php:14
+msgid "You can paste this anywhere between <?php and ?> tags."
+msgstr "Możesz wkleić ten kod gdziekolwiek między tagami <?php i ?>."
+
+#: views/parts/events/tablenav.php:32
+msgid "All Schedules"
+msgstr "Wszystkie harmonogramy"
+
+#: views/parts/events/tablenav.php:12
+msgid "Bulk Actions"
+msgstr "Działania masowe"
+
+#. Translators: human friendly diff time.
+#: views/parts/events/row.php:95
+msgid "In %s"
+msgstr "Za %s"
+
+#: views/parts/events/row.php:91
+msgid "In queue"
+msgstr "W kolejce"
+
+#: views/parts/events/row.php:61 views/parts/events/tablenav.php:25
+#: views/parts/schedules/row.php:34 views/parts/schedules/row.php:35
+msgid "Remove"
+msgstr "Usuń"
+
+#: views/parts/events/row.php:59
+msgid "Protected"
+msgstr "Zabezpieczone"
+
+#: views/parts/events/row.php:52
+msgid "Pause"
+msgstr "Zatrzymaj"
+
+#: views/parts/events/row.php:50
+msgid "Unpause"
+msgstr "Odpauzuj"
+
+#: views/parts/events/row.php:45 views/parts/events/tablenav.php:13
+msgid "Execute now"
+msgstr "Wykonaj teraz"
+
+#: views/parts/events/row.php:42
+msgid "Details"
+msgstr "Szczegóły"
+
+#: views/parts/events/header-row.php:16
+msgid "Next execution"
+msgstr "Nastęne wykonanie"
+
+#: views/parts/events/header-row.php:13
+msgid "Event"
+msgstr "Wydarzenie"
+
+#: views/forms/schedule/add.php:40 views/forms/schedule/edit.php:44
+msgid "Total seconds:"
+msgstr "Sekundy:"
+
+#: views/forms/schedule/add.php:35 views/forms/schedule/edit.php:39
+msgid "Seconds"
+msgstr "Sekundy"
+
+#: views/forms/schedule/add.php:31 views/forms/schedule/edit.php:35
+msgid "Minutes"
+msgstr "Minut"
+
+#: views/forms/schedule/add.php:27 views/forms/schedule/edit.php:31
+msgid "Hours"
+msgstr "Godzin"
+
+#: views/forms/schedule/add.php:23 views/forms/schedule/edit.php:27
+msgid "Days"
+msgstr "Dni"
+
+#: views/forms/schedule/add.php:20 views/forms/schedule/edit.php:24
+#: views/parts/schedules/header-row.php:13
+msgid "Interval"
+msgstr "Interwał"
+
+#: views/forms/schedule/add.php:17 views/forms/schedule/edit.php:20
+#: views/parts/schedules/header-row.php:12
+msgid "Slug"
+msgstr "Uproszczona nazwa"
+
+#: views/forms/schedule/add.php:14 views/forms/schedule/edit.php:17
+msgid "Display name"
+msgstr "Wyświetlana nazwa"
+
+#. Translators: schedule label.
+#: views/forms/event/add.php:32
+msgid "Don't repeat (%s)"
+msgstr "Nie powtarzaj (%s)"
+
+#: views/forms/event/add.php:27
+msgid "After first execution repeat:"
+msgstr "Po pierwszym wykonaniu powtarzaj:"
+
+#: views/forms/event/add.php:22
+msgid "When past date will be provided or left empty, event will be executed in the next queue"
+msgstr "Kiedy podasz przeszłą datę lub zostawisz to pole puste, zadanie wykona się podczas następnej kolejki"
+
+#: views/forms/event/add.php:21
+msgid "First execution"
+msgstr "Pierwsze wykonanie"
+
+#: views/forms/event/add.php:17
+msgid "Hook"
+msgstr "Zaczep"
+
+#: views/elements/add-schedule-button.php:10
+msgid "Add new schedule"
+msgstr "Dodaj nowy harmonogram"
+
+#: views/elements/add-event-button.php:10
+msgid "Add new event"
+msgstr "Dodaj nowe zadanie"
+
+#: inc/Assets.php:83
+msgid "Pausing..."
+msgstr "Pauzuję..."
+
+#: inc/Assets.php:82
+msgid "Removing..."
+msgstr "Usuwanie…"
+
+#: inc/Assets.php:81 views/parts/events/tablenav.php:41
+msgid "events"
+msgstr "wydarzenia"
+
+#: inc/Assets.php:80
+msgid "Event has been executed with errors"
+msgstr "Zadanie zostało wykonane z błędami"
+
+#: inc/Misc.php:49 inc/ScreenRegisterer.php:48 views/wrapper.php:16
+msgid "Cron Manager"
+msgstr "Manager Cron"
+
+#: inc/FormProvider.php:130
+msgid "New event"
+msgstr "Nowe zadanie"
+
+#. Translators: schedule slug.
+#: inc/FormProvider.php:116
+msgid "Edit schedule"
+msgstr "Edycja harmonogramu"
+
+#. Translators: schedule slug.
+#: inc/FormProvider.php:116
+msgid "Edit \"%s\" schedule"
+msgstr "Edycja harmonogramu \"%s\""
+
+#: inc/FormProvider.php:97
+msgid "Add schedule"
+msgstr "Dodaj harmonogram"
+
+#: inc/FormProvider.php:97
+msgid "New schedule"
+msgstr "Nowy harmonogram"
+
+#. Translators: schedule slug.
+#: inc/Cron/SchedulesLibrary.php:204
+msgid "Schedule with slug \"%s\" cannot be removed because it doesn't exists"
+msgstr "Harmonogram o uproszczonej nazwie \"%s\" nie mógł zostać usunięty, ponieważ nie istnieje"
+
+#. Translators: schedule slug.
+#: inc/Cron/SchedulesLibrary.php:168
+msgid "Schedule \"%s\" is protected and you cannot edit it"
+msgstr "Harmonogram \"%s\" jest zabezpieczony i nie możesz do edytować"
+
+#. Translators: schedule slug.
+#: inc/Cron/SchedulesLibrary.php:163
+msgid "Schedule with slug \"%s\" doesn't exists"
+msgstr "Harmonogram o uproszczonej nazwie \"%s\" nie istnieje"
+
+#. Translators: schedule slug.
+#: inc/Cron/SchedulesLibrary.php:156
+msgid "Schedule with slug \"%s\" already exists"
+msgstr "Harmonogram o uproszczonej nazwie \"%s\" już istnieje"
+
+#: inc/Cron/SchedulesLibrary.php:151
+msgid "Interval cannot be shorter than 1 second"
+msgstr "Interwał nie może być krótszy niż 1 sekunda"
+
+#: inc/Cron/SchedulesLibrary.php:147
+msgid "Please, provide a slug for your Schedule"
+msgstr "Podaj uproszczoną nazwę dla Twojego harmonogramu"
+
+#: inc/Cron/SchedulesLibrary.php:143
+msgid "Please, provide a name for your Schedule"
+msgstr "Podaj nazwę swojego harmonogramu"
+
+#. Translators: schedule slug.
+#: inc/Cron/SchedulesActions.php:140
+msgid "Schedule \"%s\" has been removed"
+msgstr "Harmonogram \"%s\" został usunięty"
+
+#. Translators: schedule slug.
+#: inc/Cron/SchedulesActions.php:107
+msgid "Schedule \"%s\" has been edited"
+msgstr "Harmonogram \"%s\" został zapisany"
+
+#. Translators: schedule slug.
+#: inc/Cron/SchedulesActions.php:74
+msgid "Schedule \"%s\" has been added"
+msgstr "Harmonogram \"%s\" został dodany"
+
+#: inc/Cron/Schedules.php:106
+msgid "Single event"
+msgstr "Pojedyncze wydarzenie"
+
+#: inc/Cron/EventsLibrary.php:202
+msgid "Event not found and cannot be unpaused"
+msgstr "Zadanie nie zostało znalezione i nie może być odpauzowane"
+
+#: inc/Cron/EventsLibrary.php:164
+msgid "Event not found and cannot be paused"
+msgstr "Zadanie nie zostało znalezione i nie może być zapauzowane"
+
+#: inc/Cron/EventsLibrary.php:133
+msgid "Event not found and cannot be unscheduled"
+msgstr "Zadanie nie zostało znalezione i nie może być usunięte"
+
+#. Translators: schedule slug.
+#: inc/Cron/EventsLibrary.php:94
+msgid "Schedule \"%s\" cannot be found"
+msgstr "Zadanie \"%s\" nie zostało znalezione"
+
+#: inc/Cron/EventsLibrary.php:87
+msgid "Please, provide a hook for your Event"
+msgstr "Podaj nazwę akcji dla swojego zadania"
+
+#. Translators: event hook.
+#: inc/Cron/EventsActions.php:249
+msgid "Event \"%s\" has been unpaused"
+msgstr "Zadanie \"%s\" zostało odpauzowane"
+
+#. Translators: event hook.
+#: inc/Cron/EventsActions.php:216
+msgid "Event \"%s\" has been paused"
+msgstr "Zadanie \"%s\" zostało zapauzowane"
+
+#. Translators: event hook.
+#: inc/Cron/EventsActions.php:183
+msgid "Event \"%s\" has been removed"
+msgstr "Zadanie \"%s\" zostało usunięte"
+
+#. Translators: event hook.
+#: inc/Cron/EventsActions.php:176
+msgid "Event \"%s\" is protected and you cannot remove it"
+msgstr "Zadanie \"%s\" jest zabezpieczone i nie możesz go usunąć"
+
+#. Translators: event hook.
+#: inc/Cron/EventsActions.php:149
+msgid "Event \"%s\" has been executed"
+msgstr "Zadanie \"%s\" zostało wykonane"
+
+#. Translators: event hook name, # of args, schedule name.
+#: inc/Cron/EventsActions.php:106
+msgid "Event \"%1$s\" with %2$d argument has been scheduled (%3$s)"
+msgid_plural "Event \"%1$s\" with %2$d arguments has been scheduled (%3$s)"
+msgstr[0] "Zadanie \"%1$s\" z %2$d argumentem zostało zaplanowane (%3$s)"
+msgstr[1] "Zadanie \"%1$s\" z %2$d argumentami zostało zaplanowane (%3$s)"
+msgstr[2] "Zadanie \"%1$s\" z %2$dargumentami zostało zaplanowane (%3$s)"
+
+#: inc/AdminScreen.php:74
+msgid "Implementation"
+msgstr "Implementacja"
+
+#: inc/AdminScreen.php:73 views/forms/event/add.php:26
+#: views/parts/events/header-row.php:14
+msgid "Schedule"
+msgstr "Harmonogram"
+
+#: inc/AdminScreen.php:72 views/forms/event/add.php:40
+#: views/parts/events/header-row.php:15
+msgid "Arguments"
+msgstr "Argumenty"
+
+#: inc/AdminScreen.php:71
+msgid "Logs"
+msgstr "Dziennik zdarzeń"
+
+#. Plugin Name of the plugin
+#: advanced-cron-manager.php:22 inc/ScreenRegisterer.php:47
+msgid "Advanced Cron Manager"
+msgstr "Advanced Cron Manager"
